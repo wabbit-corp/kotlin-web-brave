@@ -1,0 +1,557 @@
+{
+  "query": {
+    "original": "Clearsense",
+    "show_strict_warning": false,
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=1h35NES52KI",
+        "title": "Clearsense 20/20 Demo - YouTube",
+        "description": "Meet the next-generation advanced healthcare analytics and AI platform built for everyday users: domain experts, analysts, clinicians, or researchers.",
+        "age": "March 16, 2023",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ba9cHVmsSNR_EZP6n8f-CU_4iazGR2c-fe2RdvGABgE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS8x/aDM1TkVTNTJLSS9t/YXhyZXNkZWZhdWx0/LmpwZz9zcXA9LW9h/eW13RW1DSUFLRU5B/RjhxdUtxUU1hOEFF/Qi1BSC1DWUFDMEFX/S0Fnd0lBQkFCR0JN/Z09DaF9NQTg9JmFt/cDtycz1BT240Q0xD/U3J3QnVHV2RLSzlU/M1dkWHpVclhOUkJQ/NnJR"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=mUR-RtOK3yc",
+        "title": "Clearsense Discover Demo - YouTube",
+        "description": "Meet the most powerful cohort discovery platform specifically developed to handle the nuancesof healthcare data and research,",
+        "age": "March 16, 2023",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wgNf_mtDhs9UCvzHLj4QZ42CjDDEImzvbL_4Nm29n1g/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9t/VVItUnRPSzN5Yy9t/YXhyZXNkZWZhdWx0/LmpwZz9zcXA9LW9h/eW13RW1DSUFLRU5B/RjhxdUtxUU1hOEFF/Qi1BSC1DWUFDMEFX/S0Fnd0lBQkFCR0JN/Z055aF9NQTg9JmFt/cDtycz1BT240Q0xC/VTlkQlNxbXE3NWlM/TlJITGNXRzFqWnBP/MFFR"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://clearsense.com/insights/videos/finding-value-in-data-by-enterprise-application-rationalization/",
+        "title": "ViVE 2022 Tech Talk - Finding Value in Data by Enterprise Application ...",
+        "description": "Watch this ViVE '22 Tech Talk on how a Clearsense + Leidos client saved $23M+ in 18 months using enterprise application rationalization.",
+        "age": "April 12, 2022",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "clearsense.com",
+          "hostname": "clearsense.com",
+          "favicon": "https://imgs.search.brave.com/uUMA9tYhcY-RzB7NuGA9p8G1cKujh20Id5iPxBQBsbY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNThiZGNjNTRh/ODdlMGQ2YThiMzM2/OTExMDlhMjBlZWZh/MWMzOTRjMzM3YTk0/MmEwYzU2ZTdlOThm/YWY1NzU4YS9jbGVh/cnNlbnNlLmNvbS8",
+          "path": "› insights  › videos  › finding-value-in-data-by-enterprise-application-rationalization"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vBTaXKRSlowAE1lifosBlgxQ4vQJGKb5QsG5QBZpnDY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jbGVh/cnNlbnNlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8w/NC9DbGVhcnNlbnNl/LVRlY2hUYWxrLUFw/cGxpY2F0aW9uUmF0/aW9uYWxpemF0aW9u/X1NvY2lhbC1TaGFy/ZS5wbmc"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=ne2NqkMQUAQ",
+        "title": "Diyotta Customer Testimonial - Clearsense - YouTube",
+        "description": "Clearsense CIO, Charles Boicey discusses the benefits of Diyotta on Clearsense's platform.",
+        "age": "March 30, 2020",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/UssVa-D8pY0H4spI4YGcjBGU5aajl2cjerR_M6BaAjw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9u/ZTJOcWtNUVVBUS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=MlG9dORm11w",
+        "title": "Customer Success with Io-Tahoe | Clearsense - YouTube",
+        "description": "Clearsense chooses Io-Tahoe's Smart Data Discovery to navigate healthcare data challenges. Hear their story!“Healthcare leaders need solutions to help naviga...",
+        "age": "September 3, 2019",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/yi-ND54B4RSk7r__8hESphdHsoJybMRa38FDiXHKkrk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9N/bEc5ZE9SbTExdy9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Healthcare Analytics & Data Management Solutions | Clearsense",
+        "url": "https://clearsense.com/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Clearsense</strong> is powering the innovation of tomorrow with cloud-based, AI-enabled, healthcare analytics &amp; data management solutions",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "clearsense.com",
+          "hostname": "clearsense.com",
+          "favicon": "https://imgs.search.brave.com/uUMA9tYhcY-RzB7NuGA9p8G1cKujh20Id5iPxBQBsbY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNThiZGNjNTRh/ODdlMGQ2YThiMzM2/OTExMDlhMjBlZWZh/MWMzOTRjMzM3YTk0/MmEwYzU2ZTdlOThm/YWY1NzU4YS9jbGVh/cnNlbnNlLmNvbS8",
+          "path": ""
+        },
+        "age": "June 16, 2022"
+      },
+      {
+        "title": "Clearsense | LinkedIn",
+        "url": "https://www.linkedin.com/company/clearsense",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Clearsense</strong> | 8,116 followers on LinkedIn. Trusted Data. Infinite Outcomes. | Committed to leading transformation in healthcare, <strong>Clearsense</strong>® creates a data journey, all the way from a number to key insight. Cloud-based, AI-enabled, and HITRUST-certified, the platform of data solutions ensure ...",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "linkedin.com",
+          "hostname": "www.linkedin.com",
+          "favicon": "https://imgs.search.brave.com/TQTym5qzpizZ5GHIgpHu6-RTEchhOps_4v-FWSI8ZIE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw",
+          "path": "› company  › clearsense"
+        },
+        "age": "March 3, 2023"
+      },
+      {
+        "title": "Clearsense - Crunchbase Company Profile & Funding",
+        "url": "https://www.crunchbase.com/organization/clearsense",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Clearsense</strong> is a software company that provides healthcare analytics and data management solutions for patients and organizations.",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "crunchbase.com",
+          "hostname": "www.crunchbase.com",
+          "favicon": "https://imgs.search.brave.com/2vTsih_JUSJJbjsE1mXetwzvycYM6FN7ge0u6DGowc4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+          "path": "› organization  › clearsense"
+        },
+        "age": "February 3, 2023"
+      },
+      {
+        "title": "Clearsense | Customer Success | Cloudera",
+        "url": "https://www.cloudera.com/about/customers/clearsense.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Clearsense</strong> is a smart data organization based in Jacksonville, Florida that is re-imagining and simplifying data analytics to help healthcare organizations realize measurable value from their data.",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cloudera.com",
+          "hostname": "www.cloudera.com",
+          "favicon": "https://imgs.search.brave.com/uxcEqkf041g1iFaLUfELc6MHxVRdzGXls7XeH-vAEP4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDU3NDRjNDFh/OTI1MzQ2NDlmMzdi/YTMyMzE3YjUyNzE2/ZDBlNGQwZDg0MTlj/MDQxNTUyYzJkNWQ3/NjcwMDkzMC93d3cu/Y2xvdWRlcmEuY29t/Lw",
+          "path": "› about  › customers  › clearsense.html"
+        }
+      },
+      {
+        "title": "Clearsense (@ClearsenseLLC) / X",
+        "url": "https://twitter.com/clearsensellc",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "JavaScript is not available · We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center · Help Center · Terms of Service Privacy Policy ...",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "twitter.com",
+          "hostname": "twitter.com",
+          "favicon": "https://imgs.search.brave.com/Zq483bGX0GnSgym-1P7iyOyEDX3PkDZSNT8m56F862A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8",
+          "path": "› clearsensellc"
+        }
+      },
+      {
+        "title": "Clearsense Company Profile: Valuation & Investors | PitchBook",
+        "url": "https://pitchbook.com/profiles/company/140253-85",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Information on valuation, funding, cap tables, investors, and executives for <strong>Clearsense</strong>. Use the PitchBook Platform to explore the full profile.",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pitchbook.com",
+          "hostname": "pitchbook.com",
+          "favicon": "https://imgs.search.brave.com/Xh_NR9Kv5RKHW-bDfHbBAzM54mMeZjK5TeoBnWjCJeQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw",
+          "path": "› profiles  › company  › 140253-85"
+        },
+        "age": "January 15, 2019"
+      },
+      {
+        "title": "Data analytics startup Clearsense scores $50M and more digital ...",
+        "url": "https://www.mobihealthnews.com/news/data-analytics-startup-clearsense-scores-50m-and-more-digital-health-fundings",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Respiratory health monitoring company Aluna raised $15.3 million, and virtual applied behavior analysis therapy provider AnswersNow scooped up $11 million.",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mobihealthnews.com",
+          "hostname": "www.mobihealthnews.com",
+          "favicon": "https://imgs.search.brave.com/I9JGujUCB5jhU5eFCroiiMaZqoS4gWGbzIZKWAdA5Tc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDE3MTExYjk3/Mzg2YTUwNWUwYTgx/NzkzNzQxZjMxZjcy/OWRiYTMzNDQ5ZDY2/ZDM2M2I5NTgwNjU2/NTBkMmIyMC93d3cu/bW9iaWhlYWx0aG5l/d3MuY29tLw",
+          "path": "› news  › data-analytics-startup-clearsense-scores-50m-and-more-digital-health-fundings"
+        },
+        "age": "March 2, 2023"
+      },
+      {
+        "title": "Clearsense - Products, Competitors, Financials, Employees, ...",
+        "url": "https://www.cbinsights.com/company/clearsense-llc",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Clearsense</strong> offers a data management platform that ingests, aggregates, and manages data allowing users to consume and use data to make informed decisions. Use the CB Insights Platform to explore <strong>Clearsense</strong>&#x27;s full profile.",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cbinsights.com",
+          "hostname": "www.cbinsights.com",
+          "favicon": "https://imgs.search.brave.com/3DgnzBIv4iEfEu7hECIGilU3TJstIYlXjHqK-ydwEMs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDg1MGQxZmI2/ZDFkNWI3OTEwNmI1/M2VjMTM1MjNjN2Ji/ZjM4NWVlYWY1NzNm/NjQ4ZTBhNjVmMzYx/ZjVhMDM3OS93d3cu/Y2JpbnNpZ2h0cy5j/b20v",
+          "path": "› company  › clearsense-llc"
+        }
+      },
+      {
+        "title": "Clearsense",
+        "url": "https://www.youtube.com/c/ClearsenseLLC",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Committed to leading transformation in healthcare, <strong>Clearsense</strong>® creates a data journey, all the way from a number to key insight. Cloud-based, AI-enabled, and HITRUST-certified, the platform of data solutions ensure data governance, implementation, and analytics are rapidly mainstreamed while ...",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› c  › ClearsenseLLC"
+        }
+      },
+      {
+        "title": "About Us | Clearsense",
+        "url": "https://clearsense.com/about-clearsense/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "One Platform. One Partner. <strong>Clearsense</strong> is leading the transformation in Healthcare with an end-to-end data management platform.",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "clearsense.com",
+          "hostname": "clearsense.com",
+          "favicon": "https://imgs.search.brave.com/uUMA9tYhcY-RzB7NuGA9p8G1cKujh20Id5iPxBQBsbY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNThiZGNjNTRh/ODdlMGQ2YThiMzM2/OTExMDlhMjBlZWZh/MWMzOTRjMzM3YTk0/MmEwYzU2ZTdlOThm/YWY1NzU4YS9jbGVh/cnNlbnNlLmNvbS8",
+          "path": "› about-clearsense"
+        },
+        "age": "November 14, 2021"
+      },
+      {
+        "title": "Working at Clearsense | Glassdoor",
+        "url": "https://www.glassdoor.com/Overview/Working-at-Clearsense-EI_IE1755859.11,21.htm",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "See what employees say it&#x27;s like to work at <strong>Clearsense</strong>. Salaries, reviews, and more - all posted by employees working at <strong>Clearsense</strong>.",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "glassdoor.com",
+          "hostname": "www.glassdoor.com",
+          "favicon": "https://imgs.search.brave.com/wypp7fnKljuRjJzHhuKQDh7G8-qaIeEPyy_VQ-BJTUA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmRiYjJiOTdj/ZjM3Yjg1MDkxMzUx/NWU5OTMzZTc4MDNh/YWY3NTIzNTNjYTZh/NjFiNTQ3NjhjYzBh/NDhmNTRhMy93d3cu/Z2xhc3Nkb29yLmNv/bS8",
+          "path": "› Overview  › Working-at-Clearsense-EI_IE1755859.11,21.htm"
+        },
+        "age": "August 24, 2021"
+      },
+      {
+        "title": "Clearsense Announces Success of $50M Capital Raise",
+        "url": "https://www.globenewswire.com/news-release/2023/01/31/2598621/0/en/Clearsense-Announces-Success-of-50M-Capital-Raise.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Healthcare analytics firm secures Series D financing to invest in continued growth...",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "globenewswire.com",
+          "hostname": "www.globenewswire.com",
+          "favicon": "https://imgs.search.brave.com/0sz0fcoXw8vrmndybY_cWCYlJ83lVlRF0E5KZmC3tQs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTc3MWY1MDIx/YjZlYjcyODEyZDBl/MzZiYTYzNjUzOGNi/MDIxMWEzNmMwMzdm/MWQ3MjQyNDE3NGU3/MmFhMTRhNS93d3cu/Z2xvYmVuZXdzd2ly/ZS5jb20v",
+          "path": "› news-release  › 2023  › 01  › 31  › 2598621  › 0  › en  › Clearsense-Announces-Success-of-50M-Capital-Raise.html"
+        },
+        "age": "February 1, 2023"
+      },
+      {
+        "title": "Clearsense teams with UPMC to help unlock unstructured data | ...",
+        "url": "https://www.healthcareitnews.com/news/clearsense-teams-upmc-help-unlock-unstructured-data",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Working with the Pittsburgh health system&#x27;s VC and innovation arm, the company aims to build out its data management platform, enabling a more streamlined process for clients to access unstructured clinical notes.",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthcareitnews.com",
+          "hostname": "www.healthcareitnews.com",
+          "favicon": "https://imgs.search.brave.com/ACye1fJ8DLpmKxMdt_2mC-ZugbqeDrG3HWkNqASx7dE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI3ZGU2OGE0/YWEyYTBhNzQ3NGNk/ODZjMWIxY2NiMmUz/MmE4YzE4YmEyNjhl/NjA4YmNmN2VkOTNi/NGRmZTY3YS93d3cu/aGVhbHRoY2FyZWl0/bmV3cy5jb20v",
+          "path": "› news  › clearsense-teams-upmc-help-unlock-unstructured-data"
+        },
+        "age": "September 28, 2022"
+      },
+      {
+        "title": "Clearsense - Facebook",
+        "url": "https://www.facebook.com/clearsenseinc/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "See posts, photos and more on Facebook",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "facebook.com",
+          "hostname": "www.facebook.com",
+          "favicon": "https://imgs.search.brave.com/dayBEAKYlZqlTVEWI-S_UZ67vOFXcvlKHmgNBEsYPjw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw",
+          "path": "› clearsenseinc"
+        }
+      },
+      {
+        "title": "CLEARSENSE PARTNERS WITH UPMC TO HARNESS DATA FOR BETTER PATIENT CARE",
+        "url": "https://www.prnewswire.com/news-releases/clearsense-partners-with-upmc-to-harness-data-for-better-patient-care-301634627.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "/PRNewswire/ -- <strong>Clearsense</strong>®, a technology company that partners with health care organizations to drive more value from their data, announced a new partnership...",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "prnewswire.com",
+          "hostname": "www.prnewswire.com",
+          "favicon": "https://imgs.search.brave.com/ktVOvBv_Dy2WgYGxroUrwLVhXu-wgRctywE_7GUb1qk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJlMGNkOTM5/MzliMWNkNWM0YzZj/Y2IyN2U4ZWU2YTUw/YTljMzFjYjkwZmFj/MjU2MWM0OTA3MDFi/NmIxYTk2Yi93d3cu/cHJuZXdzd2lyZS5j/b20v",
+          "path": "› news-releases  › clearsense-partners-with-upmc-to-harness-data-for-better-patient-care-301634627.html"
+        },
+        "age": "September 28, 2022"
+      },
+      {
+        "title": "Clearsense | Cohesity",
+        "url": "https://www.cohesity.com/customers/clearsense/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Clearsense</strong> sought a better data management solution. Learn what key benefits <strong>Clearsense</strong> enjoyed after deploying Cohesity.",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cohesity.com",
+          "hostname": "www.cohesity.com",
+          "favicon": "https://imgs.search.brave.com/ERLbsvVP5EQRtHKn05zpAT3f_CFFNj51v6OTZzBloa4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzZiYTEzY2E2/N2U5MjU1ZWQwMjM0/ZGMwMDE4YzRiYzA5/MmE3MThmN2QxZGNi/NDNmYmRiNTY3NjIz/M2Q5YmMzNC93d3cu/Y29oZXNpdHkuY29t/Lw",
+          "path": "› customers  › clearsense"
+        },
+        "age": "November 3, 2020"
+      },
+      {
+        "title": "CLEARSENSE AND LEIDOS WORK TOGETHER TO TRANSFORM HEALTHCARE DATA",
+        "url": "https://www.prnewswire.com/news-releases/clearsense-and-leidos-work-together-to-transform-healthcare-data-301497080.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "/PRNewswire/ -- <strong>Clearsense</strong>®, a technology company that helps healthcare organizations realize measurable value from their data, announced that their firm has...",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "prnewswire.com",
+          "hostname": "www.prnewswire.com",
+          "favicon": "https://imgs.search.brave.com/ktVOvBv_Dy2WgYGxroUrwLVhXu-wgRctywE_7GUb1qk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJlMGNkOTM5/MzliMWNkNWM0YzZj/Y2IyN2U4ZWU2YTUw/YTljMzFjYjkwZmFj/MjU2MWM0OTA3MDFi/NmIxYTk2Yi93d3cu/cHJuZXdzd2lyZS5j/b20v",
+          "path": "› news-releases  › clearsense-and-leidos-work-together-to-transform-healthcare-data-301497080.html"
+        },
+        "age": "March 8, 2022"
+      },
+      {
+        "title": "Clearsense - Overview, News & Competitors | ZoomInfo.com",
+        "url": "https://www.zoominfo.com/c/clearsense-llc/368662685",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "View <strong>Clearsense</strong> (www.<strong>clearsense</strong>.com) location in Florida, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "zoominfo.com",
+          "hostname": "www.zoominfo.com",
+          "favicon": "https://imgs.search.brave.com/T3VteBNEs5noTMYso_K-QwS6jn5C_DGRzIdN2na2GyU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+          "path": "› c  › clearsense-llc  › 368662685"
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

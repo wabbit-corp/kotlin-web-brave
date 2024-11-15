@@ -1,0 +1,976 @@
+{
+  "query": {
+    "original": "Relaxing music playlist",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "local_decision": "drop",
+    "local_locations_idx": 0,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=TCflHmxQ9YU",
+        "title": "Relaxing Chill Out & Lounge Music 2021 🌴 Wonderful Ambient ...",
+        "description": "Relaxing Chill Out & Lounge Music 2021 🌴 Wonderful Ambient Chillout music Mix - Long Playlist. Enjoy Calm music for Relax, Study, Read, Spa, Sleeping Music...",
+        "age": "April 25, 2021",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6_7IZ0mjkfLmXWOIP8RSsKXPg-EFKtb5ZChHVX3afys/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9U/Q2ZsSG14UTlZVS9t/YXhyZXNkZWZhdWx0/LmpwZz9zcXA9LW9h/eW13RW1DSUFLRU5B/RjhxdUtxUU1hOEFF/Qi1BSC1DWUFDMEFX/S0Fnd0lBQkFCR0hJ/Z1J5aEpNQTg9JmFt/cDtycz1BT240Q0xC/WUZHY000RXU3b1Yy/R2EzeWk3d1RVZmpi/YmdB"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=LaHdbRjJvuQ",
+        "title": "THE MOST CHILLOUT LOUNGE RELAXING MUSIC - Background Music for ...",
+        "description": "THE MOST CHILLOUT LOUNGE RELAXING MUSIC - Background Music for Calm Long Playlist (3 HOURS No Loops). It is an excellent for Relaxation, Concentration and Ba...",
+        "age": "November 2, 2020",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/hBTJiRNYmIqweEvNmnzBwZcJi9qg_EATPuJsfoBOY00/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9M/YUhkYlJqSnZ1US9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=JfTrNF2pBLQ",
+        "title": "Light Relaxing Music - Calm Music, ambient, healing and reading ...",
+        "description": "3 hours of Light relaxing music: This mixtape can work well as calm music for focus, reading, studying, healing and in your relax music playlist. The music m...",
+        "age": "May 7, 2019",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/f3mgLThqSMGmFAws7fQypDCj3bqMTMxwFKSrW1jCYHk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9K/ZlRyTkYycEJMUS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=5FP5SwOLeb0",
+        "title": "3 HOURS of Long Playlist of Relaxing Soft Piano Music to Sleep ...",
+        "description": "Enjoy this 3 hours of relax with this wondeful instrumental piano music composition and relax you mind...Music playlist:1 - Palmeras en la nieve2 - Bravehear...",
+        "age": "May 1, 2016",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ta8vFXBxo8HyLzdJo8tDMwMxu0MmY2TtnzAxupnp0Rw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS81/RlA1U3dPTGViMC9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Relaxing Covers - Cool Music - YouTube",
+        "url": "https://www.youtube.com/watch?v=pvpHTLCaOcg",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Relaxing</strong> Covers - Cool <strong>Music</strong> - <strong>Playlist</strong>:00:00 Everywhere - Eve St. Jones03:02 Good For You - Style Project06:42 Attention - Klub Rider And Marvin09:34 Glory ...",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=pvpHTLCaOcg",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "  › pmb music"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mts6Fq20W57UVACLG5h9gpB-JhCmv8VQE_ECtFG0g4Y/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9w/dnBIVExDYU9jZy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/pvpHTLCaOcg/maxresdefault.jpg",
+          "logo": false
+        },
+        "age": "June 14, 2020",
+        "video": {
+          "duration": "02:25:28",
+          "views": "1M",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/mts6Fq20W57UVACLG5h9gpB-JhCmv8VQE_ECtFG0g4Y/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9w/dnBIVExDYU9jZy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+            "original": "https://i.ytimg.com/vi/pvpHTLCaOcg/maxresdefault.jpg"
+          }
+        }
+      },
+      {
+        "title": "100 Most Relaxing Songs - playlist by Topsify | Spotify",
+        "url": "https://open.spotify.com/playlist/6EIVswdPfoE9Wac7tB6FNg",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "100 Most <strong>Relaxing</strong> Songs · <strong>Playlist</strong> · 100 songs · 9.5K likes",
+        "profile": {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/playlist/6EIVswdPfoE9Wac7tB6FNg",
+          "long_name": "open.spotify.com",
+          "img": "https://imgs.search.brave.com/WHOwdur76otS2SiFY6oLQKilXu1j5thjPTB0lyHTgWU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDExZTQ1OTU0/NTllYzVjMzBiOTcy/N2Y2NTkzYzEyM2Nm/ZDY5ZTIxZGUyZmEz/ZGEzYzY5ZmE4ZTcw/M2ZjMWViYS9vcGVu/LnNwb3RpZnkuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "open.spotify.com",
+          "hostname": "open.spotify.com",
+          "favicon": "https://imgs.search.brave.com/WHOwdur76otS2SiFY6oLQKilXu1j5thjPTB0lyHTgWU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDExZTQ1OTU0/NTllYzVjMzBiOTcy/N2Y2NTkzYzEyM2Nm/ZDY5ZTIxZGUyZmEz/ZGEzYzY5ZmE4ZTcw/M2ZjMWViYS9vcGVu/LnNwb3RpZnkuY29t/Lw",
+          "path": "› playlist  › 6EIVswdPfoE9Wac7tB6FNg"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ctDBnpu-tpd_zuFvZmdrJEHWYZHuUaBzPMHvoybY4Fw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnNj/ZG4uY28vaW1hZ2Uv/YWI2NzcwNmMwMDAw/ZGE4NGQ5NWNmZjRi/MTlhZDRjZDg2Yzk2/MjgwYQ",
+          "original": "https://i.scdn.co/image/ab67706c0000da84d95cff4b19ad4cd86c96280a",
+          "logo": false
+        },
+        "age": "January 22, 2021"
+      },
+      {
+        "title": "These 14 Calming Playlists On Spotify Will Help You To Relax",
+        "url": "https://www.buzzfeed.com/amandaeedelman/the-most-calming-playlists-on-spotify",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "If you need a background <strong>playlist</strong> for studying or a sleep accompaniment, these soft-feels <strong>playlists</strong> are sure to add an air of calm to any environment. <strong>Relaxing</strong> times ahead! (And PS — Clairo and Harry Styles pop up a bunch.)",
+        "profile": {
+          "name": "Buzzfeed",
+          "url": "https://www.buzzfeed.com/amandaeedelman/the-most-calming-playlists-on-spotify",
+          "long_name": "buzzfeed.com",
+          "img": "https://imgs.search.brave.com/OFyoR3k8ELhULstwYvj3McG3w-HfvBM_cSGZZwGqKR8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQ0YjcxZmJj/OTg4Zjg1YWRmYmU5/NDI3ZWZhNzM5NDNl/ZDFmMjdmMTI0OWM1/ZjRkYWFiOWI4YTRh/ZWUwMGRiNS93d3cu/YnV6emZlZWQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "buzzfeed.com",
+          "hostname": "www.buzzfeed.com",
+          "favicon": "https://imgs.search.brave.com/OFyoR3k8ELhULstwYvj3McG3w-HfvBM_cSGZZwGqKR8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQ0YjcxZmJj/OTg4Zjg1YWRmYmU5/NDI3ZWZhNzM5NDNl/ZDFmMjdmMTI0OWM1/ZjRkYWFiOWI4YTRh/ZWUwMGRiNS93d3cu/YnV6emZlZWQuY29t/Lw",
+          "path": "› amandaeedelman  › the-most-calming-playlists-on-spotify"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/H964AKu32mb8xIz9i-1gHv7QBVMJoCfVUqRxrPul_1E/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWcu/YnV6emZlZWQuY29t/L2J1enpmZWVkLXN0/YXRpYy9zdGF0aWMv/MjAyMS0wNy8xMy8x/OC9jYW1wYWlnbl9p/bWFnZXMvMTMzMjEy/ZDcwYzY2L3RoZXNl/LTE0LWNhbG1pbmct/cGxheWxpc3RzLW9u/LXNwb3RpZnktd2ls/bC1oZWxwLXktMi05/Mjk2LTE2MjYyMDA1/ODQtMjVfZGJsYmln/LmpwZz9yZXNpemU9/MTIwMDoq",
+          "original": "https://img.buzzfeed.com/buzzfeed-static/static/2021-07/13/18/campaign_images/133212d70c66/these-14-calming-playlists-on-spotify-will-help-y-2-9296-1626200584-25_dblbig.jpg?resize=1200:*",
+          "logo": false
+        },
+        "age": "June 26, 2021",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Amanda Edelman",
+              "url": "https://www.buzzfeed.com/amandaeedelman"
+            }
+          ],
+          "date": "Jun 25, 2021",
+          "publisher": {
+            "type": "organization",
+            "name": "BuzzFeed",
+            "url": "https://www.buzzfeed.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/YKBxSEBZbINKFx_ycmWzQsYYcXM22AP8HXTGH9xATDk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWcu/YnV6emZlZWQuY29t/L2J1enpmZWVkLXN0/YXRpYy9zdGF0aWMv/aW1hZ2VzL2FtcC9i/dXp6ZmVlZC02MHB4/LWhpZ2gucG5n",
+              "original": "https://img.buzzfeed.com/buzzfeed-static/static/images/amp/buzzfeed-60px-high.png"
+            }
+          },
+          "isAccessibleForFree": true
+        }
+      },
+      {
+        "title": "6 of the Best Calming Playlists We’re Listening to Right Now",
+        "url": "https://www.allure.com/story/best-calming-playlists",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Calming <strong>music</strong> <strong>playlists</strong> can really help when anxiety from COVID-19 self-isolation stress is becoming a problem. Check out our favorites for working, sleeping, and unwinding.",
+        "profile": {
+          "name": "Allure",
+          "url": "https://www.allure.com/story/best-calming-playlists",
+          "long_name": "allure.com",
+          "img": "https://imgs.search.brave.com/EOcUBnYxfRzCL7jTKEQ_42kuG6hizEBBCtJvcIdlhks/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWUwODgyYTU0/MmQwOWY5ODM5NTVm/NzEwNjIyY2JhODBk/ZDQ4M2I3M2RmNTU4/NDM4MzYzZmQxMGFm/YWQzOTkyNC93d3cu/YWxsdXJlLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "allure.com",
+          "hostname": "www.allure.com",
+          "favicon": "https://imgs.search.brave.com/EOcUBnYxfRzCL7jTKEQ_42kuG6hizEBBCtJvcIdlhks/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWUwODgyYTU0/MmQwOWY5ODM5NTVm/NzEwNjIyY2JhODBk/ZDQ4M2I3M2RmNTU4/NDM4MzYzZmQxMGFm/YWQzOTkyNC93d3cu/YWxsdXJlLmNvbS8",
+          "path": "  › wellness  › music  › 6 calming playlists to help you through your covid-19 anxiety"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/KasRcSiEWoJXf2O9TXtTOTsfh0N3KzlM7JJUPBrxeWo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS5hbGx1cmUuY29t/L3Bob3Rvcy81ZTk1/Y2I2MzExMTQ3YTAw/MDgyMGViODMvMTY6/OS93XzI5OTEsaF8x/NjgyLGNfbGltaXQv/cGxheWxpc3RzLmpw/Zw",
+          "original": "https://media.allure.com/photos/5e95cb6311147a000820eb83/16:9/w_2991,h_1682,c_limit/playlists.jpg",
+          "logo": false
+        },
+        "age": "April 15, 2020",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Sophie Saint Thomas",
+              "url": "https://www.allure.com/contributor/sophie-saint-thomas"
+            }
+          ],
+          "date": "Apr 15, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "Allure",
+            "url": "https://www.allure.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/Ny4-z0L_M37Fe5wPSm5GHtufr81Ny_-7tQvH_ihNoJg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YWxsdXJlLmNvbS92/ZXJzby9zdGF0aWMv/YWxsdXJlL2Fzc2V0/cy9sb2dvLXNlby5w/bmc",
+              "original": "https://www.allure.com/verso/static/allure/assets/logo-seo.png"
+            }
+          },
+          "isAccessibleForFree": true
+        }
+      },
+      {
+        "title": "Relaxing Music Playlist: 25 Calming & Chill Songs | Billboard",
+        "url": "https://www.billboard.com/photos/7989244/relaxing-music-playlist-calming-chill-songs-edm-2017",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Here’s a <strong>relaxing</strong> <strong>music</strong> <strong>playlist</strong> of the most calming and chill songs, both new and old, that will help you chill and enter a peaceful and soothing state of mind.",
+        "profile": {
+          "name": "Billboard",
+          "url": "https://www.billboard.com/photos/7989244/relaxing-music-playlist-calming-chill-songs-edm-2017",
+          "long_name": "billboard.com",
+          "img": "https://imgs.search.brave.com/c0ahv0EPgCbsb316aWDRpbdJrZfQmLnaL-IXUWPbHNA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGYzOTIzNmE0/Zjc1ODI4NTEwM2M1/NzYxNzVkMTE3ODNj/NGFiN2Q0NTdhMjdm/YWFhMThiZmFlNjM1/NzU4MWE0NC93d3cu/YmlsbGJvYXJkLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "billboard.com",
+          "hostname": "www.billboard.com",
+          "favicon": "https://imgs.search.brave.com/c0ahv0EPgCbsb316aWDRpbdJrZfQmLnaL-IXUWPbHNA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGYzOTIzNmE0/Zjc1ODI4NTEwM2M1/NzYxNzVkMTE3ODNj/NGFiN2Q0NTdhMjdm/YWFhMThiZmFlNjM1/NzU4MWE0NC93d3cu/YmlsbGJvYXJkLmNv/bS8",
+          "path": "  › media  › photos"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/kTKnrKy9O8sCxEwlmLV9uxX5vmMnqHX_fLpnTVjI_fk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YmlsbGJvYXJkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvbWVk/aWEvZGFuY2UtY2hp/bGwtMjAxNy1iaWxs/Ym9hcmQtMTU0OC5q/cGc",
+          "original": "https://www.billboard.com/wp-content/uploads/media/dance-chill-2017-billboard-1548.jpg",
+          "logo": false
+        },
+        "age": "March 23, 2022",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "David Rishty",
+              "url": "https://www.billboard.com/author/david-rishty/"
+            }
+          ],
+          "date": "Mar 23, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Billboard",
+            "url": "https://www.billboard.com"
+          },
+          "isAccessibleForFree": true
+        }
+      },
+      {
+        "title": "‎100 Most Relaxing Songs by Topsify on Apple Music",
+        "url": "https://music.apple.com/us/playlist/100-most-relaxing-songs/pl.909ec3cfa99548db969a68172a958526",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Listen to 100 Most <strong>Relaxing</strong> Songs by Topsify on Apple <strong>Music</strong>. Stream songs including &quot;River&quot;, &quot;Asking for A Friend&quot; and more.",
+        "profile": {
+          "name": "Apple",
+          "url": "https://music.apple.com/us/playlist/100-most-relaxing-songs/pl.909ec3cfa99548db969a68172a958526",
+          "long_name": "music.apple.com",
+          "img": "https://imgs.search.brave.com/LiGjmdMD8TAJYHPKqMTOdvEMF6hkK_Ts57KXBcdqzw0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTNkNjhlY2Nk/MjdmYzU4MTc4OTg4/OTQ3NzIxMTVlMjQ1/ODMzZWQzZjY2ZWNk/OThjMDBmN2VjNzU3/NTRmYWVmZS9tdXNp/Yy5hcHBsZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "music.apple.com",
+          "hostname": "music.apple.com",
+          "favicon": "https://imgs.search.brave.com/LiGjmdMD8TAJYHPKqMTOdvEMF6hkK_Ts57KXBcdqzw0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTNkNjhlY2Nk/MjdmYzU4MTc4OTg4/OTQ3NzIxMTVlMjQ1/ODMzZWQzZjY2ZWNk/OThjMDBmN2VjNzU3/NTRmYWVmZS9tdXNp/Yy5hcHBsZS5jb20v",
+          "path": "› us  › playlist  › 100-most-relaxing-songs  › pl.909ec3cfa99548db969a68172a958526"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/R7yzSLsabuof_eofGFXLNZT8bek9JldcItJ98tm8TPs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pczEt/c3NsLm16c3RhdGlj/LmNvbS9pbWFnZS90/aHVtYi9TRy1TMy1V/Uy1TdGQtSW1hZ2Ut/MDAwMDAxL3Y0L2Zm/LzU5LzkwL2ZmNTk5/MDAwLTgyNjItZWY0/Yi03ZGJjLWQ1ZDM1/NjBhM2Q5OS9pbWFn/ZS8xMjAweDYzMHdw/LTYwLmpwZw",
+          "original": "https://is1-ssl.mzstatic.com/image/thumb/SG-S3-US-Std-Image-000001/v4/ff/59/90/ff599000-8262-ef4b-7dbc-d5d3560a3d99/image/1200x630wp-60.jpg",
+          "logo": false
+        },
+        "age": "February 20, 2020"
+      },
+      {
+        "title": "Amazon.com: Relaxing Music Playlist : Relaxing Music: Digital Music",
+        "url": "https://www.amazon.com/Relaxing-Music-Playlist/dp/B014RV1F9C",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Amazon.com: <strong>Relaxing</strong> <strong>Music</strong> <strong>Playlist</strong> : <strong>Relaxing</strong> <strong>Music</strong>: Digital <strong>Music</strong>",
+        "profile": {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Relaxing-Music-Playlist/dp/B014RV1F9C",
+          "long_name": "amazon.com",
+          "img": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "amazon.com",
+          "hostname": "www.amazon.com",
+          "favicon": "https://imgs.search.brave.com/FCUnESg6bR8ppf8M-Sfl_r-lrnXkf-3FBfrX0rcFabc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8",
+          "path": "› Relaxing-Music-Playlist  › dp  › B014RV1F9C"
+        }
+      },
+      {
+        "title": "The Most Relaxing Playlist in the World - playlist by Just Music ...",
+        "url": "https://open.spotify.com/playlist/6gCC8kozvUlLGTzl2YO2MR",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Most <strong>Relaxing</strong> <strong>Playlist</strong> in the World · <strong>Playlist</strong> · 86 songs · 8.4K likes",
+        "profile": {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/playlist/6gCC8kozvUlLGTzl2YO2MR",
+          "long_name": "open.spotify.com",
+          "img": "https://imgs.search.brave.com/WHOwdur76otS2SiFY6oLQKilXu1j5thjPTB0lyHTgWU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDExZTQ1OTU0/NTllYzVjMzBiOTcy/N2Y2NTkzYzEyM2Nm/ZDY5ZTIxZGUyZmEz/ZGEzYzY5ZmE4ZTcw/M2ZjMWViYS9vcGVu/LnNwb3RpZnkuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "open.spotify.com",
+          "hostname": "open.spotify.com",
+          "favicon": "https://imgs.search.brave.com/WHOwdur76otS2SiFY6oLQKilXu1j5thjPTB0lyHTgWU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDExZTQ1OTU0/NTllYzVjMzBiOTcy/N2Y2NTkzYzEyM2Nm/ZDY5ZTIxZGUyZmEz/ZGEzYzY5ZmE4ZTcw/M2ZjMWViYS9vcGVu/LnNwb3RpZnkuY29t/Lw",
+          "path": "› playlist  › 6gCC8kozvUlLGTzl2YO2MR"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/BB2l0QJEZ-XMNMBwV6ARk3UKS52O01DHgY8-nEvkoY0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnNj/ZG4uY28vaW1hZ2Uv/YWI2NzcwNmMwMDAw/ZGE4NDkwYTU4Nzlh/YjA1YjkyMmJkNGQ4/ZWZhMA",
+          "original": "https://i.scdn.co/image/ab67706c0000da8490a5879ab05b922bd4d8efa0",
+          "logo": false
+        }
+      },
+      {
+        "title": "Relaxing Music - Calming Songs",
+        "url": "https://www.oprah.com/entertainment/relaxing-music-calming-songs",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The song is considered by some ... most <strong>relaxing</strong>, in part because its gentle tempo of 60 beats per minute or less was found to have an effect more soothing than massage. Here are seven more songs to help you mellow out. &quot;Makambo,&quot; by Geoffrey Oryema &quot;By Your Side,&quot; by Sade &quot;Pachelbel Meets U2,&quot; by Jon Schmidt &quot;Shadows Fall,&quot; by Michael Hoppé &quot;Diamonds in the Sun,&quot; by Girish &quot;Méditation,&quot; from the opera Thaïs, Act II &quot;High and Dry,&quot; by Radiohead · Download the <strong>playlist</strong> on Spotify ...",
+        "profile": {
+          "name": "Oprah",
+          "url": "https://www.oprah.com/entertainment/relaxing-music-calming-songs",
+          "long_name": "oprah.com",
+          "img": "https://imgs.search.brave.com/yKNJD0Z3mW2RgwEusnDM6SZzZmJYO-wrvz56cTy23NI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTY2Y2MwOWNm/YWUwZWY3ZTIzODgx/ZTRkNTIxMDI2Zjcw/MjliYjViNmFjMDQ5/NDA1ZjY4NDYzNmIw/YzU4NWFmYy93d3cu/b3ByYWguY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "oprah.com",
+          "hostname": "www.oprah.com",
+          "favicon": "https://imgs.search.brave.com/yKNJD0Z3mW2RgwEusnDM6SZzZmJYO-wrvz56cTy23NI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTY2Y2MwOWNm/YWUwZWY3ZTIzODgx/ZTRkNTIxMDI2Zjcw/MjliYjViNmFjMDQ5/NDA1ZjY4NDYzNmIw/YzU4NWFmYy93d3cu/b3ByYWguY29tLw",
+          "path": "› entertainment  › relaxing-music-calming-songs"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/KL-xBbetK_ihmC9bah420M9uxkx2Up0h7RLM_zwlcOg/rs:fit:200:200:1/g:ce/aHR0cDovL3N0YXRp/Yy5vcHJhaC5jb20v/aW1hZ2VzL28yLzIw/MTMwMi1vbWFnLWNh/bG0tcGxheWxpc3Qt/OTQ5eDUzNC5qcGc",
+          "original": "http://static.oprah.com/images/o2/201302-omag-calm-playlist-949x534.jpg",
+          "logo": false
+        },
+        "age": "January 28, 2013",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "By Arianna Davis"
+            }
+          ],
+          "date": "Jan 28, 2013",
+          "publisher": {
+            "type": "organization",
+            "name": "Oprah.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/JIynEWfSw7br5ZRdotLS76e9RbDZ1awmwKiP2-6pOuU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMub3ByYWguY29t/LzIwMjAvMDkvb3By/YWgtY29tLWxvZ28t/dHJhbnMtMTUweDUw/LnBuZw",
+              "original": "https://static.oprah.com/2020/09/oprah-com-logo-trans-150x50.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The 10 Most Relaxing Songs in the World According to Science, Ranked",
+        "url": "https://studybreaks.com/culture/music/relaxing-songs/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Although meditation, yoga and taking ... to <strong>music</strong> is one of the easiest ways to get your dopamine flowing. You might have your own personal <strong>playlist</strong> to calm your nerves, but this one is scientifically-backed. A study conducted by neuroscientists from Mindlab International recorded participants’ physiological responses to specific songs while solving complex puzzles. Based on the results, the scientists came up with the 10 most <strong>relaxing</strong> ...",
+        "profile": {
+          "name": "Studybreaks",
+          "url": "https://studybreaks.com/culture/music/relaxing-songs/",
+          "long_name": "studybreaks.com",
+          "img": "https://imgs.search.brave.com/A3wHD90Nc1H3eIJJh4IP1w46jdujORtEbTy11akuVOY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI5ZGQ4ZWVj/MjQ1MTM1MzQyMzNm/OTE0NzMyNmRlYWRi/MGU5YzcwYWUxNTUz/ZjljODUxZTc5YjQx/MjE0YjllNC9zdHVk/eWJyZWFrcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "studybreaks.com",
+          "hostname": "studybreaks.com",
+          "favicon": "https://imgs.search.brave.com/A3wHD90Nc1H3eIJJh4IP1w46jdujORtEbTy11akuVOY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI5ZGQ4ZWVj/MjQ1MTM1MzQyMzNm/OTE0NzMyNmRlYWRi/MGU5YzcwYWUxNTUz/ZjljODUxZTc5YjQx/MjE0YjllNC9zdHVk/eWJyZWFrcy5jb20v",
+          "path": "  › home  › the 10 most relaxing songs in the world, according to science, ranked"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/-igvlkteUMWHD9w0UCgT978_CJ0cZ-W8Gweg9hdApJ4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdHVk/eWJyZWFrcy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MDYvUmVsYXhpbmct/TXVzaWMtMi0xMDAu/anBn",
+          "original": "https://studybreaks.com/wp-content/uploads/2018/06/Relaxing-Music-2-100.jpg",
+          "logo": false
+        },
+        "age": "July 7, 2018",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Caitlyn Conville, Bergen Community College",
+              "url": "https://studybreaks.com/author/caitlyn-conville-bergen-community-college/"
+            }
+          ],
+          "date": "Jun 07, 2018",
+          "publisher": {
+            "type": "organization",
+            "name": "Study Breaks",
+            "url": "https://studybreaks.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/bkpg-E1AT-r6KO7jO-94oOZtcRa1jQPzoIVdt0nldho/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4t/MC5zdHVkeWJyZWFr/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjMvMDkvU3R1/ZHktQnJlYWtzLUxv/Z28uanBn",
+              "original": "https://cdn-0.studybreaks.com/wp-content/uploads/2023/09/Study-Breaks-Logo.jpg"
+            }
+          }
+        }
+      },
+      {
+        "title": "Relaxing Meditation Music Playlist",
+        "url": "https://www.youtube.com/playlist?list=PLQkQfzsIUwRYVf5kuBVXJMkudY7TT6XUg",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Our <strong>Relaxing</strong> Meditation <strong>Music</strong> <strong>Playlist</strong> is ideal for both short and long meditations. This <strong>music</strong> will guide you into a state of deep meditation and peace.",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLQkQfzsIUwRYVf5kuBVXJMkudY7TT6XUg",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› playlist"
+        },
+        "age": "November 26, 2019"
+      },
+      {
+        "title": "Listen to the Classical Relax Stream | YourClassical",
+        "url": "https://www.yourclassical.org/listen/relax",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "YourClassical: A collection of curated streams, unique programs and <strong>playlists</strong> to promote calm and focus from American Public Media and Minnesota Public Radio",
+        "profile": {
+          "name": "Yourclassical",
+          "url": "https://www.yourclassical.org/listen/relax",
+          "long_name": "yourclassical.org",
+          "img": "https://imgs.search.brave.com/rPvl3hiMmW85NRD6AyQ_MxUprnFPHrCqDMEdsVoqMxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM0NjI2MTI5/NTkxNzMxN2VkYzQ3/N2ZmZGFlNWZlZDg4/Nzk4ZTc1Y2ZlYjlh/OGZhNmI4NjE4NDNk/NTYxMzMyNi93d3cu/eW91cmNsYXNzaWNh/bC5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yourclassical.org",
+          "hostname": "www.yourclassical.org",
+          "favicon": "https://imgs.search.brave.com/rPvl3hiMmW85NRD6AyQ_MxUprnFPHrCqDMEdsVoqMxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM0NjI2MTI5/NTkxNzMxN2VkYzQ3/N2ZmZGFlNWZlZDg4/Nzk4ZTc1Y2ZlYjlh/OGZhNmI4NjE4NDNk/NTYxMzMyNi93d3cu/eW91cmNsYXNzaWNh/bC5vcmcv",
+          "path": "› listen  › relax"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/PKauMT97KLm3EmxTOI8E5zBqRqEgf1k8YaA7PBgXOhg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/eW91cmNsYXNzaWNh/bC5vcmcvaW1hZ2Vz/L1lvdXJDbGFzc2lj/YWwtU29jaWFsLUlu/c3RhZ3JhbS1Qcm9m/aWxlLTgwMHg4MDAu/anBn",
+          "original": "https://www.yourclassical.org/images/YourClassical-Social-Instagram-Profile-800x800.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Isle Of Calm: Stream 6 Hours Of Soothing Music : NPR",
+        "url": "https://www.npr.org/2020/03/13/815457669/isle-of-calm-stream-6-hours-of-soothing-music",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Help settle your jangled nerves, slow your heart rate and string up a little hammock for your soul with 6 hours of calming <strong>music</strong>.",
+        "profile": {
+          "name": "NPR",
+          "url": "https://www.npr.org/2020/03/13/815457669/isle-of-calm-stream-6-hours-of-soothing-music",
+          "long_name": "National Public Radio",
+          "img": "https://imgs.search.brave.com/S_ymhsEF12iDPakIjam-NXQ0iwhtTpmNH4HAkD-52Ls/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGY0NTM3MmEx/MjJkYTQ5YTlmYjFk/YTJhYmNjNGM5M2Q2/NThjYjg0YWMxY2My/YmU5NDlmMTQ0YzJi/YzNjNGFlMS93d3cu/bnByLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npr.org",
+          "hostname": "www.npr.org",
+          "favicon": "https://imgs.search.brave.com/S_ymhsEF12iDPakIjam-NXQ0iwhtTpmNH4HAkD-52Ls/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGY0NTM3MmEx/MjJkYTQ5YTlmYjFk/YTJhYmNjNGM5M2Q2/NThjYjg0YWMxY2My/YmU5NDlmMTQ0YzJi/YzNjNGFlMS93d3cu/bnByLm9yZy8",
+          "path": "› 2020  › 03  › 13  › 815457669  › isle-of-calm-stream-6-hours-of-soothing-music"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/n_vTRO-NCXV1-puGw9GnG3L_cH7ijdtx_RNbPWq7NAw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS5ucHIub3JnL2Fz/c2V0cy9pbWcvMjAy/MC8wMy8xMy9qdWxp/ZV93aWRlLTYxNGQy/MGJlN2QwMmFmNTZm/NmFiMzJiY2M2Mjli/Njc2MDI5OTQzOGMu/anBn",
+          "original": "https://media.npr.org/assets/img/2020/03/13/julie_wide-614d20be7d02af56f6ab32bcc629b6760299438c.jpg",
+          "logo": false
+        },
+        "age": "March 14, 2020",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Stephen Thompson"
+            }
+          ],
+          "date": "Mar 13, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "NPR",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/Fug2vo76rm40FFQdlcYxZ4ugnwKqdaT5I2L8WdyopeM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS5ucHIub3JnL2No/cm9tZS9ucHItbG9n/by5qcGc",
+              "original": "https://media.npr.org/chrome/npr-logo.jpg"
+            }
+          }
+        }
+      },
+      {
+        "title": "Relaxing music: the most calming pieces - Classic FM",
+        "url": "https://www.classicfm.com/discover-music/mood/relaxing/music-relaxation/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Classical <strong>music</strong> can be a powerful tool for relieving everyday stress, helping you sleep and supporting your mental health. From modern minimalist master Ludovico Einaudi, to the divine string sounds of J.S. Bach, here are 10 of the very best pieces of pieces to help you <strong>relax</strong>. Listen on Global Player: Classic FM <strong>Relax</strong>, our live <strong>playlist</strong> ...",
+        "profile": {
+          "name": "Classicfm",
+          "url": "https://www.classicfm.com/discover-music/mood/relaxing/music-relaxation/",
+          "long_name": "classicfm.com",
+          "img": "https://imgs.search.brave.com/Eydqxlm5UPNkmz62f-xWXMsih4iO422rsU1D2LfSsao/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjY5ZGFl/NTI1NzkwMDNiMDVl/Zjc1MDVjMDJjYzY4/NDJhM2M2NjgwOGMy/Mzk5NTU4YTNlMTY3/NzhhNmU1ZC93d3cu/Y2xhc3NpY2ZtLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "music_recording",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "classicfm.com",
+          "hostname": "www.classicfm.com",
+          "favicon": "https://imgs.search.brave.com/Eydqxlm5UPNkmz62f-xWXMsih4iO422rsU1D2LfSsao/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjY5ZGFl/NTI1NzkwMDNiMDVl/Zjc1MDVjMDJjYzY4/NDJhM2M2NjgwOGMy/Mzk5NTU4YTNlMTY3/NzhhNmU1ZC93d3cu/Y2xhc3NpY2ZtLmNv/bS8",
+          "path": "› discover-music  › mood  › relaxing  › music-relaxation"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/H80i4yz-Ymk0R25ICR3hi8zohyC9Eij8Vt7G8LCmkHk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWdz/LmNsYXNzaWNmbS5j/b20vaW1hZ2VzLzMx/MzY4OD93aWR0aD00/OTYwJmNyb3A9MTZf/OSZzaWduYXR1cmU9/b2d3UU1BdjZCZWtn/UkhaQWRpaTM3OFVM/TVUwPQ",
+          "original": "https://imgs.classicfm.com/images/313688?width=4960&crop=16_9&signature=ogwQMAv6BekgRHZAdii378ULMU0=",
+          "logo": false
+        },
+        "age": "June 28, 2022",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Classic FM"
+            }
+          ],
+          "date": "Jun 28, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Classic FM",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/oSaggx5QiAg_IEYu4OAu_B6TXBzFwmCihAMxSqNd6Fo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oZXJh/bGQubXVzaWNyYWRp/by5jb20vbWVkaWEv/ZTZlZjVmMzgtY2Iz/MC00YjlhLTlmYTMt/NzRhMDcyNzkzNDJm/LnBuZw",
+              "original": "https://herald.musicradio.com/media/e6ef5f38-cb30-4b9a-9fa3-74a07279342f.png"
+            }
+          }
+        },
+        "music_recording": {
+          "name": "Piano Concerto No.2 in D minor (2)",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/9GP8Q2q_OxfNKGBo1rAhS_IqySiRAyG9CI1pRd9s_FM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pczQt/c3NsLm16c3RhdGlj/LmNvbS9pbWFnZS90/aHVtYi9NdXNpYzEx/MS92NC9mZS8yZS85/YS9mZTJlOWFkNy01/ZTE0LTQyNzYtYmMw/Ny0xN2U4ZGY2Nzlh/NWYvc291cmNlLzIy/NXgyMjViYi5qcGc",
+            "original": "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/fe/2e/9a/fe2e9ad7-5e14-4276-bc07-17e8df679a5f/source/225x225bb.jpg"
+          }
+        }
+      },
+      {
+        "title": "Most Relaxing Songs Ever - playlist by Melanie Curtin | Spotify",
+        "url": "https://open.spotify.com/playlist/31lxxIDyC3qYrtH6TpGFwx",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Most <strong>Relaxing</strong> Songs Ever · <strong>Playlist</strong> · 14 songs · 32K likes",
+        "profile": {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/playlist/31lxxIDyC3qYrtH6TpGFwx",
+          "long_name": "open.spotify.com",
+          "img": "https://imgs.search.brave.com/WHOwdur76otS2SiFY6oLQKilXu1j5thjPTB0lyHTgWU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDExZTQ1OTU0/NTllYzVjMzBiOTcy/N2Y2NTkzYzEyM2Nm/ZDY5ZTIxZGUyZmEz/ZGEzYzY5ZmE4ZTcw/M2ZjMWViYS9vcGVu/LnNwb3RpZnkuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "open.spotify.com",
+          "hostname": "open.spotify.com",
+          "favicon": "https://imgs.search.brave.com/WHOwdur76otS2SiFY6oLQKilXu1j5thjPTB0lyHTgWU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDExZTQ1OTU0/NTllYzVjMzBiOTcy/N2Y2NTkzYzEyM2Nm/ZDY5ZTIxZGUyZmEz/ZGEzYzY5ZmE4ZTcw/M2ZjMWViYS9vcGVu/LnNwb3RpZnkuY29t/Lw",
+          "path": "› playlist  › 31lxxIDyC3qYrtH6TpGFwx"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6ntbGxngeFTc4yABU_NMg71RNxx9M1vrD89rp4jipHk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnNj/ZG4uY28vaW1hZ2Uv/YWI2NzcwNmMwMDAw/ZGE4NDAwZGQwOTc0/ZmU5YjdiYTNhNGRl/NDAyZQ",
+          "original": "https://i.scdn.co/image/ab67706c0000da8400dd0974fe9b7ba3a4de402e",
+          "logo": false
+        }
+      },
+      {
+        "title": "The 10 Most Scientifically Relaxing Songs, Ever [PLAYLIST] - Goodnet",
+        "url": "https://www.goodnet.org/articles/10-most-scientifically-relaxing-songs-ever-playlist",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Over the course of eight minutes, the listener’s heart rate slowly syncs with the <strong>music</strong>, bringing on a natural feeling of calm. The same study found that the remaining nine songs shared <strong>relaxing</strong> qualities with Weightless - making this <strong>playlist</strong> the perfect way to kick back and chill out.",
+        "profile": {
+          "name": "Goodnet",
+          "url": "https://www.goodnet.org/articles/10-most-scientifically-relaxing-songs-ever-playlist",
+          "long_name": "goodnet.org",
+          "img": "https://imgs.search.brave.com/KJqlcSQI8I19Xy4uSqhEvfpZr1ywo6MnOf8RMYf8sVk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjFlZjE4NDRi/NzNjZTFiZTkzZDc3/MjdhMGNkMzc0MzQ2/YmVmYjk5NWNiZTFk/ZDc5MTkyNzUxNWMw/ZTFiMDZlZC93d3cu/Z29vZG5ldC5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "goodnet.org",
+          "hostname": "www.goodnet.org",
+          "favicon": "https://imgs.search.brave.com/KJqlcSQI8I19Xy4uSqhEvfpZr1ywo6MnOf8RMYf8sVk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjFlZjE4NDRi/NzNjZTFiZTkzZDc3/MjdhMGNkMzc0MzQ2/YmVmYjk5NWNiZTFk/ZDc5MTkyNzUxNWMw/ZTFiMDZlZC93d3cu/Z29vZG5ldC5vcmcv",
+          "path": "› articles  › 10-most-scientifically-relaxing-songs-ever-playlist"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/YAR40SnRutEfBQDf_-a5s6Sg_2jvuGSeRnIqT40XbNU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Z29vZG5ldC5vcmcv/cGhvdG9zLzYyMHgw/LzI1NTkwLmpwZw",
+          "original": "https://www.goodnet.org/photos/620x0/25590.jpg",
+          "logo": false
+        },
+        "age": "September 21, 2015",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "ELANA GOLDBERG, FORMER EDITOR IN CHIEF · As well as managing Goodnet.org, Elana writes happy headlines with a particular focus on yoga, meditation and family matters. She has a background in online journalism and web content."
+            }
+          ]
+        }
+      },
+      {
+        "title": "4 Hours of Peaceful & Relaxing Instrumental Music | Long Playlist ...",
+        "url": "https://www.youtube.com/watch?v=CcsUYu0PVxY",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Get the BetterSleep app today! 👉 https://bit.ly/3lWwBYu4 hours of soothing background <strong>music</strong> for rest &amp; <strong>relaxation</strong>.Track-listing:Beautiful Mind-Travis A.King",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=CcsUYu0PVxY",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "  › bettersleep music"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/o9oepQnt9F6GL7sPl2MeKO4_S3qXJgnXYUtlra3c6d8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9D/Y3NVWXUwUFZ4WS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/CcsUYu0PVxY/maxresdefault.jpg",
+          "logo": false
+        },
+        "age": "May 2, 2014",
+        "video": {
+          "duration": "04:00:44",
+          "views": "70M",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/o9oepQnt9F6GL7sPl2MeKO4_S3qXJgnXYUtlra3c6d8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9D/Y3NVWXUwUFZ4WS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+            "original": "https://i.ytimg.com/vi/CcsUYu0PVxY/maxresdefault.jpg"
+          }
+        }
+      },
+      {
+        "title": "Relaxing Music 9 Hour MEGA Playlist Over 100 Ambient ... - YouTube",
+        "url": "https://www.youtube.com/watch?v=6oc2uma60ig",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Enjoy the videos and <strong>music</strong> you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=6oc2uma60ig",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "video": {
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/nnYVs8V8IWP03lwvpXQBFNJmk3CzfB8kNXG205Uptoo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS82/b2MydW1hNjBpZy9o/cWRlZmF1bHQuanBn",
+            "original": "https://i.ytimg.com/vi/6oc2uma60ig/hqdefault.jpg"
+          }
+        }
+      },
+      {
+        "title": "Sleep Music MEGA playlist Relaxing Music for Sleeping 8 ... - YouTube",
+        "url": "https://www.youtube.com/watch?v=RZB0Y8wutU4",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Enjoy the videos and <strong>music</strong> you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=RZB0Y8wutU4",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "video": {
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/0LOYU_yKWwYYp22gcfpdFLR9JIaLu6WckgcoFdNquCo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9S/WkIwWTh3dXRVNC9o/cWRlZmF1bHQuanBn",
+            "original": "https://i.ytimg.com/vi/RZB0Y8wutU4/hqdefault.jpg"
+          }
+        }
+      },
+      {
+        "title": "Relaxing music: the ultimate calming and soothing music playlist",
+        "url": "https://www.timeout.com/music/relaxing-music-the-ultimate-relaxation-playlist",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Calming <strong>music</strong> for meditation, sleep or study: press play on Time Out&#x27;s three-hour <strong>relaxing</strong> <strong>music</strong> <strong>playlist</strong> for instant chill out vibes.",
+        "profile": {
+          "name": "Timeout",
+          "url": "https://www.timeout.com/music/relaxing-music-the-ultimate-relaxation-playlist",
+          "long_name": "timeout.com",
+          "img": "https://imgs.search.brave.com/C0TjqItjj1L-3P2YRszc1HaS5ab4kvxDUydOx5ZAsYU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQyNjNmZWFh/ZTBlNjE2ZDMxZDI2/MWYwZjg3ZWJkZWYw/YjlmNGEyMWU3MDQz/MmY1YjI0ZDI4YWIy/YWE2MzUzMC93d3cu/dGltZW91dC5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timeout.com",
+          "hostname": "www.timeout.com",
+          "favicon": "https://imgs.search.brave.com/C0TjqItjj1L-3P2YRszc1HaS5ab4kvxDUydOx5ZAsYU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQyNjNmZWFh/ZTBlNjE2ZDMxZDI2/MWYwZjg3ZWJkZWYw/YjlmNGEyMWU3MDQz/MmY1YjI0ZDI4YWIy/YWE2MzUzMC93d3cu/dGltZW91dC5jb20v",
+          "path": "› music  › relaxing-music-the-ultimate-relaxation-playlist"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/_X0qV0nS8YnaYdKX_b9P_GGHBYZy2jfmysPQXifus78/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS50aW1lb3V0LmNv/bS9pbWFnZXMvMTAz/Mzg1Mzg5L2ltYWdl/LmpwZw",
+          "original": "https://media.timeout.com/images/103385389/image.jpg",
+          "logo": false
+        },
+        "age": "June 24, 2016",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Time Out London Music",
+              "url": "https://www.timeout.com/profile/time-out-london-music"
+            }
+          ],
+          "date": "Jun 23, 2016",
+          "publisher": {
+            "type": "organization",
+            "name": "Time Out",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/MXoE0NbxNb1D75jBIA3qRp7KT4QxH8_RNZ277Dqiuqw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dGltZW91dC5jb20v/ZGlzdC9pbWcvVE9f/bG9nbzJ4LnBuZw",
+              "original": "https://www.timeout.com/dist/img/TO_logo2x.png"
+            }
+          }
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

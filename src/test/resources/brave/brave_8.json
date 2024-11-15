@@ -1,0 +1,885 @@
+{
+  "query": {
+    "original": "AI in healthcare data management",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "local_decision": "drop",
+    "local_locations_idx": 0,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "The Growing Role of AI and Big Data in Healthcare",
+        "url": "https://www.simplilearn.com/role-of-ai-and-big-data-in-healthcare-article",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In the past decade, one of the fastest growing economies is <strong>healthcare</strong>. To stay ahead of the demand for <strong>healthcare</strong> techniques like <strong>AI</strong>, big <strong>data</strong> are used. Read on!",
+        "profile": {
+          "name": "Simplilearn",
+          "url": "https://www.simplilearn.com/role-of-ai-and-big-data-in-healthcare-article",
+          "long_name": "simplilearn.com",
+          "img": "https://imgs.search.brave.com/H1-npaC9zLo0QgNO8xoDCvXs3VK22CdLdi7ewGcMXms/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2E0YTc5Yzhm/NGMyNjUyMjM5OTgx/YjNlNGUwZThjMGMy/ZTEzMWUxMTg4YzMz/NWU0MWZkZWVmM2Ez/ZjNjZjcwOC93d3cu/c2ltcGxpbGVhcm4u/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "simplilearn.com",
+          "hostname": "www.simplilearn.com",
+          "favicon": "https://imgs.search.brave.com/H1-npaC9zLo0QgNO8xoDCvXs3VK22CdLdi7ewGcMXms/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2E0YTc5Yzhm/NGMyNjUyMjM5OTgx/YjNlNGUwZThjMGMy/ZTEzMWUxMTg4YzMz/NWU0MWZkZWVmM2Ez/ZjNjZjcwOC93d3cu/c2ltcGxpbGVhcm4u/Y29tLw",
+          "path": "  › home  › resources  › big data  › case studies: the growing role of ai and big data in healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ZecXkgURugMeBeoDfDOKEvkdI-xwtIJqPMEUAOwyBkA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2ltcGxpbGVhcm4u/Y29tL2ljZTkvZnJl/ZV9yZXNvdXJjZXNf/YXJ0aWNsZV90aHVt/Yi9UaGVfR3Jvd2lu/Z19Sb2xlX29mX0FJ/X2FuZF9CaWdfRGF0/YV9pbl9IZWFsdGhj/YXJlLmpwZw",
+          "original": "https://www.simplilearn.com/ice9/free_resources_article_thumb/The_Growing_Role_of_AI_and_Big_Data_in_Healthcare.jpg",
+          "logo": false
+        },
+        "age": "April 10, 2020",
+        "location": {
+          "title": "United States",
+          "url": "https://www.simplilearn.com/role-of-ai-and-big-data-in-healthcare-article",
+          "is_source_local": false,
+          "is_source_both": false,
+          "description": "",
+          "family_friendly": true,
+          "type": "location_result",
+          "provider_url": "https://www.simplilearn.com/role-of-ai-and-big-data-in-healthcare-article",
+          "coordinates": [
+            -95.36327,
+            29.76328
+          ],
+          "zoom_level": 7,
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/ZecXkgURugMeBeoDfDOKEvkdI-xwtIJqPMEUAOwyBkA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2ltcGxpbGVhcm4u/Y29tL2ljZTkvZnJl/ZV9yZXNvdXJjZXNf/YXJ0aWNsZV90aHVt/Yi9UaGVfR3Jvd2lu/Z19Sb2xlX29mX0FJ/X2FuZF9CaWdfRGF0/YV9pbl9IZWFsdGhj/YXJlLmpwZw",
+            "original": "https://www.simplilearn.com/ice9/free_resources_article_thumb/The_Growing_Role_of_AI_and_Big_Data_in_Healthcare.jpg"
+          },
+          "postal_address": {
+            "type": "PostalAddress",
+            "streetAddress": "201 Spear Street, Suite 1100, San Francisco, CA 94105 United States",
+            "displayAddress": "201 Spear Street, Suite 1100, San Francisco, CA 94105 United States"
+          },
+          "distance": {
+            "value": 6539.97,
+            "units": "miles"
+          },
+          "profiles": [
+            {
+              "type": "external",
+              "name": "simplilearn.com",
+              "url": "https://www.simplilearn.com/role-of-ai-and-big-data-in-healthcare-article",
+              "img": "https://imgs.search.brave.com/H1-npaC9zLo0QgNO8xoDCvXs3VK22CdLdi7ewGcMXms/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2E0YTc5Yzhm/NGMyNjUyMjM5OTgx/YjNlNGUwZThjMGMy/ZTEzMWUxMTg4YzMz/NWU0MWZkZWVmM2Ez/ZjNjZjcwOC93d3cu/c2ltcGxpbGVhcm4u/Y29tLw"
+            }
+          ],
+          "categories": []
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Stuart Rauch",
+              "url": "https://www.simplilearn.com/authors/stuart-rauch"
+            }
+          ],
+          "date": "Apr 10, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "Simplilearn",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/IHfZ92ucm-T2Vr5k0mwHYaRTTLgKWQD5RiynEEuTKGI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2ltcGxpbGVhcm4u/Y29tL2xvZ28ucG5n",
+              "original": "https://www.simplilearn.com/logo.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "Health Information Management: Implications of Artificial ...",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697524/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Objective: This paper explores the implications of artificial intelligence (<strong>AI</strong>) on the <strong>management</strong> <strong>of</strong> <strong>healthcare</strong> <strong>data</strong> and information and how <strong>AI</strong> technologies will affect the responsibilities and work of health information <strong>management</strong> (HIM) professionals. Methods: A literature review was conducted ...",
+        "profile": {
+          "name": "NCBI",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697524/",
+          "long_name": "National Center for Biotechnology Information",
+          "img": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ncbi.nlm.nih.gov",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+          "path": "› pmc  › articles  › PMC6697524"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5bfcHo1PfV6rvJvSnUDsmQPRhO5o-9tsgtoLMuddIKg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi9jb3JlaHRt/bC9wbWMvcG1jZ2lm/cy9wbWMtY2FyZC1z/aGFyZS5qcGc_Xz0w",
+          "original": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+          "logo": false
+        }
+      },
+      {
+        "title": "What is artificial intelligence in healthcare? | IBM",
+        "url": "https://www.ibm.com/topics/artificial-intelligence-healthcare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "For <strong>healthcare</strong> payers, this NLP capability can take the form of a virtual agent using conversational <strong>AI</strong> to help connect health plan members with personalized answers at scale. View the resource. ... For government health and human service professionals, a case worker can use <strong>AI</strong> solutions to quickly mine case notes for key concepts and concerns to support an individual&#x27;s care. ... Clinical operations and <strong>data</strong> <strong>managers</strong> ...",
+        "profile": {
+          "name": "Ibm",
+          "url": "https://www.ibm.com/topics/artificial-intelligence-healthcare",
+          "long_name": "ibm.com",
+          "img": "https://imgs.search.brave.com/VRWv6lt9zEoYheNmiQVOnpl1Nc8Wi54w7If_i7F893w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI0MWQyYmEy/MTNmNWVkODQ2ODFj/ZjYxMjk4YjI3NmY5/Yjk5M2E0YjhjNWZi/OGUyODMzNzllOTQx/M2I4ZDc2My93d3cu/aWJtLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ibm.com",
+          "hostname": "www.ibm.com",
+          "favicon": "https://imgs.search.brave.com/VRWv6lt9zEoYheNmiQVOnpl1Nc8Wi54w7If_i7F893w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI0MWQyYmEy/MTNmNWVkODQ2ODFj/ZjYxMjk4YjI3NmY5/Yjk5M2E0YjhjNWZi/OGUyODMzNzllOTQx/M2I4ZDc2My93d3cu/aWJtLmNvbS8",
+          "path": "› topics  › artificial-intelligence-healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/uJ9JSymyycj80VmQencpcZcQXbXgY8S-7r1n7fHYmjw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aWJtLmNvbS9jb250/ZW50L2RhbS9jb25u/ZWN0ZWRhc3NldHMt/YWRvYmUtY21zL3dv/cmxkd2lkZS1jb250/ZW50L21zYy91bC9n/LzhjL2I0LzhjYjRk/ZDBhLThlODktNDdl/NS04MDAzYzliMzg0/NGIxZWEwLmpwZy9f/amNyX2NvbnRlbnQv/cmVuZGl0aW9ucy9j/cTVkYW0ud2ViLjEy/ODAuMTI4MC5qcGVn",
+          "original": "https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/msc/ul/g/8c/b4/8cb4dd0a-8e89-47e5-8003c9b3844b1ea0.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Artificial Intelligence in Healthcare Data Management | Research.com",
+        "url": "https://research.com/special-issue/artificial-intelligence-in-healthcare-data-management",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Healthcare</strong> <strong>data</strong> <strong>management</strong> is the process of acquiring, examining, and maintaining records of patients to offer quality treatment and other <strong>healthcare</strong>-related services to the end-users. To achieve this objective, the application of Artificial Intelligence (<strong>AI</strong>) is introduced <strong>in</strong> <strong>healthcare</strong> <strong>data</strong> ...",
+        "profile": {
+          "name": "Research",
+          "url": "https://research.com/special-issue/artificial-intelligence-in-healthcare-data-management",
+          "long_name": "research.com",
+          "img": "https://imgs.search.brave.com/T3Y66qsTRSacrZhTnwXVITrcaDkOsDT0x_P_g4XmT2E/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzBmODMyOTll/ZTFiMTY0MDE4Nzc5/NGRjMTYzNmM4MWZj/ZDZlMzMyNGRlNzlh/YzQ0NmFjNzU0YzA1/NDQ1ZjM5Yi9yZXNl/YXJjaC5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "research.com",
+          "hostname": "research.com",
+          "favicon": "https://imgs.search.brave.com/T3Y66qsTRSacrZhTnwXVITrcaDkOsDT0x_P_g4XmT2E/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzBmODMyOTll/ZTFiMTY0MDE4Nzc5/NGRjMTYzNmM4MWZj/ZDZlMzMyNGRlNzlh/YzQ0NmFjNzU0YzA1/NDQ1ZjM5Yi9yZXNl/YXJjaC5jb20v",
+          "path": "  › home  › special issues  › artificial intelligence in healthcare data management"
+        }
+      },
+      {
+        "title": "AI in Healthcare, Where It's Going in 2023: ML, NLP & More | ...",
+        "url": "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Healthcare</strong> <strong>AI</strong> use cases include helping doctors diagnose and <strong>manage</strong> kidney disease, enabling improved diagnostics and analysis of patient <strong>data</strong>.",
+        "profile": {
+          "name": "Healthtechmagazine",
+          "url": "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon",
+          "long_name": "healthtechmagazine.net",
+          "img": "https://imgs.search.brave.com/2vP4KSMGM2CuS-SrkDJ0Oa8msmlqjTS7T3ie_xGQdPA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWU1MjM1YjRi/NjY0NjY2NTU5MzMz/NGRjYWMxMGE0NTJm/MmFkMTgxYjAzNTZh/M2ZhOTJmNjQxYWM2/MDJiZmRlZC9oZWFs/dGh0ZWNobWFnYXpp/bmUubmV0Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthtechmagazine.net",
+          "hostname": "healthtechmagazine.net",
+          "favicon": "https://imgs.search.brave.com/2vP4KSMGM2CuS-SrkDJ0Oa8msmlqjTS7T3ie_xGQdPA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWU1MjM1YjRi/NjY0NjY2NTU5MzMz/NGRjYWMxMGE0NTJm/MmFkMTgxYjAzNTZh/M2ZhOTJmNjQxYWM2/MDJiZmRlZC9oZWFs/dGh0ZWNobWFnYXpp/bmUubmV0Lw",
+          "path": "› article  › 2022  › 12  › ai-healthcare-2023-ml-nlp-more-perfcon"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8j6b7kwAAueKQH7FMKN9KCWruPt879tm2YO8Wqopc2Q/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oZWFs/dGh0ZWNobWFnYXpp/bmUubmV0L3NpdGVz/L2hlYWx0aHRlY2ht/YWdhemluZS5uZXQv/ZmlsZXMvc3R5bGVz/L2Nkd19oZXJvL3B1/YmxpYy9hcnRpY2xl/cy8lNUJjZHdfdGVj/aF9zaXRlJTNBZmll/bGRfc2l0ZV9zaG9y/dG5hbWUlNUQvMjAy/MjEyL0hUUTQyMl9U/cmVuZHNfSGVybzRf/QUkuanBnP2l0b2s9/a0dUZVRpY18",
+          "original": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202212/HTQ422_Trends_Hero4_AI.jpg?itok=kGTeTic_",
+          "logo": false
+        },
+        "age": "August 9, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Brian T. Horowitz",
+              "url": "https://healthtechmagazine.net/author/brian-t-horowitz"
+            }
+          ],
+          "date": "Dec 16, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Publisher",
+            "url": "https://healthtechmagazine.net/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/r3B-WG0GXOR5IuX6KOXQLnV5gBlGO_7vgq1fukZoi1I/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oZWFs/dGh0ZWNobWFnYXpp/bmUubmV0L3RoZW1l/cy9jZHcvaW1hZ2Vz/L2xvZ28tY2R3X2hl/YWx0aHRlY2gucG5n",
+              "original": "https://healthtechmagazine.net/themes/cdw/images/logo-cdw_healthtech.png"
+            }
+          },
+          "isAccessibleForFree": true
+        }
+      },
+      {
+        "title": "AI in Healthcare & Medical AI Examples to Know | Built In",
+        "url": "https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "CloudMedX uses machine learning to generate insights for improving patient journeys throughout the <strong>healthcare</strong> system. The company’s technology helps hospitals and clinics <strong>manage</strong> patient <strong>data</strong>, clinical history and payment information by using predictive analytics to intervene at critical junctures ...",
+        "profile": {
+          "name": "Builtin",
+          "url": "https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare",
+          "long_name": "builtin.com",
+          "img": "https://imgs.search.brave.com/LSofnT3a8dnfQERlyxKCVZrpAk3rxCR0cZu85QcezH0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzlhMWMxZWMw/MmY5NDE1NDk3NzFl/ZmNmYTg0ZTYxZWNk/MzcxNmEwYjY0MzZl/NzQ0NDlkYzNhMTgy/NzdlMmI1OS9idWls/dGluLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "builtin.com",
+          "hostname": "builtin.com",
+          "favicon": "https://imgs.search.brave.com/LSofnT3a8dnfQERlyxKCVZrpAk3rxCR0cZu85QcezH0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzlhMWMxZWMw/MmY5NDE1NDk3NzFl/ZmNmYTg0ZTYxZWNk/MzcxNmEwYjY0MzZl/NzQ0NDlkYzNhMTgy/NzdlMmI1OS9idWls/dGluLmNvbS8",
+          "path": "› artificial-intelligence  › artificial-intelligence-healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/VXOvGUV3oH1blz45hIz1Qcs2LB_r6DFrCe12ZxIuR4M/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9idWls/dGluLmNvbS9zaXRl/cy93d3cuYnVpbHRp/bi5jb20vZmlsZXMv/c3R5bGVzL29nL3B1/YmxpYy8yMDIyLTA2/L2FpLWhlYWx0aGNh/cmUtZXhhbXBsZXMu/cG5n",
+          "original": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-06/ai-healthcare-examples.png",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Sam Daley",
+              "url": "https://builtin.com/member/samdaleybuiltincom/31"
+            }
+          ],
+          "date": "Jun 10, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Built In",
+            "url": "https://builtin.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/OAYx0hK-QDRBgWT7x9FzPk8lkOcrDYi0ul9NTUR7KAk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9idWls/dGluLmNvbS8vcHJv/ZmlsZXMvYnVpbHRp/bi9idWlsdGluLnBu/Zw",
+              "original": "https://builtin.com//profiles/builtin/builtin.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The potential for artificial intelligence in healthcare - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Address for correspondence: Prof ... and <strong>management</strong>, Babson College, 231 Forest Street, Wellesley, MA 02457, USA. Email: ude.nosbab@tropnevadt · Copyright © Royal College of Physicians 2019. All rights reserved. The complexity and rise of <strong>data</strong> <strong>in</strong> <strong>healthcare</strong> means that ...",
+        "profile": {
+          "name": "NCBI",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/",
+          "long_name": "National Center for Biotechnology Information",
+          "img": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ncbi.nlm.nih.gov",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+          "path": "› pmc  › articles  › PMC6616181"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5bfcHo1PfV6rvJvSnUDsmQPRhO5o-9tsgtoLMuddIKg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi9jb3JlaHRt/bC9wbWMvcG1jZ2lm/cy9wbWMtY2FyZC1z/aGFyZS5qcGc_Xz0w",
+          "original": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+          "logo": false
+        }
+      },
+      {
+        "title": "Artificial Intelligence (AI) In Healthcare & Hospitals",
+        "url": "https://www.foreseemed.com/artificial-intelligence-in-healthcare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>AI</strong> <strong>in</strong> <strong>healthcare</strong> is expected to ... <strong>data</strong>, diagnose diseases, develop treatments and even prevent them altogether. By using artificial intelligence <strong>in</strong> <strong>healthcare</strong>, medical professionals can make more informed decisions based on more accurate information - saving time, reducing costs and improving medical records <strong>management</strong> ...",
+        "profile": {
+          "name": "Foreseemed",
+          "url": "https://www.foreseemed.com/artificial-intelligence-in-healthcare",
+          "long_name": "foreseemed.com",
+          "img": "https://imgs.search.brave.com/f_3GBsE16rD1jfy0NdO5JCCHqMZ3OIVdqIbgonmhFys/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMyZGJmNDAy/YzMwMjI1YTFjN2E5/ZDFiMzdkYzUzMmJl/MDAzMTM4ZWQyMTA2/MGFiMzBhNzY5NWY4/M2ZmMGRmMS93d3cu/Zm9yZXNlZW1lZC5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "foreseemed.com",
+          "hostname": "www.foreseemed.com",
+          "favicon": "https://imgs.search.brave.com/f_3GBsE16rD1jfy0NdO5JCCHqMZ3OIVdqIbgonmhFys/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMyZGJmNDAy/YzMwMjI1YTFjN2E5/ZDFiMzdkYzUzMmJl/MDAzMTM4ZWQyMTA2/MGFiMzBhNzY5NWY4/M2ZmMGRmMS93d3cu/Zm9yZXNlZW1lZC5j/b20v",
+          "path": "› artificial-intelligence-in-healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/bk2_diCIk0X_M11xvy3Ds7gwWck7zRYSaMrpN-BT64s/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMxLnNxdWFyZXNw/YWNlLmNvbS9zdGF0/aWMvNWRhZGRiMzNl/ZTkyYmY0NDIzMWMy/ZmVmL3QvNjMyMzZk/M2JkNDQzYjI2NmIw/MjcxNzAxLzE2OTU3/NjAzOTgxMDkv",
+          "original": "https://static1.squarespace.com/static/5daddb33ee92bf44231c2fef/t/63236d3bd443b266b0271701/1695760398109/",
+          "logo": false
+        }
+      },
+      {
+        "title": "How AI Can Transform Healthcare Management | American College of ...",
+        "url": "https://www.ache.org/blog/2022/how-ai-can-transform-healthcare-management",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>AI</strong> would be used to, for example, ... assist <strong>healthcare</strong> professionals provide personalized care. With an ability to analyze billions of <strong>data</strong> points in near to real time to support daily operations, <strong>AI</strong> can convert that <strong>data</strong> <strong>in</strong> ways that build efficiencies in such areas as patient flow and scheduling, supply chain <strong>management</strong>, <strong>managing</strong> ...",
+        "profile": {
+          "name": "Ache",
+          "url": "https://www.ache.org/blog/2022/how-ai-can-transform-healthcare-management",
+          "long_name": "ache.org",
+          "img": "https://imgs.search.brave.com/lhlETZDGsXWiSppHtCu_m_Ra_jvauvgAVB2YO3OIntU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjU2MDc5ZDUy/NzMyZWI4ZGU2ZGVk/YWM2Yjc1NTJkYTFm/NTdhNmI5YmVjNzU0/YzEzZTJhOTFhZjFm/N2ZjOWRhMS93d3cu/YWNoZS5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ache.org",
+          "hostname": "www.ache.org",
+          "favicon": "https://imgs.search.brave.com/lhlETZDGsXWiSppHtCu_m_Ra_jvauvgAVB2YO3OIntU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjU2MDc5ZDUy/NzMyZWI4ZGU2ZGVk/YWM2Yjc1NTJkYTFm/NTdhNmI5YmVjNzU0/YzEzZTJhOTFhZjFm/N2ZjOWRhMS93d3cu/YWNoZS5vcmcv",
+          "path": "› blog  › 2022  › how-ai-can-transform-healthcare-management"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8_ewIZ1ft3Ly7Tr6c4Cf3Od8xHXth9DJ_hf8EDz7Pow/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YWNoZS5vcmcvLS9t/ZWRpYS9hY2hlL2Js/b2cvYXVnX2Jvb2tz/aGVsZl8xMjAweDYy/OC5wbmc",
+          "original": "https://www.ache.org/-/media/ache/blog/aug_bookshelf_1200x628.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "Why is AI adoption in health care lagging?",
+        "url": "https://www.brookings.edu/research/why-is-ai-adoption-in-health-care-lagging/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Avi Goldfarb and Florenta Teodoridis discuss why the promise of artificial intelligence <strong>in</strong> <strong>healthcare</strong> stands in contrast to the current reality, in which very few <strong>healthcare</strong> jobs depend on <strong>AI</strong>.",
+        "profile": {
+          "name": "Brookings",
+          "url": "https://www.brookings.edu/research/why-is-ai-adoption-in-health-care-lagging/",
+          "long_name": "brookings.edu",
+          "img": "https://imgs.search.brave.com/Jed6cYabn7R6GuS3jn56Aa43MYKj11QI598IOWkOq2U/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVlMTVjNWM2/OWRkYjRmMWM2MWU1/N2VhNjc5NjkxYTg0/YWYyYWE1NzJjNTM0/OGU1YmZlYjg3NzJh/NWFjYzYyNi93d3cu/YnJvb2tpbmdzLmVk/dS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "brookings.edu",
+          "hostname": "www.brookings.edu",
+          "favicon": "https://imgs.search.brave.com/Jed6cYabn7R6GuS3jn56Aa43MYKj11QI598IOWkOq2U/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVlMTVjNWM2/OWRkYjRmMWM2MWU1/N2VhNjc5NjkxYTg0/YWYyYWE1NzJjNTM0/OGU1YmZlYjg3NzJh/NWFjYzYyNi93d3cu/YnJvb2tpbmdzLmVk/dS8",
+          "path": "› research  › why-is-ai-adoption-in-health-care-lagging"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/U1tXlYvWWX-oZ2USCWetWhzTb69sSTCTiJk_rynbn-M/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YnJvb2tpbmdzLmVk/dS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wMy9zaHV0dGVy/c3RvY2tfMTQwNTMw/MDEwMC0xLnBuZw",
+          "original": "https://www.brookings.edu/wp-content/uploads/2022/03/shutterstock_1405300100-1.png",
+          "logo": false
+        },
+        "age": "March 9, 2022",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Avi Goldfarb"
+            },
+            {
+              "type": "person",
+              "name": "Florenta Teodoridis"
+            }
+          ],
+          "publisher": {
+            "type": "organization",
+            "name": "Brookings",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/1hO5XtRs6UqCMIOX81E1-wUytwNGb6MP6UCVowxLS94/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YnJvb2tpbmdzLmVk/dS93cC1jb250ZW50/L3RoZW1lcy9icm9v/a2luZ3Mvc3RhdGlj/L2ltYWdlcy9icm9v/a2luZ3MtbG9nby5q/cGc",
+              "original": "https://www.brookings.edu/wp-content/themes/brookings/static/images/brookings-logo.jpg"
+            }
+          }
+        }
+      },
+      {
+        "title": "Healthcare.AI",
+        "url": "https://healthcare.ai/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Even with in-house <strong>data</strong> science talent, scaling that expertise to the broader analytics teams is difficult. Teaching <strong>data</strong> science concepts and skills to existing teams is a slow, expensive, and unsustainable process. Challenge 3: Demonstrating the Positive Impact of <strong>AI</strong> · <strong>When</strong> <strong>healthcare</strong> organizations have <strong>managed</strong> ...",
+        "profile": {
+          "name": "Healthcare",
+          "url": "https://healthcare.ai/",
+          "long_name": "healthcare.ai",
+          "img": "https://imgs.search.brave.com/S82gTNv-PNcEFie_xikLojAmZnSx4m3frzqOOfm2PMs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAzMDI0NGU3/YWE2NWM3N2NjODU2/ZDc0NDFkNzAxODk1/ZjY0ZDI4MDkwZWEw/YjI5Yjc1ZDJiN2Yy/MzIwYmVhZS9oZWFs/dGhjYXJlLmFpLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthcare.ai",
+          "hostname": "healthcare.ai",
+          "favicon": "https://imgs.search.brave.com/S82gTNv-PNcEFie_xikLojAmZnSx4m3frzqOOfm2PMs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAzMDI0NGU3/YWE2NWM3N2NjODU2/ZDc0NDFkNzAxODk1/ZjY0ZDI4MDkwZWEw/YjI5Yjc1ZDJiN2Yy/MzIwYmVhZS9oZWFs/dGhjYXJlLmFpLw",
+          "path": ""
+        }
+      },
+      {
+        "title": "What Is AI in Healthcare?",
+        "url": "https://www.arm.com/glossary/ai-in-healthcare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>AI</strong> <strong>in</strong> <strong>healthcare</strong>, then, is the use of machines to analyze and act on medical <strong>data</strong>, usually with the goal of predicting a particular outcome. A significant <strong>AI</strong> use case <strong>in</strong> <strong>healthcare</strong> is the use of ML and other cognitive disciplines for medical diagnosis purposes.",
+        "profile": {
+          "name": "Arm",
+          "url": "https://www.arm.com/glossary/ai-in-healthcare",
+          "long_name": "arm.com",
+          "img": "https://imgs.search.brave.com/pGsaQT-rerfAGocBvTXayBdMkBK6HQsGsOZyJR5V_EY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjFjNjEzOTIy/MTVjNjk1ZWE4ODg4/OWJmYmI3NjU3ZTlm/OWQ5M2ZiOWI4Njdk/YjFhMjJlMzJmNGQ1/MTM2NzY0Yy93d3cu/YXJtLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "arm.com",
+          "hostname": "www.arm.com",
+          "favicon": "https://imgs.search.brave.com/pGsaQT-rerfAGocBvTXayBdMkBK6HQsGsOZyJR5V_EY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjFjNjEzOTIy/MTVjNjk1ZWE4ODg4/OWJmYmI3NjU3ZTlm/OWQ5M2ZiOWI4Njdk/YjFhMjJlMzJmNGQ1/MTM2NzY0Yy93d3cu/YXJtLmNvbS8",
+          "path": "› glossary  › ai-in-healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wFx3R5ZucTTfCsmLdJA181JfFlsycjUROtfhXSI3IEw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YXJtLmNvbQ",
+          "original": "https://www.arm.com",
+          "logo": false
+        }
+      },
+      {
+        "title": "Healthcare Management Systems - Artificial Intelligence",
+        "url": "https://artificialintelligence.health/healthcare-management-systems.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In both hospital and clinic <strong>management</strong> ... interprofessional coordination, and patient outcomes can be leveraged to create custom reports highlighting key areas of concern and potential for improvement. As real clinical <strong>data</strong> is continually collected by an <strong>AI</strong> hospital/clinic <strong>management</strong> system, the machine learning can continue to adjust to optimize its functionality for the continuing improvement of the <strong>healthcare</strong> institution ...",
+        "profile": {
+          "name": "Artificialintelligence",
+          "url": "https://artificialintelligence.health/healthcare-management-systems.html",
+          "long_name": "artificialintelligence.health",
+          "img": "https://imgs.search.brave.com/-EPAazqtuQYAIV4M45D8ilWCAjJ3F9sATrLDAUzAEdo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk0OTBjOTA2/ZWIzNDllNzZhYTY3/Yjk5ODMyYjkxMTli/Mzc2NjFiMmZkN2Iw/Nzk0ZDMzNWUxOGZi/MTdkOWYwZC9hcnRp/ZmljaWFsaW50ZWxs/aWdlbmNlLmhlYWx0/aC8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "artificialintelligence.health",
+          "hostname": "artificialintelligence.health",
+          "favicon": "https://imgs.search.brave.com/-EPAazqtuQYAIV4M45D8ilWCAjJ3F9sATrLDAUzAEdo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk0OTBjOTA2/ZWIzNDllNzZhYTY3/Yjk5ODMyYjkxMTli/Mzc2NjFiMmZkN2Iw/Nzk0ZDMzNWUxOGZi/MTdkOWYwZC9hcnRp/ZmljaWFsaW50ZWxs/aWdlbmNlLmhlYWx0/aC8",
+          "path": "› healthcare-management-systems.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/pHNQAYCgpQV8jhOtIwyZe4bhKfJXnjQmRbWy7B29CzY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hcnRp/ZmljaWFsaW50ZWxs/aWdlbmNlLmhlYWx0/aC9pbWFnZXMvYXJ0/aWZpY2lhbC1JbnRl/bGxpZ2VuY2Utc29j/aWFsLW1lZGlhLmpw/Zw",
+          "original": "https://artificialintelligence.health/images/artificial-Intelligence-social-media.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "10 top artificial intelligence (AI) applications in healthcare ...",
+        "url": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "As <strong>AI</strong> continues to be applied across the <strong>healthcare</strong> spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here&#x27;s how it&#x27;s making an impact.",
+        "profile": {
+          "name": "Venturebeat",
+          "url": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
+          "long_name": "venturebeat.com",
+          "img": "https://imgs.search.brave.com/t3RIeUBSdkoC9ZerDieaDDUQIe6QD0Cd5v-ke1xUljM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDdmOWRmM2Ix/Yzk5MGVjYWE4NDQ0/ZGQ5YjE5YTZiMmQ4/ODBhOGI3MDMyNTM3/MTQxODJhMDAyMGUy/YTMzNDAxOC92ZW50/dXJlYmVhdC5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "venturebeat.com",
+          "hostname": "venturebeat.com",
+          "favicon": "https://imgs.search.brave.com/t3RIeUBSdkoC9ZerDieaDDUQIe6QD0Cd5v-ke1xUljM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDdmOWRmM2Ix/Yzk5MGVjYWE4NDQ0/ZGQ5YjE5YTZiMmQ4/ODBhOGI3MDMyNTM3/MTQxODJhMDAyMGUy/YTMzNDAxOC92ZW50/dXJlYmVhdC5jb20v",
+          "path": "› ai  › 10-top-artificial-intelligence-ai-applications-in-healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IuNe9z0rtOc0YK0xJDUs5Xl7NFBWaXAkvMO6011P0lE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly92ZW50/dXJlYmVhdC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MDcvWmVicmEtTWVk/aWNhbC1GREEtYXBw/cm92YWwtQUktaGVh/cnQtZGlzZWFzZS5q/cGc_Zml0PTEwMDAl/MkM2NjYmc3RyaXA9/YWxs",
+          "original": "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?fit=1000%2C666&strip=all",
+          "logo": false
+        },
+        "age": "September 28, 2022",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Shannon Flynn"
+            }
+          ],
+          "date": "Sep 30, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "VentureBeat",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/foQQK1ZyM5VWH5GPWUxEJ-6_CWTPnYH7JGXUENWnOaI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly92YnN0/YXRpYy5jby9icmFu/ZC9pbWcvbG9nb3Mv/VkJfRXh0ZW5kZWRf/TG9nb182MEgucG5n",
+              "original": "https://vbstatic.co/brand/img/logos/VB_Extended_Logo_60H.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "Artificial intelligence in healthcare - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Numerous companies are exploring the possibilities of the incorporation of big <strong>data</strong> <strong>in</strong> <strong>the</strong> <strong>healthcare</strong> industry. Many companies investigate the market opportunities through the realms of &quot;<strong>data</strong> assessment, storage, <strong>management</strong>, and analysis technologies&quot; which are all crucial parts of the <strong>healthcare</strong> ...",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Artificial_intelligence_in_healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/aQ8FSfv66GNewFS7xPEg0jhNJ2d5uCKOT83Zhi_3T-Y/rs:fit:200:200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/Lzc3L1gtcmF5X29m/X2hhbmQlMkNfd2hl/cmVfYm9uZV9hZ2Vf/aXNfYXV0b21hdGlj/YWxseV9mb3VuZF9i/eV9Cb25lWHBlcnRf/c29mdHdhcmUuanBn",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/X-ray_of_hand%2C_where_bone_age_is_automatically_found_by_BoneXpert_software.jpg",
+          "logo": false
+        },
+        "age": "2 days ago"
+      },
+      {
+        "title": "Healthcare Data Analytics | Care Management with AI | HealthEM.AI",
+        "url": "https://www.healthem.ai/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We simplify patient <strong>data</strong> from all points of care and apply <strong>AI</strong>/ML-based predictive analytics to empower <strong>healthcare</strong> organizations with actionable insights to improve the quality of care. Measurable impact at a patient level with palliative and chronic care <strong>management</strong> workflows.",
+        "profile": {
+          "name": "Healthem",
+          "url": "https://www.healthem.ai/",
+          "long_name": "healthem.ai",
+          "img": "https://imgs.search.brave.com/xguHre396cISnKJOcGB_XE0MvfxUwCp3Lec0Bjk6K-8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjk5NzM5N2Y2/NjQzOGM2MWZmMTIw/NjJkM2FjODEwMGIz/M2FmOGY3ZTZhNWY4/ZGNkODYxMzIyMmRl/MDVkNDA0Yi93d3cu/aGVhbHRoZW0uYWkv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthem.ai",
+          "hostname": "www.healthem.ai",
+          "favicon": "https://imgs.search.brave.com/xguHre396cISnKJOcGB_XE0MvfxUwCp3Lec0Bjk6K-8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjk5NzM5N2Y2/NjQzOGM2MWZmMTIw/NjJkM2FjODEwMGIz/M2FmOGY3ZTZhNWY4/ZGNkODYxMzIyMmRl/MDVkNDA0Yi93d3cu/aGVhbHRoZW0uYWkv",
+          "path": "  › home"
+        },
+        "age": "August 28, 2022"
+      },
+      {
+        "title": "How Americans View Use of AI in Health Care and Medicine by Doctors ...",
+        "url": "https://www.pewresearch.org/science/2023/02/22/60-of-americans-would-be-uncomfortable-with-provider-relying-on-ai-in-their-own-health-care/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "There is significant discomfort among Americans with the idea of <strong>AI</strong> being used in their own health care. Yet many see promise for <strong>AI</strong> to help issues of bias in medical care.",
+        "profile": {
+          "name": "Pewresearch",
+          "url": "https://www.pewresearch.org/science/2023/02/22/60-of-americans-would-be-uncomfortable-with-provider-relying-on-ai-in-their-own-health-care/",
+          "long_name": "pewresearch.org",
+          "img": "https://imgs.search.brave.com/IRZbh66GHghiEQlu7Wl7HnMfiUzHdGyRFBk-Yk5vFM4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTFiMGJhZmY5/ZDE5YmEyZDc3MGZm/M2RlYjgzYTYyNzBl/ODM2ZTNiMmUzYWJj/YzIyM2Y4ZTEzMDQ5/MzE5MTM0OS93d3cu/cGV3cmVzZWFyY2gu/b3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pewresearch.org",
+          "hostname": "www.pewresearch.org",
+          "favicon": "https://imgs.search.brave.com/IRZbh66GHghiEQlu7Wl7HnMfiUzHdGyRFBk-Yk5vFM4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTFiMGJhZmY5/ZDE5YmEyZDc3MGZm/M2RlYjgzYTYyNzBl/ODM2ZTNiMmUzYWJj/YzIyM2Y4ZTEzMDQ5/MzE5MTM0OS93d3cu/cGV3cmVzZWFyY2gu/b3JnLw",
+          "path": "  › home  › research topics  › internet & technology  › emerging technology  › artificial intelligence"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/haXC9Ji8aFtiOMs2P0WijJv69O9OeMCqJPhZ4pKfP5s/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cGV3cmVzZWFyY2gu/b3JnL3NjaWVuY2Uv/d3AtY29udGVudC91/cGxvYWRzL3NpdGVz/LzE2LzIwMjMvMDIv/UFNfMjMuMDIuMjJf/QUlhbmRIZWFsdGhf/QTFfUkVWLnBuZw",
+          "original": "https://www.pewresearch.org/science/wp-content/uploads/sites/16/2023/02/PS_23.02.22_AIandHealth_A1_REV.png",
+          "logo": false
+        },
+        "age": "March 6, 2023"
+      },
+      {
+        "title": "Risks and remedies for artificial intelligence in health care",
+        "url": "https://www.brookings.edu/research/risks-and-remedies-for-artificial-intelligence-in-health-care/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Artificial intelligence (<strong>AI</strong>) is ... to <strong>managing</strong> patients and medical resources. As developers create <strong>AI</strong> systems to take on these tasks, several risks and challenges emerge, including the risk of injuries to patients from <strong>AI</strong> system errors, the risk to patient privacy of <strong>data</strong> acquisition ...",
+        "profile": {
+          "name": "Brookings",
+          "url": "https://www.brookings.edu/research/risks-and-remedies-for-artificial-intelligence-in-health-care/",
+          "long_name": "brookings.edu",
+          "img": "https://imgs.search.brave.com/Jed6cYabn7R6GuS3jn56Aa43MYKj11QI598IOWkOq2U/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVlMTVjNWM2/OWRkYjRmMWM2MWU1/N2VhNjc5NjkxYTg0/YWYyYWE1NzJjNTM0/OGU1YmZlYjg3NzJh/NWFjYzYyNi93d3cu/YnJvb2tpbmdzLmVk/dS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "brookings.edu",
+          "hostname": "www.brookings.edu",
+          "favicon": "https://imgs.search.brave.com/Jed6cYabn7R6GuS3jn56Aa43MYKj11QI598IOWkOq2U/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVlMTVjNWM2/OWRkYjRmMWM2MWU1/N2VhNjc5NjkxYTg0/YWYyYWE1NzJjNTM0/OGU1YmZlYjg3NzJh/NWFjYzYyNi93d3cu/YnJvb2tpbmdzLmVk/dS8",
+          "path": "› research  › risks-and-remedies-for-artificial-intelligence-in-health-care"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/R78tMPUPgEm61OJrcng4scwhrXs3OVkoMehKMqCE2b4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YnJvb2tpbmdzLmVk/dS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wNy9wcmltYXJ5/LWNhcmUuanBn",
+          "original": "https://www.brookings.edu/wp-content/uploads/2019/07/primary-care.jpg",
+          "logo": false
+        },
+        "age": "November 14, 2019",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "W. Nicholson Price II"
+            }
+          ],
+          "date": "Nov 14, 2019",
+          "publisher": {
+            "type": "organization",
+            "name": "Brookings",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/1hO5XtRs6UqCMIOX81E1-wUytwNGb6MP6UCVowxLS94/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YnJvb2tpbmdzLmVk/dS93cC1jb250ZW50/L3RoZW1lcy9icm9v/a2luZ3Mvc3RhdGlj/L2ltYWdlcy9icm9v/a2luZ3MtbG9nby5q/cGc",
+              "original": "https://www.brookings.edu/wp-content/themes/brookings/static/images/brookings-logo.jpg"
+            }
+          }
+        }
+      },
+      {
+        "title": "What is Health Data Management? Benefits, Challenges and Storage ...",
+        "url": "https://cloudian.com/guides/hipaa-compliant-cloud-storage/health-data-management/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Healthcare</strong> <strong>data</strong> is increasingly digitized and, like in most other industries, <strong>data</strong> is growing in Velocity, Volume and Value. Health <strong>Data</strong> <strong>Management</strong> is the practice of making sense of this <strong>data</strong> <strong>and</strong> <strong>managing</strong> it to the benefit of <strong>healthcare</strong> organizations, practitioners, and ultimately patient ...",
+        "profile": {
+          "name": "Cloudian",
+          "url": "https://cloudian.com/guides/hipaa-compliant-cloud-storage/health-data-management/",
+          "long_name": "cloudian.com",
+          "img": "https://imgs.search.brave.com/xb-CGM6zt6-IAg5hKfDlZaMqUkBnV0DnDF44DeZou78/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg2MTdjNjU3/ZTI0OTgzYzU1Yjdi/OWM2ZWQ2NGZiMDEw/YzAzNDgxODI0Yjli/MzYxNTE5MWE5NTRm/YTQyOTQ2MS9jbG91/ZGlhbi5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cloudian.com",
+          "hostname": "cloudian.com",
+          "favicon": "https://imgs.search.brave.com/xb-CGM6zt6-IAg5hKfDlZaMqUkBnV0DnDF44DeZou78/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg2MTdjNjU3/ZTI0OTgzYzU1Yjdi/OWM2ZWQ2NGZiMDEw/YzAzNDgxODI0Yjli/MzYxNTE5MWE5NTRm/YTQyOTQ2MS9jbG91/ZGlhbi5jb20v",
+          "path": "  › health data management  › health data management: benefits, challenges and storage – cloudian"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mY5FEHV0rLTkeFpx5y-xbaf3pWkM2TbuaoqP-Y63svo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jbG91/ZGlhbi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjMvMDYv/Y3JvcHBlZC1DbG91/ZGlhbi1sb2dvLW5h/di5wbmc",
+          "original": "https://cloudian.com/wp-content/uploads/2023/06/cropped-Cloudian-logo-nav.png",
+          "logo": true
+        },
+        "age": "January 2, 2020",
+        "faq": {
+          "items": [
+            {
+              "question": "What is Health Data Management?",
+              "answer": "p&gt;Health Data Management (HDM), also known as Health Information Management (HIM) is the systematic organization of health data in digital form. This can be anything from Electronic Medical Records (EMR) generated as a result of doctor visits, to Electronic Health Records (EHR), to handwritten medical notes scanned to a digital repository.<p></p>\n<p>Health Data Management is tasked not only with organizing medical data but also integrating it and enabling its analysis to make patient care more efficient, and derive insights that can improve medical outcomes, while protecting the privacy and security of the data.</p>\n<p>According to a Deloitte survey:</p>\n<ul>\n<li>Most healthcare organizations collect EMR abstracts, claims data, and data about enrollment and medical programs.</li>\n<li>Only leading organizations additionally use electronic EMR feeds and disease management program data.</li>\n<li>Very few organizations use non-health data sources that can be used to augment formal medical data, such as patient lifestyle information, remote monitoring and wearable devices, and survey data about patient experience.</li>\n</ul>\n\n<p>As Health Data Management progresses, more organizations will collect a larger variety of health-related data, and integrate it to generate new insights that can enhance patient health.</p>",
+              "title": "What is Health Data Management? Benefits, Challenges and Storage ...",
+              "url": "https://cloudian.com/guides/hipaa-compliant-cloud-storage/health-data-management/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "cloudian.com",
+                "hostname": "cloudian.com",
+                "favicon": "https://imgs.search.brave.com/xb-CGM6zt6-IAg5hKfDlZaMqUkBnV0DnDF44DeZou78/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg2MTdjNjU3/ZTI0OTgzYzU1Yjdi/OWM2ZWQ2NGZiMDEw/YzAzNDgxODI0Yjli/MzYxNTE5MWE5NTRm/YTQyOTQ2MS9jbG91/ZGlhbi5jb20v",
+                "path": "  › health data management  › health data management: benefits, challenges and storage – cloudian"
+              }
+            }
+          ]
+        },
+        "creative_work": {
+          "name": "Health Data Management: Benefits, Challenges and Storage - Cloudian",
+          "rating": {
+            "ratingValue": 3.7,
+            "bestRating": 5.0,
+            "reviewCount": 3,
+            "is_tripadvisor": false
+          },
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/mY5FEHV0rLTkeFpx5y-xbaf3pWkM2TbuaoqP-Y63svo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jbG91/ZGlhbi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjMvMDYv/Y3JvcHBlZC1DbG91/ZGlhbi1sb2dvLW5h/di5wbmc",
+            "original": "https://cloudian.com/wp-content/uploads/2023/06/cropped-Cloudian-logo-nav.png"
+          }
+        }
+      },
+      {
+        "title": "Artificial Intelligence (AI) in Healthcare | Oracle",
+        "url": "https://www.oracle.com/artificial-intelligence/what-is-ai/ai-in-healthcare/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The <strong>healthcare</strong> industry is transitioning to the cloud with <strong>AI</strong> capabilities for improved <strong>data</strong> <strong>management</strong>, accuracy, predictive modeling and more.",
+        "profile": {
+          "name": "Oracle",
+          "url": "https://www.oracle.com/artificial-intelligence/what-is-ai/ai-in-healthcare/",
+          "long_name": "oracle.com",
+          "img": "https://imgs.search.brave.com/L1ejEuu71y0rZBBDik6TH3CRyZLTmdDJqaASyzwZvvc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWE0NDI0ZmE5/OTk3ZWQzYjk3NDI5/YjQ5YWM2ZGIzODU1/MzI2ZjVhNzViNTcy/Zjc0OWViYzcwNjRi/ZWM1NzgzYS93d3cu/b3JhY2xlLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "oracle.com",
+          "hostname": "www.oracle.com",
+          "favicon": "https://imgs.search.brave.com/L1ejEuu71y0rZBBDik6TH3CRyZLTmdDJqaASyzwZvvc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWE0NDI0ZmE5/OTk3ZWQzYjk3NDI5/YjQ5YWM2ZGIzODU1/MzI2ZjVhNzViNTcy/Zjc0OWViYzcwNjRi/ZWM1NzgzYS93d3cu/b3JhY2xlLmNvbS8",
+          "path": "  › cloud  › artificial intelligence  › what is artificial intelligence?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/_7Qs_Ty-XJtC1hjK7U_-hG0JTh0VQL3GN0Go2qmBDi8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/b3JhY2xlLmNvbS9h/L29jb20vaW1nL3Nv/Y2lhbC1vZy1pbGx1/c3RyYXRpb24tYWN4/LTEyMDB4NjI4LnBu/Zw",
+          "original": "https://www.oracle.com/a/ocom/img/social-og-illustration-acx-1200x628.png",
+          "logo": false
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

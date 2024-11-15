@@ -1,0 +1,1011 @@
+{
+  "query": {
+    "original": "Find peer-reviewed articles on the effectiveness of remote learning during the pandemic and summarize key findings",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Frontiers | Distance Learning in Higher Education During Covid-19",
+        "url": "https://www.frontiersin.org/articles/10.3389/feduc.2022.822958/full",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The mini-<strong>review</strong> aims to ascertain students&#x27; attitudes about distant <strong>learning</strong> <strong>during</strong> COVID-19. To accomplish the objective, <strong>articles</strong> were retrieved from the ERIC database. We utilize the search phrases &quot;Distance <strong>learning</strong>&quot; <strong>AND</strong> &quot;University&quot; AND &quot;COVID&quot; We compiled a list of 139 <strong>articles</strong>.",
+        "profile": {
+          "name": "Frontiers",
+          "url": "https://www.frontiersin.org/articles/10.3389/feduc.2022.822958/full",
+          "long_name": "frontiersin.org",
+          "img": "https://imgs.search.brave.com/RET9Zjq-tX963Af9NAJ5C0LgYCmuO-3mWECs96u2hNU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGQwNmJmZjE0/ZGU4ZGE4YWJhOGU3/NGFkYjM3YWRiNGM2/NjY0N2NlZTk2MzIz/ZTY4MzE5MTgzYWFm/ZGFiNTQ1OC93d3cu/ZnJvbnRpZXJzaW4u/b3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "frontiersin.org",
+          "hostname": "www.frontiersin.org",
+          "favicon": "https://imgs.search.brave.com/RET9Zjq-tX963Af9NAJ5C0LgYCmuO-3mWECs96u2hNU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGQwNmJmZjE0/ZGU4ZGE4YWJhOGU3/NGFkYjM3YWRiNGM2/NjY0N2NlZTk2MzIz/ZTY4MzE5MTgzYWFm/ZGFiNTQ1OC93d3cu/ZnJvbnRpZXJzaW4u/b3JnLw",
+          "path": "› articles  › 10.3389  › feduc.2022.822958  › full"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Kd6HPrTmhDTyljYffU-CTdlgDrW7MYaZHet5ADorhwg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZnJvbnRpZXJzaW4u/b3JnL2ZpbGVzL015/SG9tZSUyMEFydGlj/bGUlMjBMaWJyYXJ5/LzgyMjk1OC84MjI5/NThfVGh1bWJfNDAw/LmpwZw",
+          "original": "https://www.frontiersin.org/files/MyHome%20Article%20Library/822958/822958_Thumb_400.jpg",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Prior to the pandemic, interest in distance learning was burgeoning, as it was a unique style of instruction. The mini-review aims to ascertain students’ attitudes about distant learning during COVID-19. To accomplish the objective, articles were retrieved from the ERIC database. We utilize the search phrases “Distance learning” AND “University” AND “COVID.” We compiled a list of 139 articles. We chose papers with “full text” and “peer reviewed only” sections.",
+          "We selected “full text” and “Peer reviewed only” articles. After the exclusion, 58 articles endured. Then content analyses were used to determine articles related to students’ voices about distance learning. In the final list, there were 27 articles (Table 1). ... Table 1. Countries and data collection tools. In the study, a qualitative approach and content analyses were preferred. Firstly, the findings related to students’ attitudes and opinions on distance learning were determined.",
+          "We utilize the search phrases “Distance learning” AND “University” AND “COVID.” We compiled a list of 139 articles. We chose papers with “full text” and “peer reviewed only” sections. Following the exclusion, 58 articles persisted. Then, using content analysis, publications relating to students’ perspectives on distance learning were identified.",
+          "We chose papers with “full text” and “peer reviewed only” sections. Following the exclusion, 58 articles persisted. Then, using content analysis, publications relating to students’ perspectives on distance learning were identified. There were 27 articles in the final list."
+        ]
+      },
+      {
+        "title": "Learning during the pandemic: review of international research - GOV.UK",
+        "url": "https://www.gov.uk/government/publications/learning-during-the-pandemic/learning-during-the-pandemic-review-of-international-research",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Since the initial school closures, internationally, numerous <strong>reviews</strong> <strong>of</strong> <strong>the</strong> existing evidence regarding <strong>the</strong> <strong>effectiveness</strong> <strong>of</strong> online <strong>learning</strong> have been published. The main <strong>findings</strong> <strong>of</strong> <strong>some</strong> <strong>key</strong> reports follow. The OECD (2020d) summarise what is known about the impact of digital <strong>learning</strong> <strong>on</strong> ...",
+        "page_age": "2021-07-12T15:34:35",
+        "profile": {
+          "name": "",
+          "url": "https://www.gov.uk/government/publications/learning-during-the-pandemic/learning-during-the-pandemic-review-of-international-research",
+          "long_name": "gov.uk",
+          "img": "https://imgs.search.brave.com/zdA3CFtLIfvozlDh-iRjhrKCJ9m5YnRimLlw7vtnHeg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI1MDJiZjI3/NWU4NmRmZjE0OTY4/MTczYTNlOTNmMDYx/YzE1OWRhMTg3OGM5/ZjU4OTI4NTM5ODkx/ZmE1NTQxNC93d3cu/Z292LnVrLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gov.uk",
+          "hostname": "www.gov.uk",
+          "favicon": "https://imgs.search.brave.com/zdA3CFtLIfvozlDh-iRjhrKCJ9m5YnRimLlw7vtnHeg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI1MDJiZjI3/NWU4NmRmZjE0OTY4/MTczYTNlOTNmMDYx/YzE1OWRhMTg3OGM5/ZjU4OTI4NTM5ODkx/ZmE1NTQxNC93d3cu/Z292LnVrLw",
+          "path": "  › home  › covid-19  › education, universities and childcare during covid-19  › closures, exams and managing a school or early years setting during covid-19  › learning during the pandemic"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Wno1DRJKyh77bvpXqtsLYrvKCDo9iOg2pB9UfVw28kA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Z292LnVrL2Fzc2V0/cy9nb3Zlcm5tZW50/LWZyb250ZW5kL2dv/dnVrX3B1Ymxpc2hp/bmdfY29tcG9uZW50/cy9nb3Z1ay1zY2hl/bWEtcGxhY2Vob2xk/ZXItMXgxLWJmOWU2/NGQ3NTlhZjZkZmQ5/M2JlZGU4MTY4ZjMw/ODdhMzI5ZjQwNWIz/ODJhZmYzNjc0N2Ri/MGRiNGI3YjIzZTku/cG5n",
+          "original": "https://www.gov.uk/assets/government-frontend/govuk_publishing_components/govuk-schema-placeholder-1x1-bf9e64d759af6dfd93bede8168f3087a329f405b382aff36747db0db4b7b23e9.png",
+          "logo": false
+        },
+        "age": "July 12, 2021",
+        "faq": {
+          "items": [
+            {
+              "question": "Authors",
+              "answer": "<ul>\n  <li>Neil Stringer</li>\n  <li>Ellie Keys</li>\n</ul><h3>With thanks to</h3><ul>\n  <li>Charlotte Lockyer</li>\n  <li>Paul Newton</li>\n</ul>",
+              "title": "Learning during the pandemic: review of international research ...",
+              "url": "https://www.gov.uk/government/publications/learning-during-the-pandemic/learning-during-the-pandemic-review-of-international-research",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "gov.uk",
+                "hostname": "www.gov.uk",
+                "favicon": "https://imgs.search.brave.com/zdA3CFtLIfvozlDh-iRjhrKCJ9m5YnRimLlw7vtnHeg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI1MDJiZjI3/NWU4NmRmZjE0OTY4/MTczYTNlOTNmMDYx/YzE1OWRhMTg3OGM5/ZjU4OTI4NTM5ODkx/ZmE1NTQxNC93d3cu/Z292LnVrLw",
+                "path": "  › home  › covid-19  › education, universities and childcare during covid-19  › closures, exams and managing a school or early years setting during covid-19  › learning during the pandemic"
+              }
+            }
+          ]
+        },
+        "extra_snippets": [
+          "Since the initial school closures, internationally, numerous reviews of the existing evidence regarding the effectiveness of online learning have been published. The main findings of some key reports follow. The OECD (2020d) summarise what is known about the impact of digital learning on students’ performance.",
+          "The main findings of some key reports follow. The OECD (2020d) summarise what is known about the impact of digital learning on students’ performance. Simply providing access to, or even using, digital technologies does not necessarily lead to better academic results (Escueta et al., 2017). Several studies of the impact of introducing technology for learning have reported disappointing effects, ranging from negative (Angrist & Lavy, 2002; Leuven et al., 2007), through neutral (Fairlie & Robinson, 2013), to negligible (Checchi et al., 2019).",
+          "The limited opportunities for interactions with peers and teachers may affect motivation and learning, particularly during the pandemic where this extends to life beyond school. Evidence suggests the effectiveness of online remote learning will vary according to students’ characteristics and circumstances.",
+          "This may explain differences in these findings compared with the effects of school closures, as these contexts are very different (Hattie, 2020). This is important to consider in applying estimates from other contexts to the pandemic. The amount of learning loss and impact on academic achievement is dependent on the expectations of students during school closures. The early school closures in England may have been most similar to summer learning loss, as the arrangements for remote learning were not well established, and students and teachers may have seen the closures as a short-term interruption."
+        ]
+      },
+      {
+        "title": "Online learning during COVID-19 produced equivalent or better student course performance as compared with pre-pandemic: empirical evidence from a school-wide comparative study | BMC Medical Education | Full Text",
+        "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-021-02909-z",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Background The COVID-19 <strong>pandemic</strong> forced dental schools to close their campuses and move didactic instruction online. The abrupt transition to online <strong>learning</strong>, however, has raised several issues that have not been resolved. While several studies have investigated dental students’ attitude ...",
+        "profile": {
+          "name": "Biomedcentral",
+          "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-021-02909-z",
+          "long_name": "bmcmededuc.biomedcentral.com",
+          "img": "https://imgs.search.brave.com/RfyD7bmE_pnmjl6vSFgi1CJ950tenWJVjP-vCDEy2o4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGIzODkxMmE0/YmUwOTNkNzM0ZDBm/MjU1ZTdmMDM1YmU4/NTlkNWNhMzExN2E1/YmYwMjU3NjJlYTc4/YmY3ZjA1OC9ibWNt/ZWRlZHVjLmJpb21l/ZGNlbnRyYWwuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bmcmededuc.biomedcentral.com",
+          "hostname": "bmcmededuc.biomedcentral.com",
+          "favicon": "https://imgs.search.brave.com/RfyD7bmE_pnmjl6vSFgi1CJ950tenWJVjP-vCDEy2o4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGIzODkxMmE0/YmUwOTNkNzM0ZDBm/MjU1ZTdmMDM1YmU4/NTlkNWNhMzExN2E1/YmYwMjU3NjJlYTc4/YmY3ZjA1OC9ibWNt/ZWRlZHVjLmJpb21l/ZGNlbnRyYWwuY29t/Lw",
+          "path": "› articles  › 10.1186  › s12909-021-02909-z"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/PgHHOgaWdutLW2bGcUjQIvAfE2hnMrJW6F6LtOf0hao/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMtY29udGVudC5z/cHJpbmdlci5jb20v/aW1hZ2UvYXJ0JTNB/MTAuMTE4NiUyRnMx/MjkwOS0wMjEtMDI5/MDktei9NZWRpYU9i/amVjdHMvMTI5MDlf/MjAyMV8yOTA5X0Zp/ZzFfSFRNTC5wbmc",
+          "original": "https://static-content.springer.com/image/art%3A10.1186%2Fs12909-021-02909-z/MediaObjects/12909_2021_2909_Fig1_HTML.png",
+          "logo": false
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Biomedcentral",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Background The COVID-19 pandemic forced dental schools to close their campuses and move didactic instruction online. The abrupt transition to online learning, however, has raised several issues that have not been resolved. While several studies have investigated dental students’ attitude towards online learning during the pandemic, mixed results have been reported.",
+          "The remote proctoring software monitored the student during the exam through a web camera on their computer/laptop. The recorded video file flags suspicious activities for faculty review after exam completion. Table 1 summarized data on DDS students’ perceived effectiveness of each online course during summer quarter 2020.",
+          "Finally, in view of the result that over 80 % of the students wanted to continue with some online instruction after the pandemic, the school will advocate for blended learning in the post-pandemic world [48]. For future face-to-face courses on campus after the pandemic, faculty are encouraged to deliver some content online to reduce classroom seat time and make learning more flexible. Taken together, our findings not only add to the overall picture of the current situation but may inform learning design moving forward. To reiterate, we found that students’ perceived engagement with faculty and classmates predicted their perceived overall effectiveness of the online course.",
+          "Taken together, our findings not only add to the overall picture of the current situation but may inform learning design moving forward. To reiterate, we found that students’ perceived engagement with faculty and classmates predicted their perceived overall effectiveness of the online course. This aligns with the larger literature on best practices in online learning design. Extensive research prior to the pandemic has confirmed that the effectiveness of online learning is determined by a number of factors beyond the tools used, including students’ interactions with the instructor and clas"
+        ]
+      },
+      {
+        "title": "Online learning during the Covid-19 pandemic: How university students’ perceptions, engagement, and performance are related to their personal characteristics - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10025799/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "University students faced unexpected challenges in online <strong>learning</strong> <strong>during</strong> <strong>the</strong> Covid-19 <strong>pandemic</strong>. <strong>Findings</strong> from early phases of the Covid-19 <strong>pandemic</strong> <strong>and</strong> before show that online <strong>learning</strong> experiences may vary from student to student and depend on several ...",
+        "profile": {
+          "name": "NCBI",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10025799/",
+          "long_name": "National Center for Biotechnology Information",
+          "img": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ncbi.nlm.nih.gov",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+          "path": "› pmc  › articles  › PMC10025799"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5bfcHo1PfV6rvJvSnUDsmQPRhO5o-9tsgtoLMuddIKg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi9jb3JlaHRt/bC9wbWMvcG1jZ2lm/cy9wbWMtY2FyZC1z/aGFyZS5qcGc_Xz0w",
+          "original": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+          "logo": false
+        },
+        "extra_snippets": [
+          "This interesting finding might be a fruitful starting point for modeling the relationship between perceptions, engagement, and performance based on cognitive and behavioral proximity. Before discussing the results in detail, we highlight three key findings from the multiple regression analyses central to this study, which simultaneously considered the relative importance of several personal characteristics of university students for their online learning experiences.",
+          "In fact, standardized regression coefficients revealed that self-regulation skills was the second strongest factor regarding engagement and performance in online courses, which corroborates that self-regulation skills are key for successful online learning (cf. Anthonysamy, 2021; Bradley et al., 2017). Self-regulation skills have been conceptualized and operationalized quite differently so far, for example, specifically with reference to self-regulated learning (Panadero, 2017). In contrast, our findings refer to more general self-regulation skills regarding attentional control and goal pursuit (Diehl et al., 2006).",
+          "These findings emphasize the key role of academic self-efficacy in learning successfully online and on campus (cf. Honicke & Broadbent, 2016; Yokoyama, 2019), and are in line with a positive association between digital media self-efficacy and self-assessed skills in digital learning applications (Pumptow & Brahm, 2021). In addition, these findings illustrate the significance of considering more specific facets of self-efficacy that are directly related to required skills.",
+          "Quarterly Review of Distance Education. 2007;8:213–222. [Google Scholar] Cole AW, Lennon L, Weber NL. Student perceptions of online active learning practices and online learning climate predict online course engagement. Interactive Learning Environments. 2021;29:866–880. doi: 10.1080/10494820.2019.1619593. [CrossRef] [Google Scholar] Crisci G, Mammarella IC, Moscardino UM, Roch M, Thorell LB. Distance Learning Effects among Italian Children and Parents during COVID-19 Related School Lockdown."
+        ]
+      },
+      {
+        "title": "Achieving Effective Remote Working During the COVID‐19 Pandemic: A Work Design Perspective - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675760/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Existing knowledge <strong>on</strong> <strong>remote</strong> working can be questioned in an extraordinary <strong>pandemic</strong> context. We conducted a mixed‐methods investigation to explore the challenges experienced by <strong>remote</strong> workers at this time, as well as what virtual work characteristics ...",
+        "profile": {
+          "name": "NCBI",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675760/",
+          "long_name": "National Center for Biotechnology Information",
+          "img": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ncbi.nlm.nih.gov",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+          "path": "› pmc  › articles  › PMC7675760"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5bfcHo1PfV6rvJvSnUDsmQPRhO5o-9tsgtoLMuddIKg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi9jb3JlaHRt/bC9wbWMvcG1jZ2lm/cy9wbWMtY2FyZC1z/aGFyZS5qcGc_Xz0w",
+          "original": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice · Appl Psychol. 2021 Jan; 70(1): 16–59. Published online 2020 Nov 5. doi: 10.1111/apps.12290 ... Bin Wang, 1 , 2 Yukun Liu, 2 Jing Qian, 3 and Sharon K. Parker 2 ... Find articles by Sharon K. Parker",
+          "Our findings might also be influenced by cultural factors. For example, participants in Study 1 mentioned the necessity of monitoring in remote working, which might not generalize across countries. Although limited empirical work has examined the potential influences of national culture on individuals’ attitudes toward workplace electronic monitoring (see Ravid et al., 2019 for a systematic review), Panina and Aiello (2005) proposed a theoretical model that emphasized how cultural factors (e.g., individualism‐collectivism, uncertainty avoidance, and power distance) are likely to mitigate the acceptance of electronic monitoring.",
+          "Although limited empirical work has examined the potential influences of national culture on individuals’ attitudes toward workplace electronic monitoring (see Ravid et al., 2019 for a systematic review), Panina and Aiello (2005) proposed a theoretical model that emphasized how cultural factors (e.g., individualism‐collectivism, uncertainty avoidance, and power distance) are likely to mitigate the acceptance of electronic monitoring. Accordingly, cross‐cultural studies are needed to explore the generalizability of these findings, as well as how cultural factors shape the impacts of virtual work characteristics on remote worker outcomes.",
+          "While the positive relation between workload and work‐family conflict is consistent with the existing work‐family interface research, the finding that monitoring is also positively associated with work‐family conflict adds to the literature as a new form of work demands that leads to negative work‐family spillover. Although procrastination has been acknowledged as an issue for remote workers in a recent review on telecommuting (Allen et al., 2015), to our knowledge, only one empirical study has considered this topic, and this study considered procrastination as a personality variable (O’Neill et al., 2014)."
+        ]
+      },
+      {
+        "title": "Remote learning in the context of COVID-19: reviewing the effectiveness of synchronous online delivery | Emerald Insight",
+        "url": "https://www.emerald.com/insight/content/doi/10.1108/JRIT-12-2021-0086/full/html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Remote</strong> <strong>learning</strong> in the context of COVID-19: <strong>reviewing</strong> <strong>the</strong> <strong>effectiveness</strong> <strong>of</strong> synchronous online delivery - Author: Gavin Baxter, Thomas Hainey",
+        "profile": {
+          "name": "Emerald",
+          "url": "https://www.emerald.com/insight/content/doi/10.1108/JRIT-12-2021-0086/full/html",
+          "long_name": "emerald.com",
+          "img": "https://imgs.search.brave.com/JAhkXgZ5ea_gIUKtwFFbQq9QtksZlXw_x_W9eKx9w9k/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTI0OTYxMzhl/MmViODk2NjAxYTZh/N2Q1MDViODFiYjU4/NmE2MmM5ODI2ZjZm/NmMyYTdjZTkwMzQ0/MDI0MmFiNy93d3cu/ZW1lcmFsZC5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "emerald.com",
+          "hostname": "www.emerald.com",
+          "favicon": "https://imgs.search.brave.com/JAhkXgZ5ea_gIUKtwFFbQq9QtksZlXw_x_W9eKx9w9k/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTI0OTYxMzhl/MmViODk2NjAxYTZh/N2Q1MDViODFiYjU4/NmE2MmM5ODI2ZjZm/NmMyYTdjZTkwMzQ0/MDI0MmFiNy93d3cu/ZW1lcmFsZC5jb20v",
+          "path": "  › journals  › journal of research in innovative teaching & learning  › volume 16 issue 1  › remote learning in the context of covid-19: reviewing the effectiveness of synchronous online delivery"
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Gavin Baxter"
+            },
+            {
+              "type": "person",
+              "name": "Thomas Hainey"
+            }
+          ],
+          "date": "Mar 11, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Emerald Publishing Limited"
+          }
+        },
+        "extra_snippets": [
+          "Participants were asked to what extent some of the following conditions denoted in Table 9 had impacted them during the pandemic whilst learning remotely from home. Working from home seemed to cause most participants 363 (41.16%) significant stress, a feeling of being isolated 299 (33.82%) and anxiety 269 (30.57%). The findings presented in this study have substantiated key issues and arguments represented in the academic literature in relation to remote synchronous and asynchronous online educational delivery.",
+          "This provides an interesting finding so far as it can be argued that for synchronous online delivery of courses to be effective there was a perception amongst participants that a sense of structure is required. Trying to provide normality to students when studying remotely is a challenge for educators. A timetabled structured approach towards learning remotely online can provide students with a degree of motivation and routine allowing them to engage with their course materials. This research study produced some other key findings that whilst not entirely surprising, corroborate a prevalent theme in the academic literature in relation to online synchronous learning, namely the theme of engagement.",
+          "For example, it appeared to some participants that using the breakout room feature in Zoom or Microsoft Teams became irrelevant due to their peers not engaging or communicating about coursework-related matters. It was also articulated that you could manage group work more effectively in person as opposed to online with the other issue being that participation in group work online was non-existent from some students.",
+          "This is achieved via engagement with the academic literature to identify generic commonalities and preconditions to initiate and successfully deliver remote online learning. This paper further presents empirical findings from a case study on students' views about online remote learning during the pandemic in addition to the impact this has had on their health and well-being."
+        ]
+      },
+      {
+        "title": "Frontiers | COVID-19 and Distance Learning: Effects on Georgia State University School of Public Health Students",
+        "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2020.576227/full",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Citation numbers are available from Dimensions · MGH Institute of Health Professions, United States",
+        "profile": {
+          "name": "Frontiers",
+          "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2020.576227/full",
+          "long_name": "frontiersin.org",
+          "img": "https://imgs.search.brave.com/RET9Zjq-tX963Af9NAJ5C0LgYCmuO-3mWECs96u2hNU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGQwNmJmZjE0/ZGU4ZGE4YWJhOGU3/NGFkYjM3YWRiNGM2/NjY0N2NlZTk2MzIz/ZTY4MzE5MTgzYWFm/ZGFiNTQ1OC93d3cu/ZnJvbnRpZXJzaW4u/b3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "frontiersin.org",
+          "hostname": "www.frontiersin.org",
+          "favicon": "https://imgs.search.brave.com/RET9Zjq-tX963Af9NAJ5C0LgYCmuO-3mWECs96u2hNU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGQwNmJmZjE0/ZGU4ZGE4YWJhOGU3/NGFkYjM3YWRiNGM2/NjY0N2NlZTk2MzIz/ZTY4MzE5MTgzYWFm/ZGFiNTQ1OC93d3cu/ZnJvbnRpZXJzaW4u/b3JnLw",
+          "path": "› articles  › 10.3389  › fpubh.2020.576227  › full"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6ol8hGVlpqO_GexfUuEILhEtN4FJF7sErC3ZEJgHKe4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZnJvbnRpZXJzaW4u/b3JnL2ZpbGVzL015/SG9tZSUyMEFydGlj/bGUlMjBMaWJyYXJ5/LzU3NjIyNy81NzYy/MjdfVGh1bWJfNDAw/LmpwZw",
+          "original": "https://www.frontiersin.org/files/MyHome%20Article%20Library/576227/576227_Thumb_400.jpg",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Findings from the study provide information on the challenges and potential benefits GSU SPH students experienced as a result of the transition of all courses to an online format owing to COVID-19 for the rest of the fall 2020 semester. The results also provide information on the strategies employed by GSU SPH faculty that positively impacted student motivation during the pandemic, those that need to be improved upon, and those which can be replicated going forward.",
+          "All datasets generated for this study are included in the article/supplementary material. The studies involving human participants were reviewed and approved by Georgia State University Institutional Review Board. The patients/participants provided their written informed consent to participate in this study.",
+          "The studies involving human participants were reviewed and approved by Georgia State University Institutional Review Board. The patients/participants provided their written informed consent to participate in this study. EA-M wrote the draft manuscript, did the qualitative data analysis, finalized, and edited the manuscript. KR-W wrote a portion of the draft manuscript and edited the manuscript. BY performed the statistical analysis. SS-B edited the manuscript. All authors contributed to the article and approved the submitted version.",
+          "Available online at: https://www.usnews.com/education/best-colleges/articles/how-to-overcome-challenges-of-online-classes-due-to-coronavirus (accessed September 9, 2020). 13. Armstrong-Mensah E, Ramsey-White K, Alema-Mensah E. Integrative learning in US undergraduate public health education: a review of student perceptions of effective high-impact educational practices at Georgia State University."
+        ]
+      },
+      {
+        "title": "Remote Learning During COVID-19: Lessons from Today, Principles for Tomorrow",
+        "url": "https://www.worldbank.org/en/topic/edutech/brief/how-countries-are-using-edtech-to-support-remote-learning-during-the-covid-19-pandemic",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Remote</strong> <strong>Learning</strong> <strong>During</strong> <strong>the</strong> Global School Lockdown: Multi-Country Lessons and Lessons from <strong>Remote</strong> <strong>Learning</strong> <strong>During</strong> COVID-19: Lessons for today and tomorrow",
+        "profile": {
+          "name": "World Bank",
+          "url": "https://www.worldbank.org/en/topic/edutech/brief/how-countries-are-using-edtech-to-support-remote-learning-during-the-covid-19-pandemic",
+          "long_name": "worldbank.org",
+          "img": "https://imgs.search.brave.com/MuQzpbfYA9CcGe-3bWSaA78FzodcuGgEEkzXpSkwPQI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTNjNmY3MDY0/MDNlNDgyYmJhNjQ0/NWE2M2Y0M2ZlNmNk/NGI3ZTU4Y2MxYWM4/ODc2OWExOGY4ZGQx/OGEyNGI2OS93d3cu/d29ybGRiYW5rLm9y/Zy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "worldbank.org",
+          "hostname": "www.worldbank.org",
+          "favicon": "https://imgs.search.brave.com/MuQzpbfYA9CcGe-3bWSaA78FzodcuGgEEkzXpSkwPQI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTNjNmY3MDY0/MDNlNDgyYmJhNjQ0/NWE2M2Y0M2ZlNmNk/NGI3ZTU4Y2MxYWM4/ODc2OWExOGY4ZGQx/OGEyNGI2OS93d3cu/d29ybGRiYW5rLm9y/Zy8",
+          "path": "› en  › topic  › edutech  › brief  › how-countries-are-using-edtech-to-support-remote-learning-during-the-covid-19-pandemic"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/q6N2itanooIfLOI3c8ht86mHik23HvF2L5YNSLNgbf4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/d29ybGRiYW5rLm9y/Zy9jb250ZW50L2Rh/bS9waG90b3MvNzgw/eDQzOS8yMDIxL25v/di0xLzc4MHg0Mzkt/dHdpbi1yZXBvcnRz/LWNvdmVyLU5FVy5q/cGc",
+          "original": "https://www.worldbank.org/content/dam/photos/780x439/2021/nov-1/780x439-twin-reports-cover-NEW.jpg",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "World Bank Group",
+              "url": "http://www.worldbank.org"
+            }
+          ],
+          "date": "May 24, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "World Bank Group",
+            "url": "http://www.worldbank.org",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/TN2-Uf6yxx6rXBwXzDFrz27zYH0yv4gnY5WKr0GmMX8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/d29ybGRiYW5rLm9y/Zy9jb250ZW50L2Rh/bS93YnIvc2hhcmUt/bG9nby9zb2NpYWwt/c2hhcmUuanBn",
+              "original": "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Availability of technology is a necessary but not sufficient condition for effective remote learning: EdTech has been key to keep learning despite the school lockdown, opening new opportunities for delivering education at a scale. However, the impact of technology on education remains a challenge. Teachers are more critical than ever: Regardless of the learning modality and available technology, teachers play a critical role. Regular and effective pre-service and on-going teacher professional development is key.",
+          "Teachers are more critical than ever: Regardless of the learning modality and available technology, teachers play a critical role. Regular and effective pre-service and on-going teacher professional development is key. Support to develop digital and pedagogical tools to teach effectively both in remote and in-person settings.",
+          "Support to develop digital and pedagogical tools to teach effectively both in remote and in-person settings. Education is an intense human interaction endeavor: For remote learning to be successful it needs to allow for meaningful two-way interaction between students and their teachers; such interactions can be enabled by using the most appropriate technology for the local context. Parents as key partners of teachers: Parent’s involvement has played an equalizing role mitigating some of the limitations of remote learning.",
+          "The COVID-19 pandemic has disrupted education in over 150 countries and affected 1.6 billion students. In response, many countries implemented some form of remote learning. The education response during the early phase of COVID-19 focused on implementing remote learning modalities as an emergency response."
+        ]
+      },
+      {
+        "title": "Full article: Best Practices for Implementing Remote Learning during a Pandemic",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/00098655.2020.1751480",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In response to the spread of COVID-19, a new coronavirus, many U.S. schools have implemented <strong>remote</strong> <strong>learning</strong>. This approach to education can prevent students from experiencing setbacks during schoo...",
+        "profile": {
+          "name": "Taylor & Francis",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/00098655.2020.1751480",
+          "long_name": "tandfonline.com",
+          "img": "https://imgs.search.brave.com/fBtwIDJDGNKdg9gmsWUhvTK7wHgV54n2WD5RhdkM3xM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjkyY2E0YjNi/NWQyZmRlZmM0NTFm/MDg1ODliOWQ4NTEw/MWVjYWVmMjdlMWE0/ODc3NzhjYmQ0YWIy/NmY3ODFkMS93d3cu/dGFuZGZvbmxpbmUu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "tandfonline.com",
+          "hostname": "www.tandfonline.com",
+          "favicon": "https://imgs.search.brave.com/fBtwIDJDGNKdg9gmsWUhvTK7wHgV54n2WD5RhdkM3xM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjkyY2E0YjNi/NWQyZmRlZmM0NTFm/MDg1ODliOWQ4NTEw/MWVjYWVmMjdlMWE0/ODc3NzhjYmQ0YWIy/NmY3ODFkMS93d3cu/dGFuZGZvbmxpbmUu/Y29tLw",
+          "path": "  › home  › all journals  › the clearing house: a journal of educational strategies, issues and ideas  › list of issues  › volume 93, issue 3  › best practices for implementing remote l ...."
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/rdLOal5FYniKE8zGSGwSdto-SBvkTE2Iq2jCUI1Udik/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dGFuZGZvbmxpbmUu/Y29tL2RvaS9jb3Zl/ci1pbWcvMTAuMTA4/MC92dGNoMjAudjA5/My5pMDM",
+          "original": "https://www.tandfonline.com/doi/cover-img/10.1080/vtch20.v093.i03",
+          "logo": false
+        },
+        "extra_snippets": [
+          "(2020). Best Practices for Implementing Remote Learning during a Pandemic. The Clearing House: A Journal of Educational Strategies, Issues and Ideas: Vol. 93, No. 3, pp. 135-141.",
+          "In addition, teachers can search the internet to find other free online resources that may create learning opportunities. Some institutions have modified their services for children in response to the COVID-19 pandemic. For example, the Cincinnati Zoo and Botanical Gardens closed after the spread of COVID-19 but started to hold online daily lessons on different zoo animals (Tate 2020).",
+          "Using these guidelines and the suggestions for remote learning published after the spread of the coronavirus will help teachers use this approach to learning to minimize the effects school closings can have on academic progress. Some of the recommendations ISTE and EdSurge suggest during coronavirus closures include implementing methods to ensure equity, communicating expectations clearly, and providing student-centered learning. Also included in these recent publications are recommendations to use free online resources and to respond to the emotional toll a pandemic can have on students and teachers.",
+          "Being isolated at home can worsen the fear of dealing with a global pandemic. One strategy teachers and parents can use to alleviate this fear involves having a cheerful disposition. Having such an attitude promotes mental and physical well-being (Anderson 2020). Teachers also need to check on students regularly, especially those who are less skillful with digital tools (Snelling and Fingal 2020). Checking on feelings of worry or anxiety can have a profound effect on success."
+        ]
+      },
+      {
+        "title": "Effects of remote learning during COVID-19 lockdown on children’s learning abilities and school performance: A systematic review - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10266495/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This systematic <strong>review</strong> describes <strong>the</strong> <strong>effects</strong> <strong>of</strong> COVID-19 lockdowns on children’s <strong>learning</strong> <strong>and</strong> school performance. A systematic search was conducted using three databases. A total of 1787 <strong>articles</strong> were found, and 24 <strong>articles</strong> were included. Overall, ...",
+        "profile": {
+          "name": "NCBI",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10266495/",
+          "long_name": "National Center for Biotechnology Information",
+          "img": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ncbi.nlm.nih.gov",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+          "path": "› pmc  › articles  › PMC10266495"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5bfcHo1PfV6rvJvSnUDsmQPRhO5o-9tsgtoLMuddIKg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi9jb3JlaHRt/bC9wbWMvcG1jZ2lm/cy9wbWMtY2FyZC1z/aGFyZS5qcGc_Xz0w",
+          "original": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+          "logo": false
+        },
+        "extra_snippets": [
+          "The following terms were used in a search of PubMed (https://pubmed.ncbi.nlm.nih.gov/advanced/): (((((((((virtual) OR (virtually)) AND (learning)) AND (learning disorders)) AND (distance learning[MeSH Terms])) OR (distance education[MeSH Terms])) AND (pandemic[MeSH Terms])) OR (confinement)) AND (School children) AND (COVID-19)). For searching the Scopus database (https://www.scopus.com), we used the following terms: ALL ( virtual OR virtually AND learning AND learning AND disorders AND (“distance” AND “learning”) AND (“distance” AND “education”) AND (pandemic OR confinement) A",
+          "Haelermans C., Korthals R., Jacobs M., de Leeuw S., Vermeulen S., van Vugt L., Aarts B., Prokic-Breuer T., van der Velden R., van Wetten S., de Wolf I. Sharp increase in inequality in education in times of the COVID-19-pandemic. PLoS One. 2022;17 doi: 10.1371/journal.pone.0261114. [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "Scarpellini F., Segre G., Cartabia M., Zanetti M., Campi R., Clavenna A., Bonati M. Distance learning in Italian primary and middle school children during the COVID-19 pandemic: a national survey. BMC Public Health. 2021;21:1035. doi: 10.1186/s12889-021-11026-x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "A Comprehensive Picture of Achievement Across the COVID-19 Pandemic Years: Examining Variation in Test Levels and Growth Across Districts, Schools, Grades, and Students | CALDER. CALDER Work. Pap. No 266–0522. González M., Loose T., Liz M., Pérez M., Rodríguez-Vinçon J.I., Tomás-Llerena C., Vásquez-Echeverría A. School readiness losses during the COVID-19 outbreak. A comparison of two cohorts of young children. Child Dev. 2022;93:910–924. doi: 10.1111/cdev.13738. [PMC free article] [PubMed] [CrossRef] [Google Scholar]"
+        ]
+      },
+      {
+        "title": "Frontiers | Faculty’s and Students’ Perceptions of Online Learning During COVID-19",
+        "url": "https://www.frontiersin.org/articles/10.3389/feduc.2021.638470/full",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The study found that both faculty and students agreed that online education is useful during the current pandemic. At the same time, <strong>its efficacy is less effective than face-to-face learning and teaching</strong>. Faculty and students indicated that online learning challenges lie in adapting to online ...",
+        "profile": {
+          "name": "Frontiers",
+          "url": "https://www.frontiersin.org/articles/10.3389/feduc.2021.638470/full",
+          "long_name": "frontiersin.org",
+          "img": "https://imgs.search.brave.com/RET9Zjq-tX963Af9NAJ5C0LgYCmuO-3mWECs96u2hNU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGQwNmJmZjE0/ZGU4ZGE4YWJhOGU3/NGFkYjM3YWRiNGM2/NjY0N2NlZTk2MzIz/ZTY4MzE5MTgzYWFm/ZGFiNTQ1OC93d3cu/ZnJvbnRpZXJzaW4u/b3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "frontiersin.org",
+          "hostname": "www.frontiersin.org",
+          "favicon": "https://imgs.search.brave.com/RET9Zjq-tX963Af9NAJ5C0LgYCmuO-3mWECs96u2hNU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGQwNmJmZjE0/ZGU4ZGE4YWJhOGU3/NGFkYjM3YWRiNGM2/NjY0N2NlZTk2MzIz/ZTY4MzE5MTgzYWFm/ZGFiNTQ1OC93d3cu/ZnJvbnRpZXJzaW4u/b3JnLw",
+          "path": "› articles  › 10.3389  › feduc.2021.638470  › full"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/U5eAuL33xjzt7jz29LDlWR48PE9-ftS1rlpTejmyWoU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZnJvbnRpZXJzaW4u/b3JnL2ZpbGVzL015/SG9tZSUyMEFydGlj/bGUlMjBMaWJyYXJ5/LzYzODQ3MC82Mzg0/NzBfVGh1bWJfNDAw/LmpwZw",
+          "original": "https://www.frontiersin.org/files/MyHome%20Article%20Library/638470/638470_Thumb_400.jpg",
+          "logo": false
+        },
+        "extra_snippets": [
+          "The spread of Covid-19 has led to the closure of educational institutions worldwide, forcing academic institutions to find online platforms. This sit-uation accelerated the development of the online learning environments within those institutions. The Covid-19 pandemic has unfolded the extent of the academic institutions' readiness to deal with such a crisis.",
+          "Moreover, students lack the influence of peer learning. These challenges also leave an impact on student’s personalities and prevent them from taking their turns. Additionally, the faculty’s role is to teach, monitor, and provide advice for students on both academic and personal levels. The current crisis, COVID-19, highlights the role of the Internet and technology in all walks of life including education. The pandemic has shown the role of online education in coping with abrupt crises, and therefore it is significant to understand both faculty’s and student’s perceptions concerning online classes.",
+          "The study found that both faculty and students agreed that online education is useful during the current pandemic. At the same time, its efficacy is less effective than face-to-face learning and teaching. Faculty and students indicated that online learning challenges lie in adapting to online education, especially for deaf and hard of hearing students, lack of interaction and motivation, technical and Internet issues, data privacy, and security.",
+          "Siripongdee, K., Pimdee, P., and Tuntiwongwanich, S. (2020). A blended learning model with IoT-based technology: Effectively used when the COVID-19 pandemic? J. Educ. Gift. Young Sci. 8, 905–917. doi: 10.17478/JEGYS.698869"
+        ]
+      },
+      {
+        "title": "The changing role of teachers and technologies amidst the COVID 19 pandemic: key findings from a cross-country study",
+        "url": "https://blogs.worldbank.org/en/education/changing-role-teachers-and-technologies-amidst-covid-19-pandemic-key-findings-cross",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Despite the overwhelming consequences of <strong>the</strong> <strong>pandemic</strong>, this global crisis has also been an extraordinary time for <strong>learning</strong>.",
+        "profile": {
+          "name": "Worldbank",
+          "url": "https://blogs.worldbank.org/en/education/changing-role-teachers-and-technologies-amidst-covid-19-pandemic-key-findings-cross",
+          "long_name": "blogs.worldbank.org",
+          "img": "https://imgs.search.brave.com/z_QWprbfFfDVcHoe0peX7wVh4OosAb_pMVDJ_aHhrwI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Y0MjIzNjU2/ZjAzZmExZjYyOTI1/ODMyOTBkNjI2OWUy/ZGI0YzNlMjViN2Jj/OGIyNzQwZDQ3ODNl/NWY5YjNjMS9ibG9n/cy53b3JsZGJhbmsu/b3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "blogs.worldbank.org",
+          "hostname": "blogs.worldbank.org",
+          "favicon": "https://imgs.search.brave.com/z_QWprbfFfDVcHoe0peX7wVh4OosAb_pMVDJ_aHhrwI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Y0MjIzNjU2/ZjAzZmExZjYyOTI1/ODMyOTBkNjI2OWUy/ZGI0YzNlMjViN2Jj/OGIyNzQwZDQ3ODNl/NWY5YjNjMS9ibG9n/cy53b3JsZGJhbmsu/b3JnLw",
+          "path": "› en  › education  › changing-role-teachers-and-technologies-amidst-covid-19-pandemic-key-findings-cross"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0WVx_WHIHGeUHl2TrPpMMTJvI9DtMMWiK-T7BF1NXCk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zN2Qx/LnNjZW5lNy5jb20v/aXMvaW1hZ2Uvd2Jj/b2xsYWIvR2lybF93/aXRoX2FfcGhvbmU_/cWx0PTkwJmZtdD13/ZWJwJnJlc01vZGU9/c2hhcnAy",
+          "original": "https://s7d1.scene7.com/is/image/wbcollab/Girl_with_a_phone?qlt=90&fmt=webp&resMode=sharp2"
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Maria Barron",
+              "url": "https://blogs.worldbank.org/en/team/m/maria-barron"
+            },
+            {
+              "type": "person",
+              "name": "Cristóbal Cobo",
+              "url": "https://blogs.worldbank.org/en/team/c/cristobal-cobo"
+            },
+            {
+              "type": "person",
+              "name": "Alberto Munoz-Najar",
+              "url": "https://blogs.worldbank.org/en/team/a/alberto-munoz-najar"
+            },
+            {
+              "type": "person",
+              "name": "Inaki Sanchez Ciarrusta",
+              "url": "https://blogs.worldbank.org/en/team/i/inaki-sanchez-ciarrusta"
+            }
+          ],
+          "publisher": {
+            "type": "organization",
+            "name": "World Bank Group",
+            "url": "https://www.worldbank.org",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/PJO6nvpq6T-leucJK3rxWWIs2zPIs1neOpJyNNWgbU8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zN2Qx/LnNjZW5lNy5jb20v/aXMvaW1hZ2Uvd2Jj/b2xsYWIvbG9nby1l/bj9xbHQ9OTAmZm10/PXdlYnAmcmVzTW9k/ZT1zaGFycDI",
+              "original": "https://s7d1.scene7.com/is/image/wbcollab/logo-en?qlt=90&fmt=webp&resMode=sharp2"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Despite the overwhelming consequences of the pandemic, this global crisis has also been an extraordinary time for learning. We are learning how adaptable and resilient educational systems, policy makers, teachers, students and families can be. In this blog (which is part of a series highlighting key lessons learned from a study to understand the perceived effectiveness of remote learning solutions, forthcoming) we summarize lessons learned in different countries, with special focus on teachers and how they had to quickly reimagine human connections and interactions to facilitate learning.",
+          "In this blog (which is part of a series highlighting key lessons learned from a study to understand the perceived effectiveness of remote learning solutions, forthcoming) we summarize lessons learned in different countries, with special focus on teachers and how they had to quickly reimagine human connections and interactions to facilitate learning. The role of teachers is rapidly evolving becoming in many ways more difficult than when learning took place only in person. How has the pandemic changed the role of teachers? Two crucial factors have shifted due to the pandemic.",
+          "It is critical to empower teachers, investing in the necessary skills development and capacity building to exploit the full potential of remote and blended learning. Equally important is to free teachers’ time from administrative tasks (as Brazil, Peru and Uruguay did), focus on what is pedagogically effective, and provide socio-emotional support for teachers. The pandemic and the extended school closures have changed the role of teachers and most of them were not prepared for such change; a comprehensive strategy is required for socio-emotional monitoring and psychosocial support to ensure teacher wellbeing and avoid burnout.",
+          "Technology interventions should enhance teacher engagement with students, through improved access to content, data and networks, helping teachers better support student learning, as laid out in the World Bank’s Platform for Successful Teachers, where effective use of technology is one of the key principles to ensure cadres of effective teachers. How policymakers can support teachers during the reopening of schools? In order to build back stronger education systems, countries will need to apply those teaching initiatives that have proved to be effective during the remote learning phase and integrate them into the regular education system."
+        ]
+      },
+      {
+        "title": "The rise of online learning during the COVID-19 pandemic | World Economic Forum",
+        "url": "https://www.weforum.org/agenda/2020/04/coronavirus-education-global-covid19-online-digital-learning/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Research suggests that online <strong>learning</strong> has been shown to increase retention of information, and take less time, meaning the changes coronavirus have caused might be here to stay.",
+        "profile": {
+          "name": "World Economic Forum",
+          "url": "https://www.weforum.org/agenda/2020/04/coronavirus-education-global-covid19-online-digital-learning/",
+          "long_name": "weforum.org",
+          "img": "https://imgs.search.brave.com/KeNXPHIWyhDG24G1Ka_OO0ZRScbwcHqG3QbN3bE-RpY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDA5OTE4OWZl/NTAwNGIyNzM5ZTY5/ZmE0YjQ3Zjc5ZDI2/OTRiM2ZiZDE2ODc2/MzFjZjIwNjQzYzM3/MGRhOWJiNC93d3cu/d2Vmb3J1bS5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "weforum.org",
+          "hostname": "www.weforum.org",
+          "favicon": "https://imgs.search.brave.com/KeNXPHIWyhDG24G1Ka_OO0ZRScbwcHqG3QbN3bE-RpY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDA5OTE4OWZl/NTAwNGIyNzM5ZTY5/ZmE0YjQ3Zjc5ZDI2/OTRiM2ZiZDE2ODc2/MzFjZjIwNjQzYzM3/MGRhOWJiNC93d3cu/d2Vmb3J1bS5vcmcv",
+          "path": "› agenda  › 2020  › 04  › coronavirus-education-global-covid19-online-digital-learning"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/cDm6IrtWt_iWe8_zYzTTbvPweR1RwNDNFL7-A9nnOfI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMud2Vmb3J1bS5v/cmcvYXJ0aWNsZS9p/bWFnZS9yZXNwb25z/aXZlX2xhcmdlX3lN/VERDcG5TZ0h5YnNU/Z3N2Y09NN29rVUZZ/LVFuZWxWZmFfYzli/ajVxbDAuSlBH",
+          "original": "https://assets.weforum.org/article/image/responsive_large_yMTDCpnSgHybsTgsvcOM7okUFY-QnelVfa_c9bj5ql0.JPG",
+          "logo": false
+        },
+        "extra_snippets": [
+          "As a result, education has changed dramatically, with the distinctive rise of e-learning, whereby teaching is undertaken remotely and on digital platforms. Research suggests that online learning has been shown to increase retention of information, and take less time, meaning the changes coronavirus have caused might be here to stay. While countries are at different points in their COVID-19 infection rates, worldwide there are currently more than 1.2 billion children in 186 countries affected by school closures due to the pandemic.",
+          "The COVID-19 has meant schools across the globe have closed and over 1.2 billion children no longer in the classroom, with many learning online instead.",
+          "It enables me to reach out to my students more efficiently and effectively through chat groups, video meetings, voting and also document sharing, especially during this pandemic. My students also find it is easier to communicate on Lark. I will stick to Lark even after coronavirus, I believe traditional offline learning and e-learning can go hand by hand.\"",
+          "While some schools and governments have been providing digital equipment to students in need, such as in New South Wales, Australia, many are still concerned that the pandemic will widenthe digital divide. For those who do have access to the right technology, there is evidence that learning online can be more effective in a number of ways."
+        ]
+      },
+      {
+        "title": "Teaching and Leading Through a Pandemic: Key Findings from the American Educator Panels Spring 2020 COVID-19 Surveys | RAND",
+        "url": "https://www.rand.org/pubs/research_reports/RRA168-2.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Drawing on the RAND Corporation&#x27;s American Educator Panels, this Data Note presents nationally representative teacher and principal survey results on several aspects of schooling during the coronavirus disease 2019 (COVID-19) <strong>pandemic</strong>.",
+        "profile": {
+          "name": "Rand",
+          "url": "https://www.rand.org/pubs/research_reports/RRA168-2.html",
+          "long_name": "rand.org",
+          "img": "https://imgs.search.brave.com/-VN93ZBbOLRmK7lPptXolGDsyFFKceM5MX9X4feuTtA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWE3ZTNmMzc2/YmE3ODMzNjcxZmE3/NWQyOTMzM2FiNjY1/MWI1ZmM3ZGJmOTFh/Nzk2NjE5ZTk1MjE2/OTE5N2UyNi93d3cu/cmFuZC5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "book",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "rand.org",
+          "hostname": "www.rand.org",
+          "favicon": "https://imgs.search.brave.com/-VN93ZBbOLRmK7lPptXolGDsyFFKceM5MX9X4feuTtA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWE3ZTNmMzc2/YmE3ODMzNjcxZmE3/NWQyOTMzM2FiNjY1/MWI1ZmM3ZGJmOTFh/Nzk2NjE5ZTk1MjE2/OTE5N2UyNi93d3cu/cmFuZC5vcmcv",
+          "path": "  › research & commentary  › research reports  › rr-a168"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/7ldAsDv-TkotqjZsjCe3p8enB8XOFfepsOVwsuwLIFM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3dh/c3NldHMucmFuZC5v/cmcvY29udGVudC9y/YW5kL3B1YnMvcmVz/ZWFyY2hfcmVwb3J0/cy9SUkExNjgtMi9q/Y3I6Y29udGVudC9w/YXIvdGVhc2VyLmZp/dC4weDAuanBlZy8x/NTk1NDY2NDYzNjE4/LmpwZWc",
+          "original": "https://wwwassets.rand.org/content/rand/pubs/research_reports/RRA168-2/jcr:content/par/teaser.fit.0x0.jpeg/1595466463618.jpeg",
+          "logo": false
+        },
+        "book": {
+          "title": "Teaching and Leading Through a Pandemic: Key Findings from the American Educator Panels Spring 2020 COVID-19 Surveys",
+          "author": [
+            {
+              "type": "person",
+              "name": "Laura S. Hamilton",
+              "url": "https://www.rand.org/pubs/authors/h/hamilton_laura_s.html"
+            },
+            {
+              "type": "person",
+              "name": "Julia H. Kaufman",
+              "url": "https://www.rand.org/about/people/k/kaufman_julia_h.html"
+            },
+            {
+              "type": "person",
+              "name": "Melissa Kay Diliberti",
+              "url": "https://www.rand.org/about/people/d/diliberti_melissa_kay.html"
+            }
+          ],
+          "pages": 16
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Rand",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "U.S. teachers and principals shifted quickly to support students with distance learning during the early weeks of the coronavirus crisis. But unfortunately, the pandemic is likely to make existing inequalities worse.",
+          "District leaders should be prepared to help them as they shift to plan for emergencies, address learning gaps, and deal with student mental health issues that might be exacerbated by the pandemic's effects. ... The research described in this report was conducted by RAND Education and Labor and supported by the Bill & Melinda Gates Foundation. This report is part of the RAND research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.",
+          "The pandemic has caused principals to reprioritize goals and tasks. District leaders should be prepared to help them as they shift to plan for emergencies, address learning gaps, and deal with student mental health issues that might be exacerbated by the pandemic's effects.",
+          "Effective Solutions. ... Educators and students in schools across the United States have faced sweeping, unprecedented changes to teaching and learning as a result of the coronavirus disease 2019 (COVID-19) pandemic, which shuttered school buildings in spring 2020."
+        ]
+      },
+      {
+        "title": "(PDF) Online learning during COVID-19: Key challenges and suggestions to enhance effectiveness",
+        "url": "https://www.researchgate.net/publication/346719308_Online_learning_during_COVID-19_Key_challenges_and_suggestions_to_enhance_effectiveness",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "PDF | The COVID-19 <strong>pandemic</strong> has wreaked havoc on every aspect of society. It has caused profound disruption to the education system as governments... | <strong>Find</strong>, read and cite all the research you need on ResearchGate",
+        "page_age": "2020-12-08T21:24:37",
+        "profile": {
+          "name": "ResearchGate",
+          "url": "https://www.researchgate.net/publication/346719308_Online_learning_during_COVID-19_Key_challenges_and_suggestions_to_enhance_effectiveness",
+          "long_name": "researchgate.net",
+          "img": "https://imgs.search.brave.com/ZkQpaoCHAR35EQX7LCixoSkJrFGMGAZpg_OlV0MAxzI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjE0MDk0Yzli/MWQ3NGQ2ZTNjODVh/YWVmMDNkM2NkZWI5/NGEzNjdhMmEyY2E2/N2EzN2Y0OThlZjdi/YWU3MjkwMi93d3cu/cmVzZWFyY2hnYXRl/Lm5ldC8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "researchgate.net",
+          "hostname": "www.researchgate.net",
+          "favicon": "https://imgs.search.brave.com/ZkQpaoCHAR35EQX7LCixoSkJrFGMGAZpg_OlV0MAxzI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjE0MDk0Yzli/MWQ3NGQ2ZTNjODVh/YWVmMDNkM2NkZWI5/NGEzNjdhMmEyY2E2/N2EzN2Y0OThlZjdi/YWU3MjkwMi93d3cu/cmVzZWFyY2hnYXRl/Lm5ldC8",
+          "path": "› publication  › 346719308_Online_learning_during_COVID-19_Key_challenges_and_suggestions_to_enhance_effectiveness"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/isJECFf34qfZiKo-UAs_CY2TELTR6Y6_OjAiGkNTScI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pMS5y/Z3N0YXRpYy5uZXQv/cHVibGljYXRpb24v/MzQ2NzE5MzA4X09u/bGluZV9sZWFybmlu/Z19kdXJpbmdfQ09W/SUQtMTlfS2V5X2No/YWxsZW5nZXNfYW5k/X3N1Z2dlc3Rpb25z/X3RvX2VuaGFuY2Vf/ZWZmZWN0aXZlbmVz/cy9saW5rcy81ZmQ3/NjA3ZTkyODUxYzEz/ZmU4NTEyMjIvbGFy/Z2VwcmV2aWV3LnBu/Zw",
+          "original": "https://i1.rgstatic.net/publication/346719308_Online_learning_during_COVID-19_Key_challenges_and_suggestions_to_enhance_effectiveness/links/5fd7607e92851c13fe851222/largepreview.png",
+          "logo": false
+        },
+        "age": "December 8, 2020",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Kimkong Heng",
+              "url": "https://www.researchgate.net/profile/Kimkong-Heng",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/T79ExCsmnp7_Y-OJIROtAdEOsj8yhQfaNW0PsnKfcdI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pMS5y/Z3N0YXRpYy5uZXQv/aWkvcHJvZmlsZS5p/bWFnZS83NDMxMDQ5/MTUxODE1NjgtMTU1/NDE4MTQyNjE4NF9R/NjQvS2lta29uZy1I/ZW5nLmpwZw",
+                "original": "https://i1.rgstatic.net/ii/profile.image/743104915181568-1554181426184_Q64/Kimkong-Heng.jpg"
+              }
+            },
+            {
+              "type": "person",
+              "name": "Koemhong Sol",
+              "url": "https://www.researchgate.net/profile/Koemhong-Sol",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/NEsWA-TH6ncpqbzO03CanHZkqvmpgS7xDQcPIk-L8VM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pMS5y/Z3N0YXRpYy5uZXQv/aWkvcHJvZmlsZS5p/bWFnZS85MzE1OTg5/MzM0NDI1NjAtMTU5/OTEyMTkwMjIzNl9R/NjQvS29lbWhvbmct/U29sLmpwZw",
+                "original": "https://i1.rgstatic.net/ii/profile.image/931598933442560-1599121902236_Q64/Koemhong-Sol.jpg"
+              }
+            }
+          ],
+          "date": "Dec 08, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "unknown",
+            "url": "https://www.researchgate.net/unknown",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/jW3bn5dLcmGzH5KIoUwkP0CEeemULDXeyGvTx_Pftpw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmVzZWFyY2hnYXRl/Lm5ldC91bmtub3du",
+              "original": "https://www.researchgate.net/unknown"
+            }
+          }
+        },
+        "extra_snippets": [
+          "It then discusses key challenges posed by the widespread adoption of online learning during the pandemic, followed by a discussion of suggestions made by different researchers to enhance the effectiveness of online learning. The article concludes with a summary of key challenges and suggestions and brief recommendations for the broader adoption of online and blended learning in the post-COVID-19 world.View full-text ... The COVID-19 pandemic has wreaked havoc on every aspect of society.",
+          "It then discusses key challenges posed by the widespread adoption of online learning during the pandemic, followed by a discussion of suggestions made by different researchers to enhance the effectiveness of online learning. The article concludes with a summary of key challenges and suggestions and brief recommendations for the broader adoption of online and blended learning in the post-COVID-19 world.View full-text ... The COVID-19 pandemic has, no doubt, caused great disruption to human life.",
+          "The pandemic brought about a shift in education worldwide, necessitating a rapid transition from traditional classroom teaching to remote and blended learning modalities. This conceptual paper explores the emerging landscape of blended teaching and learning in South African secondary schools in the post-COVID-19 era. While South Africa's educational system was not immune to the disruptions caused by the pandemic, unique challenges and opportunities also presented themselves. This study reviewed journal articles and book chapters focused on the nature of blended teaching and learning in South African secondary schools following the COVID-19 pandemic.",
+          "The search terms employed by the researchers were COVID-19, remote learning, e-learning, online learning, higher education, information technology and asynchronous learning systems. For the selection of the most relevant articles for the final review, the researchers employed inclusion and exclusion criteria. Studies that addressed higher education online learning and the challenges encountered by higher education due to Covid-19 were eligible for inclusion. The findings revealed that academics encountered multiple challenges during the transition from contact learning to online learning, thes"
+        ]
+      },
+      {
+        "title": "Remote Working and Work Effectiveness: A Leader Perspective - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9690707/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Currently, job duties are massively transferred from in-person to <strong>remote</strong> working. Existing knowledge <strong>on</strong> <strong>remote</strong> working is mainly based on employees’ assessment. However, the manager’s perspective is crucial in organizations that turned ...",
+        "profile": {
+          "name": "NCBI",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9690707/",
+          "long_name": "National Center for Biotechnology Information",
+          "img": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ncbi.nlm.nih.gov",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+          "path": "› pmc  › articles  › PMC9690707"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5bfcHo1PfV6rvJvSnUDsmQPRhO5o-9tsgtoLMuddIKg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi9jb3JlaHRt/bC9wbWMvcG1jZ2lm/cy9wbWMtY2FyZC1z/aGFyZS5qcGc_Xz0w",
+          "original": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Since the COVID-19 pandemic, many studies have been conducted on various aspects of remote working from the employees’ perspectives [3,4,5,6,7]. Generally, employees find working from home productive, albeit managers are often concerned about maintaining job performance at least on the same level as office work [8,9]. Thus, it seems crucial to look at how managers at different levels of management perceive the introduction of remote working on an unprecedented scale since they are responsible for organizing and controlling the employees’ work [10]. We decided to use managerial perception a",
+          "In the context of remote working introduced on such a large scale during the COVID-19 pandemic, our findings highlight that, on the one hand, increased effectiveness and perceived benefits can be observed. On the other hand, they are not at the same level depending on the management role connected with social interactions.",
+          "Second, the sample size was comparatively small, with a male predominance, which limits the generalizability of the findings and the opportunity to explore other moderating mechanisms. Nevertheless, the sample provided sufficient statistical power to test the hypothesized relations. Next, our study was designed as cross-sectional. Considering the specificity of the sample and contextual conditions (i.e., pandemic), the cross-sectional design seemed reasonable and indicated the most significant relations.",
+          "They usually do not have the power to implement their own initiatives that can change the strategic goals [19,22]. Nevertheless, to ensure the stable functioning of the organization in unstable circumstances (e.g., at the time of the pandemic), they play a crucial role as first-line leaders. Therefore, the main objective of our study was the assessment of how managers with direct contact with subordinates (i.e., low- and middle-level managers) perceived work effectiveness. The environment in which an organization finds itself is volatile, and managers at all levels should be open to change."
+        ]
+      },
+      {
+        "title": "Student perspective of classroom and distance learning during COVID-19 pandemic in the undergraduate dental study program Universitas Indonesia | BMC Medical Education | Full Text",
+        "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-020-02312-0",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Background The COVID-19 <strong>pandemic</strong> has become a global health issue and has had a major impact on education. Consequently, half way through the second semester of the academic year 2019/2020, <strong>learning</strong> methods were delivered through distance <strong>learning</strong> (DL). We aimed to evaluate the student perspective ...",
+        "profile": {
+          "name": "Biomedcentral",
+          "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-020-02312-0",
+          "long_name": "bmcmededuc.biomedcentral.com",
+          "img": "https://imgs.search.brave.com/RfyD7bmE_pnmjl6vSFgi1CJ950tenWJVjP-vCDEy2o4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGIzODkxMmE0/YmUwOTNkNzM0ZDBm/MjU1ZTdmMDM1YmU4/NTlkNWNhMzExN2E1/YmYwMjU3NjJlYTc4/YmY3ZjA1OC9ibWNt/ZWRlZHVjLmJpb21l/ZGNlbnRyYWwuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bmcmededuc.biomedcentral.com",
+          "hostname": "bmcmededuc.biomedcentral.com",
+          "favicon": "https://imgs.search.brave.com/RfyD7bmE_pnmjl6vSFgi1CJ950tenWJVjP-vCDEy2o4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGIzODkxMmE0/YmUwOTNkNzM0ZDBm/MjU1ZTdmMDM1YmU4/NTlkNWNhMzExN2E1/YmYwMjU3NjJlYTc4/YmY3ZjA1OC9ibWNt/ZWRlZHVjLmJpb21l/ZGNlbnRyYWwuY29t/Lw",
+          "path": "› articles  › 10.1186  › s12909-020-02312-0"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AQLFbqdWEb7w_ag_CMJVEq4TAkaqkMWFMxib2hzNkHk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS5zcHJpbmdlcm5h/dHVyZS5jb20vZnVs/bC9zcHJpbmdlci1z/dGF0aWMvY292ZXIt/aGlyZXMvam91cm5h/bC8xMjkwOQ",
+          "original": "https://media.springernature.com/full/springer-static/cover-hires/journal/12909",
+          "logo": false
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Biomedcentral",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Background The COVID-19 pandemic has become a global health issue and has had a major impact on education. Consequently, half way through the second semester of the academic year 2019/2020, learning methods were delivered through distance learning (DL). We aimed to evaluate the student perspective of DL compared to classroom learning (CL) in the undergraduate dentistry study program at the Faculty of Dentistry Universitas Indonesia.",
+          "Recent study also reported students concerned on the issues of economic slowdown, potential academic delay and changes in daily life and these were associated with the level of anxiety of the college student in China during this pandemic time [24]. The present study demonstrated important findings that are essential for the improvement and development of learning strategies in the future.",
+          "Despite these limitations, the results of this study offer valuable information on the current perspectives of dental students with regard to full distance learning methods implemented during the COVID-19 pandemic. As student acceptance of learning method play an important role in creating an effective learning environment [27, 28]. Due to the uncertainty in this COVID-19 pandemic time, whereby the situation is still changes, it is essential to design the learning method that is most suited to current situation and to have appropriate plan once it is permissible for classroom teaching to resume its activities, taken into consideration all the necessary protocols for safety and health protection [29].",
+          "Full distance learning whereby group discussions were carried out synchronously through the online communication platforms is a new learning method that has not been previously implemented in our dental school. This study was the first to compare the student perceptions on both types of learning methods related to the preference, effectiveness and learning satisfaction reported during the COVID-19 pandemic condition."
+        ]
+      },
+      {
+        "title": "Remote learning during COVID-19 pandemic: How countries have faced the challenge of implementing multichannel education delivery strategies",
+        "url": "https://blogs.worldbank.org/education/remote-learning-during-covid-19-pandemic-how-countries-have-faced-challenge-implementing",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "How have countries faced the challenge of implementing multichannel education delivery strategies?",
+        "profile": {
+          "name": "World Bank Blogs",
+          "url": "https://blogs.worldbank.org/education/remote-learning-during-covid-19-pandemic-how-countries-have-faced-challenge-implementing",
+          "long_name": "blogs.worldbank.org",
+          "img": "https://imgs.search.brave.com/z_QWprbfFfDVcHoe0peX7wVh4OosAb_pMVDJ_aHhrwI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Y0MjIzNjU2/ZjAzZmExZjYyOTI1/ODMyOTBkNjI2OWUy/ZGI0YzNlMjViN2Jj/OGIyNzQwZDQ3ODNl/NWY5YjNjMS9ibG9n/cy53b3JsZGJhbmsu/b3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "blogs.worldbank.org",
+          "hostname": "blogs.worldbank.org",
+          "favicon": "https://imgs.search.brave.com/z_QWprbfFfDVcHoe0peX7wVh4OosAb_pMVDJ_aHhrwI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Y0MjIzNjU2/ZjAzZmExZjYyOTI1/ODMyOTBkNjI2OWUy/ZGI0YzNlMjViN2Jj/OGIyNzQwZDQ3ODNl/NWY5YjNjMS9ibG9n/cy53b3JsZGJhbmsu/b3JnLw",
+          "path": "› education  › remote-learning-during-covid-19-pandemic-how-countries-have-faced-challenge-implementing"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wnT3pm7cjQG4KFdVD0JRZhsUFA7Q0BIc5q8yuvtS554/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9ibG9n/cy53b3JsZGJhbmsu/b3JnL3NpdGVzL2Rl/ZmF1bHQvZmlsZXMv/c3R5bGVzL3NoYXJl/L3B1YmxpYy8yMDIx/LTAxL2NyaXN0b2Jh/bF9pbmFraV8yLmpw/Zz9pdG9rPVVBZlho/dXBl",
+          "original": "https://blogs.worldbank.org/sites/default/files/styles/share/public/2021-01/cristobal_inaki_2.jpg?itok=UAfXhupe",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Cristóbal Cobo, Alberto Munoz-Najar, Inaki Sanchez Ciarrusta,",
+              "url": "https://blogs.worldbank.org/team/cristobal-cobo"
+            },
+            {
+              "type": "person",
+              "name": "Cristóbal Cobo, Alberto Munoz-Najar, Inaki Sanchez Ciarrusta,",
+              "url": "https://blogs.worldbank.org/team/alberto-munoz-najar"
+            },
+            {
+              "type": "person",
+              "name": "Cristóbal Cobo, Alberto Munoz-Najar, Inaki Sanchez Ciarrusta,",
+              "url": "https://blogs.worldbank.org/team/inaki-sanchez-ciarrusta"
+            }
+          ],
+          "publisher": {
+            "type": "organization",
+            "name": "World Bank Group",
+            "url": "https://www.worldbank.org",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/sujtG72HdguBX3gwG4krBb6SFNTnn15gEMwwke8s2Ps/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9ibG9n/cy53b3JsZGJhbmsu/b3JnL3NpdGVzL2Rl/ZmF1bHQvZmlsZXMv/bG9nb3MvbG9nby13/Yi1oZWFkZXItZW4u/cG5n",
+              "original": "https://blogs.worldbank.org/sites/default/files/logos/logo-wb-header-en.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "The government has monitored effectiveness by proxy, tracking the frequency of communication between teachers and students, satisfaction rates with Aprendo en Casa’s delivery systems, learning habits, among other key indicators. However, none of the countries analyzed in this study were yet in a position to effectively monitor student learning. While the pandemic has revealed that global education systems have started from unequal ‘remote learning playing fields’, it has helped us understand the importance of building solid but also resilient education systems for now and for the future.",
+          "Between May and November, 2020, the EdTech team conducted first an exploratory study to understand the perceived effectiveness of remote learning solutions implemented across five countries (Brazil, Kenya, Nigeria, Sierra Leone, and Peru) and then, building on key lessons learned, a second phase of the study identifying global trends in remote learning implemented during school closures and the actions governments are taking to get ready for remedial learning (in Afghanistan, Cambodia, Cameroon, Haiti, Kenya, Malawi, Mozambique, Nepal, Niger, Pakistan, Rwanda, Estonia and Uruguay).",
+          "Countries worldwide are trying to adjust to the disruptions in the education landscape caused by the COVID-19 pandemic. The Education Technology (EdTech) team in the Education Global Practice of the World Bank Group (WBG) has been actively working with Ministries of Education and multilateral organizations to provide guidance and technical assistance to maximize countries’ effectiveness in the design and execution of remote learning strategies.",
+          "Based on this study, a blog series will highlight key lessons learned from these experiences. The series is structured in five sections: Institutional Capacity and Multichannel Strategy; Training and the Changing Role of Teacher; Remedial Learning; Curriculum adjustment and Monitoring and Assessment. Two approaches for a rapid emergency education response · During the COVID-19 pandemic, governments have used two main institutional approaches to transition to remote learning."
+        ]
+      },
+      {
+        "title": "An effective blended online teaching and learning strategy during the COVID-19 pandemic - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7847201/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The shift to distance teaching <strong>and</strong> <strong>learning</strong> <strong>during</strong> <strong>the</strong> COVID-19 <strong>pandemic</strong> brought about a real challenge for both instructors and students. To face these difficulties in teaching undergraduate Chemistry courses at the University of Santo Tomas, a blended ...",
+        "profile": {
+          "name": "NCBI",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7847201/",
+          "long_name": "National Center for Biotechnology Information",
+          "img": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ncbi.nlm.nih.gov",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+          "path": "› pmc  › articles  › PMC7847201"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5bfcHo1PfV6rvJvSnUDsmQPRhO5o-9tsgtoLMuddIKg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi9jb3JlaHRt/bC9wbWMvcG1jZ2lm/cy9wbWMtY2FyZC1z/aGFyZS5qcGc_Xz0w",
+          "original": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Overall, the findings and insights in this study will add valuable resources for further hybrid instruction in the post-COVID-19 time in higher education. Keywords: Online learning, Blended learning, Flipped learning, Active learning · The Coronavirus Disease 2019 (COVID-19) pandemic has dramatically changed the higher education system in the Philippines with a distinctive shift in online instruction as an effort to limit further transmission of the virus.",
+          "Nerantzi C. The use of peer instruction and flipped learning to support flexible blended learning during and after the COVID-19 Pandemic. Int. J. Manag. Appl. Res. 2020;7(2):184–195. [Google Scholar]",
+          "This arrangement gave the following advantages: (i) peer review of lessons, (ii) best practices of the instructor are shared among colleagues, (iii) standardized lectures were given to all students, (iv) the other instructors were given a chance to add something in the lecture, and (v) other instructors may give their inputs in answering questions from students.",
+          "Although the exam questions were prepared to be similar to the one discussed in the online session, some students still find answering the quizzes (i.e., exams) stressful because the difficulty level of the questions are different from the ones discussed in the guided problems and SAQs. Several students were also affected by unstable internet connection in CHE 211 online class. Interestingly, the word cloud for CHE 216 (Fig. 4b) showed the most frequent keyword “none” for their worst experience."
+        ]
+      },
+      {
+        "title": "Online Learning: A Panacea in the Time of COVID-19 Crisis - Shivangi Dhawan, 2020",
+        "url": "https://journals.sagepub.com/doi/full/10.1177/0047239520934018",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Educational institutions (schools, colleges, and universities) in India are currently based only on traditional methods <strong>of</strong> <strong>learning</strong>, that is, they follow the tr...",
+        "profile": {
+          "name": "SAGE Journals",
+          "url": "https://journals.sagepub.com/doi/full/10.1177/0047239520934018",
+          "long_name": "journals.sagepub.com",
+          "img": "https://imgs.search.brave.com/x_XcZnIMvNtjor5ju3hU3yBk_qDCD_YbgYwtQIVLL2M/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2FiOWNjODRm/NjFiY2M1NmNmN2Nm/MTljNmIzNGU4YzQ4/NTE0ZWJiZmRhYWI3/NjY0N2Y3NWNiYjE5/OGExM2I5Yy9qb3Vy/bmFscy5zYWdlcHVi/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "journals.sagepub.com",
+          "hostname": "journals.sagepub.com",
+          "favicon": "https://imgs.search.brave.com/x_XcZnIMvNtjor5ju3hU3yBk_qDCD_YbgYwtQIVLL2M/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2FiOWNjODRm/NjFiY2M1NmNmN2Nm/MTljNmIzNGU4YzQ4/NTE0ZWJiZmRhYWI3/NjY0N2Y3NWNiYjE5/OGExM2I5Yy9qb3Vy/bmFscy5zYWdlcHVi/LmNvbS8",
+          "path": "› doi  › full  › 10.1177  › 0047239520934018"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OKudJmhk21OVU_sJi6cwZVOlWY0MUsBJyD_H9PC31yQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9qb3Vy/bmFscy5zYWdlcHVi/LmNvbS9wYi1hc3Nl/dHMvSW1hZ2VzL1NK/X1R3aXR0ZXJfQ2Fy/ZC0xNTU3MTQ0MTUy/NDQwLmpwZw",
+          "original": "https://journals.sagepub.com/pb-assets/Images/SJ_Twitter_Card-1557144152440.jpg",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Educational institutions (schools, colleges, and universities) in India are currently based only on traditional methods of learning, that is, they follow the traditional set up of face-to-face lect...",
+          "This article also put some light on the growth of EdTech Start-ups during the time of pandemic and natural disasters and includes suggestions for academic institutions of how to deal with challenges associated with online learning. Keywords coronavirus, COVID-19, education, online learning, technology, EdTech",
+          "As per the World Economic Forum, the Covid-19 pandemic also has changed the way how several people receive and impart education. To find new solutions for our problems, we might bring in some much-needed innovations and change. Teachers have become habitual to traditional methods of teaching in the form of face-to-face lectures, and therefore, they hesitate in accepting any change.",
+          "The challenge to educational institutions is not only finding new technology and using it but also reimagining its education, thereby helping students and academic staff who are seeking guidance for digital literacy. To explore the growth of EdTech Start-ups and online learning. To conduct an Strengths, Weaknesses, Opportunities, & Challenges (SWOC) analysis of online learning during the Corona Virus pandemic and natural disasters."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

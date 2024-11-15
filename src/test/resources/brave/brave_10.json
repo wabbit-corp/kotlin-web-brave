@@ -1,0 +1,1007 @@
+{
+  "query": {
+    "original": "Most efficient vacuum cleaners ratings",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "local_decision": "drop",
+    "local_locations_idx": 0,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "The best vacuum cleaners of 2023 | CNN Underscored",
+        "url": "https://www.cnn.com/cnn-underscored/reviews/best-vacuum-cleaner",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Over the course of more than six months, we tested top-<strong>rated</strong> <strong>vacuums</strong> of every type — including cordless stick, robot, canister, handheld and upright <strong>vacuums</strong> — to make it easy for you to choose the best <strong>vacuum</strong> for your needs.",
+        "profile": {
+          "name": "CNN",
+          "url": "https://www.cnn.com/cnn-underscored/reviews/best-vacuum-cleaner",
+          "long_name": "Cable News Network",
+          "img": "https://imgs.search.brave.com/DAZA4ewRkBeQvRJZDdAr2hK4QARKCzxuHhJeDZq9wJc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cnn.com",
+          "hostname": "www.cnn.com",
+          "favicon": "https://imgs.search.brave.com/DAZA4ewRkBeQvRJZDdAr2hK4QARKCzxuHhJeDZq9wJc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
+          "path": "  › reviews"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/rDwimJxOT6YzNxSNY9emdWqyt7Ngth__ZLuDgOgLRec/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2R5c29uLXYxMS1v/dmVyYWxsLWxlYWQu/anBnP2M9MTZ4OSZx/PXdfODAwLGNfZmls/bA",
+          "original": "https://media.cnn.com/api/v1/images/stellar/prod/dyson-v11-overall-lead.jpg?c=16x9&q=w_800,c_fill",
+          "logo": false
+        },
+        "age": "March 23, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "CNN Underscored Staff"
+            }
+          ],
+          "date": "Apr 13, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "CNN",
+            "url": "https://www.cnn.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/HWuDUTlBOMreOm76epwXY8wVkCqv6fOTYMy5meFD8YQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2NubmxvZ28ucG5n/P3E9d182MCxoXzYx",
+              "original": "https://media.cnn.com/api/v1/images/stellar/prod/cnnlogo.png?q=w_60,h_61"
+            }
+          }
+        }
+      },
+      {
+        "title": "The 6 Best Vacuum Cleaners - Summer 2023: Reviews - RTINGS.com",
+        "url": "https://www.rtings.com/vacuum/reviews/best/vacuum-cleaners",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The best <strong>vacuum</strong> <strong>cleaner</strong> we&#x27;ve tested is the Dyson V15 Detect, especially if you want something cordless. This high-end stick <strong>vacuum</strong> is remarkably potent, delivering similar debris pickup performance to many corded models.",
+        "profile": {
+          "name": "Rtings",
+          "url": "https://www.rtings.com/vacuum/reviews/best/vacuum-cleaners",
+          "long_name": "rtings.com",
+          "img": "https://imgs.search.brave.com/cbwU8ou5XZ6pYRfV6fJt_YMtLnxnmFdbWH4YxqXOw84/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ZkN2UzZTE3/NDJjZWZlZGVhZjZi/YTJmZjA4NzBiNzBh/ZDJmY2RiNmQzZmZh/MTZkYTNhYjk4NWE4/MmI2ZDQ0NS93d3cu/cnRpbmdzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "rtings.com",
+          "hostname": "www.rtings.com",
+          "favicon": "https://imgs.search.brave.com/cbwU8ou5XZ6pYRfV6fJt_YMtLnxnmFdbWH4YxqXOw84/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ZkN2UzZTE3/NDJjZWZlZGVhZjZi/YTJmZjA4NzBiNzBh/ZDJmY2RiNmQzZmZh/MTZkYTNhYjk4NWE4/MmI2ZDQ0NS93d3cu/cnRpbmdzLmNvbS8",
+          "path": "  › home  › vacuum  › best"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/dHcMpDymKNTCNTdh-qB8VLtMy9qqVcqkwDK1eMGr_TU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnJ0/aW5ncy5jb20vYXNz/ZXRzL3BhZ2VzLzhH/cVlROEl6L2Jlc3Qt/dmFjY3Vtcy0yMDIx/MDgtbWVkaXVtLmpw/Zw",
+          "original": "https://i.rtings.com/assets/pages/8GqYQ8Iz/best-vaccums-202108-medium.jpg",
+          "logo": false
+        },
+        "age": "August 29, 2023",
+        "article": {
+          "author": [],
+          "publisher": {
+            "type": "organization",
+            "name": "RTINGS.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/O03WYKQ5p9OxY8ng4daw5gcJFqLp775xe0vA3l0YEIE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnJ0/aW5ncy5jb20vaW1h/Z2VzL2xvZ28tYW1w/LnBuZw",
+              "original": "https://i.rtings.com/images/logo-amp.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The 15 Best Vacuum Cleaners of 2023 | Reviews by Wirecutter",
+        "url": "https://www.nytimes.com/wirecutter/reviews/best-vacuum-cleaner/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We spent hundreds of hours researching and testing every type of <strong>vacuum</strong> <strong>cleaner</strong>, and we found the best ones to suit all kinds of lifestyles.",
+        "profile": {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/wirecutter/reviews/best-vacuum-cleaner/",
+          "long_name": "The New York Times",
+          "img": "https://imgs.search.brave.com/QojRukNhANGMB07cpjolIw83smuIdLYOtKfWBt5_-5s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "nytimes.com",
+          "hostname": "www.nytimes.com",
+          "favicon": "https://imgs.search.brave.com/QojRukNhANGMB07cpjolIw83smuIdLYOtKfWBt5_-5s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+          "path": "  › appliances  › vacuum cleaners  › the best vacuum cleaners"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/L0NPHjl1DgRyL8KSMYmUp7vFKSmIAdpdB5_xugT_oFE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9kMWI1/aDlwc3U5eWV4ai5j/bG91ZGZyb250Lm5l/dC8xMDQ3OS9TaGFy/ay1OYXZpZ2F0b3It/TGlmdC1Bd2F5LU5W/MzUyXzIwMTkwNDA1/LTE5NTMzNV9mdWxs/LmpwZWc",
+          "original": "https://d1b5h9psu9yexj.cloudfront.net/10479/Shark-Navigator-Lift-Away-NV352_20190405-195335_full.jpeg",
+          "logo": false
+        },
+        "age": "1 month ago",
+        "faq": {
+          "items": [
+            {
+              "question": "Which vacuum has the strongest suction?",
+              "answer": "We’re not sure, and we don’t think it matters. Suction is important, but it’s not the only thing that makes a vacuum great at cleaning. While suction lifts debris off the ground, airflow is also crucial for moving debris into the dustbin, and you need good brush-roll action to work the debris out of carpet fibers, too. Our overall favorite vacuum, the Shark Navigator Lift-Away, had some of the best cleaning performance of all the vacuums we’ve tested.",
+              "title": "The 15 Best Vacuum Cleaners of 2023 | Reviews by Wirecutter",
+              "url": "https://www.nytimes.com/wirecutter/reviews/best-vacuum-cleaner/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "nytimes.com",
+                "hostname": "www.nytimes.com",
+                "favicon": "https://imgs.search.brave.com/QojRukNhANGMB07cpjolIw83smuIdLYOtKfWBt5_-5s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+                "path": "  › appliances  › vacuum cleaners  › the best vacuum cleaners"
+              }
+            },
+            {
+              "question": "Which is better, bagless or bagged vacuums?",
+              "answer": "It depends. On the one hand, bagless models have no recurring costs. On the other, bags can help a vacuum last longer by keeping debris out of hard-to-clean parts that will slowly clog the machine over time. Air quality experts tend to advise that bags are better for people with allergies or asthma because they’re easier to throw out without spilling debris or kicking up a plume of dust. Bags will, however, need to be replaced several times a year, and if you have pets, they’ll tend to fill up faster, and the costs can add up.",
+              "title": "The 15 Best Vacuum Cleaners of 2023 | Reviews by Wirecutter",
+              "url": "https://www.nytimes.com/wirecutter/reviews/best-vacuum-cleaner/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "nytimes.com",
+                "hostname": "www.nytimes.com",
+                "favicon": "https://imgs.search.brave.com/QojRukNhANGMB07cpjolIw83smuIdLYOtKfWBt5_-5s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+                "path": "  › appliances  › vacuum cleaners  › the best vacuum cleaners"
+              }
+            },
+            {
+              "question": "Are expensive vacuum cleaners worth it?",
+              "answer": "Sometimes. Paying more for a vacuum can get you a longer lasting machine (if we’re talking Miele canister vacuums) or it can get you more convenience and longer battery life (if we’re talking Dyson cordless sticks). In both the cases of Miele canister vacs and Dyson cordless sticks, you’re going to get excellent cleaning performance. If you pay more for a robot vacuum, you’re more likely to be able to control its cleaning pattern, and to get a self-emptying dock. Most people are happy with vacuums that cost around $150, and some of them can last for many years.",
+              "title": "The 15 Best Vacuum Cleaners of 2023 | Reviews by Wirecutter",
+              "url": "https://www.nytimes.com/wirecutter/reviews/best-vacuum-cleaner/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "nytimes.com",
+                "hostname": "www.nytimes.com",
+                "favicon": "https://imgs.search.brave.com/QojRukNhANGMB07cpjolIw83smuIdLYOtKfWBt5_-5s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+                "path": "  › appliances  › vacuum cleaners  › the best vacuum cleaners"
+              }
+            }
+          ]
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Liam McCabe",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/0cXqJmZmouM4PlaiDNxtuU8i7Wv7COj9ITKEiD84SEQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/dGhld2lyZWN1dHRl/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTcvMDgvbGlh/bS1tY2NhYmUtbWln/cmF0aW9uLmpwZz9h/dXRvPXdlYnAmcXVh/bGl0eT02MCZjcm9w/PTE6MQ",
+                "original": "https://cdn.thewirecutter.com/wp-content/uploads/2017/08/liam-mccabe-migration.jpg?auto=webp&quality=60&crop=1:1"
+              }
+            }
+          ],
+          "publisher": {
+            "type": "organization",
+            "name": "Wirecutter",
+            "url": "https://www.nytimes.com/wirecutter/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/GxmYGYLyIaRFK9EU6vxfirUOsVTGS2ujOBmIEC8QTto/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/dGhld2lyZWN1dHRl/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjAvMDUvbnl0/aW1lcy13aXJlY3V0/dGVyLWxvZ28ucG5n",
+              "original": "https://cdn.thewirecutter.com/wp-content/uploads/2020/05/nytimes-wirecutter-logo.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "Best Vacuums of 2023 via @ConsumerReports",
+        "url": "https://www.consumerreports.org/appliances/vacuum-cleaners/best-vacuums-of-the-year-a1212436704/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Consumer Reports reviews the best <strong>vacuums</strong> you can buy right now—upright, canister, stick, robotic, and handheld—based on its tough lab tests.",
+        "profile": {
+          "name": "Consumerreports",
+          "url": "https://www.consumerreports.org/appliances/vacuum-cleaners/best-vacuums-of-the-year-a1212436704/",
+          "long_name": "consumerreports.org",
+          "img": "https://imgs.search.brave.com/uIA9sfoS7DIcGKY3wZZTVfdkPlRlZQzlDwwMPpgsm3o/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzljYzVhZjRi/YTRhNjFiNzVkN2Qz/Mjg1NTU0NzY0Mjg5/MTJjOTE0NmJjN2Mw/MzljMjQyZjBkMWU4/MTQ3Zjk1NS93d3cu/Y29uc3VtZXJyZXBv/cnRzLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "consumerreports.org",
+          "hostname": "www.consumerreports.org",
+          "favicon": "https://imgs.search.brave.com/uIA9sfoS7DIcGKY3wZZTVfdkPlRlZQzlDwwMPpgsm3o/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzljYzVhZjRi/YTRhNjFiNzVkN2Qz/Mjg1NTU0NzY0Mjg5/MTJjOTE0NmJjN2Mw/MzljMjQyZjBkMWU4/MTQ3Zjk1NS93d3cu/Y29uc3VtZXJyZXBv/cnRzLm9yZy8",
+          "path": "  › appliances  › laundry & cleaning  › vacuum cleaners  › best vacuums of 2023"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vvKbUwwAQ5cWrgEGXPTlbaetEg8kQ59AST9cah8SWDM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hcnRp/Y2xlLmltYWdlcy5j/b25zdW1lcnJlcG9y/dHMub3JnL2ltYWdl/L3VwbG9hZC90X2Fy/dGljbGVfdG91dC92/MTY4Njg2MzUyNi9w/cm9kL2NvbnRlbnQv/ZGFtL0NSTy1JbWFn/ZXMtMjAyMy8wNkp1/bmUvQXBwbGlhbmNl/cy9DUi1BcHBsaWFu/Y2VzLUlubGluZUhl/cm8tQmVzdC1WYWN1/dW1zLW9mLTIwMjIt/MDYyMw",
+          "original": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1686863526/prod/content/dam/CRO-Images-2023/06June/Appliances/CR-Appliances-InlineHero-Best-Vacuums-of-2022-0623",
+          "logo": false
+        },
+        "article": {
+          "author": [],
+          "date": "Jun 29, 2021"
+        }
+      },
+      {
+        "title": "Best Vacuum Cleaners of 2023",
+        "url": "https://www.usnews.com/360-reviews/home-goods/vacuum",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Read all about the top-<strong>rated</strong> <strong>vacuums</strong> available now. Our guide to the Best <strong>Vacuums</strong> of 2023 can help you find the right <strong>vacuum</strong> <strong>cleaner</strong> for your home.",
+        "profile": {
+          "name": "Usnews",
+          "url": "https://www.usnews.com/360-reviews/home-goods/vacuum",
+          "long_name": "usnews.com",
+          "img": "https://imgs.search.brave.com/8mknCj5cpBLZ8rOX1o6P7M7_AU4OG1vGC6iyxnxFwy8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDc0YjJjYzU0/MTY1MzE2ZTA1ZTNl/NWFjYzk0ODhmMWNm/ZTA2ZTBlYjA2MzNi/MGM3NzMwN2MwNGU5/ODY3YzdlNS93d3cu/dXNuZXdzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "usnews.com",
+          "hostname": "www.usnews.com",
+          "favicon": "https://imgs.search.brave.com/8mknCj5cpBLZ8rOX1o6P7M7_AU4OG1vGC6iyxnxFwy8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDc0YjJjYzU0/MTY1MzE2ZTA1ZTNl/NWFjYzk0ODhmMWNm/ZTA2ZTBlYjA2MzNi/MGM3NzMwN2MwNGU5/ODY3YzdlNS93d3cu/dXNuZXdzLmNvbS8",
+          "path": "› 360-reviews  › home-goods  › vacuum"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/g5VUQNXpptsxxPz_JQSDfYxVTSCq7UFnrEdmUDg5BWk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dXNuZXdzLmNvbS9k/aW1zNC9VU05FV1Mv/NjU5ODVhMi8yMTQ3/NDgzNjQ3L3RodW1i/bmFpbC85NzB4NjQ3/L3F1YWxpdHkvODUv/P3VybD1odHRwcyUz/QSUyRiUyRnd3dy51/c25ld3MuY29tJTJG/Y21zbWVkaWElMkZm/MSUyRjRlJTJGN2E0/MjY3MDQ0ODFjYTky/ZGE5NTQ5NjBmNGE1/NiUyRmlzdG9jay0x/MjU0Nzg5MDY3Lmpw/Zw",
+          "original": "https://www.usnews.com/dims4/USNEWS/65985a2/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff1%2F4e%2F7a426704481ca92da954960f4a56%2Fistock-1254789067.jpg",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Chelsea Van Bloom",
+              "url": "https://www.usnews.com/topics/author/chelsea-van-bloom",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/Gp7xN4LlnhxAofARNEl0bXjRKokLGAXRhWcR1nl-_8A/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dXNuZXdzLmNvbS9k/aW1zNC9VU05FV1Mv/ZmZhODVjMy8yMTQ3/NDgzNjQ3L2Nyb3Av/MHgwKzArMC9yZXNp/emUvMzAweDMwMC9x/dWFsaXR5Lzg1Lz91/cmw9aHR0cHMlM0El/MkYlMkZ3d3cudXNu/ZXdzLmNvbSUyRmNt/c21lZGlhJTJGYWQl/MkY2OCUyRjA2MDJm/OWQ3NDE1MzlmMjg1/N2Y2OWZjMzI4M2Il/MkZjdmItaGVhZHNo/b3QtMi1jcm9wLnBu/Zw",
+                "original": "https://www.usnews.com/dims4/USNEWS/ffa85c3/2147483647/crop/0x0+0+0/resize/300x300/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fad%2F68%2F0602f9d741539f2857f69fc3283b%2Fcvb-headshot-2-crop.png"
+              }
+            },
+            {
+              "type": "person",
+              "name": "Marlo Jappen",
+              "url": "https://www.usnews.com/topics/author/marlo-jappen"
+            }
+          ],
+          "date": "Sep 16, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "U.S. News & World Report",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/hLjEUG3QAt0CeO8ZQSzqadon_9vK-V8jeTBqfMwKgAI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dXNuZXdzLmNvbS9z/dGF0aWMvaW1hZ2Vz/L3Vzbi1sb2dvLXBy/aW50LnBuZw",
+              "original": "https://www.usnews.com/static/images/usn-logo-print.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "Best Vacuums of 2023 - Consumer Reports",
+        "url": "https://www.consumerreports.org/vacuum-cleaners/best-vacuums-of-the-year-a1212436704/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Consumer Reports reviews the best <strong>vacuums</strong> you can buy right now—upright, canister, stick, robotic, and handheld—based on its tough lab tests.",
+        "profile": {
+          "name": "Consumerreports",
+          "url": "https://www.consumerreports.org/vacuum-cleaners/best-vacuums-of-the-year-a1212436704/",
+          "long_name": "consumerreports.org",
+          "img": "https://imgs.search.brave.com/uIA9sfoS7DIcGKY3wZZTVfdkPlRlZQzlDwwMPpgsm3o/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzljYzVhZjRi/YTRhNjFiNzVkN2Qz/Mjg1NTU0NzY0Mjg5/MTJjOTE0NmJjN2Mw/MzljMjQyZjBkMWU4/MTQ3Zjk1NS93d3cu/Y29uc3VtZXJyZXBv/cnRzLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "consumerreports.org",
+          "hostname": "www.consumerreports.org",
+          "favicon": "https://imgs.search.brave.com/uIA9sfoS7DIcGKY3wZZTVfdkPlRlZQzlDwwMPpgsm3o/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzljYzVhZjRi/YTRhNjFiNzVkN2Qz/Mjg1NTU0NzY0Mjg5/MTJjOTE0NmJjN2Mw/MzljMjQyZjBkMWU4/MTQ3Zjk1NS93d3cu/Y29uc3VtZXJyZXBv/cnRzLm9yZy8",
+          "path": "  › appliances  › laundry & cleaning  › vacuum cleaners  › best vacuums of 2023"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vvKbUwwAQ5cWrgEGXPTlbaetEg8kQ59AST9cah8SWDM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hcnRp/Y2xlLmltYWdlcy5j/b25zdW1lcnJlcG9y/dHMub3JnL2ltYWdl/L3VwbG9hZC90X2Fy/dGljbGVfdG91dC92/MTY4Njg2MzUyNi9w/cm9kL2NvbnRlbnQv/ZGFtL0NSTy1JbWFn/ZXMtMjAyMy8wNkp1/bmUvQXBwbGlhbmNl/cy9DUi1BcHBsaWFu/Y2VzLUlubGluZUhl/cm8tQmVzdC1WYWN1/dW1zLW9mLTIwMjIt/MDYyMw",
+          "original": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1686863526/prod/content/dam/CRO-Images-2023/06June/Appliances/CR-Appliances-InlineHero-Best-Vacuums-of-2022-0623",
+          "logo": false
+        },
+        "article": {
+          "author": [],
+          "date": "Jun 29, 2021"
+        }
+      },
+      {
+        "title": "The 13 Best Vacuum Cleaners of 2023, Tested and Reviewed",
+        "url": "https://www.thespruce.com/best-vacuum-cleaners-4062974",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A handheld <strong>vacuum</strong> is excellent ... in an <strong>efficient</strong> manner. Of course, its smaller profile doesn&#x27;t make it a great option for whole-home cleaning, so it should absolutely be a supplement to your cordless stick, robot, canister, or upright <strong>vacuum</strong> that tackles most of the larger or weekly messes in your household. Nonetheless, having a handheld <strong>vacuum</strong> on hand, especially the Hoover ONEPWR Cordless Handheld <strong>Vacuum</strong> <strong>Cleaner</strong>, is beyond ...",
+        "profile": {
+          "name": "Thespruce",
+          "url": "https://www.thespruce.com/best-vacuum-cleaners-4062974",
+          "long_name": "thespruce.com",
+          "img": "https://imgs.search.brave.com/eQXpQTQd2yl6BODsWspGONuKVXYJXCx0O9YGronblYI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODNmYzlmNTk2/YTM1OWU1MzA2ZjJk/NjU4M2IxNmVlYTA0/OGM1ZWMxZDMxNzUz/MTllMWJkZTc2ZmY3/ZGQyOTA5OS93d3cu/dGhlc3BydWNlLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thespruce.com",
+          "hostname": "www.thespruce.com",
+          "favicon": "https://imgs.search.brave.com/eQXpQTQd2yl6BODsWspGONuKVXYJXCx0O9YGronblYI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODNmYzlmNTk2/YTM1OWU1MzA2ZjJk/NjU4M2IxNmVlYTA0/OGM1ZWMxZDMxNzUz/MTllMWJkZTc2ZmY3/ZGQyOTA5OS93d3cu/dGhlc3BydWNlLmNv/bS8",
+          "path": "› best-vacuum-cleaners-4062974"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/p71i1dipLPrhT63ntNJd6D17-jeWYHFpScUQkDBV-GU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dGhlc3BydWNlLmNv/bS90aG1iL3h0a2V3/VjRHWjZxLTc0ZER2/cGk3X0Z4N1h5ST0v/MTUwMHgwL2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOm1heF9ieXRl/cygxNTAwMDApOnN0/cmlwX2ljYygpL3Nw/ci1wcmltYXJ5LXZh/Y3V1bXMtZGJ1cnJl/c29uLTAwMS1mZDdl/NzdjOTY4M2Y0MmZl/OWJlNDJmMDNjN2Q0/Yjk3Ny5qcGc",
+          "original": "https://www.thespruce.com/thmb/xtkewV4GZ6q-74dDvpi7_Fx7XyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spr-primary-vacuums-dburreson-001-fd7e77c9683f42fe9be42f03c7d4b977.jpg",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Marisa Viglione",
+              "url": "https://www.thespruce.com/marisa-viglione-5091570"
+            }
+          ],
+          "date": "Jul 20, 2016",
+          "publisher": {
+            "type": "organization",
+            "name": "The Spruce",
+            "url": "https://www.thespruce.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/ziDmS8IH6osoyWm0HRm6VBemsiJeSDJGeLAhxvp8YS4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dGhlc3BydWNlLmNv/bS90aG1iL1FaVDNC/OWdRUXkzVDZzbFRN/WklWdVBtTEFrST0v/NTAweDI0MC9maWx0/ZXJzOm5vX3Vwc2Nh/bGUoKTptYXhfYnl0/ZXMoMTUwMDAwKTpz/dHJpcF9pY2MoKS9U/aGVTcHJ1Y2VfTG9n/bzIwMjAtN2Q3NmM4/M2M3YThjNGM2ZWJk/MDBiMDcxZmU1OGUx/NWYucG5n",
+              "original": "https://www.thespruce.com/thmb/QZT3B9gQQy3T6slTMZIVuPmLAkI=/500x240/filters:no_upscale():max_bytes(150000):strip_icc()/TheSpruce_Logo2020-7d76c83c7a8c4c6ebd00b071fe58e15f.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The Best Vacuum Cleaners of 2023, Reviewed by HGTV Editors | HGTV",
+        "url": "https://www.hgtv.com/shopping/product-reviews/best-vacuum-cleaners",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "From upright <strong>vacuums</strong> to carpet <strong>cleaners</strong>, the editors at HGTV.com share the <strong>vacuum</strong> <strong>cleaners</strong> we use and love from brands like Dyson, Bissell, Shark, iRobot and more.",
+        "profile": {
+          "name": "Hgtv",
+          "url": "https://www.hgtv.com/shopping/product-reviews/best-vacuum-cleaners",
+          "long_name": "hgtv.com",
+          "img": "https://imgs.search.brave.com/XTD6A8py1HH-33CzMnukeYTKvhzpaOjIHLk3BZeIZRQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmM4NDYwNGQ0/NWQ4NzA5YTIyYTQ4/YzMzZjFjYmM5ZmFi/NWQwM2IzOTFmOGI1/Yzc2ZWY1ZDJlZDYz/NTMzNmE5YS93d3cu/aGd0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hgtv.com",
+          "hostname": "www.hgtv.com",
+          "favicon": "https://imgs.search.brave.com/XTD6A8py1HH-33CzMnukeYTKvhzpaOjIHLk3BZeIZRQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmM4NDYwNGQ0/NWQ4NzA5YTIyYTQ4/YzMzZjFjYmM5ZmFi/NWQwM2IzOTFmOGI1/Yzc2ZWY1ZDJlZDYz/NTMzNmE5YS93d3cu/aGd0di5jb20v",
+          "path": "  › home  › shopping  › product reviews"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/hVceYTxVQ_yjKJjjf-PqCYS3Fl92vIppcIGlTKOoMcY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oZ3R2/aG9tZS5zbmRpbWcu/Y29tL2NvbnRlbnQv/ZGFtL2ltYWdlcy9o/Z3R2L3Byb2R1Y3Rz/LzIwMTkvMi84LzAv/cnhfd2FsbWFydF9z/aGFyay1yb3RhdG9y/LXBvd2VyZWQtbGlm/dC1hd2F5LXNwZWVk/LXVwcmlnaHQtdmFj/dXVtLmpwZWcucmVu/ZC5oZ3R2Y29tLjQw/Ni40MDYuc3VmZml4/LzE1NDk2NDM1MjE0/MDQuanBlZw",
+          "original": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2019/2/8/0/rx_walmart_shark-rotator-powered-lift-away-speed-upright-vacuum.jpeg.rend.hgtvcom.406.406.suffix/1549643521404.jpeg",
+          "logo": false
+        },
+        "age": "June 12, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Kayla Kitts"
+            }
+          ],
+          "date": "Jun 09, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "HGTV",
+            "url": "https://www.hgtv.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/0tCJsLKJPDHow8siw7nvstYvOZ3sPkjZssBkbl0n2oQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oZ3R2/aG9tZS5zbmRpbWcu/Y29tL2NvbnRlbnQv/ZGFtL2ltYWdlcy9o/Z3R2L2VkaXRvcmlh/bC9icmFuZGluZy9o/Z3R2LWxvZ28tYW1w/LnBuZw",
+              "original": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/editorial/branding/hgtv-logo-amp.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "11 Best Vacuum Cleaners for Every Home, Tested by Experts",
+        "url": "https://www.goodhousekeeping.com/appliances/vacuum-cleaner-reviews/g1833/best-vacuums-1007/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Most have rotating brushes for <strong>efficient</strong> floor and rug cleaning, and many convert to or have a hand <strong>vacuum</strong> on board so it’s like having two <strong>vacuums</strong> in one. Most come with attachments, like dusting brushes, crevice tools and charging stands for storage. ✔️ Go with a robot <strong>vacuum</strong> <strong>cleaner</strong> if you ...",
+        "profile": {
+          "name": "Goodhousekeeping",
+          "url": "https://www.goodhousekeeping.com/appliances/vacuum-cleaner-reviews/g1833/best-vacuums-1007/",
+          "long_name": "goodhousekeeping.com",
+          "img": "https://imgs.search.brave.com/a3l3qnaDz80VwxQTxMq0U-EgjCzPVaoGbuqJ40rjPTI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMxNThmN2Ix/NGM1NWRiNDM3ZTUw/MWQ1NWY2YjQxMDFm/NjQzODE1ODI1Yzkw/NTJhODRkODNmNWMx/MDBiYTE4OS93d3cu/Z29vZGhvdXNla2Vl/cGluZy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "goodhousekeeping.com",
+          "hostname": "www.goodhousekeeping.com",
+          "favicon": "https://imgs.search.brave.com/a3l3qnaDz80VwxQTxMq0U-EgjCzPVaoGbuqJ40rjPTI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMxNThmN2Ix/NGM1NWRiNDM3ZTUw/MWQ1NWY2YjQxMDFm/NjQzODE1ODI1Yzkw/NTJhODRkODNmNWMx/MDBiYTE4OS93d3cu/Z29vZGhvdXNla2Vl/cGluZy5jb20v",
+          "path": "› appliances  › vacuum-cleaner-reviews  › g1833  › best-vacuums-1007"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4aP1NoqzrRMEYS9TLf7N6hjx9MhUeubTfTWlXGn7K60/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9keXNv/bi12YWN1dW0tMTU3/NTAzNjc0NC5qcGc_/Y3JvcD0wLjUwMnh3/OjEuMDB4aDswLjMw/Nnh3LDAmcmVzaXpl/PTEyMDA6Kg",
+          "original": "https://hips.hearstapps.com/hmg-prod/images/dyson-vacuum-1575036744.jpg?crop=0.502xw:1.00xh;0.306xw,0&resize=1200:*",
+          "logo": false
+        },
+        "age": "August 9, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Carolyn Forté",
+              "url": "https://www.goodhousekeeping.com/author/6484/carolyn-forte/",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/TtcY5kIVFo6Z49eF7ObvZu6LWXoollvwReZ33ssQPpQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL3JvdmVyL3By/b2ZpbGVfcGhvdG9z/L2ZhZWEyYzMxLWQz/YTYtNDE0Mi05NDVl/LTYxODgwNmM2ODBj/Zl8xNjYwNTc2NzQ3/LmZpbGU",
+                "original": "https://hips.hearstapps.com/rover/profile_photos/faea2c31-d3a6-4142-945e-618806c680cf_1660576747.file"
+              }
+            },
+            {
+              "type": "person",
+              "name": "Jodhaira Rodriguez",
+              "url": "https://www.goodhousekeeping.com/author/235250/jodhaira-rodriguez/",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/c2HpvQ7RdJ8bMJloxPw29AS8x4Yi2LhwdruLwfakk74/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL3JvdmVyL3By/b2ZpbGVfcGhvdG9z/Lzg0ZWMxZmU1LTky/YzQtNGY1OS05MGM4/LWI3ODgyMjg3ZDgw/NF8xNjYwNTc3NTY5/LmZpbGU",
+                "original": "https://hips.hearstapps.com/rover/profile_photos/84ec1fe5-92c4-4f59-90c8-b7882287d804_1660577569.file"
+              }
+            }
+          ],
+          "date": "Jan 09, 2018",
+          "publisher": {
+            "type": "organization",
+            "name": "Good Housekeeping",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/vE2GX4h57aU9ix17vYyD4j1ZECbzDbERbI4_-MgoEgQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Z29vZGhvdXNla2Vl/cGluZy5jb20vX2Fz/c2V0cy9kZXNpZ24t/dG9rZW5zL2dvb2Ro/b3VzZWtlZXBpbmcv/c3RhdGljL2ltYWdl/cy9sb2dvcy9sb2dv/LWpzb25sZC5lN2Qy/OGQxLnBuZw",
+              "original": "https://www.goodhousekeeping.com/_assets/design-tokens/goodhousekeeping/static/images/logos/logo-jsonld.e7d28d1.png"
+            }
+          },
+          "isAccessibleForFree": false
+        }
+      },
+      {
+        "title": "10 Best Vacuum Cleaners 2023 | The Strategist",
+        "url": "https://nymag.com/strategist/article/best-vacuums.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "These will suck up everything from dust to dog hair to Play-Doh.",
+        "profile": {
+          "name": "Nymag",
+          "url": "https://nymag.com/strategist/article/best-vacuums.html",
+          "long_name": "nymag.com",
+          "img": "https://imgs.search.brave.com/mWCIxrqh0TQFLK_EomZaU3vEem-7vfToL-sMreVh2aE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTdkY2UyMjFl/NDA5YTY2YjMwZWZm/MTg2YTA4N2QxYjUy/MjNhN2M3ZmQxZDk0/NDA5NTRjMjExYzVj/YWNhYjhjZS9ueW1h/Zy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "nymag.com",
+          "hostname": "nymag.com",
+          "favicon": "https://imgs.search.brave.com/mWCIxrqh0TQFLK_EomZaU3vEem-7vfToL-sMreVh2aE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTdkY2UyMjFl/NDA5YTY2YjMwZWZm/MTg2YTA4N2QxYjUy/MjNhN2M3ZmQxZDk0/NDA5NTRjMjExYzVj/YWNhYjhjZS9ueW1h/Zy5jb20v",
+          "path": "› strategist  › article  › best-vacuums.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/XDlf6nV639EA2roilZNjFvtz7ynADKvxp9ZdihLpm8c/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9weXhp/cy5ueW1hZy5jb20v/djEvaW1ncy9jNjkv/MTk4LzJhZDNkMTY2/NTMxZDRlNDkzMzc4/NmUxZWQyYmFmNmUz/ZWEtNy0xMC1WYWMu/MXgucnNvY2lhbC53/MTIwMC5qcGc",
+          "original": "https://pyxis.nymag.com/v1/imgs/c69/198/2ad3d166531d4e4933786e1ed2baf6e3ea-7-10-Vac.1x.rsocial.w1200.jpg",
+          "logo": false
+        },
+        "age": "July 10, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Amelia Mularz",
+              "url": "http://nymag.com/author/amelia-mularz"
+            }
+          ],
+          "publisher": {
+            "type": "organization",
+            "name": "The Strategist",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/6OavPcHxo5PjZrUyedW5ia1xAH_SImzJJLCYtEnFvEs/rs:fit:200:200:1/g:ce/aHR0cDovL255bWFn/LmNvbS9zdHJhdGVn/aXN0L21lZGlhL3Np/dGVzL3N0cmF0ZWdp/c3QvbG9nby53NjAw/Lmg2MC5wbmc",
+              "original": "http://nymag.com/strategist/media/sites/strategist/logo.w600.h60.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The best vacuum cleaner 2023: the best vacs from Dyson, Shark, ...",
+        "url": "https://www.techradar.com/news/best-vacuum-cleaners",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The best <strong>vacuum</strong> <strong>cleaners</strong> for busting dust, picking up pet hair and keeping your floors and carpets clean",
+        "profile": {
+          "name": "Techradar",
+          "url": "https://www.techradar.com/news/best-vacuum-cleaners",
+          "long_name": "techradar.com",
+          "img": "https://imgs.search.brave.com/FLUzbKLqk8WpkK40n-LYOEWqm3q1FZGWdFrb7dfgsbM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGNiNmY2MmM5/ZjVmZGFhZGVlNGU4/ZDM5ZGNjYjUxMGEz/ZTNkNzFmZTM4M2Iy/OTJlOWJlNzE0ZmZi/MjE5NmJjOC93d3cu/dGVjaHJhZGFyLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "techradar.com",
+          "hostname": "www.techradar.com",
+          "favicon": "https://imgs.search.brave.com/FLUzbKLqk8WpkK40n-LYOEWqm3q1FZGWdFrb7dfgsbM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGNiNmY2MmM5/ZjVmZGFhZGVlNGU4/ZDM5ZGNjYjUxMGEz/ZTNkNzFmZTM4M2Iy/OTJlOWJlNzE0ZmZi/MjE5NmJjOC93d3cu/dGVjaHJhZGFyLmNv/bS8",
+          "path": "  › home  › small appliances  › vacuums"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/pkf-lPY11hCMZ2xfKSg4QcQbNiY6nE0Ffr9WDW3xu4Q/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0LzVm/THZvTHBnRXBROXhZ/YkxLMmJRQmcuanBn",
+          "original": "https://cdn.mos.cms.futurecdn.net/5fLvoLpgEpQ9xYbLK2bQBg.jpg",
+          "logo": false
+        },
+        "age": "June 23, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Jennifer Oksien",
+              "url": "https://www.techradar.com/author/jennifer-oksien",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/fKZgWizwJY5HCAf0bEvf05_Ad8atnBlo7I-IfxWDQ2Y/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2pC/eTdEV2tIazJRN1F5/NjY3czdFbU4uanBn",
+                "original": "https://cdn.mos.cms.futurecdn.net/jBy7DWkHk2Q7Qy667s7EmN.jpg"
+              }
+            },
+            {
+              "type": "person",
+              "name": "Helen McCue",
+              "url": "https://www.techradar.com/author/helen-mccue",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/nzJi_ev_xCQqDx6IlVxrrNiB2cNZgmRFuwPbYKVJdyI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2RW/dXdTM2pWdnhwVmJV/Y1E0ZnhpWlguanBn",
+                "original": "https://cdn.mos.cms.futurecdn.net/dVuwS3jVvxpVbUcQ4fxiZX.jpg"
+              }
+            },
+            {
+              "type": "person",
+              "name": "Michelle Rae Uy",
+              "url": "https://www.techradar.com/author/michelle-rae-uy",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/d8wG3_Z-tvR5JyjjeH0M06dyy2XNq1Hsma3anOybhWw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L210/Q2RNS1pDbkV6SGZT/M2IyZFdBcVgucG5n",
+                "original": "https://cdn.mos.cms.futurecdn.net/mtCdMKZCnEzHfS3b2dWAqX.png"
+              }
+            }
+          ],
+          "date": "May 19, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "TechRadar",
+            "url": "https://www.techradar.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/Hely9lsGsVqc3eWGTNnSQ-7JLU_r5oL7NyAku_Lx4Js/rs:fit:200:200:1/g:ce/aHR0cHM6Ly92YW5p/bGxhLmZ1dHVyZWNk/bi5uZXQvdGVjaHJh/ZGFyL21lZGlhL2lt/Zy90ZWNocmFkYXJf/bG9nby5wbmc",
+              "original": "https://vanilla.futurecdn.net/techradar/media/img/techradar_logo.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "Most and Least Reliable Vacuum Cleaners - Consumer Reports",
+        "url": "https://www.consumerreports.org/vacuum-cleaners/most-and-least-reliable-vacuum-cleaners-a4506374473/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Consumer Reports&#x27; surveyed owners of well over 115,000 upright, canister, stick, and robotic <strong>vacuums</strong> to find out which are the most reliable.",
+        "profile": {
+          "name": "Consumerreports",
+          "url": "https://www.consumerreports.org/vacuum-cleaners/most-and-least-reliable-vacuum-cleaners-a4506374473/",
+          "long_name": "consumerreports.org",
+          "img": "https://imgs.search.brave.com/uIA9sfoS7DIcGKY3wZZTVfdkPlRlZQzlDwwMPpgsm3o/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzljYzVhZjRi/YTRhNjFiNzVkN2Qz/Mjg1NTU0NzY0Mjg5/MTJjOTE0NmJjN2Mw/MzljMjQyZjBkMWU4/MTQ3Zjk1NS93d3cu/Y29uc3VtZXJyZXBv/cnRzLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "consumerreports.org",
+          "hostname": "www.consumerreports.org",
+          "favicon": "https://imgs.search.brave.com/uIA9sfoS7DIcGKY3wZZTVfdkPlRlZQzlDwwMPpgsm3o/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzljYzVhZjRi/YTRhNjFiNzVkN2Qz/Mjg1NTU0NzY0Mjg5/MTJjOTE0NmJjN2Mw/MzljMjQyZjBkMWU4/MTQ3Zjk1NS93d3cu/Y29uc3VtZXJyZXBv/cnRzLm9yZy8",
+          "path": "  › appliances  › laundry & cleaning  › vacuum cleaners  › most and least reliable vacuum cleaners"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/UYSRCqhYlDzBMevW2kWekztygB-kB_NAwfeSNcB9_Cw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hcnRp/Y2xlLmltYWdlcy5j/b25zdW1lcnJlcG9y/dHMub3JnL2ltYWdl/L3VwbG9hZC90X2Fy/dGljbGVfdG91dC92/MTY3MTA1MTc4NC9w/cm9kL2NvbnRlbnQv/ZGFtL0NSTy1JbWFn/ZXMtMjAyMi9BcHBs/aWFuY2VzLzEyRGVj/ZW1iZXIvQ1ItQXBw/bGlhbmNlcy1Jbmxp/bmVIZXJvLU1vc3Qt/YW5kLUxlYXN0LVJl/bGlhYmxlLVZhY3V1/bS1DbGVhbmVycy0x/MjIy",
+          "original": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1671051784/prod/content/dam/CRO-Images-2022/Appliances/12December/CR-Appliances-InlineHero-Most-and-Least-Reliable-Vacuum-Cleaners-1222",
+          "logo": false
+        },
+        "article": {
+          "author": [],
+          "date": "Feb 06, 2019",
+          "isAccessibleForFree": false
+        }
+      },
+      {
+        "title": "The 11 best vacuums for 2021, according to cleaning experts",
+        "url": "https://www.nbcnews.com/shopping/tech-gadgets/best-vacuum-cleaners-expert-shopping-n1239303",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Shopping for a new <strong>vacuum</strong>? Cleaning professionals explain how to shop for one that meets your household needs.",
+        "profile": {
+          "name": "Nbcnews",
+          "url": "https://www.nbcnews.com/shopping/tech-gadgets/best-vacuum-cleaners-expert-shopping-n1239303",
+          "long_name": "nbcnews.com",
+          "img": "https://imgs.search.brave.com/U4m6_5LGuP72KjtGe-s-WoOrumRx_dAHPjSSNWMfFhE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "nbcnews.com",
+          "hostname": "www.nbcnews.com",
+          "favicon": "https://imgs.search.brave.com/U4m6_5LGuP72KjtGe-s-WoOrumRx_dAHPjSSNWMfFhE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v",
+          "path": "  › small home appliances  › 8 best vacuums of 2023, according to experts"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/993AQocxiMkKXq63_0XBLZpXlUhdeJdos9MBziDQvtM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9maXQtMTUwMHcs/Zl9hdXRvLHFfYXV0/bzpiZXN0L25ld3Nj/bXMvMjAyM18yOS8z/NjE2MjA5LzIzMDcx/OC12YWN1dW1zLW9v/LXNvY2lhbC5qcGc",
+          "original": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2023_29/3616209/230718-vacuums-oo-social.jpg",
+          "logo": false
+        },
+        "age": "September 4, 2020",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Mili Godio",
+              "url": "https://www.nbcnews.com/author/mili-godio-ncpn1261464",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/mztKqk1o0QEe9HJOOsRhgGXONsd01x62IK90NBM2ORs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9maXQtMTUwMHcs/Zl9hdXRvLHFfYXV0/bzpiZXN0L25ld3Nj/bXMvMjAyM18yNS8z/NjExODk5L21pbGku/anBn",
+                "original": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2023_25/3611899/mili.jpg"
+              }
+            },
+            {
+              "type": "person",
+              "name": "Lauren Levy",
+              "url": "https://twitter.com/LaurenDLevy"
+            },
+            {
+              "type": "person",
+              "name": "Nishka Dhawan",
+              "url": "https://www.nbcnews.com/author/nishka-dhawan-ncpn1304541",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/ibB2rf5-yNlKMmQTEpC9u3Og0dlvD2DUH5tGRvS-nSM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9maXQtMTUwMHcs/Zl9hdXRvLHFfYXV0/bzpiZXN0L25ld3Nj/bXMvMjAyM18yNS8z/NjExOTAwL25pc2hr/YS5qcGVn",
+                "original": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2023_25/3611900/nishka.jpeg"
+              }
+            }
+          ],
+          "date": "Sep 04, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "NBC Select",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/525TNL4ubT5coghSWNTjYRdFqBbX4KlpMpHx2knNIVY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/bmV3c2Ntcy8yMDIy/XzM2LzM1NzAwMzEv/c2VsZWN0bG9nb2Js/dWUucG5n",
+              "original": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2022_36/3570031/selectlogoblue.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The 13 Best Vacuum Cleaners, Tested and Reviewed",
+        "url": "https://people.com/home/best-vacuum-cleaners/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The best <strong>vacuum</strong> <strong>cleaner</strong> is powerful, easy to use, and affordable. We tested over 50 <strong>vacuum</strong> <strong>cleaners</strong> from brands like Shark, Dyson, and Tineco to find the right <strong>vacuum</strong> for any home.",
+        "profile": {
+          "name": "People",
+          "url": "https://people.com/home/best-vacuum-cleaners/",
+          "long_name": "people.com",
+          "img": "https://imgs.search.brave.com/yZsfS8cXp5ftbTfLNWdlwgX3Zu3NfFJYcZyWl6HJiWI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2RhN2VkMzAy/YmE1MWJmZDliMjZi/ZWY2ZWI2MjA2Mjg3/NDY3MTZlZjc4NjMw/YWZhMjZjNjQ1YzZi/M2E0MmU1YS9wZW9w/bGUuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "people.com",
+          "hostname": "people.com",
+          "favicon": "https://imgs.search.brave.com/yZsfS8cXp5ftbTfLNWdlwgX3Zu3NfFJYcZyWl6HJiWI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2RhN2VkMzAy/YmE1MWJmZDliMjZi/ZWY2ZWI2MjA2Mjg3/NDY3MTZlZjc4NjMw/YWZhMjZjNjQ1YzZi/M2E0MmU1YS9wZW9w/bGUuY29tLw",
+          "path": "› home  › best-vacuum-cleaners"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OZA8MZFGii0bc8XlJo-4rxsR2x2JAbulXK5NlBImuoM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9wZW9w/bGUuY29tL3RobWIv/TmM5V05Vd2ZLNVp2/OTNnbTZiRlFfX1cx/QndVPS8xNTAweDAv/ZmlsdGVyczpub191/cHNjYWxlKCk6bWF4/X2J5dGVzKDE1MDAw/MCk6c3RyaXBfaWNj/KCk6Zm9jYWwoOTk5/eDA6MTAwMXgyKS92/YWN1dW1zLXBlb3Bs/ZS10ZXN0ZWQtbGVh/ZC1uZXctdG91dC05/YjhlNGJiMTdkMjc0/ZDMxYjQxMWJmOTAw/NDRhMjA1Zi5qcGc",
+          "original": "https://people.com/thmb/Nc9WNUwfK5Zv93gm6bFQ__W1BwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/vacuums-people-tested-lead-new-tout-9b8e4bb17d274d31b411bf90044a205f.jpg",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Amy Schulman",
+              "url": "https://people.com/author/amy-schulman/"
+            },
+            {
+              "type": "person",
+              "name": "Erin Johnson",
+              "url": "https://people.com/author/erin-johnson/"
+            },
+            {
+              "type": "person",
+              "name": "Alyssa Brascia",
+              "url": "https://people.com/author/alyssa-brascia/"
+            }
+          ],
+          "date": "Apr 15, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "PEOPLE",
+            "url": "https://www.people.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/db06QOebMY5Ujs0TXFkmGCoCQ9bzCxVznsmB2Gv7At4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9wZW9w/bGUuY29tL3RobWIv/SnBmTklTV2xYclRI/Y1c4QnFRZWJuQk5f/MTg0PS8xMTJ4MTEy/L2ZpbHRlcnM6bm9f/dXBzY2FsZSgpOm1h/eF9ieXRlcygxNTAw/MDApOnN0cmlwX2lj/YygpL3Blb3BsZV9s/b2dvX3NjaGVtYS00/NDVlZGY5YjM3MDM0/YWQ3ODlmMzQyYTRl/ZTlmZjA2NC5wbmc",
+              "original": "https://people.com/thmb/JpfNISWlXrTHcW8BqQebnBN_184=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/people_logo_schema-445edf9b37034ad789f342a4ee9ff064.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The 13 Best Vacuum Cleaners To Tackle Dirt, Dust And Debris",
+        "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-vacuum-cleaners/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The best <strong>vacuum</strong> <strong>cleaners</strong> tackle every corner of your home. These are our top picks in 2023, from powerful upright models to robot <strong>vacuums</strong>.",
+        "profile": {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-vacuum-cleaners/",
+          "long_name": "forbes.com",
+          "img": "https://imgs.search.brave.com/2YUF4i_97ZK_dBBUV_uuLn6S00dzPoQEiMSm4pZAsuo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "forbes.com",
+          "hostname": "www.forbes.com",
+          "favicon": "https://imgs.search.brave.com/2YUF4i_97ZK_dBBUV_uuLn6S00dzPoQEiMSm4pZAsuo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+          "path": "› sites  › forbes-personal-shopper  › article  › best-vacuum-cleaners"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/7mkO4AuvxtvMqvwDAv_3JxkIYKMO34Z3WVJEmTc5O8o/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZWlvLmZvcmJlcy5j/b20vc3BlY2lhbHMt/aW1hZ2VzL2ltYWdl/c2VydmUvNjRjNWQ3/ZTIzZTljYTU0NzJm/MDNlNzhhLzB4MC5q/cGc_Zm9ybWF0PWpw/ZyZ3aWR0aD0xMjAw",
+          "original": "https://imageio.forbes.com/specials-images/imageserve/64c5d7e23e9ca5472f03e78a/0x0.jpg?format=jpg&width=1200",
+          "logo": false
+        },
+        "age": "August 8, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Leah Koenig",
+              "url": "https://www.forbes.com/sites/forbes-personal-shopper/people/leahkoenig/"
+            }
+          ],
+          "date": "Aug 08, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Forbes",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/Zcd2Zgf5LlAmBLE2lXDCbs0PHu7vaQm3Sd4ffK7Naps/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZWlvLmZvcmJlcy5j/b20vaS1mb3JiZXNp/bWcvbWVkaWEvYW1w/L2ltYWdlcy9mb3Ji/ZXMtbG9nby1kYXJr/LnBuZz9mb3JtYXQ9/cG5nJmhlaWdodD0z/MiZ3aWR0aD0xMjYm/Zml0PWJvdW5kcw",
+              "original": "https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=32&width=126&fit=bounds"
+            }
+          },
+          "isAccessibleForFree": true
+        }
+      },
+      {
+        "title": "The 12 Best Vacuum Cleaners of 2023, Tested & Reviewed",
+        "url": "https://www.realsimple.com/best-vacuums-6827027",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We tested 280 <strong>vacuum</strong> <strong>cleaners</strong>—including cordless, robot, and upright models—and evaluated them on effectiveness, maneuverability, and more. We also spoke to a cleaning expert for tips on how to choose the right <strong>vacuum</strong>.",
+        "profile": {
+          "name": "Realsimple",
+          "url": "https://www.realsimple.com/best-vacuums-6827027",
+          "long_name": "realsimple.com",
+          "img": "https://imgs.search.brave.com/t4wXKFYINY2tj0z2_pZInbTlgPhgRKvjVVHo_Rd4ufI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDJjYjFhYjQ1/ZTg2MGU4N2YyYzVl/MTdjMWMzNDQ0NTc5/OGNkNjgzMjk1OWVj/OWQ0OTRhNzViZWRi/NDIxMDYwZS93d3cu/cmVhbHNpbXBsZS5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "realsimple.com",
+          "hostname": "www.realsimple.com",
+          "favicon": "https://imgs.search.brave.com/t4wXKFYINY2tj0z2_pZInbTlgPhgRKvjVVHo_Rd4ufI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDJjYjFhYjQ1/ZTg2MGU4N2YyYzVl/MTdjMWMzNDQ0NTc5/OGNkNjgzMjk1OWVj/OWQ0OTRhNzViZWRi/NDIxMDYwZS93d3cu/cmVhbHNpbXBsZS5j/b20v",
+          "path": "› best-vacuums-6827027"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8kqTwbM6mos9Dxw8NRyRpTjZ4X_IB1Yntyua9iwmnLA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmVhbHNpbXBsZS5j/b20vdGhtYi82ZUhZ/WTltYkprVnNQX2JX/eE8zNjNja1ZRV1k9/LzE1MDB4MC9maWx0/ZXJzOm5vX3Vwc2Nh/bGUoKTptYXhfYnl0/ZXMoMTUwMDAwKTpz/dHJpcF9pY2MoKS9y/c3AtYmVzdC12YWN1/dW1zLW9mLTIwMjMt/dG91dC1zb2NpYWwt/MGIxY2Q3YWFhYzJl/NGQ5OTk1Njg1NjU0/ZjQ4OGIzYjMuanBn",
+          "original": "https://www.realsimple.com/thmb/6eHYY9mbJkVsP_bWxO363ckVQWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rsp-best-vacuums-of-2023-tout-social-0b1cd7aaac2e4d9995685654f488b3b3.jpg",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Melanie Fincher",
+              "url": "https://www.realsimple.com/author/melanie-fincher"
+            }
+          ],
+          "date": "Nov 10, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Real Simple",
+            "url": "https://www.realsimple.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/4y46aFP7nCRuMoTLcDs0uTnRgecbnhW2TuoZS9Zumxg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmVhbHNpbXBsZS5j/b20vdGhtYi9SMVNN/V2VROVphN0FOMWRm/RzF5T1YyaXA2YzQ9/LzY0MHg3Ny9maWx0/ZXJzOm5vX3Vwc2Nh/bGUoKTptYXhfYnl0/ZXMoMTUwMDAwKTpz/dHJpcF9pY2MoKS9y/ZWFsc2ltcGxlX2xv/Z29fc2NoZW1hLWM2/Y2MwMDYxOGI3NDQ5/ODViODQyYmFhMDZm/NGMzZmE3LmpwZw",
+              "original": "https://www.realsimple.com/thmb/R1SMWeQ9Za7AN1dfG1yOV2ip6c4=/640x77/filters:no_upscale():max_bytes(150000):strip_icc()/realsimple_logo_schema-c6cc00618b744985b842baa06f4c3fa7.jpg"
+            }
+          }
+        }
+      },
+      {
+        "title": "Best vacuum cleaners 2023: 9 reviewed models we rate ...",
+        "url": "https://www.realhomes.com/buying-guides/best-vacuum-cleaners",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "These are our top-<strong>rated</strong> <strong>vacuum</strong> <strong>cleaners</strong>, as tried and tested, from the likes of Shark, Tineco, Miele, and Dyson that work on pet hair and in small spaces.",
+        "profile": {
+          "name": "Realhomes",
+          "url": "https://www.realhomes.com/buying-guides/best-vacuum-cleaners",
+          "long_name": "realhomes.com",
+          "img": "https://imgs.search.brave.com/d5Tw3w-yaDKZmbs5vi07cWGC5hmB0Zyv_rc1l-KtYUg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODhmMDY3MmE2/MTA1ZjY1NWZlNDQx/Zjc4ZjFlNTMwMWVl/NDE0YjljM2IwZTFl/ZGY3N2IyNzVmZTM3/MjZlZTc4OC93d3cu/cmVhbGhvbWVzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "realhomes.com",
+          "hostname": "www.realhomes.com",
+          "favicon": "https://imgs.search.brave.com/d5Tw3w-yaDKZmbs5vi07cWGC5hmB0Zyv_rc1l-KtYUg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODhmMDY3MmE2/MTA1ZjY1NWZlNDQx/Zjc4ZjFlNTMwMWVl/NDE0YjljM2IwZTFl/ZGY3N2IyNzVmZTM3/MjZlZTc4OC93d3cu/cmVhbGhvbWVzLmNv/bS8",
+          "path": "  › buying guides"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nqbMh2Cxav31L01AgjS0MwCtQmR541gDCggbdFzoyA8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3hm/VHZCZ3NxUG5aNzdS/M2g4c3pmbW0uanBn",
+          "original": "https://cdn.mos.cms.futurecdn.net/xfTvBgsqPnZ77R3h8szfmm.jpg",
+          "logo": false
+        },
+        "age": "3 weeks ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Annie Collyer",
+              "url": "https://www.realhomes.com/us/author/annie-collyer",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/q9EH1tGiyL6JbXb21s2cRAP3xIc0VcPMFEfAS47XbAI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3lC/UnpKU2VmeTNaNDZh/Qm44eHVMQ2kuanBn",
+                "original": "https://cdn.mos.cms.futurecdn.net/yBRzJSefy3Z46aBn8xuLCi.jpg"
+              }
+            }
+          ],
+          "date": "Nov 18, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Real Homes",
+            "url": "https://www.realhomes.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/9XqE-30yHxPSgMDG0i6yJyXeDu7OMzLQ0w0gfvmqh_4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly92YW5p/bGxhLmZ1dHVyZWNk/bi5uZXQvcmVhbGhv/bWVzL21lZGlhL2lt/Zy9yZWFsaG9tZXNf/bG9nby5wbmc",
+              "original": "https://vanilla.futurecdn.net/realhomes/media/img/realhomes_logo.png"
+            }
+          }
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

@@ -1,0 +1,871 @@
+{
+  "query": {
+    "original": "Clinical data management platforms",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "local_decision": "drop",
+    "local_locations_idx": 0,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Data management in clinical research: An overview - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3326906/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Clinical</strong> <strong>Data</strong> <strong>Management</strong> (CDM) is a critical phase in <strong>clinical</strong> research, which leads to generation of high-quality, reliable, and statistically sound <strong>data</strong> <strong>from</strong> <strong>clinical</strong> trials. This helps to produce a drastic reduction in time from drug development to ...",
+        "profile": {
+          "name": "NCBI",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3326906/",
+          "long_name": "National Center for Biotechnology Information",
+          "img": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ncbi.nlm.nih.gov",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/8HH5nd7rZQco90qEXIc6jnwDeRiYLs5gXy-y-n7ykxQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgxNzE0Nzlj/MzAxYmYwZjU0ODNi/MDgyYzdiMDY1NWJl/Y2I1ODFjOGQwYmYw/ODdkY2Y4MmE4NTE5/ZDZiMDZlZS93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+          "path": "› pmc  › articles  › PMC3326906"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5bfcHo1PfV6rvJvSnUDsmQPRhO5o-9tsgtoLMuddIKg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bmNiaS5ubG0ubmlo/Lmdvdi9jb3JlaHRt/bC9wbWMvcG1jZ2lm/cy9wbWMtY2FyZC1z/aGFyZS5qcGc_Xz0w",
+          "original": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+          "logo": false
+        }
+      },
+      {
+        "title": "Clinical data management system - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clinical_data_management_system",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A <strong>clinical</strong> <strong>data</strong> <strong>management</strong> system or CDMS is a tool used in <strong>clinical</strong> research to <strong>manage</strong> <strong>the</strong> <strong>data</strong> of a <strong>clinical</strong> trial. The <strong>clinical</strong> trial <strong>data</strong> gathered at the investigator site in the case report form are stored in the CDMS. To reduce the possibility of errors due to human entry, the systems ...",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Clinical_data_management_system",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "Classification",
+              "url": "https://en.wikipedia.org/wiki/Clinical_data_management_system#Classification"
+            },
+            {
+              "type": "button_result",
+              "title": "Clinical data management",
+              "url": "https://en.wikipedia.org/wiki/Clinical_data_management_system#Clinical_data_management"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Clinical_data_management_system"
+        },
+        "age": "August 18, 2022"
+      },
+      {
+        "title": "Best Clinical Trial Management Software 2022 | Reviews of the Most ...",
+        "url": "https://www.capterra.com/clinical-trial-management-software/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Plus, our offline <strong>data</strong> collection mode means Catalyst goes wherever you go. Capture everything, anywhere with Catalyst. ... RealTime Software Solution is a global leader in SAAS-based <strong>Clinical</strong> Trials <strong>Management</strong> Systems for Sites, Sponsors, and CROs. RealTime is also the only CTMS vendor that can offer a complete suite of solutions into a seamless <strong>platform</strong>...",
+        "profile": {
+          "name": "Capterra",
+          "url": "https://www.capterra.com/clinical-trial-management-software/",
+          "long_name": "capterra.com",
+          "img": "https://imgs.search.brave.com/sWj8p_8uMhy6BexwGN7cJnpdPsNxUqQpex4A3nQiRjM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdmMjU0NWE3/MGI3ZmRlZjRhN2Mx/MGU2NTY2NmE4ZDJl/MzBhZTVkYjg2MTVm/NzBlNjViMmM4NjMz/MGYzZTdlYS93d3cu/Y2FwdGVycmEuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "capterra.com",
+          "hostname": "www.capterra.com",
+          "favicon": "https://imgs.search.brave.com/sWj8p_8uMhy6BexwGN7cJnpdPsNxUqQpex4A3nQiRjM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdmMjU0NWE3/MGI3ZmRlZjRhN2Mx/MGU2NTY2NmE4ZDJl/MzBhZTVkYjg2MTVm/NzBlNjViMmM4NjMz/MGYzZTdlYS93d3cu/Y2FwdGVycmEuY29t/Lw",
+          "path": "› clinical-trial-management-software"
+        }
+      },
+      {
+        "title": "Top 10 Clinical Data Management Solution Providers 2017",
+        "url": "https://www.pharmatechoutlook.com/vendors/top-clinical-data-management-solution-providers-2017.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Pharma Tech Outlook is a print and digital magazine that provides a knowledge network for scaling pharma technology transformation and bringing real-world solutions, the latest news, decision-makers viewpoints, product trends, and innovations into services of the pharmaceutical industry.",
+        "profile": {
+          "name": "Pharmatechoutlook",
+          "url": "https://www.pharmatechoutlook.com/vendors/top-clinical-data-management-solution-providers-2017.html",
+          "long_name": "pharmatechoutlook.com",
+          "img": "https://imgs.search.brave.com/qlQm9dGFZYKZD7Ai42eYd6IwJK1iO59bG-0_uv4_be4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDlhZDYxOGE3/NmRlOGU3MTg2NWRk/OWFkYzRlMWMzYjBj/OTY4MmQ2YWZjNjg0/ZThiNDQ1YmFiOWNl/MWE5ZTA0ZS93d3cu/cGhhcm1hdGVjaG91/dGxvb2suY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pharmatechoutlook.com",
+          "hostname": "www.pharmatechoutlook.com",
+          "favicon": "https://imgs.search.brave.com/qlQm9dGFZYKZD7Ai42eYd6IwJK1iO59bG-0_uv4_be4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDlhZDYxOGE3/NmRlOGU3MTg2NWRk/OWFkYzRlMWMzYjBj/OTY4MmQ2YWZjNjg0/ZThiNDQ1YmFiOWNl/MWE5ZTA0ZS93d3cu/cGhhcm1hdGVjaG91/dGxvb2suY29tLw",
+          "path": "› vendors  › top-clinical-data-management-solution-providers-2017.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/QXB8GyTsvlYZnbb27SOnCtTJcYhQwm6mP18_qL_FiNk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cGhhcm1hdGVjaG91/dGxvb2suY29tL2lt/YWdlcy9sb2dvLnBu/Zw",
+          "original": "https://www.pharmatechoutlook.com/images/logo.png",
+          "logo": true
+        }
+      },
+      {
+        "title": "Clinical Data Management Process – Best Practices for Pros",
+        "url": "https://www.liaison.com/blog/2017/02/01/clinical-data-management-process-best-practices-pros/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "OpenText Business Network Cloud solutions connect <strong>data</strong> with people, systems and things through a secure cloud <strong>platform</strong>.",
+        "profile": {
+          "name": "Liaison",
+          "url": "https://www.liaison.com/blog/2017/02/01/clinical-data-management-process-best-practices-pros/",
+          "long_name": "liaison.com",
+          "img": "https://imgs.search.brave.com/ZAbACYnyaFteN7HT_TRzfLABjlgk8bIls1Zy5rMW-dE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTAzODI1ZWU4/NDRkOTk0M2YyZTZj/OTFiN2FmZDJhMDJi/NjdlZTcxNjVlZGZh/ZDUyZTJiNGJkYTE1/ZmEzZGRjMy93d3cu/bGlhaXNvbi5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "liaison.com",
+          "hostname": "www.liaison.com",
+          "favicon": "https://imgs.search.brave.com/ZAbACYnyaFteN7HT_TRzfLABjlgk8bIls1Zy5rMW-dE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTAzODI1ZWU4/NDRkOTk0M2YyZTZj/OTFiN2FmZDJhMDJi/NjdlZTcxNjVlZGZh/ZDUyZTJiNGJkYTE1/ZmEzZGRjMy93d3cu/bGlhaXNvbi5jb20v",
+          "path": "› blog  › 2017  › 02  › 01  › clinical-data-management-process-best-practices-pros"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/sA8hRerqOLGuxoS6Vw-Ukd_tcS5aHTBZxdmgaIrW64A/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bGlhaXNvbi5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTcv/MDIvaVN0b2NrLTU0/MzM1MTgxMC5qcGc",
+          "original": "https://www.liaison.com/wp-content/uploads/2017/02/iStock-543351810.jpg",
+          "logo": false
+        },
+        "age": "February 1, 2017"
+      },
+      {
+        "title": "Home - DataRiver",
+        "url": "https://www.datariver.it/en/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "THROUGH A CLEAR AND INSTANT VIEW OF <strong>DATA</strong> · ANALYZING BIG <strong>DATA</strong> TO LEARN FROM EXPERIENCE",
+        "profile": {
+          "name": "Datariver",
+          "url": "https://www.datariver.it/en/",
+          "long_name": "datariver.it",
+          "img": "https://imgs.search.brave.com/LgSm5zmsMe9it8PObSwuF-qBvpthgndG3xRtRyP-TG0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGNhODQ4MzRi/OWRlMWNhMTAzN2Q1/NDQ4ZTM4ODlkMGQ4/NDcyZjU2NGJkNjg0/OTg2OTkyZjhhODIx/MmQzNmY1YS93d3cu/ZGF0YXJpdmVyLml0/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "datariver.it",
+          "hostname": "www.datariver.it",
+          "favicon": "https://imgs.search.brave.com/LgSm5zmsMe9it8PObSwuF-qBvpthgndG3xRtRyP-TG0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGNhODQ4MzRi/OWRlMWNhMTAzN2Q1/NDQ4ZTM4ODlkMGQ4/NDcyZjU2NGJkNjg0/OTg2OTkyZjhhODIx/MmQzNmY1YS93d3cu/ZGF0YXJpdmVyLml0/Lw",
+          "path": "› en"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SVKir3b0iBrmCfQFUvSllyJKDFKK1iv60lZoE-_NAqA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZGF0YXJpdmVyLml0/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE4/LzA3L3NsaWRlLWhv/bWUuanBn",
+          "original": "https://www.datariver.it/wp-content/uploads/2018/07/slide-home.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "List of Top Clinical Data Management Systems 2023",
+        "url": "https://www.trustradius.com/clinical-data-management",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It is often built-in to existing <strong>Clinical</strong> Trial <strong>Management</strong> Systems (CTMS) software, but more commonly, vendors in the space are offering these two components separately. Merative <strong>Clinical</strong> Development, Bioclinica ICL, Oracle <strong>Clinical</strong> One, IQVIA Digital Site Suite, and Dotmatics Enterprise <strong>Data</strong> <strong>Platform</strong>...",
+        "profile": {
+          "name": "Trustradius",
+          "url": "https://www.trustradius.com/clinical-data-management",
+          "long_name": "trustradius.com",
+          "img": "https://imgs.search.brave.com/FnPyBivr2VV8P-eeqS-ml0klGzWtoyXiblxyfAySe-Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2M2I4OGYx/OThiMDE3MDYyNjk2/MjNlZTA2Y2JhMTY3/NDc4NDM1NGE0NjQ0/NzE4MDcwNGYyOTUx/ZGIwYjdiYS93d3cu/dHJ1c3RyYWRpdXMu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trustradius.com",
+          "hostname": "www.trustradius.com",
+          "favicon": "https://imgs.search.brave.com/FnPyBivr2VV8P-eeqS-ml0klGzWtoyXiblxyfAySe-Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2M2I4OGYx/OThiMDE3MDYyNjk2/MjNlZTA2Y2JhMTY3/NDc4NDM1NGE0NjQ0/NzE4MDcwNGYyOTUx/ZGIwYjdiYS93d3cu/dHJ1c3RyYWRpdXMu/Y29tLw",
+          "path": "  › home  › clinical data management systems"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/sIz9_ZdYRE8V4J7rYJsLuxjHhCmeyb42XJP6AHjG0DY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMudHJ1c3RyYWRp/dXMuY29tL3IvYWZk/MWIwZjliMjk4YWM4/YWY0M2FkMGNiNDNk/MDg1ODY3MjkwZDI2/MS9pbWFnZXMvdHJ1/c3RyYWRpdXNfc3F1/YXJlMy5qcGc_dj0y/MDE3MTAwNQ",
+          "original": "https://static.trustradius.com/r/afd1b0f9b298ac8af43ad0cb43d085867290d261/images/trustradius_square3.jpg?v=20171005",
+          "logo": false
+        },
+        "faq": {
+          "items": [
+            {
+              "question": "What is Clinical Data Management?",
+              "answer": "Clinical Data Management refers to the collection and storage of data collected during clinical research. To obtain quality information that is complete and error-free, the process of collecting and handling research data is performed in compliance with regulatory standards.",
+              "title": "List of Top Clinical Data Management Systems 2023",
+              "url": "https://www.trustradius.com/clinical-data-management",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "trustradius.com",
+                "hostname": "www.trustradius.com",
+                "favicon": "https://imgs.search.brave.com/FnPyBivr2VV8P-eeqS-ml0klGzWtoyXiblxyfAySe-Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2M2I4OGYx/OThiMDE3MDYyNjk2/MjNlZTA2Y2JhMTY3/NDc4NDM1NGE0NjQ0/NzE4MDcwNGYyOTUx/ZGIwYjdiYS93d3cu/dHJ1c3RyYWRpdXMu/Y29tLw",
+                "path": "  › home  › clinical data management systems"
+              }
+            },
+            {
+              "question": "What are examples of clinical data?",
+              "answer": "<p><span>According to the University of Washington's Health Sciences Library, </span>six main types<span> of clinical data gets collected during trials or patient care:</span></p><ul><li><span>Electronic health records</span></li><li><span>Administrative data</span></li><li><span>Claims data</span></li><li><span>Patient / Disease registries</span></li><li><span>Health surveys</span></li><li><span>Clinical trials data</span></li></ul><p><br></p>",
+              "title": "List of Top Clinical Data Management Systems 2023",
+              "url": "https://www.trustradius.com/clinical-data-management",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "trustradius.com",
+                "hostname": "www.trustradius.com",
+                "favicon": "https://imgs.search.brave.com/FnPyBivr2VV8P-eeqS-ml0klGzWtoyXiblxyfAySe-Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2M2I4OGYx/OThiMDE3MDYyNjk2/MjNlZTA2Y2JhMTY3/NDc4NDM1NGE0NjQ0/NzE4MDcwNGYyOTUx/ZGIwYjdiYS93d3cu/dHJ1c3RyYWRpdXMu/Y29tLw",
+                "path": "  › home  › clinical data management systems"
+              }
+            },
+            {
+              "question": "How does one become a clinical data manager?",
+              "answer": "Clinical data managers handle all aspects of clinical or patient data collection and dissemination. They typically have Master's Degrees in life/health sciences, computer science, or engineering related to health services. Of course, clinical data managers are usually proficient users of CDMS and CTMS platforms.",
+              "title": "List of Top Clinical Data Management Systems 2023",
+              "url": "https://www.trustradius.com/clinical-data-management",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "trustradius.com",
+                "hostname": "www.trustradius.com",
+                "favicon": "https://imgs.search.brave.com/FnPyBivr2VV8P-eeqS-ml0klGzWtoyXiblxyfAySe-Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2M2I4OGYx/OThiMDE3MDYyNjk2/MjNlZTA2Y2JhMTY3/NDc4NDM1NGE0NjQ0/NzE4MDcwNGYyOTUx/ZGIwYjdiYS93d3cu/dHJ1c3RyYWRpdXMu/Y29tLw",
+                "path": "  › home  › clinical data management systems"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Best Clinical Trial Management Software - 2023 Reviews & Pricing",
+        "url": "https://www.softwareadvice.com/clinical-trial-management/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Salesforce Health Cloud is a patient <strong>management</strong> <strong>platform</strong> designed to help medium to large healthcare organizations <strong>manage</strong> inquiries, track issues, deliver post-acute care processes and more. Key features include <strong>clinical</strong> <strong>data</strong> mana...Read more about Health Cloud",
+        "profile": {
+          "name": "Softwareadvice",
+          "url": "https://www.softwareadvice.com/clinical-trial-management/",
+          "long_name": "softwareadvice.com",
+          "img": "https://imgs.search.brave.com/K7j_WTji_mNVzocKx7TSugaG1N6kulebgtaOpmE1jMA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTk5NTJmNjA2/ZDRlODViYzNiNTM2/OWQzNWQ4NWRjMDA5/MDFkOWEwYmI5NTNl/ZDgzM2M0OThmNzU0/OTU2ZjhjYi93d3cu/c29mdHdhcmVhZHZp/Y2UuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "softwareadvice.com",
+          "hostname": "www.softwareadvice.com",
+          "favicon": "https://imgs.search.brave.com/K7j_WTji_mNVzocKx7TSugaG1N6kulebgtaOpmE1jMA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTk5NTJmNjA2/ZDRlODViYzNiNTM2/OWQzNWQ4NWRjMDA5/MDFkOWEwYmI5NTNl/ZDgzM2M0OThmNzU0/OTU2ZjhjYi93d3cu/c29mdHdhcmVhZHZp/Y2UuY29tLw",
+          "path": "  › home  › clinical trial management  software"
+        },
+        "age": "March 16, 2023"
+      },
+      {
+        "title": "Clinical Trial Data Management Software: A Review of the Technical ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30734683/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It seems that most of the systems used in the research centers were weak in terms of supporting the process of <strong>data</strong> <strong>management</strong> <strong>and</strong> <strong>managing</strong> <strong>clinical</strong> trial&#x27;s workflow. Therefore, more attention should be paid to design a more complete, usable, and high quality <strong>data</strong> <strong>management</strong> system for <strong>clinical</strong> ...",
+        "profile": {
+          "name": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30734683/",
+          "long_name": "pubmed.ncbi.nlm.nih.gov",
+          "img": "https://imgs.search.brave.com/YVEnWXnq5twmVz0k9bSTPZ9AxfgO8XlkkbsrDa-3pjo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzY1MzFmMzQy/ZGQ2OWE1N2M2YjFl/YmEwOWU2NjIzY2Jh/N2I5ZTRkY2U3MzY4/OThkNDIyN2EyYWJl/OWE3MWNlYS9wdWJt/ZWQubmNiaS5ubG0u/bmloLmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pubmed.ncbi.nlm.nih.gov",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/YVEnWXnq5twmVz0k9bSTPZ9AxfgO8XlkkbsrDa-3pjo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzY1MzFmMzQy/ZGQ2OWE1N2M2YjFl/YmEwOWU2NjIzY2Jh/N2I5ZTRkY2U3MzY4/OThkNDIyN2EyYWJl/OWE3MWNlYS9wdWJt/ZWQubmNiaS5ubG0u/bmloLmdvdi8",
+          "path": "› 30734683"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/cNCMJFuYpPW7h9KD_uWoRuo0kU0EBLK5rhchfBmWcoI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/bmNiaS5ubG0ubmlo/Lmdvdi9wdWJtZWQv/cGVyc2lzdGVudC9w/dWJtZWQtbWV0YS1p/bWFnZS5wbmc",
+          "original": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "Clinical Data Management System (CDMS) for Better Trials",
+        "url": "https://www.castoredc.com/clinical-data-management-system/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Combine <strong>data</strong> from eCRF, eCOA, ePRO, ... unified <strong>platform</strong> ... Our compliance package ensures you have access to the validation documentation needed for each stage of your internal regulatory compliance process. ... <strong>Data</strong> security is paramount to protect your <strong>data</strong>. We are ISO 27001 certified, and features like field encryption and user-<strong>management</strong> put you in control of <strong>data</strong> access. Castor helps you comply with FDA 21 CFR Part 11, ICH E6 Good <strong>Clinical</strong> Practice, ...",
+        "profile": {
+          "name": "Castoredc",
+          "url": "https://www.castoredc.com/clinical-data-management-system/",
+          "long_name": "castoredc.com",
+          "img": "https://imgs.search.brave.com/PWKIPkU5jq6B7kfNZ0HsAQTHJJEwk4HoqWl0iETv5X0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzM0M2Q4YjA4/YmUyMmMzODNjYWNk/YmMzMWMxOWE5YWYz/YTU4ZTgxZjUyZTRh/ZDkxM2JhZWIxMTk3/N2MxM2YyNi93d3cu/Y2FzdG9yZWRjLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "castoredc.com",
+          "hostname": "www.castoredc.com",
+          "favicon": "https://imgs.search.brave.com/PWKIPkU5jq6B7kfNZ0HsAQTHJJEwk4HoqWl0iETv5X0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzM0M2Q4YjA4/YmUyMmMzODNjYWNk/YmMzMWMxOWE5YWYz/YTU4ZTgxZjUyZTRh/ZDkxM2JhZWIxMTk3/N2MxM2YyNi93d3cu/Y2FzdG9yZWRjLmNv/bS8",
+          "path": "  › home  › clinical data management system (cdms)"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/WaxcuMWYnf3_oGHuEZxgOKKWTNuNxilIQRbTF2xVbmo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Y2FzdG9yZWRjLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wOC9EYXRhLUVu/dHJ5LUNhcmQtTGF5/b3V0LmpwZw",
+          "original": "https://www.castoredc.com/wp-content/uploads/2018/08/Data-Entry-Card-Layout.jpg",
+          "logo": false
+        },
+        "age": "May 11, 2020"
+      },
+      {
+        "title": "Software And Data Management Tools In Clinical Trials Credevo Articles",
+        "url": "https://credevo.com/articles/2020/03/15/software-and-data-management-tools-in-clinical-trials/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Generation of quality <strong>data</strong>. There are several <strong>platforms</strong> to help sponsor or <strong>clinical</strong> research organizations to identify potential sites and qualified <strong>clinical</strong> investigators. Credevo has developed a web-based online <strong>platform</strong> where the trial <strong>manager</strong> or sponsor can conduct feasibility with <strong>clinical</strong> ...",
+        "profile": {
+          "name": "Credevo",
+          "url": "https://credevo.com/articles/2020/03/15/software-and-data-management-tools-in-clinical-trials/",
+          "long_name": "credevo.com",
+          "img": "https://imgs.search.brave.com/W7ipPVJqmQSlNagUKmRGQ-UumNWVsmqXMNtMhBTYXS0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjI2ZWY4MWRk/NzhmMGU4NDBiMmRk/MTc5ZGY3OGY5Nzc2/NjVlYTRmOWE3Njk5/Yzc4ZGJkNDA2ZGU1/N2Q4ZTk0ZS9jcmVk/ZXZvLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "credevo.com",
+          "hostname": "credevo.com",
+          "favicon": "https://imgs.search.brave.com/W7ipPVJqmQSlNagUKmRGQ-UumNWVsmqXMNtMhBTYXS0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjI2ZWY4MWRk/NzhmMGU4NDBiMmRk/MTc5ZGY3OGY5Nzc2/NjVlYTRmOWE3Njk5/Yzc4ZGJkNDA2ZGU1/N2Q4ZTk0ZS9jcmVk/ZXZvLmNvbS8",
+          "path": "  › home  › software and data management tools in clinical trials credevo articles"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/f5H4PFv_VUONHrvIO17F590WF7q4WOvqeJLH_oZyisM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jcmVk/ZXZvLmNvbS9hcnRp/Y2xlcy93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wMy9Tb2Z0/d2FyZXNfbWFuYWdl/bWVudF90b29sc19j/bGluaWNhbHRyaWFs/c19jcmVkZXZvLnBu/Zw",
+          "original": "https://credevo.com/articles/wp-content/uploads/2020/03/Softwares_management_tools_clinicaltrials_credevo.png",
+          "logo": false
+        },
+        "age": "March 15, 2020",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Trial Expert",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/tH6yHy8uvB-Blwv0C6PqL5vbLbDtUEOdkgyEXW1Lsx0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zZWN1/cmUuZ3JhdmF0YXIu/Y29tL2F2YXRhci8w/N2IxMjBkNjY2NjQ1/MjIwZDRmZDViNDll/MTU0ZDg0OT9zPTk2/JmQ9bW0mcj1n",
+                "original": "https://secure.gravatar.com/avatar/07b120d666645220d4fd5b49e154d849?s=96&d=mm&r=g"
+              }
+            }
+          ],
+          "date": "Mar 15, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "Credevo Pte. Ltd.",
+            "url": "https://credevo.com/articles/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/xLYa4BoZ0VL5YUTAtRYhEQNfcntIlfl5AR3Q1Kn_0z8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jcmVk/ZXZvLmNvbS9hcnRp/Y2xlcy93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wNC9DUkVE/RVZPLUhPUklaT05U/QUwuanBn",
+              "original": "https://credevo.com/articles/wp-content/uploads/2021/04/CREDEVO-HORIZONTAL.jpg"
+            }
+          }
+        }
+      },
+      {
+        "title": "What Is Clinical Data Management? | Egnyte",
+        "url": "https://www.egnyte.com/guides/life-sciences/clinical-data-management",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "See how <strong>clinical</strong> <strong>data</strong> <strong>management</strong> processes that weave through an entire <strong>clinical</strong> study result in high-integrity <strong>data</strong> for use in research and reporting.",
+        "profile": {
+          "name": "Egnyte",
+          "url": "https://www.egnyte.com/guides/life-sciences/clinical-data-management",
+          "long_name": "egnyte.com",
+          "img": "https://imgs.search.brave.com/uIF7Fuv-pIKb0Wtqrq3ZDvBw858lGOVmIrY79e3ZefU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmFkNDUwMGY3/MTM4MTI3ZmVhNGQ5/NDIwZDcxODlhMTMy/ZmUwNDg0MzA5YjE5/Y2UzYTBjN2M2YTU1/NzE2MmZkOS93d3cu/ZWdueXRlLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "egnyte.com",
+          "hostname": "www.egnyte.com",
+          "favicon": "https://imgs.search.brave.com/uIF7Fuv-pIKb0Wtqrq3ZDvBw858lGOVmIrY79e3ZefU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmFkNDUwMGY3/MTM4MTI3ZmVhNGQ5/NDIwZDcxODlhMTMy/ZmUwNDg0MzA5YjE5/Y2UzYTBjN2M2YTU1/NzE2MmZkOS93d3cu/ZWdueXRlLmNvbS8",
+          "path": "› guides  › life-sciences  › clinical-data-management"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/D5fRm7e5E-7_ef_CtuYxW6YQ72THS2ifD0BgXErQYTY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZWdueXRlLmNvbS9z/aXRlcy9kZWZhdWx0/L2ZpbGVzLzIwMjEt/MTAvMTIwMHg2Mjdf/V2hhdCUyMElzJTIw/Q2xpbmljYWwlMjBE/YXRhJTIwTWFuYWdl/bWVudC1NZXRhZGF0/YS5wbmc",
+          "original": "https://www.egnyte.com/sites/default/files/2021-10/1200x627_What%20Is%20Clinical%20Data%20Management-Metadata.png",
+          "logo": false
+        },
+        "age": "October 17, 2021"
+      },
+      {
+        "title": "Best 10 Free Clinical Trial Management Software Picks in 2022 | G2",
+        "url": "https://www.g2.com/categories/clinical-trial-management/free",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Clinion’s eClinical Software <strong>platform</strong> is one of the industry’s most fully-integrated <strong>clinical</strong> trial software. Clinion enables users to effortlessly <strong>manage</strong> the complexities of <strong>clinical</strong> trials by sharing consistent trial <strong>data</strong> across the entire trial process leading to accelerated <strong>clinical</strong> ...",
+        "profile": {
+          "name": "G2",
+          "url": "https://www.g2.com/categories/clinical-trial-management/free",
+          "long_name": "g2.com",
+          "img": "https://imgs.search.brave.com/lMzRxyxV1Dwgu01_fcKZGuaFOKcCBRNQBJueEdAoBn0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkzOGZiNGFh/Yjc4MjI0ZjZhMjlh/Y2M4N2E1NzVlODhl/MjgwM2Q4ZmNkZjA3/NGVhY2QzYzFjNzE3/NmEyNmQ1OS93d3cu/ZzIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "g2.com",
+          "hostname": "www.g2.com",
+          "favicon": "https://imgs.search.brave.com/lMzRxyxV1Dwgu01_fcKZGuaFOKcCBRNQBJueEdAoBn0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkzOGZiNGFh/Yjc4MjI0ZjZhMjlh/Y2M4N2E1NzVlODhl/MjgwM2Q4ZmNkZjA3/NGVhY2QzYzFjNzE3/NmEyNmQ1OS93d3cu/ZzIuY29tLw",
+          "path": "› categories  › clinical-trial-management  › free"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/S8E0sMFmbcnGeiGo5eLY9JyyjMgz_ARSASfzMUCzI6g/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZzIuY29tL2Fzc2V0/cy9vZy1sb2dvLWcy/LTljNzJmOTViZGU5/OTZhNzI2YmJhY2Zi/MzRkZTg2MjFjNjk4/NmMxNzdhYzY5MDFj/NWJjMGYwY2UzODE1/YjhiOWUucG5n",
+          "original": "https://www.g2.com/assets/og-logo-g2-9c72f95bde996a726bbacfb34de8621c6986c177ac6901c5bc0f0ce3815b8b9e.png",
+          "logo": true
+        },
+        "age": "October 27, 2020",
+        "location": {
+          "title": "G2",
+          "url": "https://www.g2.com/categories/clinical-trial-management/free",
+          "is_source_local": false,
+          "is_source_both": false,
+          "description": "",
+          "family_friendly": true,
+          "type": "location_result",
+          "provider_url": "https://www.g2.com/categories/clinical-trial-management/free",
+          "zoom_level": 7,
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/S8E0sMFmbcnGeiGo5eLY9JyyjMgz_ARSASfzMUCzI6g/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZzIuY29tL2Fzc2V0/cy9vZy1sb2dvLWcy/LTljNzJmOTViZGU5/OTZhNzI2YmJhY2Zi/MzRkZTg2MjFjNjk4/NmMxNzdhYzY5MDFj/NWJjMGYwY2UzODE1/YjhiOWUucG5n",
+            "original": "https://www.g2.com/assets/og-logo-g2-9c72f95bde996a726bbacfb34de8621c6986c177ac6901c5bc0f0ce3815b8b9e.png"
+          },
+          "postal_address": {
+            "type": "PostalAddress",
+            "postalCode": "60606",
+            "streetAddress": "100 S Wacker DrSTE 600",
+            "addressRegion": "IL",
+            "addressLocality": "Chicago",
+            "displayAddress": "100 S Wacker DrSTE 600, 60606, Chicago"
+          },
+          "profiles": [
+            {
+              "type": "external",
+              "name": "g2.com",
+              "url": "https://www.g2.com/categories/clinical-trial-management/free",
+              "img": "https://imgs.search.brave.com/lMzRxyxV1Dwgu01_fcKZGuaFOKcCBRNQBJueEdAoBn0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkzOGZiNGFh/Yjc4MjI0ZjZhMjlh/Y2M4N2E1NzVlODhl/MjgwM2Q4ZmNkZjA3/NGVhY2QzYzFjNzE3/NmEyNmQ1OS93d3cu/ZzIuY29tLw"
+            }
+          ],
+          "categories": []
+        }
+      },
+      {
+        "title": "Best Clinical Trial Management Software in 2022 | G2",
+        "url": "https://www.g2.com/categories/clinical-trial-management",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Study eSafe is a free eRegulatory and Source document binder <strong>platform</strong> <strong>for</strong> <strong>clinical</strong> research sites that is secure and 21 CFR Part 11 Compliant. Sites are able to customize eSafe to match their workflow ... A <strong>Clinical</strong> <strong>Data</strong> <strong>Management</strong> System (CDMS), <strong>Clinical</strong> Trial <strong>Management</strong> System (CTMS) and ...",
+        "profile": {
+          "name": "G2",
+          "url": "https://www.g2.com/categories/clinical-trial-management",
+          "long_name": "g2.com",
+          "img": "https://imgs.search.brave.com/lMzRxyxV1Dwgu01_fcKZGuaFOKcCBRNQBJueEdAoBn0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkzOGZiNGFh/Yjc4MjI0ZjZhMjlh/Y2M4N2E1NzVlODhl/MjgwM2Q4ZmNkZjA3/NGVhY2QzYzFjNzE3/NmEyNmQ1OS93d3cu/ZzIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "g2.com",
+          "hostname": "www.g2.com",
+          "favicon": "https://imgs.search.brave.com/lMzRxyxV1Dwgu01_fcKZGuaFOKcCBRNQBJueEdAoBn0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkzOGZiNGFh/Yjc4MjI0ZjZhMjlh/Y2M4N2E1NzVlODhl/MjgwM2Q4ZmNkZjA3/NGVhY2QzYzFjNzE3/NmEyNmQ1OS93d3cu/ZzIuY29tLw",
+          "path": "› categories  › clinical-trial-management"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mknJpnHaHKO0gE2eEJz4UirrrlAMFBthFT1kQabNq9Q/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZzIuY29tL2Fzc2V0/cy9oaWdoZXN0X3Jh/dGVkX29nLTdmOGJm/ZmM4OWVmZDA0MTdh/ZWE2MjY0YzVhMzIz/MjRjZDgxMzFhMmZl/OTg3ODBkMTViMzUx/ODk5NTYxZWViZTQu/cG5n",
+          "original": "https://www.g2.com/assets/highest_rated_og-7f8bffc89efd0417aea6264c5a32324cd8131a2fe98780d15b351899561eebe4.png",
+          "logo": false
+        },
+        "age": "March 9, 2023"
+      },
+      {
+        "title": "Clinical Data Management (CDM) Software",
+        "url": "https://www.hyland.com/en/healthcare/content-services/by-department/clinical",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Hyland&#x27;s <strong>Clinical</strong> Care Solutions integrate patient <strong>data</strong>, making it easily accessible within EHR workflow through its viewing solution.",
+        "profile": {
+          "name": "Hyland",
+          "url": "https://www.hyland.com/en/healthcare/content-services/by-department/clinical",
+          "long_name": "hyland.com",
+          "img": "https://imgs.search.brave.com/KedvxK58mKz56axz6H7NQcTiRiRLXKJXWPomA8y4BiI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDY2ZWYzMDkx/YTk1YWVkNzI3MDdh/ZmE0MzBhMzUwOWNi/ZTRiOGY3MjI5M2Nk/ZGU1OWI5NWM2MDM5/ZTJkYTZiZS93d3cu/aHlsYW5kLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hyland.com",
+          "hostname": "www.hyland.com",
+          "favicon": "https://imgs.search.brave.com/KedvxK58mKz56axz6H7NQcTiRiRLXKJXWPomA8y4BiI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDY2ZWYzMDkx/YTk1YWVkNzI3MDdh/ZmE0MzBhMzUwOWNi/ZTRiOGY3MjI5M2Nk/ZGU1OWI5NWM2MDM5/ZTJkYTZiZS93d3cu/aHlsYW5kLmNvbS8",
+          "path": "› en  › healthcare  › content-services  › by-department  › clinical"
+        }
+      },
+      {
+        "title": "20 Best Clinical Trial Management Software of 2023 - Financeso...",
+        "url": "https://financesonline.com/clinical-trial-management/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Clinical</strong> trials are complex projects, and <strong>managing</strong> its various aspects is simply too complicated for a typical project <strong>management</strong> software. Individual applications can do budgets, <strong>data</strong> collection, compliance, research timelines, and more. However, juggling different <strong>platforms</strong> that do not seamlessly ...",
+        "profile": {
+          "name": "Financesonline",
+          "url": "https://financesonline.com/clinical-trial-management/",
+          "long_name": "financesonline.com",
+          "img": "https://imgs.search.brave.com/XkSO62oXNXVo6rrcFMYv6vx8o5C5KGKuuSo87_MO8Ts/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWZkYjJjMGNh/ZWZlMjY2YTQ1ZjI3/MjUyMDE5NDFmZTFk/YWFjZDRmNDEzYjY3/N2VlYTE2NDQ0YmEy/ZThlZWM4OS9maW5h/bmNlc29ubGluZS5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "financesonline.com",
+          "hostname": "financesonline.com",
+          "favicon": "https://imgs.search.brave.com/XkSO62oXNXVo6rrcFMYv6vx8o5C5KGKuuSo87_MO8Ts/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWZkYjJjMGNh/ZWZlMjY2YTQ1ZjI3/MjUyMDE5NDFmZTFk/YWFjZDRmNDEzYjY3/N2VlYTE2NDQ0YmEy/ZThlZWM4OS9maW5h/bmNlc29ubGluZS5j/b20v",
+          "path": "  › home  › clinical trial management software  › 20 best clinical trial management software of 2023"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gKF5WnynJnbbXmyShYm_LhfLBTnpHW4BP4u7geyspRU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9maW5h/bmNlc29ubGluZS5j/b20vdXBsb2Fkcy8y/MDIwLzAxL2NsaW5p/Y2FsLXRyaWFsLW1h/bmFnZW1lbnQtc29m/dHdhcmUucG5n",
+          "original": "https://financesonline.com/uploads/2020/01/clinical-trial-management-software.png",
+          "logo": false
+        },
+        "age": "1 week ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Jenny Chang",
+              "url": "https://financesonline.com/author/jenny/"
+            }
+          ],
+          "date": "Sep 18, 2018",
+          "publisher": {
+            "type": "organization",
+            "name": "FinancesOnline.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/zRLnZ_oFi4RMvm9mvhyfBIV4OdV4p2gzHfDEbHy8yjc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9maW5h/bmNlc29ubGluZS5j/b20vc3RhdGljL2Zp/bmFuY2Vzb25saW5l/LmNvbS1sb2dvLWJs/dWUucG5n",
+              "original": "https://financesonline.com/static/financesonline.com-logo-blue.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "List of 10 Best (CTMS) Clinical Trial Management Software Systems ...",
+        "url": "https://www.softwareworld.co/top-clinical-trial-management-software/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "» DatStat has the ability to capture <strong>data</strong> directly from the patients. This does away with the manual processes and the reduction in errors. » DatStat <strong>clinical</strong> trial <strong>management</strong> software is based on 21 CFR Part 11 and HIPAA compliant cloud <strong>platform</strong> that are accessible from anywhere in the world.",
+        "profile": {
+          "name": "Softwareworld",
+          "url": "https://www.softwareworld.co/top-clinical-trial-management-software/",
+          "long_name": "softwareworld.co",
+          "img": "https://imgs.search.brave.com/qMUJ9o6LvmVJMe2sc1aKudiw8j_UiZaNc_RYp00GEjk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTA5MmEyYWU1/MzRlZjM3ZWNkMThm/ODc2MWMyNGZlZmY4/M2ZiOThkYWZkNWZi/NWFkNWRmMzExMWU3/MDJjYjY5MS93d3cu/c29mdHdhcmV3b3Js/ZC5jby8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "softwareworld.co",
+          "hostname": "www.softwareworld.co",
+          "favicon": "https://imgs.search.brave.com/qMUJ9o6LvmVJMe2sc1aKudiw8j_UiZaNc_RYp00GEjk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTA5MmEyYWU1/MzRlZjM3ZWNkMThm/ODc2MWMyNGZlZmY4/M2ZiOThkYWZkNWZi/NWFkNWRmMzExMWU3/MDJjYjY5MS93d3cu/c29mdHdhcmV3b3Js/ZC5jby8",
+          "path": "  › home  › list of 10 best (ctms) clinical trial management software systems 2023 | (free & paid)"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jHuGX4hrkUHPS2QOdoOXM_IKe5nm2V7Nmp-MOTZgsUA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c29mdHdhcmV3b3Js/ZC5jby93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOS8wNi9CZXN0/LUNsaW5pY2FsLVRy/aWFsLU1hbmFnZW1l/bnQtU29mdHdhcmUu/cG5n",
+          "original": "https://www.softwareworld.co/wp-content/uploads/2019/06/Best-Clinical-Trial-Management-Software.png",
+          "logo": false
+        },
+        "age": "June 12, 2019"
+      },
+      {
+        "title": "OpenClinica » Driving the future of digital clinical trials",
+        "url": "https://www.openclinica.com/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "&quot;The new features of real-time ... Senior <strong>Clinical</strong> Research <strong>Data</strong> <strong>Manager</strong> · “Unite performs exactly as expected, enabling the pulling of laboratory and medication <strong>data</strong> from our EHR at the click of a button.” – Principal Solutions Architect · “OpenClinica team members work hard to both understand what their users need and proactively update the software with new features.” – Design Researcher · Experience and explore our powerful AND easy <strong>platform</strong> at your ...",
+        "profile": {
+          "name": "Openclinica",
+          "url": "https://www.openclinica.com/",
+          "long_name": "openclinica.com",
+          "img": "https://imgs.search.brave.com/wGKrtVRVez-JSXPWGjwW7it1YLb8RwT3gnap98kOFmY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTU4NTUwN2Zh/MGU4OWNkMzBjMjAz/OGIzODNiYTM0NjQ2/ZTZmNDIzZTVkMmQ2/Nzk0NzQyZTI3MTkz/ODYyNjJmOS93d3cu/b3BlbmNsaW5pY2Eu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "openclinica.com",
+          "hostname": "www.openclinica.com",
+          "favicon": "https://imgs.search.brave.com/wGKrtVRVez-JSXPWGjwW7it1YLb8RwT3gnap98kOFmY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTU4NTUwN2Zh/MGU4OWNkMzBjMjAz/OGIzODNiYTM0NjQ2/ZTZmNDIzZTVkMmQ2/Nzk0NzQyZTI3MTkz/ODYyNjJmOS93d3cu/b3BlbmNsaW5pY2Eu/Y29tLw",
+          "path": "  › home"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/60SozyXrGypI81tbdQzQnCnCkiMp94lo9HOHyu4I2_U/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/b3BlbmNsaW5pY2Eu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzAxL09HLmpw/Zw",
+          "original": "https://www.openclinica.com/wp-content/uploads/2022/01/OG.jpg",
+          "logo": false
+        },
+        "age": "April 28, 2022"
+      },
+      {
+        "title": "List of Top Clinical Trial Management System 2023",
+        "url": "https://www.trustradius.com/clinical-trial-management",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Encapsia, developed by Cmed Technology ... capture, <strong>management</strong> and reporting of <strong>clinical</strong> <strong>data</strong>. It uses a unified database to give you real time access to all <strong>clinical</strong> <strong>data</strong> with actionable insights for better decision making. With encapsia users can use any mix of eSource,… ... Track.Health is presented as a one-stop shop for <strong>data</strong> acquisition for <strong>clinical</strong> studies or <strong>clinical</strong> trials. Capture EDC and eCOA <strong>data</strong> in a single, centralized <strong>platform</strong>...",
+        "profile": {
+          "name": "Trustradius",
+          "url": "https://www.trustradius.com/clinical-trial-management",
+          "long_name": "trustradius.com",
+          "img": "https://imgs.search.brave.com/FnPyBivr2VV8P-eeqS-ml0klGzWtoyXiblxyfAySe-Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2M2I4OGYx/OThiMDE3MDYyNjk2/MjNlZTA2Y2JhMTY3/NDc4NDM1NGE0NjQ0/NzE4MDcwNGYyOTUx/ZGIwYjdiYS93d3cu/dHJ1c3RyYWRpdXMu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trustradius.com",
+          "hostname": "www.trustradius.com",
+          "favicon": "https://imgs.search.brave.com/FnPyBivr2VV8P-eeqS-ml0klGzWtoyXiblxyfAySe-Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2M2I4OGYx/OThiMDE3MDYyNjk2/MjNlZTA2Y2JhMTY3/NDc4NDM1NGE0NjQ0/NzE4MDcwNGYyOTUx/ZGIwYjdiYS93d3cu/dHJ1c3RyYWRpdXMu/Y29tLw",
+          "path": "  › home  › clinical trial management system"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Dz9rfkbfI4uLfkpPOSD_yRjmEsHw6GilIQgYndRxiwE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMudHJ1c3RyYWRp/dXMuY29tL3IvZDY0/OWFkYjcwMWY4OWFl/MjAyYjViM2U1YTE2/NTcyNWNmNzcwYmY0/Zi9pbWFnZXMvdHJ1/c3RyYWRpdXNfc3F1/YXJlMy5qcGc_dj0y/MDE3MTAwNQ",
+          "original": "https://static.trustradius.com/r/d649adb701f89ae202b5b3e5a165725cf770bf4f/images/trustradius_square3.jpg?v=20171005",
+          "logo": false
+        },
+        "faq": {
+          "items": [
+            {
+              "question": "What is a clinical trial management system?",
+              "answer": "Clinical trial management systems (CTMS) are platforms designed to help clinical trial managers conduct research. CTMS software provides a centralized suite of tools for planning and managing clinical trial portfolios.",
+              "title": "List of Top Clinical Trial Management System 2023",
+              "url": "https://www.trustradius.com/clinical-trial-management",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "trustradius.com",
+                "hostname": "www.trustradius.com",
+                "favicon": "https://imgs.search.brave.com/FnPyBivr2VV8P-eeqS-ml0klGzWtoyXiblxyfAySe-Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2M2I4OGYx/OThiMDE3MDYyNjk2/MjNlZTA2Y2JhMTY3/NDc4NDM1NGE0NjQ0/NzE4MDcwNGYyOTUx/ZGIwYjdiYS93d3cu/dHJ1c3RyYWRpdXMu/Y29tLw",
+                "path": "  › home  › clinical trial management system"
+              }
+            },
+            {
+              "question": "What does a clinical trial manager do?",
+              "answer": "Simply put, clinical trial managers direct clinical trials, tasked with ensuring they are successfully executed. They are the project manager or director so to speak. Many clinical trial managers work for medical science or private research companies, universities, or hospitals.",
+              "title": "List of Top Clinical Trial Management System 2023",
+              "url": "https://www.trustradius.com/clinical-trial-management",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "trustradius.com",
+                "hostname": "www.trustradius.com",
+                "favicon": "https://imgs.search.brave.com/FnPyBivr2VV8P-eeqS-ml0klGzWtoyXiblxyfAySe-Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2M2I4OGYx/OThiMDE3MDYyNjk2/MjNlZTA2Y2JhMTY3/NDc4NDM1NGE0NjQ0/NzE4MDcwNGYyOTUx/ZGIwYjdiYS93d3cu/dHJ1c3RyYWRpdXMu/Y29tLw",
+                "path": "  › home  › clinical trial management system"
+              }
+            },
+            {
+              "question": "How do I pick a clinical trial management system (CTMS)?",
+              "answer": "Look for a clinical trial management system (CTMS) that is comprehensive and scalable, then focus on ensuring its interface is easy-to-use and adaptable. To ensure comprehensiveness, look for a CTMS with features that supports management and planning for finances, researchers/investigators, projects and programs, individual trials, sites, supplies, and reporting.",
+              "title": "List of Top Clinical Trial Management System 2023",
+              "url": "https://www.trustradius.com/clinical-trial-management",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "trustradius.com",
+                "hostname": "www.trustradius.com",
+                "favicon": "https://imgs.search.brave.com/FnPyBivr2VV8P-eeqS-ml0klGzWtoyXiblxyfAySe-Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2M2I4OGYx/OThiMDE3MDYyNjk2/MjNlZTA2Y2JhMTY3/NDc4NDM1NGE0NjQ0/NzE4MDcwNGYyOTUx/ZGIwYjdiYS93d3cu/dHJ1c3RyYWRpdXMu/Y29tLw",
+                "path": "  › home  › clinical trial management system"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Data Management – See Beyond the Curve",
+        "url": "https://c-d-m.com/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "© 2022 ESO 11500 Alterra Parkway Suite 100 Austin, TX 78758 866.766.9471 Call or Email Us · Wave 2024 featuring ESO Training Academy registration is open! Save the date for April 2-5, 2024 and take advantage of our lowest pricing available starting TODAY",
+        "profile": {
+          "name": "C-d-m",
+          "url": "https://c-d-m.com/",
+          "long_name": "c-d-m.com",
+          "img": "https://imgs.search.brave.com/yBmhxixx9Um04jBrE5pS-la4zYf-AwyJkbEHWzd0iC4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQwMzFiMDUx/NTViZGM3NTE2ZDVi/NjIyNzc3NTU0YmIx/MjYyYWM2ODg0MjBh/N2RiNjk4OTRkYzE0/YjE4MGYwMy9jLWQt/bS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "c-d-m.com",
+          "hostname": "c-d-m.com",
+          "favicon": "https://imgs.search.brave.com/yBmhxixx9Um04jBrE5pS-la4zYf-AwyJkbEHWzd0iC4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQwMzFiMDUx/NTViZGM3NTE2ZDVi/NjIyNzc3NTU0YmIx/MjYyYWM2ODg0MjBh/N2RiNjk4OTRkYzE0/YjE4MGYwMy9jLWQt/bS5jb20v",
+          "path": ""
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

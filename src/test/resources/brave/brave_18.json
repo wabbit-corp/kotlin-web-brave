@@ -1,0 +1,1141 @@
+{
+  "query": {
+    "original": "Bitcoin price history",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "local_decision": "drop",
+    "local_locations_idx": 0,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "news",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "news": {
+    "type": "news",
+    "results": [
+      {
+        "title": "Bitcoin to $27K next? 1-week BTC price highs precede speech by Fed’s Powell",
+        "url": "https://cointelegraph.com/news/bitcoin-27k-one-week-btc-price-highs-fed-powell",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Bitcoin offers rollercoaster BTC price action as U.S. PCE data flows in, with Fed Chair Powell due to speak.",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cointelegraph.com",
+          "hostname": "cointelegraph.com",
+          "favicon": "https://imgs.search.brave.com/cpyZLOTY6dJERMecqvI01HtbgJfT-CHnNMjvKm2UZ1E/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ4MmNkNzdh/YmE4NzAzNTZjZDZl/YTlhMDNkZjIzM2My/ZThjMmIyYjExZWRl/ZTAxZjMyYWE4NWE5/NTNhNDRlMS9jb2lu/dGVsZWdyYXBoLmNv/bS8",
+          "path": "› news  › bitcoin-27k-one-week-btc-price-highs-fed-powell"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xRmWG6OFD2piQQAmKfna1pfBSaUr-5mJqkMl0xr0ix0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY29pbnRlbGVn/cmFwaC5jb20vaW1h/Z2VzLzEyMDBfYUhS/MGNITTZMeTl6TXk1/amIybHVkR1ZzWldk/eVlYQm9MbU52YlM5/MWNHeHZZV1J6THpJ/d01qTXRNRGt2WXpk/bE16UTFZVE10TldK/ak1TMDBaamhsTFdG/bE16WXRaR0kyTkRa/aVpHSXlaRFkwTG1w/d1p3PT0uanBn"
+        },
+        "age": "19 hours ago"
+      },
+      {
+        "title": "Is Bitcoin price going to crash again?",
+        "url": "https://cointelegraph.com/news/is-bitcoin-price-going-to-crash-again",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Bitcoin's Coin Day Destroyed (CDD) metric, measuring long-term investors' actions, spiked on Sep. 19, indicating that some long-term BTC holders moved their coins, suggesting possible profit-taking or repositioning. Traders should take caution here as most CDD spikes have historically preceded price ...",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cointelegraph.com",
+          "hostname": "cointelegraph.com",
+          "favicon": "https://imgs.search.brave.com/cpyZLOTY6dJERMecqvI01HtbgJfT-CHnNMjvKm2UZ1E/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ4MmNkNzdh/YmE4NzAzNTZjZDZl/YTlhMDNkZjIzM2My/ZThjMmIyYjExZWRl/ZTAxZjMyYWE4NWE5/NTNhNDRlMS9jb2lu/dGVsZWdyYXBoLmNv/bS8",
+          "path": "› news  › is-bitcoin-price-going-to-crash-again"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/yOzMz3ffgz7nJQGWM4sf_9OAq44UXV0f1FBKVff8wzA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY29pbnRlbGVn/cmFwaC5jb20vaW1h/Z2VzLzEyMDBfYUhS/MGNITTZMeTl6TXk1/amIybHVkR1ZzWldk/eVlYQm9MbU52YlM5/MWNHeHZZV1J6THpJ/d01qTXRNRGt2T1Rr/eFpEZzBOell0TXpS/bE15MDBaR1EwTFdF/d09XSXRPVEUxWTJJ/NFl6WXpZbVJoTG1w/d1p3PT0uanBn"
+        },
+        "age": "1 day ago"
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bitcoins-big-fall-history-suggests-slow-recovery-for-the-cryptocurrency/videoshow/82830671.cms",
+        "title": "cryptocurrency: Bitcoin's big fall: History suggests slow recovery ...",
+        "description": "The recent volatility in crypto currencies helped bitcoin decline over 50 percent from its peak of $64870 on 14 April 2020 to almost $30000 on 19 May 2021. However, it’s not the first time Bitcoin has corrected over 50 percent from the peak. ET NOW's Jayesh Khilnani with detailed report.",
+        "video": {
+          "duration": "02:10",
+          "publisher": "Indiatimes"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "economictimes.indiatimes.com",
+          "hostname": "economictimes.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/IeWOfqIuiDr-7FDEu-R9cMahu2f8rac_BX2KvUWwgfI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw",
+          "path": "› markets  › stocks  › news  › bitcoins-big-fall-history-suggests-slow-recovery-for-the-cryptocurrency  › videoshow  › 82830671.cms"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ARnwbRABOAFWIwcrJjqlQwfZK8RunsAOZ1h7_jnjSrs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWcu/ZXRpbWcuY29tL3Ro/dW1iL21zaWQtODI4/MzA2NzEsd2lkdGgt/MTA3MCxoZWlnaHQt/NTgwLG92ZXJsYXkt/ZXRtYXJrZXRzL3Bo/b3RvLmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=MTWCvwadh0A",
+        "title": "Bitcoin at all time high 25k - Price history from the last peak ...",
+        "description": "#beginner #crypto #bitcoinWhere to buy Crypto https://cex.io/r/0/up114553056/0/License this Footage in 4k resolution:http://Chicvoyageproductions.com/dronefo",
+        "age": "December 26, 2020",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ERLa5MTgV8cKb2zDQcBklUuiB_lNM6GsBCa17xzhvK0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9N/VFdDdndhZGgwQS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=Q7JZThH_kXs",
+        "title": "How to get historic Cryptocurrency Pricing into Excel with the ...",
+        "description": "#excel #bitcoin #eth #cryptocurrency #stockhistoryIn this video, you will learn how to use Excel's new function STOCHISTORY to get historic cryptocurrency pr...",
+        "age": "June 22, 2020",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/2srOL8dXBuQz11F0s2PaVKnunMt5SgBwVnnDm6RRvVc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9R/N0paVGhIX2tYcy9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.thestreet.com/video/brief-history-of-bitcoin",
+        "title": "A Brief History of Bitcoin: Timeline - TheStreet",
+        "description": "Bitcoin was the talk of the town when the price of the cryptocurrency surged to $19,783 in 2017. But then the bitcoin bubble burst and the crypto's price promptly fell. Bitcoin traded over $18,000 for the first time since 2017, Nov. 18, with prices currently sitting around 17,876.20, in early ...",
+        "age": "February 12, 2020",
+        "video": {
+          "creator": "Katherine Ross",
+          "publisher": "Thestreet"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thestreet.com",
+          "hostname": "www.thestreet.com",
+          "favicon": "https://imgs.search.brave.com/_xgMX80VDlCxSfH4_ah4CruIHOrM5cihhk8T0wa3FsM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDNkOGE0YjUy/YThmNjljOTAxM2Zj/YmFlZTQ5Y2EzMTc2/ZGI1YTAyNTE3MjA0/MjUzOWJjMzE3ZDcz/MTQ1ZmE1MS93d3cu/dGhlc3RyZWV0LmNv/bS8",
+          "path": "› video  › brief-history-of-bitcoin"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6DetU5g-FiVW5yRw1CaMzDdEc4aSzHV9hwH49cX8GGw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dGhlc3RyZWV0LmNv/bS8uaW1hZ2UvdF9z/aGFyZS9NVFk0TlRF/Mk16YzVNRFUyTnpR/ME1qRTAvYS1icmll/Zi1oaXN0b3J5LW9m/LWJpdGNvaW4uanBn"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=qC0GK1unYLI",
+        "title": "Bitcoin History: Everything from Bitcoin Pizza Day to Bitcoin Wallet ...",
+        "description": "☆₿☆ Download The Exodus Bitcoin Wallet ☆₿☆https://get.exodus.com/3Nr1x0XBitcoin is synonymous with cryptocurrency. Let’s dive into what is Bitcoin, the histo...",
+        "age": "October 26, 2020",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/asE5hAPILdRRW7zs9oiH9ANmRbVnBOfHOdzJMvXhi3o/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9x/QzBHSzF1bllMSS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Bitcoin price history Apr 2013 - Sep 21, 2023 | Statista",
+        "url": "https://www.statista.com/statistics/326707/bitcoin-price-index/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Bitcoin</strong>&#x27;s highest <strong>price</strong> ever, recorded in November 2021, was 75 percent higher than the <strong>price</strong> in November 2022, according to a <strong>history</strong> chart.",
+        "profile": {
+          "name": "Statista",
+          "url": "https://www.statista.com/statistics/326707/bitcoin-price-index/",
+          "long_name": "statista.com",
+          "img": "https://imgs.search.brave.com/PFQ-oMknI_ICrUJrzT-ZZLxRJMTkVf5190yG7SF87Dg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "statista.com",
+          "hostname": "www.statista.com",
+          "favicon": "https://imgs.search.brave.com/PFQ-oMknI_ICrUJrzT-ZZLxRJMTkVf5190yG7SF87Dg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+          "path": "  › finance & insurance  › financial instruments & investments"
+        },
+        "age": "1 week ago"
+      },
+      {
+        "title": "Bitcoin Historical Data - Investing.com",
+        "url": "https://www.investing.com/crypto/bitcoin/historical-data",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Historical data for the <strong>Bitcoin</strong> <strong>prices</strong> - <strong>Bitcoin</strong> <strong>price</strong> <strong>history</strong> viewable in daily, weekly or monthly time intervals.",
+        "profile": {
+          "name": "Investing",
+          "url": "https://www.investing.com/crypto/bitcoin/historical-data",
+          "long_name": "investing.com",
+          "img": "https://imgs.search.brave.com/K00mcaPqlB_6CemIuDprHmgqo-tGmDxSkVNdeQN4GR0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY4YjM5OWU3/OWVlNzFmYjIwMWIx/MDcyNTdmMjBjY2Uy/MjM1NDI2ZjAwZTZm/YjhiNjUxOTFhYmYz/M2ZkYWZkZC93d3cu/aW52ZXN0aW5nLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "investing.com",
+          "hostname": "www.investing.com",
+          "favicon": "https://imgs.search.brave.com/K00mcaPqlB_6CemIuDprHmgqo-tGmDxSkVNdeQN4GR0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY4YjM5OWU3/OWVlNzFmYjIwMWIx/MDcyNTdmMjBjY2Uy/MjM1NDI2ZjAwZTZm/YjhiNjUxOTFhYmYz/M2ZkYWZkZC93d3cu/aW52ZXN0aW5nLmNv/bS8",
+          "path": "› crypto  › bitcoin  › historical-data"
+        },
+        "age": "July 10, 2023"
+      },
+      {
+        "title": "100% Complete Bitcoin Price History Graph + Related Events 2009 - 2023",
+        "url": "https://99bitcoins.com/bitcoin/historical-price/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Bitcoin</strong>&#x27;<strong>s</strong> <strong>price</strong> since it began in 2009 and all the way up to today. Complete with historical events and how they affected <strong>Bitcoin</strong>&#x27;<strong>s</strong> <strong>price</strong>.",
+        "profile": {
+          "name": "99bitcoins",
+          "url": "https://99bitcoins.com/bitcoin/historical-price/",
+          "long_name": "99bitcoins.com",
+          "img": "https://imgs.search.brave.com/NC56b3zEOtgzDcr4A5GHY6BN_Y1DPOYwX1sqArIVQMs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMyMzA2YTM2/YTNkZGM5Y2MwNTFi/YTU4OGY5OTQyNjlm/MmQ5NzljMjljZTI5/MzRlNTRlZDA4MTZh/NjhhYTBhYy85OWJp/dGNvaW5zLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "99bitcoins.com",
+          "hostname": "99bitcoins.com",
+          "favicon": "https://imgs.search.brave.com/NC56b3zEOtgzDcr4A5GHY6BN_Y1DPOYwX1sqArIVQMs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMyMzA2YTM2/YTNkZGM5Y2MwNTFi/YTU4OGY5OTQyNjlm/MmQ5NzljMjljZTI5/MzRlNTRlZDA4MTZh/NjhhYTBhYy85OWJp/dGNvaW5zLmNvbS8",
+          "path": "  › home  › historical price"
+        },
+        "age": "January 15, 2023"
+      },
+      {
+        "title": "Bitcoin Price History 2009-2023: Start to All-Time-High | SoFi",
+        "url": "https://www.sofi.com/learn/content/bitcoin-price-history/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "From its launch in 2009 through 2023, here&#x27;s <strong>Bitcoin</strong>&#x27;s 14-year <strong>price</strong> <strong>history</strong>, including its peak in 2021 and losses during the crypto winter. Learn more.",
+        "profile": {
+          "name": "Sofi",
+          "url": "https://www.sofi.com/learn/content/bitcoin-price-history/",
+          "long_name": "sofi.com",
+          "img": "https://imgs.search.brave.com/VLh3qHJtf1c9vRfYjUbwqXBr3WPfSv03zCtEMl2pqoI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2EwNmNkNGMw/NDYxN2RhOWZkNmIy/ZmVmYWFlZDYyM2Nk/NjY2MDJiMWY3MzAz/Mjg5MTdmZTM5YjRj/NzY4MGIzOC93d3cu/c29maS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "sofi.com",
+          "hostname": "www.sofi.com",
+          "favicon": "https://imgs.search.brave.com/VLh3qHJtf1c9vRfYjUbwqXBr3WPfSv03zCtEMl2pqoI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2EwNmNkNGMw/NDYxN2RhOWZkNmIy/ZmVmYWFlZDYyM2Nk/NjY2MDJiMWY3MzAz/Mjg5MTdmZTM5YjRj/NzY4MGIzOC93d3cu/c29maS5jb20v",
+          "path": "› learn  › content  › bitcoin-price-history"
+        },
+        "age": "3 weeks ago"
+      },
+      {
+        "title": "Bitcoin USD (BTC-USD) Price History & Historical Data - Yahoo Finance",
+        "url": "https://finance.yahoo.com/quote/BTC-USD/history/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Discover historical <strong>prices</strong> <strong>of</strong> <strong>Bitcoin</strong> USD (BTC-USD) on Yahoo Finance. View daily, weekly or monthly formats.",
+        "profile": {
+          "name": "Yahoo! Finance",
+          "url": "https://finance.yahoo.com/quote/BTC-USD/history/",
+          "long_name": "finance.yahoo.com",
+          "img": "https://imgs.search.brave.com/hRAFhmYXxP9OpzJ55FclsbPhI1oD49fk4MzigrsdGPo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "finance.yahoo.com",
+          "hostname": "finance.yahoo.com",
+          "favicon": "https://imgs.search.brave.com/hRAFhmYXxP9OpzJ55FclsbPhI1oD49fk4MzigrsdGPo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+          "path": "› quote  › BTC-USD  › history"
+        },
+        "age": "June 1, 2023"
+      },
+      {
+        "title": "Bitcoin's Price History",
+        "url": "https://www.investopedia.com/articles/forex/121815/bitcoins-price-history.asp",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Bitcoin</strong>&#x27;<strong>s</strong> <strong>price</strong> <strong>history</strong> has been volatile. Learn about the currency&#x27;s significant spikes and crashes, plus its major <strong>price</strong> influencers.",
+        "profile": {
+          "name": "Investopedia",
+          "url": "https://www.investopedia.com/articles/forex/121815/bitcoins-price-history.asp",
+          "long_name": "investopedia.com",
+          "img": "https://imgs.search.brave.com/UPGuj-pwMdPn30IsoFnYQqnd4GcXKbgvdsveByWR8ZE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiMDU5YmM2/NDE0MjY3N2VmMTQ2/N2JiY2Y3MTgwMDk0/ZjdlOGU3MDUzZTBk/M2UxMTAwODFmYjcz/NTA3ODc2Zi93d3cu/aW52ZXN0b3BlZGlh/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "investopedia.com",
+          "hostname": "www.investopedia.com",
+          "favicon": "https://imgs.search.brave.com/UPGuj-pwMdPn30IsoFnYQqnd4GcXKbgvdsveByWR8ZE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiMDU5YmM2/NDE0MjY3N2VmMTQ2/N2JiY2Y3MTgwMDk0/ZjdlOGU3MDUzZTBk/M2UxMTAwODFmYjcz/NTA3ODc2Zi93d3cu/aW52ZXN0b3BlZGlh/LmNvbS8",
+          "path": "› articles  › forex  › 121815  › bitcoins-price-history.asp"
+        },
+        "age": "April 26, 2023"
+      },
+      {
+        "title": "Bitcoin Price | BTC Price Index and Live Chart - CoinDesk",
+        "url": "https://www.coindesk.com/price/bitcoin/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Once that level was passed, however, <strong>bitcoin</strong>’<strong>s</strong> <strong>price</strong> continued to surge dramatically throughout 2017 until BTC peaked at its previous long-standing all-time high of $19,850. Over 2018, the entire crypto market plunged into what is now known as the “crypto winter” – a yearlong bear market. It wasn’t until December 2020, when <strong>bitcoin</strong> returned to test the previous all-time high, that it eventually surpassed that historical ...",
+        "profile": {
+          "name": "Coindesk",
+          "url": "https://www.coindesk.com/price/bitcoin/",
+          "long_name": "coindesk.com",
+          "img": "https://imgs.search.brave.com/ZwSg5Afor4lT9Ay6kbeuMVV_khClb8hh0pADRrWZ9Tc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWJlMGZlZTkx/MzI4YTQyZTU2YzJh/MjZjYTBiYTQ1Y2Nh/MWY1OTdlY2IzNTdi/OTQzZDI1ZDI3ODg2/M2QzYjk0NC93d3cu/Y29pbmRlc2suY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "coindesk.com",
+          "hostname": "www.coindesk.com",
+          "favicon": "https://imgs.search.brave.com/ZwSg5Afor4lT9Ay6kbeuMVV_khClb8hh0pADRrWZ9Tc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWJlMGZlZTkx/MzI4YTQyZTU2YzJh/MjZjYTBiYTQ1Y2Nh/MWY1OTdlY2IzNTdi/OTQzZDI1ZDI3ODg2/M2QzYjk0NC93d3cu/Y29pbmRlc2suY29t/Lw",
+          "path": "› price  › bitcoin"
+        },
+        "age": "1 week ago",
+        "faq": {
+          "items": [
+            {
+              "question": "What is Bitcoin?",
+              "answer": "<p><span>Bitcoin is the world’s first decentralized cryptocurrency – a type of digital asset that uses public-key cryptography to record, sign and send transactions over the Bitcoin blockchain – all done without the oversight of a central authority. It was launched in January 2009 by an anonymous computer programmer or group of programmers under the pseudonym 'Satoshi Nakamoto'.</span></p>",
+              "title": "Bitcoin Price | BTC Price Index and Live Chart - CoinDesk",
+              "url": "https://www.coindesk.com/price/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coindesk.com",
+                "hostname": "www.coindesk.com",
+                "favicon": "https://imgs.search.brave.com/ZwSg5Afor4lT9Ay6kbeuMVV_khClb8hh0pADRrWZ9Tc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWJlMGZlZTkx/MzI4YTQyZTU2YzJh/MjZjYTBiYTQ1Y2Nh/MWY1OTdlY2IzNTdi/OTQzZDI1ZDI3ODg2/M2QzYjk0NC93d3cu/Y29pbmRlc2suY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+        "url": "https://www.coinbase.com/price/bitcoin",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "September 26, 2023 - The current <strong>price</strong> <strong>of</strong> <strong>Bitcoin</strong> is $26,234.70 per (BTC / USD). <strong>Bitcoin</strong> is 61.86% below the all time high of $68,789.63. The current circulating supply is 19,496,262 BTC. Discover new cryptocurrencies to add to your portfolio.",
+        "profile": {
+          "name": "Coinbase",
+          "url": "https://www.coinbase.com/price/bitcoin",
+          "long_name": "coinbase.com",
+          "img": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "product",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "coinbase.com",
+          "hostname": "www.coinbase.com",
+          "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+          "path": "› price  › bitcoin"
+        },
+        "age": "2 weeks ago",
+        "faq": {
+          "items": [
+            {
+              "question": "What is the current price of Bitcoin?",
+              "answer": "We update our Bitcoin to USD currency in real-time. Get the live <span><span>price of Bitcoin</span></span> on Coinbase.",
+              "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+              "url": "https://www.coinbase.com/price/bitcoin",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinbase.com",
+                "hostname": "www.coinbase.com",
+                "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            },
+            {
+              "question": "What is the market cap of Bitcoin?",
+              "answer": "The current market cap of Bitcoin is $511.62B. A high market cap implies that the asset is highly valued by the market.",
+              "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+              "url": "https://www.coinbase.com/price/bitcoin",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinbase.com",
+                "hostname": "www.coinbase.com",
+                "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            },
+            {
+              "question": "What is the all time high of Bitcoin?",
+              "answer": "The all-time high of Bitcoin is $68,789.63. This all-time high is highest price paid for Bitcoin since it was launched.",
+              "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+              "url": "https://www.coinbase.com/price/bitcoin",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinbase.com",
+                "hostname": "www.coinbase.com",
+                "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            },
+            {
+              "question": "What is the 24 hour trading volume of Bitcoin?",
+              "answer": "Over the last 24 hours, the trading volume of Bitcoin is $10.29B.",
+              "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+              "url": "https://www.coinbase.com/price/bitcoin",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinbase.com",
+                "hostname": "www.coinbase.com",
+                "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            },
+            {
+              "question": "What other assets are similar to Bitcoin?",
+              "answer": "Assets that have a similar market cap to Bitcoin include Ethereum, Tether, BNB, and many others. To see a full list, see our <span>comparable market cap assets</span>.",
+              "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+              "url": "https://www.coinbase.com/price/bitcoin",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinbase.com",
+                "hostname": "www.coinbase.com",
+                "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            },
+            {
+              "question": "How many Bitcoin are there?",
+              "answer": "The current circulating supply of Bitcoin is 19 million.",
+              "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+              "url": "https://www.coinbase.com/price/bitcoin",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinbase.com",
+                "hostname": "www.coinbase.com",
+                "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            },
+            {
+              "question": "What is the typical holding time of Bitcoin?",
+              "answer": "The median time that Coinbase customers hold Bitcoin before selling it or sending it to another account or address is 98 days.",
+              "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+              "url": "https://www.coinbase.com/price/bitcoin",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinbase.com",
+                "hostname": "www.coinbase.com",
+                "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            },
+            {
+              "question": "What is the relative popularity of Bitcoin?",
+              "answer": "Bitcoin ranks 1 among tradable assets on Coinbase. Popularity is currently based on relative market cap.",
+              "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+              "url": "https://www.coinbase.com/price/bitcoin",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinbase.com",
+                "hostname": "www.coinbase.com",
+                "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            },
+            {
+              "question": "What is the current trading activity of Bitcoin?",
+              "answer": "Currently, 99% of Coinbase users are buying Bitcoin. In other words, 99% of Coinbase customers have increased their net position in Bitcoin over the past 24 hours through trading.",
+              "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+              "url": "https://www.coinbase.com/price/bitcoin",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinbase.com",
+                "hostname": "www.coinbase.com",
+                "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            },
+            {
+              "question": "Can I buy Bitcoin on Coinbase?",
+              "answer": "Yes, Bitcoin is currently available on Coinbase’s centralized exchange. For more detailed instructions, check out our helpful <span><span>how to buy Bitcoin</span></span> guide.",
+              "title": "Bitcoin (BTC) Price, Charts, and News | Coinbase: bitcoin price, ...",
+              "url": "https://www.coinbase.com/price/bitcoin",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinbase.com",
+                "hostname": "www.coinbase.com",
+                "favicon": "https://imgs.search.brave.com/viyCfVphjgoX0S4OpxnM24FcX47TlyuQ2sjf2kwcgOw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFjNzQ3ZjI0/MThhZjA2YjQ5NDY2/NzI1MjJhYzI2ZGIw/MzgyN2NiZDU5YWEx/YjM2MTQ5NzA4M2Y1/NzdkNWVlNi93d3cu/Y29pbmJhc2UuY29t/Lw",
+                "path": "› price  › bitcoin"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+        "url": "https://coinmarketcap.com/currencies/bitcoin/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The live <strong>Bitcoin</strong> <strong>price</strong> today is $26,769.52 USD with a 24-hour trading volume of $11,548,443,556.23 USD. We update our BTC to USD <strong>price</strong> in real-time.",
+        "profile": {
+          "name": "Coinmarketcap",
+          "url": "https://coinmarketcap.com/currencies/bitcoin/",
+          "long_name": "coinmarketcap.com",
+          "img": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "coinmarketcap.com",
+          "hostname": "coinmarketcap.com",
+          "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+          "path": "  › bitcoin"
+        },
+        "age": "1 week ago",
+        "faq": {
+          "items": [
+            {
+              "question": "What Is Bitcoin (BTC)?",
+              "answer": "Bitcoin is a decentralized cryptocurrency originally described in a 2008 whitepaper by a person, or group of people, using the alias Satoshi Nakamoto. It was launched soon after, in January 2009.\n\nBitcoin is a peer-to-peer online currency, meaning that all transactions happen directly between equal, independent network participants, without the need for any intermediary to permit or facilitate them. Bitcoin was created, according to Nakamoto’s own words, to allow “online payments to be sent directly from one party to another without going through a financial institution.”\n\nSome concepts for a similar type of a decentralized electronic currency precede BTC, but Bitcoin holds the distinction of being the first-ever cryptocurrency to come into actual use.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "Who Are the Founders of Bitcoin?",
+              "answer": "Bitcoin’s original inventor is known under a pseudonym, Satoshi Nakamoto. As of 2021, the true identity of the person — or organization — that is behind the alias remains unknown.\n\nOn October 31, 2008, Nakamoto published Bitcoin’s whitepaper, which described in detail how a peer-to-peer, online currency could be implemented. They proposed to use a decentralized ledger of transactions packaged in batches (called “blocks”) and secured by cryptographic algorithms — the whole system would later be dubbed “blockchain.”\n\nJust two months later, on January 3, 2009, Nakamoto mined the first block on the Bitcoin network, known as the genesis block, thus launching the world’s first cryptocurrency. Bitcoin price was $0 when first introduced, and most Bitcoins were obtained via mining, which only required moderately powerful devices (e.g. PCs) and mining software. The first known Bitcoin commercial transaction occurred on May 22, 2010, when programmer Laszlo Hanyecz traded 10,000 Bitcoins for two pizzas. At Bitcoin price today in mid-September 2021, those pizzas would be worth an astonishing $478 million. This event is now known as “Bitcoin Pizza Day.” In July 2010, Bitcoin first started trading, with the Bitcoin price ranging from $0.0008 to $0.08 at that time.\n\nHowever, while Nakamoto was the original inventor of Bitcoin, as well as the author of its very first implementation, he handed the network alert key and control of the code repository to Gavin Andresen, who later became lead developer at the Bitcoin Foundation. Over the years a large number of people have contributed to improving the cryptocurrency’s software by patching vulnerabilities and adding new features.\n\nBitcoin’s source code repository on GitHub lists more than 750 contributors, with some of the key ones being Wladimir J. van der Laan, Marco Falke, Pieter Wuille, Gavin Andresen, Jonas Schnelli and others.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "What Makes Bitcoin Unique?",
+              "answer": "Bitcoin’s most unique advantage comes from the fact that it was the very first cryptocurrency to appear on the market.\n\nIt has managed to create a global community and give birth to an entirely new industry of millions of enthusiasts who create, invest in, trade and use Bitcoin and other cryptocurrencies in their everyday lives. The emergence of the first cryptocurrency has created a conceptual and technological basis that subsequently inspired the development of thousands of competing projects.\n\nThe entire cryptocurrency market — now worth more than $2 trillion — is based on the idea realized by Bitcoin: money that can be sent and received by anyone, anywhere in the world without reliance on trusted intermediaries, such as banks and financial services companies.\n\nThanks to its pioneering nature, BTC remains at the top of this energetic market after over a decade of existence. Even after Bitcoin has lost its undisputed dominance, it remains the largest cryptocurrency, with a market capitalization that surpassed the $1 trillion mark in 2021, after Bitcoin price hit an all-time high of $64,863.10 on April 14, 2021. This is owing in large part to growing institutional interest in Bitcoin, and the ubiquitousness of platforms that provide use-cases for BTC: wallets, exchanges, payment services, online games and more.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "How Much Bitcoin Is in Circulation?",
+              "answer": "Bitcoin’s total supply is limited by its software and will never exceed 21,000,000 coins. New coins are created during the process known as “mining”: as transactions are relayed across the network, they get picked up by miners and packaged into blocks, which are in turn protected by complex cryptographic calculations.\n\nAs compensation for spending their computational resources, the miners receive rewards for every block that they successfully add to the blockchain. At the moment of Bitcoin’s launch, the reward was 50 bitcoins per block: this number gets halved with every 210,000 new blocks mined — which takes the network roughly four years. As of 2020, the block reward has been halved three times and comprises 6.25 bitcoins.\n\nBitcoin has not been premined, meaning that no coins have been mined and/or distributed between the founders before it became available to the public. However, during the first few years of BTC’s existence, the competition between miners was relatively low, allowing the earliest network participants to accumulate significant amounts of coins via regular mining: Satoshi Nakamoto alone is believed to own over a million Bitcoin.\n\nMining Bitcoins can be very profitable for miners, depending on the current hash rate and the price of Bitcoin. While the process of mining Bitcoins is complex, we discuss how long it takes to mine one Bitcoin on CoinMarketCap Alexandria — as we wrote above, mining Bitcoin is best understood as how long it takes to mine one block, as opposed to one Bitcoin. As of mid-September 2021, the Bitcoin mining reward is capped to 6.25 BTC after the 2020 halving, which is roughly $299,200 in Bitcoin price today.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "How Is the Bitcoin Network Secured?",
+              "answer": "Bitcoin is secured with the SHA-256 algorithm, which belongs to the SHA-2 family of hashing algorithms, which is also used by its fork Bitcoin Cash (BCH), as well as several other cryptocurrencies.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "What Is Bitcoin’s Role as a Store of Value?",
+              "answer": "Bitcoin is the first decentralized, peer-to-peer digital currency. One of its most important functions is that it is used as a decentralized store of value. In other words, it provides for ownership rights as a physical asset or as a unit of account. However, the latter store-of-value function has been debated. Many crypto enthusiasts and economists believe that high-scale adoption of the top currency will lead us to a new modern financial world where transaction amounts will be denominated in smaller units.\n\nThe smallest units of Bitcoin, 0.00000001 BTC, are called Satoshis (or Sats in short), in a nod to the pseudonymous creator. At Bitcoin price now, 1 Satoshi is equivalent to roughly $0.00048.\n\nThe top crypto is considered a store of value, like gold, for many — rather than a currency. This idea of the first cryptocurrency as a store of value, instead of a payment method, means that many people buy the crypto and hold onto it long-term (or HODL) rather than spending it on items like you would typically spend a dollar — treating it as digital gold.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "How Is Bitcoin’s Technology Upgraded?",
+              "answer": "A hard fork is a radical change to the protocol that makes previously invalid blocks/transactions valid, and therefore requires all users to upgrade. For example, if users A and B are disagreeing on whether an incoming transaction is valid, a hard fork could make the transaction valid to users A and B, but not to user C.\n\nA hard fork is a protocol upgrade that is not backward compatible. This means every node (computer connected to the Bitcoin network using a client that performs the task of validating and relaying transactions) needs to upgrade before the new blockchain with the hard fork activates and rejects any blocks or transactions from the old blockchain. The old blockchain will continue to exist and will continue to accept transactions, although it may be incompatible with other newer Bitcoin clients.\n\nA soft fork is a change to the Bitcoin protocol wherein only previously valid blocks/transactions are made invalid. Since old nodes will recognise the new blocks as valid, a soft fork is backward-compatible. This kind of fork requires only a majority of the miners upgrading to enforce the new rules.\n\nSome examples of prominent cryptocurrencies that have undergone hard forks are the following: Bitcoin’s hard fork that resulted in Bitcoin Cash, Ethereum’s hard fork that resulted in Ethereum Classic.\n\nBitcoin Cash has been hard forked since its original forking, with the creation of Bitcoin SV. Read more about the difference between Bitcoin, Bitcoin Cash and Bitcoin SV here.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "What Is Taproot?",
+              "answer": "Taproot is a soft fork that bundles together BIP 340, 341 and 342 and aims to improve the scalability, efficiency, and privacy of the blockchain by introducing several new features.\n\nThe two major changes are the introduction of the Merkelized Abstract Syntax Tree (MAST) and Schnorr Signature. MAST introduces a condition allowing the sender and recipient of a transaction to sign off on its settlement together. Schnorr Signature allows users to aggregate several signatures into one for a single transaction. This results in multi-signature transactions looking the same as regular transactions or more complex ones. By introducing this new address type, users can also save on transaction fees, as even complex transactions look like simple, single-signature ones.\n\nAlthough HODLers will probably not notice a big impact, Taproot could become a key milestone to equipping the network with smart contract functionality. In particular, Schnorr Signatures would lay the foundation for more complex applications to be built on top of the existing blockchain, as users start switching to Taproot addresses primarily. If adopted by users, Taproot could, in the long run, result in the network developing its own DeFi ecosystem that rivals those on alternative blockchains like Ethereum.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "What Is the Lightning Network?",
+              "answer": "The Lightning Network is an off-chain, layered payment protocol that operates bidirectional payment channels which allows instantaneous transfer with instant reconciliation. It enables private, high volume and trustless transactions between any two parties. The Lightning Network scales transaction capacity without incurring the costs associated with transactions and interventions on the underlying blockchain.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "Who Are the Largest Corporate Holders of Bitcoin?",
+              "answer": "A few years ago, the idea that a publicly traded company might hold Bitcoin on its balance sheets seemed highly laughable. The flagship cryptocurrency was considered to be too volatile to be adopted by any serious business. Many top investors, including Warren Buffett, labeled the asset a “bubble waiting to pop.”\n\nThis negative sentiment appears to have been broken, with a number of corporate behemoths buying up Bitcoin since 2020. In particular, business intelligence firm MicroStrategy set the pace after it bought $425 million worth of Bitcoin in August and September 2020. Since then, many others have followed suit, including EV manufacturer Tesla.\n\nMicroStrategy has by far the largest Bitcoin portfolio held by any publicly-traded company. The business analytics platform has adopted Bitcoin as its primary reserve asset, aggressively buying the cryptocurrency through 2021 and 2022. As of August 30, 2022, the company had 129,699 Bitcoin in its reserve, equivalent to just over $2.5 billion.\n\nOther top corporate holders include Marathon Digital Holdings, with 10,054 BTC, Coinbase (9,000), Square Inc. (8,027), and Hut 8 Mining Corp. (7,078).",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "Is Bitcoin Political?",
+              "answer": "Bitcoin is becoming more political by the day, particularly after El Salvador began accepting the currency as legal tender. The country's president, Nayib Bukele, announced and implemented the decision almost unilaterally, dismissing criticism from his citizens, the Bank of England, the IMF, Vitalik Buterin and many others. Since the Bitcoin legal tender law was passed in September 2021, Bukele has also announced plans to build Bitcoin City, a city fully based on mining Bitcoin with geothermal energy from volcanoes.\n\nCountries like Mexico, Russia and others have been rumored to be candidates also to accept Bitcoin as legal tender, but thus far, El Salvador stands alone.\n\nOn the flip side, countries like China have moved to heavily clamp down on Bitcoin mining and trading activities. In May 2021, the Chinese government declared that all crypto-related transactions are illegal. This was followed by a heavy crackdown on Bitcoin mining operations, forcing many crypto-related businesses to flee to friendlier regions.\n\nSurprisingly, the anti-crypto stance of the Chinese government has done little to stop the industry. According to data by the University of Cambridge, China is now the second-biggest contributor to Bitcoin's global hash rate, only behind the United States.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "How Much Is Bitcoin?",
+              "answer": "The current valuation of Bitcoin is constantly moving, all day every day. It is a truly global asset. From a start of under one cent per coin, BTC has risen in price by thousands of percent to the numbers you see above. The prices of all cryptocurrencies are quite volatile, meaning that anyone’s understanding of how much Bitcoin is will change by the minute. However, there are times when different countries and exchanges show different prices and understanding how much Bitcoin is will be a function of a person’s location.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            },
+            {
+              "question": "Where Can You Buy Bitcoin (BTC)?",
+              "answer": "Bitcoin is, in many regards, almost synonymous with cryptocurrency, which means that you can buy Bitcoin on virtually every crypto exchange — both for fiat money and other cryptocurrencies. Some of the main markets where BTC trading is available are:\n\n* Binance\n* Coinbase Pro\n* OKEx\n* Kraken\n* Huobi Global\n* Bitfinex\n\nIf you are new to crypto, use CoinMarketCap’s own educational portal — Alexandria — to learn how to start buying Bitcoin and other cryptocurrencies.",
+              "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+              "url": "https://coinmarketcap.com/currencies/bitcoin/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "coinmarketcap.com",
+                "hostname": "coinmarketcap.com",
+                "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                "path": "  › bitcoin"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+        "url": "https://coinmarketcap.com/currencies/bitcoin/historical-data/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The live <strong>Bitcoin</strong> <strong>price</strong> today is $26,766.13 USD with a 24-hour trading volume of $9,028,393,240.70 USD. We update our BTC to USD <strong>price</strong> in real-time.",
+        "profile": {
+          "name": "Coinmarketcap",
+          "url": "https://coinmarketcap.com/currencies/bitcoin/historical-data/",
+          "long_name": "coinmarketcap.com",
+          "img": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "coinmarketcap.com",
+          "hostname": "coinmarketcap.com",
+          "favicon": "https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+          "path": "  › bitcoin"
+        },
+        "age": "March 11, 2021"
+      },
+      {
+        "title": "Bitcoin's Price History: Tracking The Volatile Rise Of The World's ...",
+        "url": "https://www.bankrate.com/investing/bitcoin-price-history/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Bitcoin</strong>&#x27;<strong>s</strong> <strong>price</strong> has been on a roller coaster ride since it first debuted in January 2009, but the long-term trajectory has been ever higher – “up and to the right,” as they say. <strong>Bitcoin</strong> ushered in the age of cryptocurrency, but it took quite a while before the public sat up and took notice.",
+        "profile": {
+          "name": "Bankrate",
+          "url": "https://www.bankrate.com/investing/bitcoin-price-history/",
+          "long_name": "bankrate.com",
+          "img": "https://imgs.search.brave.com/N-K98vpG2eGK-baKN7OdGU9ZCYyw5MSdstvWH69bh2k/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWUwYTdhNzE3/ZDU4NzA4NjVmZDdi/YzA5OGY0YTgzZjYx/N2RjYTllZjNhZjA0/YWYzMjJlMzRkZWI0/NTI4ZDZlOC93d3cu/YmFua3JhdGUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bankrate.com",
+          "hostname": "www.bankrate.com",
+          "favicon": "https://imgs.search.brave.com/N-K98vpG2eGK-baKN7OdGU9ZCYyw5MSdstvWH69bh2k/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWUwYTdhNzE3/ZDU4NzA4NjVmZDdi/YzA5OGY0YTgzZjYx/N2RjYTllZjNhZjA0/YWYzMjJlMzRkZWI0/NTI4ZDZlOC93d3cu/YmFua3JhdGUuY29t/Lw",
+          "path": "  › investing"
+        },
+        "age": "July 14, 2023"
+      },
+      {
+        "title": "Bitcoin Price History 2009 to 2022 – Forbes Advisor",
+        "url": "https://www.forbes.com/advisor/investing/cryptocurrency/bitcoin-price-history/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It’s sometimes easy to forget that <strong>Bitcoin</strong> (BTC) is just a teenager, launched in 2009 by the enigmatic Satoshi Nakamoto. Since then, <strong>Bitcoin</strong> has seen a meteoric rise, increasing from fractions of a penny to an all-time high of nearly $69,000 in November 2021. The big “B” was the best-performin",
+        "profile": {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/advisor/investing/cryptocurrency/bitcoin-price-history/",
+          "long_name": "forbes.com",
+          "img": "https://imgs.search.brave.com/2YUF4i_97ZK_dBBUV_uuLn6S00dzPoQEiMSm4pZAsuo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "forbes.com",
+          "hostname": "www.forbes.com",
+          "favicon": "https://imgs.search.brave.com/2YUF4i_97ZK_dBBUV_uuLn6S00dzPoQEiMSm4pZAsuo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+          "path": "› advisor  › investing  › cryptocurrency  › bitcoin-price-history"
+        },
+        "age": "November 11, 2022",
+        "faq": {
+          "items": [
+            {
+              "question": "What Was The Lowest Bitcoin Price?",
+              "answer": "<p>Bitcoin was originally worthless. The first transaction valued it at less than a penny in October 2009.</p>\n<p>The first real-world transaction was when two Papa John’s pizzas were purchased for 10,000 Bitcoins in May 2012, valuing each Bitcoin at four-tenths of a cent.</p>\n<p>The value of these pizzas today can be tracked online, and May 22nd every year is celebrated by Bitcoiners as “Bitcoin Pizza Day.”</p>",
+              "title": "Bitcoin Price History 2009 to 2022 – Forbes Advisor",
+              "url": "https://www.forbes.com/advisor/investing/cryptocurrency/bitcoin-price-history/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "forbes.com",
+                "hostname": "www.forbes.com",
+                "favicon": "https://imgs.search.brave.com/2YUF4i_97ZK_dBBUV_uuLn6S00dzPoQEiMSm4pZAsuo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+                "path": "› advisor  › investing  › cryptocurrency  › bitcoin-price-history"
+              }
+            },
+            {
+              "question": "What Determines Bitcoin’s Price?",
+              "answer": "<p>Like any financial asset, many factors affect the price of Bitcoin.<br>\nToday, the market is highly correlated to the stock market and has been struggling this year as stocks react to the Federal Reserve raising interest rates to combat the inflation crisis.</p>\n<p>In addition to inflation, the tenuous geopolitical climate has impacted markets, with the energy crisis stemming from the war in Ukraine putting strain on economies.</p>\n<p>In the long term, Bitcoin enthusiasts hope that continued adoption of the cryptocurrency will help it decouple from the rest of the financial markets, reduce its volatility and act as a more reputable store of value.</p>\n<p>But for now, it remains a high-risk asset, prone to huge swings.</p>",
+              "title": "Bitcoin Price History 2009 to 2022 – Forbes Advisor",
+              "url": "https://www.forbes.com/advisor/investing/cryptocurrency/bitcoin-price-history/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "forbes.com",
+                "hostname": "www.forbes.com",
+                "favicon": "https://imgs.search.brave.com/2YUF4i_97ZK_dBBUV_uuLn6S00dzPoQEiMSm4pZAsuo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+                "path": "› advisor  › investing  › cryptocurrency  › bitcoin-price-history"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Bitcoin Price",
+        "url": "https://ycharts.com/indicators/bitcoin_price",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In depth view into <strong>Bitcoin</strong> <strong>Price</strong> including historical data from 2014 to 2023, charts and stats.",
+        "profile": {
+          "name": "Ycharts",
+          "url": "https://ycharts.com/indicators/bitcoin_price",
+          "long_name": "ycharts.com",
+          "img": "https://imgs.search.brave.com/jotBtWT7PEo3THNaRjnCGfh29FCOpTKor46RIn7F0fE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTQxNDQxMTg5/Zjg3OGVhNjIyYWM5/Zjk4MWM0NTIwNDY5/NWQ3NGNiNTIwMTI1/NzNmYzBjNTgxNDY2/OGYwNTMxMS95Y2hh/cnRzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ycharts.com",
+          "hostname": "ycharts.com",
+          "favicon": "https://imgs.search.brave.com/jotBtWT7PEo3THNaRjnCGfh29FCOpTKor46RIn7F0fE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTQxNDQxMTg5/Zjg3OGVhNjIyYWM5/Zjk4MWM0NTIwNDY5/NWQ3NGNiNTIwMTI1/NzNmYzBjNTgxNDY2/OGYwNTMxMS95Y2hh/cnRzLmNvbS8",
+          "path": "› indicators  › bitcoin_price"
+        },
+        "age": "July 10, 2023"
+      },
+      {
+        "title": "Bitcoin Price History: 2009 - 2023",
+        "url": "https://bitcoinmagazine.com/guides/bitcoin-price-history",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "New to <strong>Bitcoin</strong>? Here&#x27;s a few articles on where you can learn the basics about why <strong>Bitcoin</strong> should be something you&#x27;re knowledgable about. Millions of people",
+        "profile": {
+          "name": "Bitcoinmagazine",
+          "url": "https://bitcoinmagazine.com/guides/bitcoin-price-history",
+          "long_name": "bitcoinmagazine.com",
+          "img": "https://imgs.search.brave.com/JS2b-xmGZHGzWwuxolMStTzIFiBCwq_tBO0KviyV8GI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQyMzQxMjgz/OWZhMGM4ZDBjMzY3/M2FkMDM1Y2VhOGEw/NzI1MThhZTIwYWE5/MzlhYjljNGMyYmQ0/ZTgwODQ0OC9iaXRj/b2lubWFnYXppbmUu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bitcoinmagazine.com",
+          "hostname": "bitcoinmagazine.com",
+          "favicon": "https://imgs.search.brave.com/JS2b-xmGZHGzWwuxolMStTzIFiBCwq_tBO0KviyV8GI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQyMzQxMjgz/OWZhMGM4ZDBjMzY3/M2FkMDM1Y2VhOGEw/NzI1MThhZTIwYWE5/MzlhYjljNGMyYmQ0/ZTgwODQ0OC9iaXRj/b2lubWFnYXppbmUu/Y29tLw",
+          "path": "› guides  › bitcoin-price-history"
+        },
+        "age": "March 6, 2023"
+      },
+      {
+        "title": "BTC to USD | Bitcoin USD Historical Prices - WSJ",
+        "url": "https://www.wsj.com/market-data/quotes/fx/BTCUSD/historical-prices",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "BTC to USD | historical currency <strong>prices</strong> including date ranges, indicators, symbol comparison, frequency and display options for <strong>Bitcoin</strong> USD.",
+        "profile": {
+          "name": "Wsj",
+          "url": "https://www.wsj.com/market-data/quotes/fx/BTCUSD/historical-prices",
+          "long_name": "wsj.com",
+          "img": "https://imgs.search.brave.com/xO4Mu04jCTqGTDoOAxsJEolknnkiXWpwlHx-_DaIQeY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDZmMzIxODI3/ZDEwMWRhZGZlZWNh/Y2MyNzI0NTI5NGYw/OGJhYWMzNGE4MWVl/M2M4MGY4NjY2NGJh/MDM2MTc2ZS93d3cu/d3NqLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "wsj.com",
+          "hostname": "www.wsj.com",
+          "favicon": "https://imgs.search.brave.com/xO4Mu04jCTqGTDoOAxsJEolknnkiXWpwlHx-_DaIQeY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDZmMzIxODI3/ZDEwMWRhZGZlZWNh/Y2MyNzI0NTI5NGYw/OGJhYWMzNGE4MWVl/M2M4MGY4NjY2NGJh/MDM2MTc2ZS93d3cu/d3NqLmNvbS8",
+          "path": "  › home page  › quotes  › ticker"
+        },
+        "age": "September 27, 2022"
+      },
+      {
+        "title": "History of bitcoin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/History_of_bitcoin",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In September 2014, TeraExchange, LLC, received approval from the U.S.Commodity Futures Trading Commission &quot;CFTC&quot; to begin listing an over-the-counter swap product based on the <strong>price</strong> of a <strong>bitcoin</strong>. The CFTC swap product approval marks the first time a U.S. regulatory agency approved a <strong>bitcoin</strong> ...",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_bitcoin",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › History_of_bitcoin"
+        },
+        "age": "August 22, 2023"
+      },
+      {
+        "title": "Bitcoin Price | BTC Price Chart & History | Kraken",
+        "url": "https://www.kraken.com/prices/bitcoin",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The current <strong>price</strong> <strong>of</strong> <strong>Bitcoin</strong> is $19,168.00. Discover BTC <strong>price</strong> trends, charts &amp; <strong>history</strong> with Kraken, the secure crypto exchange.",
+        "profile": {
+          "name": "Kraken",
+          "url": "https://www.kraken.com/prices/bitcoin",
+          "long_name": "kraken.com",
+          "img": "https://imgs.search.brave.com/Jo9e8J9RvvEwjXW1OlvauuIJBd_AWf7bryVAqZvACvE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDk0ZTNmYjU0/MzFiYjExMGMyNmMy/YWI4OGQzMTE0MjE0/MmUyN2JlM2FkNGIx/MmE2ZjAzM2FjZjk1/MDg0ZDJiNC93d3cu/a3Jha2VuLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "kraken.com",
+          "hostname": "www.kraken.com",
+          "favicon": "https://imgs.search.brave.com/Jo9e8J9RvvEwjXW1OlvauuIJBd_AWf7bryVAqZvACvE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDk0ZTNmYjU0/MzFiYjExMGMyNmMy/YWI4OGQzMTE0MjE0/MmUyN2JlM2FkNGIx/MmE2ZjAzM2FjZjk1/MDg0ZDJiNC93d3cu/a3Jha2VuLmNvbS8",
+          "path": "› prices  › bitcoin"
+        },
+        "age": "July 9, 2023"
+      },
+      {
+        "title": "Bitcoin Price Chart and Tables | Finance Reference",
+        "url": "https://www.in2013dollars.com/bitcoin-price",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Bitcoin</strong> <strong>price</strong> starts at and ends at . The investment begins at and ends at , a return. Sorry, we don&#x27;t have information for one of the dates you selected. This calculator is not realtime - try querying data for a previous month. Please choose valid start and end dates. This graph shows the conversion rate of 1 <strong>Bitcoin</strong> to 1 USD at the first of each month. ... This table displays <strong>Bitcoin</strong> Historical ...",
+        "profile": {
+          "name": "In2013dollars",
+          "url": "https://www.in2013dollars.com/bitcoin-price",
+          "long_name": "in2013dollars.com",
+          "img": "https://imgs.search.brave.com/1ddge-R6ZtYcJMVajF975IPBDDR3KCE6bJtEk81wRqI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODM4OTE4YjFj/MDkwZjYxNTU4MDIx/YjljY2UxMzgwMGZk/ODQ5Y2U5ODAzYjUz/YWMzZDYwY2JlMDc3/MDgzZTQwNy93d3cu/aW4yMDEzZG9sbGFy/cy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "in2013dollars.com",
+          "hostname": "www.in2013dollars.com",
+          "favicon": "https://imgs.search.brave.com/1ddge-R6ZtYcJMVajF975IPBDDR3KCE6bJtEk81wRqI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODM4OTE4YjFj/MDkwZjYxNTU4MDIx/YjljY2UxMzgwMGZk/ODQ5Y2U5ODAzYjUz/YWMzZDYwY2JlMDc3/MDgzZTQwNy93d3cu/aW4yMDEzZG9sbGFy/cy5jb20v",
+          "path": "  › finance reference  › bitcoin price history"
+        }
+      },
+      {
+        "title": "Bitcoin Could Make History This September. What Comes Next. | Barron's",
+        "url": "https://www.barrons.com/articles/bitcoin-ethereum-price-crypto-markets-today-aae5344a",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "https://www.barrons.com/articles/<strong>bitcoin</strong>-ethereum-<strong>price</strong>-crypto-markets-today-aae5344a ... Updated Sept. 28, 2023 9:03 am ET / Original Sept. 28, 2023 5:56 am ET ... <strong>Bitcoin</strong> and other cryptocurrencies edged higher Thursday but continue to languish in a well-established trading range. The upside: Cryptos are on track to beat <strong>history</strong> ...",
+        "profile": {
+          "name": "Barrons",
+          "url": "https://www.barrons.com/articles/bitcoin-ethereum-price-crypto-markets-today-aae5344a",
+          "long_name": "barrons.com",
+          "img": "https://imgs.search.brave.com/iWsZ6MEjXGC7v6Ur0CknZnktRelcDpFS6D_Rx4JwX6U/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkyNmU0OWIy/Yjk1YWMwMzY0OTgx/NDkxZDE0YTAyYzAw/Y2UzYTI1YjE5ZTA4/Y2YzZDYzMzY5ZjYz/MTc0MzUzZS93d3cu/YmFycm9ucy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "barrons.com",
+          "hostname": "www.barrons.com",
+          "favicon": "https://imgs.search.brave.com/iWsZ6MEjXGC7v6Ur0CknZnktRelcDpFS6D_Rx4JwX6U/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkyNmU0OWIy/Yjk1YWMwMzY0OTgx/NDkxZDE0YTAyYzAw/Y2UzYTI1YjE5ZTA4/Y2YzZDYzMzY5ZjYz/MTc0MzUzZS93d3cu/YmFycm9ucy5jb20v",
+          "path": "› articles  › bitcoin-ethereum-price-crypto-markets-today-aae5344a"
+        },
+        "age": "1 day ago"
+      },
+      {
+        "title": "Bitcoin Price | BTC Price Index, Live Chart and USD Converter - ...",
+        "url": "https://www.binance.com/en/price/bitcoin",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Historically, <strong>Bitcoin</strong>&#x27;<strong>s</strong> <strong>price</strong> has tended to increase in the months leading up to halving, as investors and traders anticipate a supply shock. After halving, the <strong>price</strong> may continue to rise if demand remains strong and outstrips the reduced supply. Other factors such as market sentiment, regulatory ...",
+        "profile": {
+          "name": "Binance",
+          "url": "https://www.binance.com/en/price/bitcoin",
+          "long_name": "binance.com",
+          "img": "https://imgs.search.brave.com/esT0m4AP2FjJ2LwJ1kYNV2LlctDi8r3ztyl6-4djyAQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzM1ZjEzNmI2/NTQ1ZjA5N2MxNmM1/Yjc5ZmY3ODZiZGJl/NzE5YmU4NTcxNzBm/ZTFlYzAzNTNkZDIy/NTQzMmE0Yy93d3cu/YmluYW5jZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "product",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "binance.com",
+          "hostname": "www.binance.com",
+          "favicon": "https://imgs.search.brave.com/esT0m4AP2FjJ2LwJ1kYNV2LlctDi8r3ztyl6-4djyAQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzM1ZjEzNmI2/NTQ1ZjA5N2MxNmM1/Yjc5ZmY3ODZiZGJl/NzE5YmU4NTcxNzBm/ZTFlYzAzNTNkZDIy/NTQzMmE0Yy93d3cu/YmluYW5jZS5jb20v",
+          "path": "› en  › price  › bitcoin"
+        },
+        "age": "2 days ago"
+      }
+    ],
+    "family_friendly": true
+  }
+}

@@ -1,0 +1,865 @@
+{
+  "query": {
+    "original": "HITRUST certified platform",
+    "show_strict_warning": false,
+    "is_navigational": true,
+    "local_decision": "drop",
+    "local_locations_idx": 0,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=-GERkFT00hw",
+        "title": "The only HITRUST certified Automation Platform | Automation Anywhere ...",
+        "description": "Improve patient care and the provider experience with the only HITRUST certified intelligent automation platform in the industry. Whether you're using Epic, ...",
+        "age": "March 28, 2022",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/I2s4qT3hTMkcM8lmCMErTnhj1ot7SQdcArME48JViE8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS8t/R0VSa0ZUMDBody9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=9mQtSfjF2_8",
+        "title": "HITRUST: How to Get HITRUST Certified - YouTube",
+        "description": "HITRUST CSF Certification represents one of the fastest-growing and most popular forms of providing information assurance over a company’s implemented system...",
+        "age": "February 23, 2022",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ibVIZ3Y7ffhjaafcwAtqTHg6UFw3IPuMQskF-VeAFao/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS85/bVF0U2ZqRjJfOC9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=S1iiBYBZpbE",
+        "title": "HITRUST Basics: Everything you need to get HITRUST certified - YouTube",
+        "description": "In this video, we will provide all of the important details you need to get HITRUST certified, including HITRUST's background, certification process, typical...",
+        "age": "April 16, 2021",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Xhp_ZTSv8hgGSoD582lMZ-72Jh1bmzl9H-e0AugEhIw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9T/MWlpQllCWnBiRS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=vaXJ4LjJFqc",
+        "title": "HITRUST Webinar: Overview of the Certification Process",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/frbE9RhD3QIxBNfmfn1rpuqOXN95wyvAzzYUnqEINI8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS92/YVhKNExqSkZxYy9o/cWRlZmF1bHQuanBn"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=_IJS8RK86wQ",
+        "title": "Who Is HITRUST and What Is The HITRUST CSF? (Navigating the HITRUST ...",
+        "description": "Have you been asked by a top client to become HITRUST certified? Are you looking for a better way to demonstrate compliance with HIPAA laws? What exactly is ...",
+        "age": "August 4, 2017",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0L0UdrYbWtNOmXoGMOEJeKgB_7DZv31-u-evd0zbFJY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9f/SUpTOFJLODZ3US9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "HITRUST Alliance | Information Risk Management and Compliance",
+        "url": "https://hitrustalliance.net/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Whether your organization has been ... need a <strong>HITRUST</strong> certification, or your leadership team has decided that it’s important to build trust by demonstrating that you meet the highest standards in information protection, we are here to help you learn more and get started. Watch this short video by our VP of Adoption, Ryan Patrick, to understand the steps in getting started. ... To obtain a third-party attestation as to the strength of its wellness <strong>platform</strong>’s privacy ...",
+        "profile": {
+          "name": "Hitrustalliance",
+          "url": "https://hitrustalliance.net/",
+          "long_name": "hitrustalliance.net",
+          "img": "https://imgs.search.brave.com/MtftuHUcCoFtT-Ks_p8fFfdBglPscWW-LzxIEJKVpiI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTA0ZDcyZDJm/MzlkMDk1ZDYxNmIz/YzNlNmM0NjJlY2M3/OTcyZWFjYTE5ZDlj/MDQwNDUxYWEyOTNh/YjgzZjFlYS9oaXRy/dXN0YWxsaWFuY2Uu/bmV0Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hitrustalliance.net",
+          "hostname": "hitrustalliance.net",
+          "favicon": "https://imgs.search.brave.com/MtftuHUcCoFtT-Ks_p8fFfdBglPscWW-LzxIEJKVpiI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTA0ZDcyZDJm/MzlkMDk1ZDYxNmIz/YzNlNmM0NjJlY2M3/OTcyZWFjYTE5ZDlj/MDQwNDUxYWEyOTNh/YjgzZjFlYS9oaXRy/dXN0YWxsaWFuY2Uu/bmV0Lw",
+          "path": "  › home"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/im2jDVslkFUJvaPR46kU4r8away6eOB1w6fCTMk4ddE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXRy/dXN0YWxsaWFuY2Uu/bmV0L2NvbnRlbnQv/dXBsb2Fkcy9ISVRS/VVNULU1ldGEtT0ct/SU1HLXY1LmpwZw",
+          "original": "https://hitrustalliance.net/content/uploads/HITRUST-Meta-OG-IMG-v5.jpg",
+          "logo": false
+        },
+        "age": "February 25, 2020",
+        "cluster_type": "generic",
+        "cluster": [
+          {
+            "title": "MyCSF Compliance and Reporting Pack for HIPAA",
+            "url": "https://hitrustalliance.net/hitrust-for-hipaa/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "<strong>HITRUST</strong> information and privacy solutions include HIPAA Reporting Pack to show compliance, Regulatory Assistance Center for OCR audit guidance, and more.",
+            "family_friendly": true
+          },
+          {
+            "title": "MyCSF",
+            "url": "https://hitrustalliance.net/product-tool/mycsf/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The <strong>HITRUST</strong> MyCSF SaaS tool is a reliable <strong>platform</strong> to assess information risk and meet international, federal and state privacy and security regulations.",
+            "family_friendly": true
+          },
+          {
+            "title": "Download the HITRUST CSF",
+            "url": "https://hitrustalliance.net/csf-license-agreement/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "To verify your eligibility for a free <strong>HITRUST</strong> CSF framework download, review the License Agreement and acceptance of terms and conditions.",
+            "family_friendly": true
+          },
+          {
+            "title": "HITRUST CSF Framework",
+            "url": "https://hitrustalliance.net/product-tool/hitrust-csf/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The <strong>HITRUST</strong> CSF is a widely-adopted global security and privacy framework that provides information protection, risk management, and regulatory compliance.",
+            "family_friendly": true
+          }
+        ]
+      },
+      {
+        "title": "Health Information Trust Alliance (HITRUST) Common Security Framework ...",
+        "url": "https://learn.microsoft.com/en-us/compliance/regulatory/offering-hitrust",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Azure and Office 365 are <strong>certified</strong> to the Health Information Trust Alliance (<strong>HITRUST</strong>) Common Security Framework (CSF).",
+        "profile": {
+          "name": "Microsoft",
+          "url": "https://learn.microsoft.com/en-us/compliance/regulatory/offering-hitrust",
+          "long_name": "learn.microsoft.com",
+          "img": "https://imgs.search.brave.com/y2Iun4apGMUymzzWdfi9wvl8U6V6DoQDVhuAyz0xY0c/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmMzNjVjYjk4/NmJkODdmNTU4ZDU1/MGUwNjk0MWFmZWU0/NmYzZjVlYmZjZDIy/MWM4MGMwODc4MDhi/MDM5MmZkYy9sZWFy/bi5taWNyb3NvZnQu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "learn.microsoft.com",
+          "hostname": "learn.microsoft.com",
+          "favicon": "https://imgs.search.brave.com/y2Iun4apGMUymzzWdfi9wvl8U6V6DoQDVhuAyz0xY0c/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmMzNjVjYjk4/NmJkODdmNTU4ZDU1/MGUwNjk0MWFmZWU0/NmYzZjVlYmZjZDIy/MWM4MGMwODc4MDhi/MDM5MmZkYy9sZWFy/bi5taWNyb3NvZnQu/Y29tLw",
+          "path": "› en-us  › compliance  › regulatory  › offering-hitrust"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gQTPAp4mQqw7JVWipSU8LFNFN7RjTDuNXjaao6eRw6s/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9sZWFy/bi5taWNyb3NvZnQu/Y29tL2VuLXVzL21l/ZGlhL29wZW4tZ3Jh/cGgtaW1hZ2UucG5n",
+          "original": "https://learn.microsoft.com/en-us/media/open-graph-image.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "What is HITRUST Compliance? Requirements, Cost & More | StrongDM",
+        "url": "https://www.strongdm.com/hitrust-compliance",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Health Information Trust Alliance ... and certification programs to help organizations safeguard sensitive information, manage information risk, and reach their compliance goals. <strong>HITRUST</strong> stands out from other compliance frameworks because it harmonizes dozens of authoritative sources such as HIPAA, SOC 2, NIST, and ISO 27001. It is also the only standards development organization with a framework, assessment <strong>platform</strong>, and independent ...",
+        "profile": {
+          "name": "Strongdm",
+          "url": "https://www.strongdm.com/hitrust-compliance",
+          "long_name": "strongdm.com",
+          "img": "https://imgs.search.brave.com/LF8WdA3rht-O08Sgtj14nbSJvMgdwxy63pP0JtFsGTs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU5ZDkxOGU4/NzY3YWUxZjYzZGE2/NjczNGIzMDdkNTFh/MmZkNmJmY2Q0ODg0/MTcyMDlkYzk3NGQ0/MDUyYTEyMS93d3cu/c3Ryb25nZG0uY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "strongdm.com",
+          "hostname": "www.strongdm.com",
+          "favicon": "https://imgs.search.brave.com/LF8WdA3rht-O08Sgtj14nbSJvMgdwxy63pP0JtFsGTs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU5ZDkxOGU4/NzY3YWUxZjYzZGE2/NjczNGIzMDdkNTFh/MmZkNmJmY2Q0ODg0/MTcyMDlkYzk3NGQ0/MDUyYTEyMS93d3cu/c3Ryb25nZG0uY29t/Lw",
+          "path": "› hitrust-compliance"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/17G6cKQzpWHK2t2nzkTFMYsy3mcCK5k8krZpDVMxYRs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9kaXNj/b3Zlci5zdHJvbmdk/bS5jb20vaHViZnMv/aGl0cnVzdC1jb21w/bGlhbmNlLnBuZw",
+          "original": "https://discover.strongdm.com/hubfs/hitrust-compliance.png",
+          "logo": false
+        },
+        "age": "September 7, 2022",
+        "faq": {
+          "items": [
+            {
+              "question": "What is HITRUST?",
+              "answer": "The Health Information Trust Alliance (HITRUST) is a non-profit company that delivers data protection standards and certification programs to help organizations safeguard sensitive information, manage information risk, and reach their compliance goals.",
+              "title": "What is HITRUST Compliance? Requirements, Cost & More | StrongDM",
+              "url": "https://www.strongdm.com/hitrust-compliance",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "strongdm.com",
+                "hostname": "www.strongdm.com",
+                "favicon": "https://imgs.search.brave.com/LF8WdA3rht-O08Sgtj14nbSJvMgdwxy63pP0JtFsGTs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU5ZDkxOGU4/NzY3YWUxZjYzZGE2/NjczNGIzMDdkNTFh/MmZkNmJmY2Q0ODg0/MTcyMDlkYzk3NGQ0/MDUyYTEyMS93d3cu/c3Ryb25nZG0uY29t/Lw",
+                "path": "› hitrust-compliance"
+              }
+            },
+            {
+              "question": "What is HITRUST Certification?",
+              "answer": "HITRUST created the HITRUST Common Security Framework (CSF) to provide an objective, measurable way to manage the security risks that come with handling healthcare information and other sensitive data. HITRUST CSF certification is a way for organizations to demonstrate that specific systems within their environment meet the framework’s rigorous standards and regulations. HITRUST-certified assessors perform certifications and produce detailed reports to help organizations understand and improve their maturity levels.",
+              "title": "What is HITRUST Compliance? Requirements, Cost & More | StrongDM",
+              "url": "https://www.strongdm.com/hitrust-compliance",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "strongdm.com",
+                "hostname": "www.strongdm.com",
+                "favicon": "https://imgs.search.brave.com/LF8WdA3rht-O08Sgtj14nbSJvMgdwxy63pP0JtFsGTs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU5ZDkxOGU4/NzY3YWUxZjYzZGE2/NjczNGIzMDdkNTFh/MmZkNmJmY2Q0ODg0/MTcyMDlkYzk3NGQ0/MDUyYTEyMS93d3cu/c3Ryb25nZG0uY29t/Lw",
+                "path": "› hitrust-compliance"
+              }
+            },
+            {
+              "question": "Is HITRUST only for healthcare?",
+              "answer": "HITRUST is not only for healthcare. Although the framework was originally created to help manage the security risks that come with handling healthcare information, it has since expanded to embrace all industries.",
+              "title": "What is HITRUST Compliance? Requirements, Cost & More | StrongDM",
+              "url": "https://www.strongdm.com/hitrust-compliance",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "strongdm.com",
+                "hostname": "www.strongdm.com",
+                "favicon": "https://imgs.search.brave.com/LF8WdA3rht-O08Sgtj14nbSJvMgdwxy63pP0JtFsGTs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU5ZDkxOGU4/NzY3YWUxZjYzZGE2/NjczNGIzMDdkNTFh/MmZkNmJmY2Q0ODg0/MTcyMDlkYzk3NGQ0/MDUyYTEyMS93d3cu/c3Ryb25nZG0uY29t/Lw",
+                "path": "› hitrust-compliance"
+              }
+            },
+            {
+              "question": "Is HITRUST based on NIST?",
+              "answer": "HITRUST combines the base controls of NIST with controls from other widely-used frameworks. The two work together to help organizations achieve compliance. When you complete a HITRUST assessment, you will receive a report including a scorecard that details your organization’s compliance with NIST Cybersecurity Framework-related controls included in the HITRUST CSF framework. If you are HITRUST Certified, you can use the scorecard to assure management, business partners, and regulators of your compliance with the NIST Framework's objectives and demonstrate compliance with the NIST Cybersecurity Framework.",
+              "title": "What is HITRUST Compliance? Requirements, Cost & More | StrongDM",
+              "url": "https://www.strongdm.com/hitrust-compliance",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "strongdm.com",
+                "hostname": "www.strongdm.com",
+                "favicon": "https://imgs.search.brave.com/LF8WdA3rht-O08Sgtj14nbSJvMgdwxy63pP0JtFsGTs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU5ZDkxOGU4/NzY3YWUxZjYzZGE2/NjczNGIzMDdkNTFh/MmZkNmJmY2Q0ODg0/MTcyMDlkYzk3NGQ0/MDUyYTEyMS93d3cu/c3Ryb25nZG0uY29t/Lw",
+                "path": "› hitrust-compliance"
+              }
+            },
+            {
+              "question": "Does HITRUST replace HIPAA?",
+              "answer": "HITRUST does not replace HIPAA. The two are managed by different entities: HITRUST is a privately held company, while HIPAA is regulated by the federal government. HITRUST encompasses the requirements of HIPAA and incorporates them into a broader security and risk framework. Because of this, the HITRUST framework may be used as a means to achieve HIPAA compliance. Many organizations also use HITRUST CFA certification to demonstrate HIPAA compliance since there is no official HIPAA certification.",
+              "title": "What is HITRUST Compliance? Requirements, Cost & More | StrongDM",
+              "url": "https://www.strongdm.com/hitrust-compliance",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "strongdm.com",
+                "hostname": "www.strongdm.com",
+                "favicon": "https://imgs.search.brave.com/LF8WdA3rht-O08Sgtj14nbSJvMgdwxy63pP0JtFsGTs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU5ZDkxOGU4/NzY3YWUxZjYzZGE2/NjczNGIzMDdkNTFh/MmZkNmJmY2Q0ODg0/MTcyMDlkYzk3NGQ0/MDUyYTEyMS93d3cu/c3Ryb25nZG0uY29t/Lw",
+                "path": "› hitrust-compliance"
+              }
+            }
+          ]
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Andrew Magnusson",
+              "url": "https://www.strongdm.com/blog/author/andrew-magnusson"
+            }
+          ],
+          "date": "Sep 07, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "strongDM",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/AvNU9jyhj0XwtzUWTYctcVGhbBOQbIHwcsjGjYVD6jw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c3Ryb25nZG0uY29t/L2h1YmZzL2JyYW5k/L3N0cm9uZ2RtX2xv/Z29fMzIweDMyMC5w/bmc",
+              "original": "https://www.strongdm.com/hubfs/brand/strongdm_logo_320x320.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "4 Simple Steps to HITRUST CSF Certification",
+        "url": "https://www.ispartnersllc.com/blog/guide-hitrust-csf-certification-process/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Clear guidance to <strong>HITRUST</strong> CSF Certification: readiness, remediation, validated assessment, and the <strong>HITRUST</strong> Quality Assurance review.",
+        "profile": {
+          "name": "Ispartnersllc",
+          "url": "https://www.ispartnersllc.com/blog/guide-hitrust-csf-certification-process/",
+          "long_name": "ispartnersllc.com",
+          "img": "https://imgs.search.brave.com/IIsUdTzbMttKfhPAGSUiLvMULJlp1a3jqerH5LSXCWw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWNiZjliZmE5/MzA4ZTY2MzI1YzVi/OTBkYWJhN2ZjNDM4/ZmVkYWVhYTEyODA3/OTQzODdiN2ZhNTIw/YTNlYTRmMC93d3cu/aXNwYXJ0bmVyc2xs/Yy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ispartnersllc.com",
+          "hostname": "www.ispartnersllc.com",
+          "favicon": "https://imgs.search.brave.com/IIsUdTzbMttKfhPAGSUiLvMULJlp1a3jqerH5LSXCWw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWNiZjliZmE5/MzA4ZTY2MzI1YzVi/OTBkYWJhN2ZjNDM4/ZmVkYWVhYTEyODA3/OTQzODdiN2ZhNTIw/YTNlYTRmMC93d3cu/aXNwYXJ0bmVyc2xs/Yy5jb20v",
+          "path": "  › home  › how to get hitrust certification in 4 clear steps"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4OWh0LDbqyW7EzR0AfH6sWdj5CfvojRoLzUB6jSebhs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aXNwYXJ0bmVyc2xs/Yy5jb20vd3AtY29u/dGVudC91cGxvYWRz/L0hJVFJVU1QtQ1NG/LUNlcnRpZmljYXRp/b24tUHJvY2Vzcy5q/cGVn",
+          "original": "https://www.ispartnersllc.com/wp-content/uploads/HITRUST-CSF-Certification-Process.jpeg",
+          "logo": false
+        },
+        "age": "August 10, 2022",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Robert Godard"
+            }
+          ],
+          "date": "Aug 10, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "I.S. Partners, LLC",
+            "url": "https://www.ispartnersllc.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/sdV3bnfJdE_o7GK254S0cf6APj3A5rjpeiYGApr6Lu8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aXNwYXJ0bmVyc2xs/Yy5jb20vd3AtY29u/dGVudC91cGxvYWRz/L2Nyb3BwZWQtSVNQ/QVJUTkVSU19MT0dP/LTAxLnBuZw",
+              "original": "https://www.ispartnersllc.com/wp-content/uploads/cropped-ISPARTNERS_LOGO-01.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "What is HITRUST? Complete Guide to HITRUST Certification | A-LIGN",
+        "url": "https://www.a-lign.com/articles/everything-you-need-to-know-about-hitrust-certification",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Health Information Trust Alliance (<strong>HITRUST</strong>) provides a security and privacy framework for organization to demonstrate HIPAA compliance.",
+        "profile": {
+          "name": "A-lign",
+          "url": "https://www.a-lign.com/articles/everything-you-need-to-know-about-hitrust-certification",
+          "long_name": "a-lign.com",
+          "img": "https://imgs.search.brave.com/zsKyB4he3cYD_9oOiFXl0EyjkdCTzHzyrgSl4Qq9xBY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDkxNjZlNzlm/MDYwMmNlYjFmOWYy/YzBmMjMzMDlmZmZi/YWI4OWNiYTMwNGI2/YzFiNzFmYzU5MGYw/MjNmMDU3NC93d3cu/YS1saWduLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "a-lign.com",
+          "hostname": "www.a-lign.com",
+          "favicon": "https://imgs.search.brave.com/zsKyB4he3cYD_9oOiFXl0EyjkdCTzHzyrgSl4Qq9xBY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDkxNjZlNzlm/MDYwMmNlYjFmOWYy/YzBmMjMzMDlmZmZi/YWI4OWNiYTMwNGI2/YzFiNzFmYzU5MGYw/MjNmMDU3NC93d3cu/YS1saWduLmNvbS8",
+          "path": "  › home  › what is hitrust? complete guide to hitrust certification"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8ORatAmFb654vAYIHjqU9CCmga_0QLFGRUc0CPGl_8E/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YS1saWduLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/MS9TT19XaGF0LWlz/LUhJVFJVU1RfMS0w/LmpwZw",
+          "original": "https://www.a-lign.com/wp-content/uploads/2023/01/SO_What-is-HITRUST_1-0.jpg",
+          "logo": false
+        },
+        "age": "January 4, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Blaise Wabo",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/AZV3QBOcNjzzc-_Xl6s56ZZs2GCp-i7d_esvNihEm7w/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zZWN1/cmUuZ3JhdmF0YXIu/Y29tL2F2YXRhci8y/NGVhZWQ1MmVhZGQw/MTEzOWQ4YjM0ZmU2/ZWVmMzdkYj9zPTk2/JmQ9bW0mcj1n",
+                "original": "https://secure.gravatar.com/avatar/24eaed52eadd01139d8b34fe6eef37db?s=96&d=mm&r=g"
+              }
+            }
+          ],
+          "date": "Jan 04, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "A-LIGN",
+            "url": "https://www.a-lign.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/a8q04mS4g3glszooNAgdC25xJ1IOS4fiRYaJn8rDoNY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YS1saWduLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8w/My9BLUxJR05fTG9n/b21hcmtfQmxhY2tf/Zm9yLXNvY2lhbC1z/aGFyZS5qcGc",
+              "original": "https://www.a-lign.com/wp-content/uploads/2017/03/A-LIGN_Logomark_Black_for-social-share.jpg"
+            }
+          }
+        }
+      },
+      {
+        "title": "What is HITRUST? Guide to Certification & Compliance",
+        "url": "https://linfordco.com/blog/what-is-hitrust/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "For example, if your organization is planning to obtain <strong>HITRUST</strong> certification for a SaaS <strong>platform</strong> that is hosted in AWS the organization can reduce the number of requirements it is responsible for during the assessment by inheriting compliance with approximately 10% of their requirements.",
+        "profile": {
+          "name": "Linfordco",
+          "url": "https://linfordco.com/blog/what-is-hitrust/",
+          "long_name": "linfordco.com",
+          "img": "https://imgs.search.brave.com/UxSYUGWPLBs1fJDcUnsDIyvYg6cXx8WA22MYHbCzvfo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjFkZWZiOWQ0/ZDlhODYzYmE1MTNi/MGRhYTQ3ZmQ4MThi/NjQ0MDZhMmZkNDVl/ZWYwMjhlYjIxYWIw/YjVlZWQzNi9saW5m/b3JkY28uY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "linfordco.com",
+          "hostname": "linfordco.com",
+          "favicon": "https://imgs.search.brave.com/UxSYUGWPLBs1fJDcUnsDIyvYg6cXx8WA22MYHbCzvfo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjFkZWZiOWQ0/ZDlhODYzYmE1MTNi/MGRhYTQ3ZmQ4MThi/NjQ0MDZhMmZkNDVl/ZWYwMjhlYjIxYWIw/YjVlZWQzNi9saW5m/b3JkY28uY29tLw",
+          "path": "  › home  › what is hitrust? a comprehensive guide to certification & compliance"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/915eZqw_l-10nrSW5J37NAxqqIhv6B-ldm1JQE9lFoY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9saW5m/b3JkY28uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA4/L2NvbXByZWhlbnNp/dmUtZ3VpZGUtdG8t/aGl0cnVzdC5qcGc",
+          "original": "https://linfordco.com/wp-content/uploads/2021/08/comprehensive-guide-to-hitrust.jpg",
+          "logo": false
+        },
+        "age": "May 25, 2022"
+      },
+      {
+        "title": "HITRUST - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/HITRUST",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>HITRUST</strong> is a privately held company located in Frisco, Texas, United States that, in collaboration with healthcare, technology and information security organizations, established the <strong>HITRUST</strong> CSF. The company claims CSF is a comprehensive, prescriptive, and <strong>certifiable</strong> framework, that can be ...",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/HITRUST",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "The HITRUST CSF",
+              "url": "https://en.wikipedia.org/wiki/HITRUST#The_HITRUST_CSF"
+            },
+            {
+              "type": "button_result",
+              "title": "Executive Council",
+              "url": "https://en.wikipedia.org/wiki/HITRUST#Executive_Council"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › HITRUST"
+        },
+        "age": "3 weeks ago"
+      },
+      {
+        "title": "HITRUST - Amazon Web Services (AWS)",
+        "url": "https://aws.amazon.com/compliance/hitrust/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "AWS customers can design and implement an AWS environment suitable to their needs, and use <strong>HITRUST</strong>-<strong>certified</strong> AWS services in a manner which supports the requirements of <strong>HITRUST</strong> CSF. Customers can also inherit the AWS certification for controls pertinent to their cloud architectures established ...",
+        "profile": {
+          "name": "Amazon",
+          "url": "https://aws.amazon.com/compliance/hitrust/",
+          "long_name": "aws.amazon.com",
+          "img": "https://imgs.search.brave.com/szVMoebAXsYSyH8vJ7nros3n2qwYCObdNox3ys_fVPo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkODM4NDk0/MTRjNzUyMTM3OTQ5/MmI4MjRkZjFhNDcw/MTIxYzI3NmZmMmNm/MDFkZWRjNmFkZjYz/NzVhZmIzMC9hd3Mu/YW1hem9uLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "aws.amazon.com",
+          "hostname": "aws.amazon.com",
+          "favicon": "https://imgs.search.brave.com/szVMoebAXsYSyH8vJ7nros3n2qwYCObdNox3ys_fVPo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkODM4NDk0/MTRjNzUyMTM3OTQ5/MmI4MjRkZjFhNDcw/MTIxYzI3NmZmMmNm/MDFkZWRjNmFkZjYz/NzVhZmIzMC9hd3Mu/YW1hem9uLmNvbS8",
+          "path": "› compliance  › hitrust"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/1bik-N_FIYne_7NV24JFoWEYf9y6IHu0K-6XOLZWEro/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hMC5h/d3NzdGF0aWMuY29t/L2xpYnJhLWNzcy9p/bWFnZXMvbG9nb3Mv/YXdzX2xvZ29fc21p/bGVfMTIwMHg2MzAu/cG5n",
+          "original": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+          "logo": true
+        }
+      },
+      {
+        "title": "HITRUST CSF Compliance | Google Cloud",
+        "url": "https://cloud.google.com/security/compliance/hitrust",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We have achieved <strong>HITRUST</strong> CSF certification, an industry-agnostic <strong>certifiable</strong> framework for regulatory compliance and risk management.",
+        "profile": {
+          "name": "Google",
+          "url": "https://cloud.google.com/security/compliance/hitrust",
+          "long_name": "cloud.google.com",
+          "img": "https://imgs.search.brave.com/nBJfu5k7RAk6MpziuksKeACxyMazFwNA1CQemhx8KdY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTI0Mjg3MThk/OWUxNWIwNTBhZDY0/YmZlNjQ3ZjI5MmNj/NDliNjFkM2ZlZWMx/NWIwNDVmMTAwYjVl/YjQyMjY3Mi9jbG91/ZC5nb29nbGUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cloud.google.com",
+          "hostname": "cloud.google.com",
+          "favicon": "https://imgs.search.brave.com/nBJfu5k7RAk6MpziuksKeACxyMazFwNA1CQemhx8KdY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTI0Mjg3MThk/OWUxNWIwNTBhZDY0/YmZlNjQ3ZjI5MmNj/NDliNjFkM2ZlZWMx/NWIwNDVmMTAwYjVl/YjQyMjY3Mi9jbG91/ZC5nb29nbGUuY29t/Lw",
+          "path": "› security  › compliance  › hitrust"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/uDMGV0kMnfG6vQiwF-xfUQxW4G7PvTa4H3QHNV-mybs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jbG91/ZC5nb29nbGUuY29t/L19zdGF0aWMvY2xv/dWQvaW1hZ2VzL3Nv/Y2lhbC1pY29uLWdv/b2dsZS1jbG91ZC0x/MjAwLTYzMC5wbmc",
+          "original": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "HITRUST CSF Certification | Rackspace Technology",
+        "url": "https://www.rackspace.com/compliance/hitrust",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Rackspace <strong>HITRUST</strong> CSF <strong>certified</strong> environments help you ensure that your dedicated hosting environment exceeds the healthcare industry’s complex data privacy and security regulations",
+        "profile": {
+          "name": "Rackspace",
+          "url": "https://www.rackspace.com/compliance/hitrust",
+          "long_name": "rackspace.com",
+          "img": "https://imgs.search.brave.com/pYt5UeFspQCkPmqLylBSEotrX9-LdBpUuagbN9SIR-k/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTNmMTUyMWE5/NjQ0M2I2NjY0NmZj/YzZhOTBjNDE0NWI2/MWFjY2VkNzljNGJj/NmY2YzQ5ZWY2MDI0/MjRmNGY3YS93d3cu/cmFja3NwYWNlLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "rackspace.com",
+          "hostname": "www.rackspace.com",
+          "favicon": "https://imgs.search.brave.com/pYt5UeFspQCkPmqLylBSEotrX9-LdBpUuagbN9SIR-k/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTNmMTUyMWE5/NjQ0M2I2NjY0NmZj/YzZhOTBjNDE0NWI2/MWFjY2VkNzljNGJj/NmY2YzQ5ZWY2MDI0/MjRmNGY3YS93d3cu/cmFja3NwYWNlLmNv/bS8",
+          "path": "› compliance  › hitrust"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Pucins54Q3nlvZQWk052eBMFTCctVHOfdkc8nJOyn-k/rs:fit:200:200:1/g:ce/aHR0cHM6Ly83NTJm/NzdhYTEwNzczOGMy/NWQ5My1mMDgzZTlh/NjI5NWEzZjA3MTRm/YTAxOWZmZGNhNjVj/My5zc2wuY2YxLnJh/Y2tjZG4uY29tL2Jy/YW5kL1JhY2tzcGFj/ZV9UZWNobm9sb2d5/X09HLnBuZw",
+          "original": "https://752f77aa107738c25d93-f083e9a6295a3f0714fa019ffdca65c3.ssl.cf1.rackcdn.com/brand/Rackspace_Technology_OG.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "What is HITRUST Compliance?",
+        "url": "https://www.securitymetrics.com/blog/what-hitrust-compliance",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "What is <strong>HITRUST</strong>? <strong>HITRUST</strong> stands for the Health Information Trust Alliance. It was founded in 2007 and uses the “<strong>HITRUST</strong> approach” to help organizations from all sectors–but especially healthcare–effectively manage data, information risk, and compliance.",
+        "profile": {
+          "name": "Securitymetrics",
+          "url": "https://www.securitymetrics.com/blog/what-hitrust-compliance",
+          "long_name": "securitymetrics.com",
+          "img": "https://imgs.search.brave.com/tEHnnjnzWlfh_SBdatreJC-67CPR1rngTSnUhyOE1Hw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTc3Zjk0Njk5/OGVjZjk5M2MyYjlh/NjA5NTVhZWRhNjQx/YmNjMWU4YjM0NDE0/MzgxYjI4ZWE3Zjdk/NTZkMjI2ZS93d3cu/c2VjdXJpdHltZXRy/aWNzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "securitymetrics.com",
+          "hostname": "www.securitymetrics.com",
+          "favicon": "https://imgs.search.brave.com/tEHnnjnzWlfh_SBdatreJC-67CPR1rngTSnUhyOE1Hw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTc3Zjk0Njk5/OGVjZjk5M2MyYjlh/NjA5NTVhZWRhNjQx/YmNjMWU4YjM0NDE0/MzgxYjI4ZWE3Zjdk/NTZkMjI2ZS93d3cu/c2VjdXJpdHltZXRy/aWNzLmNvbS8",
+          "path": "› blog  › what-hitrust-compliance"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xpd48LiKWE9VMoo81tCKaFd32Uq3ud-SfeQDtQUgvuY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9peC1j/ZG4uYjJlNS5jb20v/aW1hZ2VzLzMyMDQw/LzMyMDQwX2FiZWZk/ZjMxMWQ5ZTQwMjNi/MDM3N2FlMDAyMmYw/NDdkXzE1NTk1ODQw/MTkucG5n",
+          "original": "https://ix-cdn.b2e5.com/images/32040/32040_abefdf311d9e4023b0377ae0022f047d_1559584019.png",
+          "logo": false
+        },
+        "age": "July 24, 2023",
+        "article": {
+          "author": [],
+          "date": "Jul 24, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "SecurityMetrics"
+          }
+        }
+      },
+      {
+        "title": "Healthify’s Platform Achieves HITRUST CSF Certification",
+        "url": "https://www.healthify.us/healthify-insights/healthifys-platform-achieves-hitrust-csf-certification",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Healthify is proud to announce that our <strong>platform</strong> is officially <strong>HITRUST</strong> CSF <strong>certified</strong>. <strong>The</strong> <strong>HITRUST</strong> CSF certification is the most widely recognized security accreditation in the healthcare industry. Learn more about how our newly <strong>certified</strong> <strong>platform</strong> can benefit health plans and health providers.",
+        "profile": {
+          "name": "Healthify",
+          "url": "https://www.healthify.us/healthify-insights/healthifys-platform-achieves-hitrust-csf-certification",
+          "long_name": "healthify.us",
+          "img": "https://imgs.search.brave.com/kWyRoYQiBG1_Q1VTzZ2Bt8qr0nuV_LJ_Xis4u5hlkyQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWExMDU2YzIy/ODczNDMxNDY3Y2Iw/ZjA1NTRkOTQ3MzRk/NzI1MDY4ZGZlOTYw/ZWYyOWU1MWE0OThi/MDNiM2Y1My93d3cu/aGVhbHRoaWZ5LnVz/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthify.us",
+          "hostname": "www.healthify.us",
+          "favicon": "https://imgs.search.brave.com/kWyRoYQiBG1_Q1VTzZ2Bt8qr0nuV_LJ_Xis4u5hlkyQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWExMDU2YzIy/ODczNDMxNDY3Y2Iw/ZjA1NTRkOTQ3MzRk/NzI1MDY4ZGZlOTYw/ZWYyOWU1MWE0OThi/MDNiM2Y1My93d3cu/aGVhbHRoaWZ5LnVz/Lw",
+          "path": "› healthify-insights  › healthifys-platform-achieves-hitrust-csf-certification"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wdAYKY0M3O3CshL_tqRYTxgCzfIFN3D0b8w7XCHSjms/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGVhbHRoaWZ5LnVz/L2h1YmZzL0RvY3Rv/cl9QYXRpZW50Lmpw/ZyNrZWVwUHJvdG9j/b2w",
+          "original": "https://www.healthify.us/hubfs/Doctor_Patient.jpg#keepProtocol",
+          "logo": false
+        }
+      },
+      {
+        "title": "HITRUST - Qualtrics",
+        "url": "https://www.qualtrics.com/platform/hitrust/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Experience Management <strong>Platform</strong>™ meets all the specifications of <strong>HiTRUST</strong>, so you can be sure your <strong>platform</strong> is compliant. In addition to the <strong>HITRUST</strong> certification, we’ve mapped the results of testing to the NIST Cybersecurity Framework (NIST CSF). This specifically addresses controls ...",
+        "profile": {
+          "name": "Qualtrics",
+          "url": "https://www.qualtrics.com/platform/hitrust/",
+          "long_name": "qualtrics.com",
+          "img": "https://imgs.search.brave.com/dqccYiUi46fnyfk6hzbW2J8Z31LgWOiZXt_tXlccJfk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmRkYjFiZDYz/M2MxNjM1NmFhZWIw/NDgzOGJjNTJiOWRm/OWU4YzM5NDQzNTFj/ZTQ2NTE0ZDkyMmE0/YjRhNzEzYS93d3cu/cXVhbHRyaWNzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "qualtrics.com",
+          "hostname": "www.qualtrics.com",
+          "favicon": "https://imgs.search.brave.com/dqccYiUi46fnyfk6hzbW2J8Z31LgWOiZXt_tXlccJfk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmRkYjFiZDYz/M2MxNjM1NmFhZWIw/NDgzOGJjNTJiOWRm/OWU4YzM5NDQzNTFj/ZTQ2NTE0ZDkyMmE0/YjRhNzEzYS93d3cu/cXVhbHRyaWNzLmNv/bS8",
+          "path": "› platform  › hitrust"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/DprmjJMJ2HvulExG10FkDQFT6EjlawoG7B9S1nN4JTY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cXVhbHRyaWNzLmNv/bS9tL2Fzc2V0cy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/MC9RdWFsdHJpY3Mt/TWV0YS1JbWFnZS5w/bmc",
+          "original": "https://www.qualtrics.com/m/assets/wp-content/uploads/2022/10/Qualtrics-Meta-Image.png",
+          "logo": false
+        },
+        "age": "July 22, 2019"
+      },
+      {
+        "title": "HITRUST Assessment & Certification - Coalfire",
+        "url": "https://www.coalfire.com/services/audit-and-assessment/hitrust",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Coalfire&#x27;s <strong>HITRUST</strong> experience and expertise helps you navigate <strong>HITRUST</strong> certification requirements with ease.",
+        "profile": {
+          "name": "Coalfire",
+          "url": "https://www.coalfire.com/services/audit-and-assessment/hitrust",
+          "long_name": "coalfire.com",
+          "img": "https://imgs.search.brave.com/T7Mi1J8j9Dg3rnSGHcb8yc1Ve7IetaRecci6aNOgxYs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQ5ZmU4ODM2/NWEwNDlhNDFhZTQ4/ODVjYjcwMzIzMzE2/Y2VlYWVmMDZkYzY2/NzkzY2E5MWNkNjI4/Zjk1YmFjNS93d3cu/Y29hbGZpcmUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "coalfire.com",
+          "hostname": "www.coalfire.com",
+          "favicon": "https://imgs.search.brave.com/T7Mi1J8j9Dg3rnSGHcb8yc1Ve7IetaRecci6aNOgxYs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQ5ZmU4ODM2/NWEwNDlhNDFhZTQ4/ODVjYjcwMzIzMzE2/Y2VlYWVmMDZkYzY2/NzkzY2E5MWNkNjI4/Zjk1YmFjNS93d3cu/Y29hbGZpcmUuY29t/Lw",
+          "path": "› services  › audit-and-assessment  › hitrust"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/54ybqdv7oqBUrHRISEjcWhu9eTY-rpeE2uubEaQOZIM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Y29hbGZpcmUuY29t/L2dldG1lZGlhLzA5/OTcyNmIzLTcxMzIt/NDMwNi04YTlmLTY0/Yjc4Zjc4MjM4OS9D/b2FsZmlyZV9MaW5r/ZWRJbl9DYXJkLmpw/Zw",
+          "original": "https://www.coalfire.com/getmedia/099726b3-7132-4306-8a9f-64b78f782389/Coalfire_LinkedIn_Card.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Hitrust CSF Certification | What is Hitrust CSF Certification | DAP",
+        "url": "https://www.digitalauthority.me/resources/hitrust-certification-guideline/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Carrying out an initial self-audit ... entire <strong>HITRUST</strong> CSF certification process. Although it is an optional step, you can gain insights on how to improve the security framework and better adhere to regulatory compliance before the actual assessment. If you use self-assessment tools such as myCSF, you can expect to shell out $2,500 for access to the <strong>platform</strong> for 90 days ...",
+        "profile": {
+          "name": "Digitalauthority",
+          "url": "https://www.digitalauthority.me/resources/hitrust-certification-guideline/",
+          "long_name": "digitalauthority.me",
+          "img": "https://imgs.search.brave.com/iPvOb9Vcn8YYnu4qCouijQK2l-bkcA3p-bWRPKRLJTk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGQyMjJlMzQy/OTQ3MTBhNTg3N2Jj/ZDg2YWM0NGM1ODI1/NmM2NGYzZjZjYWRk/ZGY2NTVlZTVhMTdk/NThhYjMwNC93d3cu/ZGlnaXRhbGF1dGhv/cml0eS5tZS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "digitalauthority.me",
+          "hostname": "www.digitalauthority.me",
+          "favicon": "https://imgs.search.brave.com/iPvOb9Vcn8YYnu4qCouijQK2l-bkcA3p-bWRPKRLJTk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGQyMjJlMzQy/OTQ3MTBhNTg3N2Jj/ZDg2YWM0NGM1ODI1/NmM2NGYzZjZjYWRk/ZGY2NTVlZTVhMTdk/NThhYjMwNC93d3cu/ZGlnaXRhbGF1dGhv/cml0eS5tZS8",
+          "path": "› resources  › hitrust-certification-guideline"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/MHdZJLo9_WvBL9-m6M586dCnAyWwwnv9W4gDdewwOLg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZGlnaXRhbGF1dGhv/cml0eS5tZS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8wMi9z/aHV0dGVyc3RvY2tf/NjU3MzQ5NDUwLWNv/cHkuanBn",
+          "original": "https://www.digitalauthority.me/wp-content/uploads/2019/02/shutterstock_657349450-copy.jpg",
+          "logo": false
+        },
+        "age": "July 3, 2023"
+      },
+      {
+        "title": "How to Become HITRUST CSF-Certified | Healthcare IT News",
+        "url": "https://www.healthcareitnews.com/sponsored-content/how-become-hitrust-csf-certified",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A common security framework creates clarity To resolve these challenges, the Health Information Trust Alliance, a non-profit organization, collaborated with leaders in healthcare and information security to develop the <strong>HITRUST</strong> Common Security Framework (CSF). CSF is a <strong>certifiable</strong> security framework ...",
+        "profile": {
+          "name": "Healthcareitnews",
+          "url": "https://www.healthcareitnews.com/sponsored-content/how-become-hitrust-csf-certified",
+          "long_name": "healthcareitnews.com",
+          "img": "https://imgs.search.brave.com/ACye1fJ8DLpmKxMdt_2mC-ZugbqeDrG3HWkNqASx7dE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI3ZGU2OGE0/YWEyYTBhNzQ3NGNk/ODZjMWIxY2NiMmUz/MmE4YzE4YmEyNjhl/NjA4YmNmN2VkOTNi/NGRmZTY3YS93d3cu/aGVhbHRoY2FyZWl0/bmV3cy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthcareitnews.com",
+          "hostname": "www.healthcareitnews.com",
+          "favicon": "https://imgs.search.brave.com/ACye1fJ8DLpmKxMdt_2mC-ZugbqeDrG3HWkNqASx7dE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI3ZGU2OGE0/YWEyYTBhNzQ3NGNk/ODZjMWIxY2NiMmUz/MmE4YzE4YmEyNjhl/NjA4YmNmN2VkOTNi/NGRmZTY3YS93d3cu/aGVhbHRoY2FyZWl0/bmV3cy5jb20v",
+          "path": "› sponsored-content  › how-become-hitrust-csf-certified"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/y981VhqqFEeZd-obs-nThyjaGOQnaefIotOCp967VJ0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGVhbHRoY2FyZWl0/bmV3cy5jb20vc2l0/ZXMvaGl0bi9maWxl/cy9KYXktQmxvZy1Q/b3N0X0hJVFJVU1Rf/Qi5wbmc",
+          "original": "https://www.healthcareitnews.com/sites/hitn/files/Jay-Blog-Post_HITRUST_B.png",
+          "logo": false
+        },
+        "age": "November 10, 2016"
+      }
+    ],
+    "family_friendly": true
+  }
+}

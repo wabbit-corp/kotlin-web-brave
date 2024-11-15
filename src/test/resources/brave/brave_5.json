@@ -1,0 +1,781 @@
+{
+  "query": {
+    "original": "Healthcare interoperability platforms",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "local_decision": "drop",
+    "local_locations_idx": 0,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "2022 Best In KLAS Interoperability Platforms",
+        "url": "https://klasresearch.com/best-in-klas-ranking/interoperability-platforms/2022/396",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "See the 2022 <strong>Interoperability</strong> <strong>Platforms</strong> Best in KLAS Rankings according to Health IT professionals. Find the best software systems for you.",
+        "profile": {
+          "name": "Klasresearch",
+          "url": "https://klasresearch.com/best-in-klas-ranking/interoperability-platforms/2022/396",
+          "long_name": "klasresearch.com",
+          "img": "https://imgs.search.brave.com/OPjvXh9XnN8JbnooinYBCn6nid6N6w-eqyrpTzOcknI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWQ0YjViMjE0/MzdhYjA3NjYxMTJh/MjcwOGQ5MGI3NmEw/MGMxNzI2MDFkYTA2/MzM4ZDdlMDIwNDY0/MjQ5NDRlYy9rbGFz/cmVzZWFyY2guY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "klasresearch.com",
+          "hostname": "klasresearch.com",
+          "favicon": "https://imgs.search.brave.com/OPjvXh9XnN8JbnooinYBCn6nid6N6w-eqyrpTzOcknI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWQ0YjViMjE0/MzdhYjA3NjYxMTJh/MjcwOGQ5MGI3NmEw/MGMxNzI2MDFkYTA2/MzM4ZDdlMDIwNDY0/MjQ5NDRlYy9rbGFz/cmVzZWFyY2guY29t/Lw",
+          "path": "  › home"
+        },
+        "age": "February 2, 2021"
+      },
+      {
+        "title": "Advanced Healthcare Interoperability Platform | InterSystems",
+        "url": "https://www.intersystems.com/interoperability-platform/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "InterSystems HealthShare is an advanced <strong>interoperability</strong> <strong>platform</strong> that seamlessly connects health data from various sources while also being secure, accessible, and shareable whenever needed.",
+        "profile": {
+          "name": "Intersystems",
+          "url": "https://www.intersystems.com/interoperability-platform/",
+          "long_name": "intersystems.com",
+          "img": "https://imgs.search.brave.com/qau6jKfcQtqe6PAcfZWFLkwFB9YGBLEozLSvEr4iyi4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQwZmU4MGE2/ODQ5YWQxODM2ZTRm/ODhjZWI3Njg5MjIx/ZWIxNmI2ZmQyN2U0/NmQzNTcxNDc5ZTE4/ZWY2NTFjYi93d3cu/aW50ZXJzeXN0ZW1z/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "intersystems.com",
+          "hostname": "www.intersystems.com",
+          "favicon": "https://imgs.search.brave.com/qau6jKfcQtqe6PAcfZWFLkwFB9YGBLEozLSvEr4iyi4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQwZmU4MGE2/ODQ5YWQxODM2ZTRm/ODhjZWI3Njg5MjIx/ZWIxNmI2ZmQyN2U0/NmQzNTcxNDc5ZTE4/ZWY2NTFjYi93d3cu/aW50ZXJzeXN0ZW1z/LmNvbS8",
+          "path": "› interoperability-platform"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/JM8mLHGNa81BlH-dUIPAoi79Wt9piZiJ_f2VQ_eD6Dc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMuaW50ZXJzeXN0/ZW1zLmNvbS9kaW1z/NC9kZWZhdWx0LzM3/MjQ2ZGMvMjE0NzQ4/MzY0Ny9zdHJpcC90/cnVlL2Nyb3AvMTIw/MHg2MzArMCswL3Jl/c2l6ZS8xMjAweDYz/MCEvcXVhbGl0eS85/MC8_dXJsPWh0dHAl/M0ElMkYlMkZpbnRl/ci1zeXN0ZW1zLWJy/aWdodHNwb3QuczMu/YW1hem9uYXdzLmNv/bSUyRjQzJTJGMGQl/MkYyMDQ3Nzc3MzRl/NjVhOTBhOTRlNTBm/MmU5OWYwJTJGaW50/cy1jcmVhdGl2ZWRh/dGF0ZWNobm9sb2d5/LWxvZ28tMTIwMHg2/MzAuanBn",
+          "original": "https://assets.intersystems.com/dims4/default/37246dc/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F43%2F0d%2F204777734e65a90a94e50f2e99f0%2Fints-creativedatatechnology-logo-1200x630.jpg",
+          "logo": true
+        }
+      },
+      {
+        "title": "Best Healthcare Integration Engines in 2022| G2",
+        "url": "https://www.g2.com/categories/healthcare-integration-engines",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Capture, exchange, store, and provide ... <strong>Interoperable</strong> Resource (FHIR) or Health Level Seven International (HL7) ... When you navigate the <strong>healthcare</strong> market, you run into big questions, fast. Where are the people who need your product? Where can you find the experts to inform your product development? And more impor ... NexHealth is the leading patient experience and practice management <strong>platform</strong> that integrates ...",
+        "profile": {
+          "name": "G2",
+          "url": "https://www.g2.com/categories/healthcare-integration-engines",
+          "long_name": "g2.com",
+          "img": "https://imgs.search.brave.com/lMzRxyxV1Dwgu01_fcKZGuaFOKcCBRNQBJueEdAoBn0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkzOGZiNGFh/Yjc4MjI0ZjZhMjlh/Y2M4N2E1NzVlODhl/MjgwM2Q4ZmNkZjA3/NGVhY2QzYzFjNzE3/NmEyNmQ1OS93d3cu/ZzIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "g2.com",
+          "hostname": "www.g2.com",
+          "favicon": "https://imgs.search.brave.com/lMzRxyxV1Dwgu01_fcKZGuaFOKcCBRNQBJueEdAoBn0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkzOGZiNGFh/Yjc4MjI0ZjZhMjlh/Y2M4N2E1NzVlODhl/MjgwM2Q4ZmNkZjA3/NGVhY2QzYzFjNzE3/NmEyNmQ1OS93d3cu/ZzIuY29tLw",
+          "path": "› categories  › healthcare-integration-engines"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mknJpnHaHKO0gE2eEJz4UirrrlAMFBthFT1kQabNq9Q/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZzIuY29tL2Fzc2V0/cy9oaWdoZXN0X3Jh/dGVkX29nLTdmOGJm/ZmM4OWVmZDA0MTdh/ZWE2MjY0YzVhMzIz/MjRjZDgxMzFhMmZl/OTg3ODBkMTViMzUx/ODk5NTYxZWViZTQu/cG5n",
+          "original": "https://www.g2.com/assets/highest_rated_og-7f8bffc89efd0417aea6264c5a32324cd8131a2fe98780d15b351899561eebe4.png",
+          "logo": false
+        },
+        "age": "August 2, 2023",
+        "location": {
+          "title": "G2",
+          "url": "https://www.g2.com/categories/healthcare-integration-engines",
+          "is_source_local": false,
+          "is_source_both": false,
+          "description": "",
+          "family_friendly": true,
+          "type": "location_result",
+          "provider_url": "https://www.g2.com/categories/healthcare-integration-engines",
+          "zoom_level": 7,
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/mknJpnHaHKO0gE2eEJz4UirrrlAMFBthFT1kQabNq9Q/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZzIuY29tL2Fzc2V0/cy9oaWdoZXN0X3Jh/dGVkX29nLTdmOGJm/ZmM4OWVmZDA0MTdh/ZWE2MjY0YzVhMzIz/MjRjZDgxMzFhMmZl/OTg3ODBkMTViMzUx/ODk5NTYxZWViZTQu/cG5n",
+            "original": "https://www.g2.com/assets/highest_rated_og-7f8bffc89efd0417aea6264c5a32324cd8131a2fe98780d15b351899561eebe4.png"
+          },
+          "postal_address": {
+            "type": "PostalAddress",
+            "postalCode": "60606",
+            "streetAddress": "100 S Wacker DrSTE 600",
+            "addressRegion": "IL",
+            "addressLocality": "Chicago",
+            "displayAddress": "100 S Wacker DrSTE 600, 60606, Chicago"
+          },
+          "profiles": [
+            {
+              "type": "external",
+              "name": "g2.com",
+              "url": "https://www.g2.com/categories/healthcare-integration-engines",
+              "img": "https://imgs.search.brave.com/lMzRxyxV1Dwgu01_fcKZGuaFOKcCBRNQBJueEdAoBn0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkzOGZiNGFh/Yjc4MjI0ZjZhMjlh/Y2M4N2E1NzVlODhl/MjgwM2Q4ZmNkZjA3/NGVhY2QzYzFjNzE3/NmEyNmQ1OS93d3cu/ZzIuY29tLw"
+            }
+          ],
+          "categories": []
+        }
+      },
+      {
+        "title": "Healthcare Interoperability Solutions | Solutions by Industry | ...",
+        "url": "https://www.jitterbit.com/industry/healthcare-life-sciences/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Jitterbit Health integrates <strong>healthcare</strong> data and overcomes data silos, so information can be aggregated from systems to improve care outcomes. Learn more.",
+        "profile": {
+          "name": "Jitterbit",
+          "url": "https://www.jitterbit.com/industry/healthcare-life-sciences/",
+          "long_name": "jitterbit.com",
+          "img": "https://imgs.search.brave.com/TSkzzayoOrKiQ8TiRxD9k-BNW40FcWqRJJmHvRJ4wpk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmZlOWQ1MDk5/MDJlMThlMjgxMjBi/NTFlOWRmMDBjYmNi/ZjJhMDBhNzFlYmFk/NTZiYWQ3ODllNTA0/ZWY3ODZhOC93d3cu/aml0dGVyYml0LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "jitterbit.com",
+          "hostname": "www.jitterbit.com",
+          "favicon": "https://imgs.search.brave.com/TSkzzayoOrKiQ8TiRxD9k-BNW40FcWqRJJmHvRJ4wpk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmZlOWQ1MDk5/MDJlMThlMjgxMjBi/NTFlOWRmMDBjYmNi/ZjJhMDBhNzFlYmFk/NTZiYWQ3ODllNTA0/ZWY3ODZhOC93d3cu/aml0dGVyYml0LmNv/bS8",
+          "path": "  › home  › healthcare & life sciences"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/KVkANw4BDtJ-9mSMh5nTKJUE7hJRgAqmTfLdabWmj9o/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aml0dGVyYml0LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvaml0/dGVyYml0LXNvY2lh/bC1iYW5uZXIucG5n",
+          "original": "https://www.jitterbit.com/wp-content/uploads/jitterbit-social-banner.png",
+          "logo": false
+        },
+        "age": "September 3, 2022"
+      },
+      {
+        "title": "Interoperability in Healthcare and Health IT | Change Healthcare",
+        "url": "https://www.changehealthcare.com/platform/interoperability",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We enable access to data and facilitate ... and <strong>Interoperability</strong> Rules, as well as enable real-time access to clinical documents to help better manage risk adjustment, improve HEDIS scores, and support accurate payments with faster adjudication. ... Delivered via a software-as-a-service model, our <strong>platform</strong> aligns payer and provider capabilities––offering a streamlined experience across consumers’ <strong>healthcare</strong> journey and ...",
+        "profile": {
+          "name": "Changehealthcare",
+          "url": "https://www.changehealthcare.com/platform/interoperability",
+          "long_name": "changehealthcare.com",
+          "img": "https://imgs.search.brave.com/1bUS78cA1GS9v-R6LRldx5tGNSYMN-1Oa9AfEIVzU4M/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjgyYTdmYWQ3/NmQ1NGQ4NzdlZjlm/YzI3ZDM2NDY3YzQ3/MWY2ZjA5ZTljMTI4/ZmNmMTk0MzAwNDAz/NzE1NjhjMi93d3cu/Y2hhbmdlaGVhbHRo/Y2FyZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "changehealthcare.com",
+          "hostname": "www.changehealthcare.com",
+          "favicon": "https://imgs.search.brave.com/1bUS78cA1GS9v-R6LRldx5tGNSYMN-1Oa9AfEIVzU4M/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjgyYTdmYWQ3/NmQ1NGQ4NzdlZjlm/YzI3ZDM2NDY3YzQ3/MWY2ZjA5ZTljMTI4/ZmNmMTk0MzAwNDAz/NzE1NjhjMi93d3cu/Y2hhbmdlaGVhbHRo/Y2FyZS5jb20v",
+          "path": "  › home  › the change healthcare platform  › interoperability in healthcare and health it"
+        }
+      },
+      {
+        "title": "Healthcare Interoperability Platform - HIP | Health Gorilla",
+        "url": "https://www.healthgorilla.com/home/products/hip",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Learn how you can improve outcomes and power fundamental clinical workflows with an industry leading Health <strong>Interoperability</strong> <strong>Platform</strong> (HIP)",
+        "profile": {
+          "name": "Healthgorilla",
+          "url": "https://www.healthgorilla.com/home/products/hip",
+          "long_name": "healthgorilla.com",
+          "img": "https://imgs.search.brave.com/E8ka-H_iHuPJu-W8XWW-liLIPkvXdREA1P-Lgvmw7JM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzU0NTA2YTlj/Njk3MzU4M2VjMjkw/ODI1MTllNzdmNDM2/ZTI3ZWE4ZmJiNDE5/MDNlNDAwMDRjMGMw/OWQyZmVkNS93d3cu/aGVhbHRoZ29yaWxs/YS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthgorilla.com",
+          "hostname": "www.healthgorilla.com",
+          "favicon": "https://imgs.search.brave.com/E8ka-H_iHuPJu-W8XWW-liLIPkvXdREA1P-Lgvmw7JM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzU0NTA2YTlj/Njk3MzU4M2VjMjkw/ODI1MTllNzdmNDM2/ZTI3ZWE4ZmJiNDE5/MDNlNDAwMDRjMGMw/OWQyZmVkNS93d3cu/aGVhbHRoZ29yaWxs/YS5jb20v",
+          "path": "› home  › products  › hip"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/XNto-uJl7cEoS_X-4H6zeB9WUrmwIimm1X71K02Fpek/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMud2Vic2l0ZS1m/aWxlcy5jb20vNjI3/MTlhMDQxZDI4ZDdi/NTYwM2RkOTk1LzYy/YzRhNzczZDBlMzhi/ZjUyMGE1MTQwZl9X/ZWJzaXRlJTIwT3Bl/biUyMEdyYXBoLnN2/Zw.svg",
+          "original": "https://assets.website-files.com/62719a041d28d7b5603dd995/62c4a773d0e38bf520a5140f_Website%20Open%20Graph.svg",
+          "logo": true
+        }
+      },
+      {
+        "title": "Interoperability in Healthcare | IBM",
+        "url": "https://www.ibm.com/topics/interoperability-in-healthcare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Both provide <strong>platforms</strong> for patient access to <strong>healthcare</strong> information through FHIR. The National Coordinator for Health IT in the United States has made FHIR a key part of the nationwide <strong>interoperability</strong> roadmap (PDF, 3.5 MB). New government regulations and <strong>interoperability</strong> rules are requiring ...",
+        "profile": {
+          "name": "Ibm",
+          "url": "https://www.ibm.com/topics/interoperability-in-healthcare",
+          "long_name": "ibm.com",
+          "img": "https://imgs.search.brave.com/VRWv6lt9zEoYheNmiQVOnpl1Nc8Wi54w7If_i7F893w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI0MWQyYmEy/MTNmNWVkODQ2ODFj/ZjYxMjk4YjI3NmY5/Yjk5M2E0YjhjNWZi/OGUyODMzNzllOTQx/M2I4ZDc2My93d3cu/aWJtLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ibm.com",
+          "hostname": "www.ibm.com",
+          "favicon": "https://imgs.search.brave.com/VRWv6lt9zEoYheNmiQVOnpl1Nc8Wi54w7If_i7F893w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI0MWQyYmEy/MTNmNWVkODQ2ODFj/ZjYxMjk4YjI3NmY5/Yjk5M2E0YjhjNWZi/OGUyODMzNzllOTQx/M2I4ZDc2My93d3cu/aWJtLmNvbS8",
+          "path": "› topics  › interoperability-in-healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/13XaS0-cwXHVsLk1n7rzCtXTzrLbo89GwSauxMFHH44/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aWJtLmNvbS9jb250/ZW50L2RhbS9jb25u/ZWN0ZWRhc3NldHMt/YWRvYmUtY21zL3dv/cmxkd2lkZS1jb250/ZW50L3N0b2NrLWFz/c2V0cy9nZXR0eS9p/bWFnZS9vdGhlcnMv/M2EvMjUvM2EyNWFi/YTctNzQ1NS00NmQz/LWJiNzAyNmViM2U5/Nzc5MjIuanBnL19q/Y3JfY29udGVudC9y/ZW5kaXRpb25zL2Nx/NWRhbS53ZWIuMTI4/MC4xMjgwLmpwZWc",
+          "original": "https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/stock-assets/getty/image/others/3a/25/3a25aba7-7455-46d3-bb7026eb3e977922.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+          "logo": false
+        },
+        "age": "May 18, 2021"
+      },
+      {
+        "title": "Top 5 Latest Developments in Healthcare Data Interoperability You ...",
+        "url": "https://www.osplabs.com/insights/top-5-latest-developments-in-healthcare-data-interoperability/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Interoperability</strong> <strong>in</strong> <strong>healthcare</strong> implies timely and secure access, integration, and utilization of electronic health records for population health management. <strong>Healthcare</strong> <strong>interoperability</strong> makes sharing data and delivering integrated care or collaborative care easier.",
+        "profile": {
+          "name": "Osplabs",
+          "url": "https://www.osplabs.com/insights/top-5-latest-developments-in-healthcare-data-interoperability/",
+          "long_name": "osplabs.com",
+          "img": "https://imgs.search.brave.com/lOJcRdqGDFJR3pbo2bHsziQZHq9zfYYvq0gm4mZ40hE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjNiMjY1ZDdm/ZTFjZjZlMzY2Y2Jm/MzhiY2E3MGM5ZWM5/YmFlMjhiYjlmMTkx/YWI1YTk0YWMwYjVi/NDNhNmM2OC93d3cu/b3NwbGFicy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "osplabs.com",
+          "hostname": "www.osplabs.com",
+          "favicon": "https://imgs.search.brave.com/lOJcRdqGDFJR3pbo2bHsziQZHq9zfYYvq0gm4mZ40hE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjNiMjY1ZDdm/ZTFjZjZlMzY2Y2Jm/MzhiY2E3MGM5ZWM5/YmFlMjhiYjlmMTkx/YWI1YTk0YWMwYjVi/NDNhNmM2OC93d3cu/b3NwbGFicy5jb20v",
+          "path": "  › home  › insights  › top 5 latest developments in healthcare data interoperability you must aware of"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4qC3Y-jzx4iEEXNvoIg9ZiTJRO25GnoTMUk5JXM6VV8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tbGpo/a3k5dWU4YmEuaS5v/cHRpbW9sZS5jb20v/MUFLN3RyMC1uRHNX/cExheS93OmF1dG8v/aDphdXRvL3E6OTAv/aHR0cHM6Ly93d3cu/b3NwbGFicy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTkv/MDIvT1NQbG9nby5q/cGVnLmpwZw",
+          "original": "https://mljhky9ue8ba.i.optimole.com/1AK7tr0-nDsWpLay/w:auto/h:auto/q:90/https://www.osplabs.com/wp-content/uploads/2019/02/OSPlogo.jpeg.jpg",
+          "logo": true
+        },
+        "age": "December 21, 2021",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "osplabs"
+            }
+          ],
+          "date": "Dec 21, 2021",
+          "publisher": {
+            "type": "organization",
+            "name": "OSP",
+            "url": "https://www.osplabs.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/4qC3Y-jzx4iEEXNvoIg9ZiTJRO25GnoTMUk5JXM6VV8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tbGpo/a3k5dWU4YmEuaS5v/cHRpbW9sZS5jb20v/MUFLN3RyMC1uRHNX/cExheS93OmF1dG8v/aDphdXRvL3E6OTAv/aHR0cHM6Ly93d3cu/b3NwbGFicy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTkv/MDIvT1NQbG9nby5q/cGVnLmpwZw",
+              "original": "https://mljhky9ue8ba.i.optimole.com/1AK7tr0-nDsWpLay/w:auto/h:auto/q:90/https://www.osplabs.com/wp-content/uploads/2019/02/OSPlogo.jpeg.jpg"
+            }
+          }
+        }
+      },
+      {
+        "title": "Data Interoperability Platform | Julota",
+        "url": "https://www.julota.com/use-cases/interoperability-platform/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Establishing <strong>interoperability</strong> via SaaS ensures that EMS can communicate quickly with law enforcement and behavioral health professionals. Members of the team can connect the person to needed <strong>healthcare</strong>, behavioral health, and non-medical services, such as housing. Julota’s <strong>platform</strong> uses cloud ...",
+        "profile": {
+          "name": "Julota",
+          "url": "https://www.julota.com/use-cases/interoperability-platform/",
+          "long_name": "julota.com",
+          "img": "https://imgs.search.brave.com/kFSr4UPBu5Dt3DlQJa70MK54SZ12Gi6cxgU1bblIPGQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGE3NmU4MTc2/MjAxZjZiMWQzYTJk/Nzk5NjI1ZjAxNzJl/YWI5OTNiN2M3MzYz/NDE2ODJlNzRjZDNj/M2NjNWJjZi93d3cu/anVsb3RhLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "julota.com",
+          "hostname": "www.julota.com",
+          "favicon": "https://imgs.search.brave.com/kFSr4UPBu5Dt3DlQJa70MK54SZ12Gi6cxgU1bblIPGQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGE3NmU4MTc2/MjAxZjZiMWQzYTJk/Nzk5NjI1ZjAxNzJl/YWI5OTNiN2M3MzYz/NDE2ODJlNzRjZDNj/M2NjNWJjZi93d3cu/anVsb3RhLmNvbS8",
+          "path": "  › home  › enhance coordinated care with julota  › cloud-based data interoperability platform"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/qfMGZRIAboBMXJXmaCnLqDG6v2knMNuLXtgtaWveCXQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/anVsb3RhLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8w/NC9qdWxvdGEtZmF2/aWNvbi5wbmc",
+          "original": "https://www.julota.com/wp-content/uploads/2020/04/julota-favicon.png",
+          "logo": false
+        },
+        "age": "April 23, 2020"
+      },
+      {
+        "title": "What is Interoperability? | HIMSS",
+        "url": "https://www.himss.org/what-interoperability",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "These are virtual networks involving <strong>healthcare</strong> providers across Europe. They aim to facilitate discussion on complex diseases and conditions that require highly specialized treatment, providing concentrated knowledge and resources. Coordinators convene virtual advisory panels of medical specialists across different disciplines, using a dedicated IT <strong>platform</strong> and telemedicine tools. Argentina’s National <strong>Interoperability</strong> ...",
+        "profile": {
+          "name": "Himss",
+          "url": "https://www.himss.org/what-interoperability",
+          "long_name": "himss.org",
+          "img": "https://imgs.search.brave.com/K1NBRbrN4gpnC0H4C6ZwmfLrZ_jVWdxX9ZbJbwRI55I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY5NmY3ZjFk/MmY2NGUxMmM3MGRi/YjA3ZmVhOGM4Yjcx/NjRlZmJlNjIwNDZi/NWRjMzFkYzYwNmY4/OTQxYWM4Ni93d3cu/aGltc3Mub3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "himss.org",
+          "hostname": "www.himss.org",
+          "favicon": "https://imgs.search.brave.com/K1NBRbrN4gpnC0H4C6ZwmfLrZ_jVWdxX9ZbJbwRI55I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY5NmY3ZjFk/MmY2NGUxMmM3MGRi/YjA3ZmVhOGM4Yjcx/NjRlZmJlNjIwNDZi/NWRjMzFkYzYwNmY4/OTQxYWM4Ni93d3cu/aGltc3Mub3JnLw",
+          "path": "› what-interoperability"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xQDUl6NvBBQKrxOjPn_JPgnY_staLYgU8u2VGiX_6Y8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGltc3Mub3JnL3Np/dGVzL2hkZS9maWxl/cy9tZWRpYS9pbWFn/ZS8yMDIwLzA4LzA1/L2ludGVyb3BlcmFi/aWxpdHktaW4taGVh/bHRoY2FyZS1ndWlk/ZS12Mi0xMDgweDEw/ODAucG5n",
+          "original": "https://www.himss.org/sites/hde/files/media/image/2020/08/05/interoperability-in-healthcare-guide-v2-1080x1080.png",
+          "logo": false
+        },
+        "age": "August 4, 2020",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "epalm"
+            }
+          ],
+          "date": "Aug 04, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "HIMSS",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/pwpV9hbsKMJFzpcE-3hIi5_zLiQnavusVCAc1DK1NgQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGltc3Mub3JnL3Np/dGVzL2FsbC90aGVt/ZXMvaGRlL2xvZ28u/c3Zn.svg",
+              "original": "https://www.himss.org/sites/all/themes/hde/logo.svg"
+            }
+          }
+        }
+      },
+      {
+        "title": "3 Misperceptions About Healthcare Interoperability",
+        "url": "https://mhealthintelligence.com/news/3-misperceptions-about-healthcare-interoperability",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Why? Because in many cases, the technical aspects of <strong>healthcare</strong> <strong>interoperability</strong> have been solved, and the market offers mature solutions to enable <strong>interoperability</strong> across many <strong>platforms</strong>, applications, devices, and networks.",
+        "profile": {
+          "name": "Mhealthintelligence",
+          "url": "https://mhealthintelligence.com/news/3-misperceptions-about-healthcare-interoperability",
+          "long_name": "mhealthintelligence.com",
+          "img": "https://imgs.search.brave.com/_F1d4wdA5JnJNDgHzafV0GS646-lq97zq0z9phCkkwY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmM1M2FiZGYz/MjQ4NzAwMzE2NDcy/MGJiYzUwMzRkMjNl/MWVmNTE0YzM4MWMw/MDgwOGFjNDhkZmE3/YTI3MzhkYi9taGVh/bHRoaW50ZWxsaWdl/bmNlLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mhealthintelligence.com",
+          "hostname": "mhealthintelligence.com",
+          "favicon": "https://imgs.search.brave.com/_F1d4wdA5JnJNDgHzafV0GS646-lq97zq0z9phCkkwY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmM1M2FiZGYz/MjQ4NzAwMzE2NDcy/MGJiYzUwMzRkMjNl/MWVmNTE0YzM4MWMw/MDgwOGFjNDhkZmE3/YTI3MzhkYi9taGVh/bHRoaW50ZWxsaWdl/bmNlLmNvbS8",
+          "path": "› news  › 3-misperceptions-about-healthcare-interoperability"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ncxjq7MidQ2_GCv2-_5U40NEFBM-itnQ4fVUtVJuBww/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9taGVh/bHRoaW50ZWxsaWdl/bmNlLmNvbS9pbWFn/ZXMvc2l0ZS9hcnRp/Y2xlX2hlYWRlcnMv/X25vcm1hbC8yMDIw/LTA0LTAzX21lZGlj/YWxfZGF0YV9zaGFy/aW5nLmpwZw",
+          "original": "https://mhealthintelligence.com/images/site/article_headers/_normal/2020-04-03_medical_data_sharing.jpg",
+          "logo": false
+        },
+        "age": "April 6, 2020"
+      },
+      {
+        "title": "Healthcare Interoperability | OpenText",
+        "url": "https://businessnetwork.opentext.com/healthcare-interoperability/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "OpenText™ EMR-Link™ delivers a cost-effective, unified approach to EMR integration and lab outreach.",
+        "profile": {
+          "name": "Opentext",
+          "url": "https://businessnetwork.opentext.com/healthcare-interoperability/",
+          "long_name": "businessnetwork.opentext.com",
+          "img": "https://imgs.search.brave.com/lk3ezCSNZ_JxocbVa_sQO51kaa6l_Z4WLPQlx-ED0Mo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGNhYzM0NjAy/ZjQ3NDVjZTRjZWM4/YTEwMDJiNDUxYmU5/MmY5NDhkZmMwZTI4/YzU4ZTdhMTg1ODg4/ZjFlMTM2Yi9idXNp/bmVzc25ldHdvcmsu/b3BlbnRleHQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "businessnetwork.opentext.com",
+          "hostname": "businessnetwork.opentext.com",
+          "favicon": "https://imgs.search.brave.com/lk3ezCSNZ_JxocbVa_sQO51kaa6l_Z4WLPQlx-ED0Mo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGNhYzM0NjAy/ZjQ3NDVjZTRjZWM4/YTEwMDJiNDUxYmU5/MmY5NDhkZmMwZTI4/YzU4ZTdhMTg1ODg4/ZjFlMTM2Yi9idXNp/bmVzc25ldHdvcmsu/b3BlbnRleHQuY29t/Lw",
+          "path": "› healthcare-interoperability"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4BOpKo2xidPyFlVuxNwLK-RSuuuK0ypo0xH-jarIjBU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9idXNp/bmVzc25ldHdvcmsu/b3BlbnRleHQuY29t/L2Fzc2V0cy9pbWFn/ZXMvT1RfU2hhcmVJ/bWFnZV9GYWNlYm9v/ay5wbmc",
+          "original": "https://businessnetwork.opentext.com/assets/images/OT_ShareImage_Facebook.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "Platform Interoperability puts people at the ... - Salesforce",
+        "url": "https://www.salesforce.com/blog/2019/01/interoperability-connected-healthcare-platform.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Interoperability</strong> enables <strong>healthcare</strong> professionals to quickly and efficiently provide services and information that can improve patient safety, security, and well-being.",
+        "profile": {
+          "name": "Salesforce",
+          "url": "https://www.salesforce.com/blog/2019/01/interoperability-connected-healthcare-platform.html",
+          "long_name": "salesforce.com",
+          "img": "https://imgs.search.brave.com/4muS3U5UYSs5uzoTgzP0aSleKoIkjwx8iO1Oh7XfvCA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2RiMTI5Nzk2/MWRhYjI1ODkwNjA0/ZTAyZDhjNmRkNmQ4/NTI4MTcyNTIwMzgz/OTFlMGE4Mzg5MmNi/MDVlNWZhMi93d3cu/c2FsZXNmb3JjZS5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "salesforce.com",
+          "hostname": "www.salesforce.com",
+          "favicon": "https://imgs.search.brave.com/4muS3U5UYSs5uzoTgzP0aSleKoIkjwx8iO1Oh7XfvCA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2RiMTI5Nzk2/MWRhYjI1ODkwNjA0/ZTAyZDhjNmRkNmQ4/NTI4MTcyNTIwMzgz/OTFlMGE4Mzg5MmNi/MDVlNWZhMi93d3cu/c2FsZXNmb3JjZS5j/b20v",
+          "path": "› blog  › 2019  › 01  › interoperability-connected-healthcare-platform.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/pHQelb5Z7oHHU4-nZEfno-2LTtYOy4H4_e1jkd2gxJ0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2FsZXNmb3JjZS5j/b20vYmxvZy93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMi8y/MDIwLzA5L2ludGVy/b3BlcmFiaWxpdHlf/dGh1bWItMS5qcGc",
+          "original": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2020/09/interoperability_thumb-1.jpg",
+          "logo": false
+        },
+        "age": "January 17, 2019",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Ashwini Zenooz",
+              "url": "https://www.salesforce.com/blog/author/ashwini-zenooz/",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/_OnTHUbk_FBAg4p7dU_x0dCAZmWVEAagTdQrkicHYxM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2FsZXNmb3JjZS5j/b20vYmxvZy93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMi8y/MDIwLzEwL0FzaHdp/bmktWmVub296Lmpw/Zz93PTEyOCZoPTk2/JmNyb3A9MQ",
+                "original": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2020/10/Ashwini-Zenooz.jpg?w=128&h=96&crop=1"
+              }
+            }
+          ],
+          "date": "Jan 17, 2019",
+          "publisher": {
+            "type": "organization",
+            "name": "Salesforce",
+            "url": "https://www.salesforce.com/blog/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/ruOyskSe0kvXM1AL6Fep5MM0Uq_4AQo8Yv8jEOiQg3Q/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2FsZXNmb3JjZS5j/b20vYmxvZy93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMi8y/MDIwLzA5L2RlZmF1/bHQuanBn",
+              "original": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2020/09/default.jpg"
+            }
+          }
+        }
+      },
+      {
+        "title": "EHR Integration and Healthcare Interoperability with Redox",
+        "url": "https://www.redoxengine.com/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Grow your health product using Redox for EHR integrations. Redox&#x27;s network connects you to hundreds of providers and makes adding new ones faster than any other solution.",
+        "profile": {
+          "name": "Redoxengine",
+          "url": "https://www.redoxengine.com/",
+          "long_name": "redoxengine.com",
+          "img": "https://imgs.search.brave.com/9MM0oZBbdQtJVV7p-RSvO_QTKyC8UL4VIIHDYdePT5U/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjRhNTU2ZDM4/ZjE4OTc3NGIyZDYx/NzA5NGUyM2IyYmM4/NDZiODQ4ZmRhODY4/YmViNTY2NGM0NTVm/MjJiYTc0OS93d3cu/cmVkb3hlbmdpbmUu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "redoxengine.com",
+          "hostname": "www.redoxengine.com",
+          "favicon": "https://imgs.search.brave.com/9MM0oZBbdQtJVV7p-RSvO_QTKyC8UL4VIIHDYdePT5U/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjRhNTU2ZDM4/ZjE4OTc3NGIyZDYx/NzA5NGUyM2IyYmM4/NDZiODQ4ZmRhODY4/YmViNTY2NGM0NTVm/MjJiYTc0OS93d3cu/cmVkb3hlbmdpbmUu/Y29tLw",
+          "path": "  › home"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/zR-Lo_CF_u8p96pJ89oVHBrPlhQ4RFXlzJ8ADeXLvTc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmVkb3hlbmdpbmUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzAzL2xvZ28t/cmVkb3gtZGVmYXVs/dC5zdmc.svg",
+          "original": "https://www.redoxengine.com/wp-content/uploads/2023/03/logo-redox-default.svg",
+          "logo": true
+        },
+        "age": "February 21, 2023"
+      },
+      {
+        "title": "InterSystems Interoperability Platform Supports Novel Use Cases",
+        "url": "https://ehrintelligence.com/news/intersystems-interoperability-platform-supports-novel-use-cases",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "October 18, 2019 - <strong>Healthcare</strong> organizations are shifting away from traditional health information exchange (HIE) <strong>platforms</strong> and instead are opting for tools that allow innovative use cases, according to a new KLAS report. KLAS interviewed four electronic health information exchange (HIE) vendors -- Intersystems, Allscripts, Health Catalyst, and Orion Health -- that are transitioning from traditional HIE <strong>platforms</strong> <strong>to</strong> <strong>interoperability</strong> ...",
+        "profile": {
+          "name": "Ehrintelligence",
+          "url": "https://ehrintelligence.com/news/intersystems-interoperability-platform-supports-novel-use-cases",
+          "long_name": "ehrintelligence.com",
+          "img": "https://imgs.search.brave.com/Gpw7oVVZGIOpY0O1jQ_WaBGKKm37wqJT3NQQs9NMK3s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWRhOGQwNWY5/NjJjYTJiZjY0NDdm/NjBhYjBlYzg0Njdj/ZGI4MTBmYWY3ODFl/M2QyMTdhY2MwMjk5/MTczM2M2MC9laHJp/bnRlbGxpZ2VuY2Uu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ehrintelligence.com",
+          "hostname": "ehrintelligence.com",
+          "favicon": "https://imgs.search.brave.com/Gpw7oVVZGIOpY0O1jQ_WaBGKKm37wqJT3NQQs9NMK3s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWRhOGQwNWY5/NjJjYTJiZjY0NDdm/NjBhYjBlYzg0Njdj/ZGI4MTBmYWY3ODFl/M2QyMTdhY2MwMjk5/MTczM2M2MC9laHJp/bnRlbGxpZ2VuY2Uu/Y29tLw",
+          "path": "› news  › intersystems-interoperability-platform-supports-novel-use-cases"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/td8gsFbX_v2E9XN9KQB8VlVoJuY0PasBYpTQXUXmPFg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9laHJp/bnRlbGxpZ2VuY2Uu/Y29tL2ltYWdlcy9z/aXRlL2FydGljbGVf/aGVhZGVycy9fbm9y/bWFsLzIwMTctMDYt/MTlfaGl0X2ludGVy/b3BlcmFiaWxpdHlf/Y29tbW9ud2VsbC5q/cGc",
+          "original": "https://ehrintelligence.com/images/site/article_headers/_normal/2017-06-19_hit_interoperability_commonwell.jpg",
+          "logo": false
+        },
+        "age": "October 18, 2019"
+      },
+      {
+        "title": "Interoperability | HealthIT.gov",
+        "url": "https://www.healthit.gov/topic/interoperability",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Trusted Exchange Framework ... <strong>interoperability</strong>; simplifies connectivity for organizations to securely exchange information to improve patient care, enhance the welfare of populations, and generate health care value; and enables individuals to gather their <strong>healthcare</strong> ...",
+        "profile": {
+          "name": "Healthit",
+          "url": "https://www.healthit.gov/topic/interoperability",
+          "long_name": "healthit.gov",
+          "img": "https://imgs.search.brave.com/qmcDQujjbs9C3lNIyRVf840-j9QW3hwnL1A93AZSopY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQ3NjYzOGNm/OTZjZjVhNzM3MDFj/YThmZmM4NWQ0ZjVj/ODRhNDI3OTQyYzRm/MDA4ZDBiYmE0ZDg2/Nzc5ODZkYS93d3cu/aGVhbHRoaXQuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthit.gov",
+          "hostname": "www.healthit.gov",
+          "favicon": "https://imgs.search.brave.com/qmcDQujjbs9C3lNIyRVf840-j9QW3hwnL1A93AZSopY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQ3NjYzOGNm/OTZjZjVhNzM3MDFj/YThmZmM4NWQ0ZjVj/ODRhNDI3OTQyYzRm/MDA4ZDBiYmE0ZDg2/Nzc5ODZkYS93d3cu/aGVhbHRoaXQuZ292/Lw",
+          "path": "› topic  › interoperability"
+        },
+        "age": "February 27, 2023"
+      },
+      {
+        "title": "Interoperability in Healthcare | HIMSS",
+        "url": "https://www.himss.org/resources/interoperability-healthcare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "These are virtual networks involving <strong>healthcare</strong> providers across Europe. They aim to facilitate discussion on complex diseases and conditions that require highly specialized treatment, providing concentrated knowledge and resources. Coordinators convene virtual advisory panels of medical specialists across different disciplines, using a dedicated IT <strong>platform</strong> and telemedicine tools. Argentina’s National <strong>Interoperability</strong> ...",
+        "profile": {
+          "name": "Himss",
+          "url": "https://www.himss.org/resources/interoperability-healthcare",
+          "long_name": "himss.org",
+          "img": "https://imgs.search.brave.com/K1NBRbrN4gpnC0H4C6ZwmfLrZ_jVWdxX9ZbJbwRI55I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY5NmY3ZjFk/MmY2NGUxMmM3MGRi/YjA3ZmVhOGM4Yjcx/NjRlZmJlNjIwNDZi/NWRjMzFkYzYwNmY4/OTQxYWM4Ni93d3cu/aGltc3Mub3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "himss.org",
+          "hostname": "www.himss.org",
+          "favicon": "https://imgs.search.brave.com/K1NBRbrN4gpnC0H4C6ZwmfLrZ_jVWdxX9ZbJbwRI55I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY5NmY3ZjFk/MmY2NGUxMmM3MGRi/YjA3ZmVhOGM4Yjcx/NjRlZmJlNjIwNDZi/NWRjMzFkYzYwNmY4/OTQxYWM4Ni93d3cu/aGltc3Mub3JnLw",
+          "path": "› resources  › interoperability-healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xQDUl6NvBBQKrxOjPn_JPgnY_staLYgU8u2VGiX_6Y8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGltc3Mub3JnL3Np/dGVzL2hkZS9maWxl/cy9tZWRpYS9pbWFn/ZS8yMDIwLzA4LzA1/L2ludGVyb3BlcmFi/aWxpdHktaW4taGVh/bHRoY2FyZS1ndWlk/ZS12Mi0xMDgweDEw/ODAucG5n",
+          "original": "https://www.himss.org/sites/hde/files/media/image/2020/08/05/interoperability-in-healthcare-guide-v2-1080x1080.png",
+          "logo": false
+        },
+        "age": "September 8, 2021",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "epalm"
+            }
+          ],
+          "date": "Aug 04, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "HIMSS",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/pwpV9hbsKMJFzpcE-3hIi5_zLiQnavusVCAc1DK1NgQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGltc3Mub3JnL3Np/dGVzL2FsbC90aGVt/ZXMvaGRlL2xvZ28u/c3Zn.svg",
+              "original": "https://www.himss.org/sites/all/themes/hde/logo.svg"
+            }
+          }
+        }
+      },
+      {
+        "title": "Interoperability and the Connected Health Care System | CMS",
+        "url": "https://www.cms.gov/blog/interoperability-and-connected-health-care-system",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The COVID-19 pandemic exposed many shortcomings in our health care system, especially the ability to quickly share and use reliable data to better understand the health needs of all people across the country. This need for more accessible data is why the Centers for Medicare &amp; Medicaid Services ...",
+        "profile": {
+          "name": "Cms",
+          "url": "https://www.cms.gov/blog/interoperability-and-connected-health-care-system",
+          "long_name": "cms.gov",
+          "img": "https://imgs.search.brave.com/_SP2OGW2-yBLKmCxYsyWPiylPnKWCxWLZuw2aTErhRA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2YzYjcyZDMw/NmQwMmJkZGRmNmNk/MjkwMjhlYWY1ODE4/ZDE1YmEwMzc5ZTRk/ZjczZjBjOTYxNzhk/ZWFhYTMwZC93d3cu/Y21zLmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cms.gov",
+          "hostname": "www.cms.gov",
+          "favicon": "https://imgs.search.brave.com/_SP2OGW2-yBLKmCxYsyWPiylPnKWCxWLZuw2aTErhRA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2YzYjcyZDMw/NmQwMmJkZGRmNmNk/MjkwMjhlYWY1ODE4/ZDE1YmEwMzc5ZTRk/ZjczZjBjOTYxNzhk/ZWFhYTMwZC93d3cu/Y21zLmdvdi8",
+          "path": "› blog  › interoperability-and-connected-health-care-system"
+        },
+        "age": "December 9, 2021"
+      },
+      {
+        "title": "Why Is Interoperability Important In Healthcare? | symplr",
+        "url": "https://www.symplr.com/blog/why-interoperability-important-in-healthcare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Healthcare</strong> <strong>interoperability</strong> can greatly enhance a <strong>healthcare</strong> organization’s risk management strategy because it enables a high-level, big-picture view of compliance. When <strong>healthcare</strong> data from disparate systems feeds into a single analytics <strong>platform</strong>, for example, <strong>healthcare</strong> organizations can ...",
+        "profile": {
+          "name": "Symplr",
+          "url": "https://www.symplr.com/blog/why-interoperability-important-in-healthcare",
+          "long_name": "symplr.com",
+          "img": "https://imgs.search.brave.com/Q824oNjo52OSHvn4fhReq3RfUFJvfxEQMaYwH51hj4s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdkNjZiODA4/ZDIyMjhhZTAwYTZm/OWFmNjQ3OWU0NTJk/ZmJlYmMxYTYyMjY4/Njc5OTRlYzU0MmJm/ZTkyMTE1MC93d3cu/c3ltcGxyLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "symplr.com",
+          "hostname": "www.symplr.com",
+          "favicon": "https://imgs.search.brave.com/Q824oNjo52OSHvn4fhReq3RfUFJvfxEQMaYwH51hj4s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdkNjZiODA4/ZDIyMjhhZTAwYTZm/OWFmNjQ3OWU0NTJk/ZmJlYmMxYTYyMjY4/Njc5OTRlYzU0MmJm/ZTkyMTE1MC93d3cu/c3ltcGxyLmNvbS8",
+          "path": "› blog  › why-interoperability-important-in-healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/cc_FXDKtCzR8Kfs5X8QflI4VUHRa4VFfA_Um9j0Tkco/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c3ltcGxyLmNvbS9o/dWJmcy9QYXJ0bmVy/cy1IZXJvLUltYWdl/XzI4ODB4MTIwMCUy/MCUyODElMjkuanBn/I2tlZXBQcm90b2Nv/bA",
+          "original": "https://www.symplr.com/hubfs/Partners-Hero-Image_2880x1200%20%281%29.jpg#keepProtocol",
+          "logo": false
+        },
+        "age": "July 5, 2022"
+      }
+    ],
+    "family_friendly": true
+  }
+}

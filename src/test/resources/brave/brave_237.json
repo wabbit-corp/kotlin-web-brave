@@ -1,0 +1,2142 @@
+{
+  "query": {
+    "original": "Recipe for making homemade gluten-free pasta",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=GZpzJ4gVkeY",
+        "title": "Easy gluten-free pasta recipe - YouTube",
+        "description": "AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new features · © 2023 Google LLC",
+        "age": "May 28, 2021",
+        "page_age": "2021-05-28T16:17:13",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/_kZJIXg1CqDHbAtqvihXMGnP1Vb3vtpHi0vxro7jkk4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9H/WnB6SjRnVmtlWS9o/cTIuanBnP3NxcD0t/b2F5bXdFb0NPQURF/T2dDOHF1S3FRTWNH/QUR3QVFINEFjNEZn/QUtBQ29vQ0RBZ0FF/QUVZTUNCUUtISXdE/dz09JmFtcDtycz1B/T240Q0xETm1kS2lj/Y2NzOTFUeVdpLUhV/eHZWQV9fVl9B"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=25nvQTYPtfo",
+        "title": "How to Make Fresh Homemade Gluten Free Pasta without a Pasta Machine ...",
+        "description": "Follow me on TikTok @DannyLovesPasta for more Pasta Videos!If you love pasta but you don’t eat gluten, watch this video. I’m gonna to show you how to make f...",
+        "age": "August 26, 2021",
+        "page_age": "2021-08-26T19:17:16",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/W29gZf8CkqERfbhczHO3Pf6QcI7wL1yCv2zUOfgfG-4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS8y/NW52UVRZUHRmby9o/cWRlZmF1bHQuanBn/P3NxcD0tb2F5bXdF/bUNPQURFT2dDOHF1/S3FRTWE4QUVCLUFI/LUhZQUM4QkNLQWd3/SUFCQUJHR1VnVENo/R01BOD0mYW1wO3Jz/PUFPbjRDTERoTzdk/TGVhalZva0xyMWdS/dk5MaWJwWU1kTVE"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=LaYzx2YcSkY",
+        "title": "How to make gluten free pasta dough - YouTube",
+        "description": "Pasta Evangelists' head pasta chef Roberta D’Elia shows you how to make fresh gluten free pasta dough. Her step-by-step guide to making the best gluten free ...",
+        "age": "June 2, 2021",
+        "page_age": "2021-06-02T16:00:16",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Fb4oKI5K1K-VBXXGzgB8GnOpNSoAgv_ofVIklbUqcJk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9M/YVl6eDJZY1NrWS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Homemade Gluten Free Pasta Recipe",
+        "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Gluten</strong> <strong>free</strong> <strong>recipes</strong> that really work for everything from bread, <strong>pasta</strong> and cakes to DIY flour blends, and appetizers. It&#x27;s all here! ... <strong>Making</strong> fresh <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> at home is a labor of love, but it&#x27;s a simple process with the right guidance. Find out how! Jump to <strong>Recipe</strong> · Learn how to <strong>make</strong> fresh <strong>homemade</strong> ...",
+        "page_age": "2022-10-30T14:55:02",
+        "profile": {
+          "name": "Glutenfreeonashoestring",
+          "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+          "long_name": "glutenfreeonashoestring.com",
+          "img": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "glutenfreeonashoestring.com",
+          "hostname": "glutenfreeonashoestring.com",
+          "favicon": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v",
+          "path": "  › home  › dinner  › homemade gluten free pasta recipe"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0gBrCVNOlAIci0sqogMjHvUPh99OcPqP6PbrqR33t1A/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTYv/MTEvc3F1YXJlLWxp/bmd1aW5lLWZvci1o/b21lcGFnZS5qcGc",
+          "original": "https://glutenfreeonashoestring.com/wp-content/uploads/2016/11/square-linguine-for-homepage.jpg",
+          "logo": false
+        },
+        "age": "October 30, 2022",
+        "video": {
+          "duration": "01:17",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/PqP7eMmAeSAKS5xt7URuLRXMQnnaIJcszcI4h3zlyuA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YXZpbmUtcmVzLmNs/b3VkaW5hcnkuY29t/L2ltYWdlL3VwbG9h/ZC9zLS10aHo2Vmg3/Si0tL2NfbGltaXQs/Zl9hdXRvLGZsX2xv/c3N5LGhfMTA4MCxx/X2F1dG8sd18xOTIw/L3YxNDc5MDU4MDE0/L2czZG11M25iem5t/cXl3aW5kcTJlLmpw/Zw",
+            "original": "https://mediavine-res.cloudinary.com/image/upload/s--thz6Vh7J--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1479058014/g3dmu3nbznmqywindq2e.jpg"
+          }
+        },
+        "faq": {
+          "items": [
+            {
+              "question": "Can you freeze gluten free pasta?",
+              "answer": "Yes, you can freeze raw pasta dough, even if you're on a gluten free diet. Wrap the unshaped dough tightly in a freezer-safe wrap like Glad Press n Seal, and freeze for up to three months. Let it thaw fully before you try to roll it.",
+              "title": "Homemade Gluten Free Pasta Recipe",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "glutenfreeonashoestring.com",
+                "hostname": "glutenfreeonashoestring.com",
+                "favicon": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v",
+                "path": "  › home  › dinner  › homemade gluten free pasta recipe"
+              }
+            },
+            {
+              "question": "Can you add flavor to gluten free pasta?",
+              "answer": "Yes, absolutely! This recipe already has a little salt in the dough, and you can add other flavorings if you want, but the easiest and best way to create flavorful pasta is to make beautiful, colorful pasta dishes.",
+              "title": "Homemade Gluten Free Pasta Recipe",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "glutenfreeonashoestring.com",
+                "hostname": "glutenfreeonashoestring.com",
+                "favicon": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v",
+                "path": "  › home  › dinner  › homemade gluten free pasta recipe"
+              }
+            },
+            {
+              "question": "Why did my pasta break?",
+              "answer": "When you're making pasta, whether you're using gf flour or conventional flour, and the dough forms but breaks, it could be for a few different reasons.<br>The most likely is that you haven't conditioned your dough enough. Pasta dough needs to be kneaded, rolled, and folded multiple times before it's ready to be rolled thin and cut.<br>It can also happen if the dough isn't hydrated enough. Perhaps the eggs you used were a little smaller than normal, for example (hence I recommend weighing the eggs out of their shells).",
+              "title": "Homemade Gluten Free Pasta Recipe",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "glutenfreeonashoestring.com",
+                "hostname": "glutenfreeonashoestring.com",
+                "favicon": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v",
+                "path": "  › home  › dinner  › homemade gluten free pasta recipe"
+              }
+            },
+            {
+              "question": "How long does gluten free pasta stay fresh?",
+              "answer": "Once cooked and refrigerated, gluten free pasta lasts up to three days. The dough, if tightly wrapped, can also last three to five days in the fridge. If you have stored your dough in the refrigerator and it feels stiff, drizzle it very lightly with some lukewarm water and knead it into the dough until it's pliable again (but not so much that it's super sticky).",
+              "title": "Homemade Gluten Free Pasta Recipe",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "glutenfreeonashoestring.com",
+                "hostname": "glutenfreeonashoestring.com",
+                "favicon": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v",
+                "path": "  › home  › dinner  › homemade gluten free pasta recipe"
+              }
+            },
+            {
+              "question": "What happens if you overcook gluten free pasta?",
+              "answer": "Don't! You'll ruin all your hard work! Cooking time is crucial for gluten free pasta. If you overcook it, even by a minute or two, it'll go gummy, sticky, or mushy. You cook this pasta for only a couple of minutes, until it's al dente.",
+              "title": "Homemade Gluten Free Pasta Recipe",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "glutenfreeonashoestring.com",
+                "hostname": "glutenfreeonashoestring.com",
+                "favicon": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v",
+                "path": "  › home  › dinner  › homemade gluten free pasta recipe"
+              }
+            },
+            {
+              "question": "Do I have to use Expandex modified tapioca starch to make this pasta?",
+              "answer": "No! Although Expandex is modified tapioca starch and it is not the same as \"regular\" tapioca starch, in this homemade gluten free pasta recipe, they can be used interchangeably. You will likely need more additional water in your homemade pasta, beyond the original 1/3 cup water, if you are using Expandex, and less if you are using tapioca starch, to achieve the same consistency of dough.",
+              "title": "Homemade Gluten Free Pasta Recipe",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "glutenfreeonashoestring.com",
+                "hostname": "glutenfreeonashoestring.com",
+                "favicon": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v",
+                "path": "  › home  › dinner  › homemade gluten free pasta recipe"
+              }
+            },
+            {
+              "question": "My all purpose gluten free flour blend already contains tapioca starch. Do I have to add more or can I leave that ingredient out?",
+              "answer": "You must add the additional tapioca starch (or Expandex) called for in the recipe. All good quality, well balanced all purpose gluten free flour blends contain tapioca starch as an ingredient. This recipe requires more than the usual amount of tapioca starch in your well-balanced blend.",
+              "title": "Homemade Gluten Free Pasta Recipe",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "glutenfreeonashoestring.com",
+                "hostname": "glutenfreeonashoestring.com",
+                "favicon": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v",
+                "path": "  › home  › dinner  › homemade gluten free pasta recipe"
+              }
+            },
+            {
+              "question": "Do I need a food processor to make homemade gluten free pasta?",
+              "answer": "No, no can make the pasta dough using a bowl and spoon, and your clean hands to knead the pasta. The way to make the smoothest dough most quickly is to use a food processor, and if you only have a mini food processor, you can make the dough in batches using that, as long as you divide the ingredients in half so you don't end up adding too much water.",
+              "title": "Homemade Gluten Free Pasta Recipe",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "glutenfreeonashoestring.com",
+                "hostname": "glutenfreeonashoestring.com",
+                "favicon": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v",
+                "path": "  › home  › dinner  › homemade gluten free pasta recipe"
+              }
+            }
+          ]
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Nicole Hunn"
+            }
+          ],
+          "date": "Oct 29, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Gluten Free on a Shoestring",
+            "url": "https://glutenfreeonashoestring.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/QqqGXsNHvFz9SmYL3LPpbeYu-ckmy2zKYHJ13xTHQdA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDgvbG9nby5zdmc.svg",
+              "original": "https://glutenfreeonashoestring.com/wp-content/uploads/2021/08/logo.svg"
+            }
+          }
+        },
+        "recipe": {
+          "title": "Homemade Gluten Free Pasta Recipe",
+          "description": "<strong>Making</strong> fresh <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> at home is a labor of love, but it&#x27;s a simple process with the right guidance. Find out how!",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/0gBrCVNOlAIci0sqogMjHvUPh99OcPqP6PbrqR33t1A/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTYv/MTEvc3F1YXJlLWxp/bmd1aW5lLWZvci1o/b21lcGFnZS5qcGc",
+            "original": "https://glutenfreeonashoestring.com/wp-content/uploads/2016/11/square-linguine-for-homepage.jpg"
+          },
+          "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/",
+          "domain": "glutenfreeonashoestring.com",
+          "favicon": "https://imgs.search.brave.com/R7q60VyJ2ocggVCYaKm-ji7XWCDOBQSBAWfrTk8-zE4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGZhZTg5MzMw/ODlhY2RmYjFhZjE1/MmIxN2Q2YzdmZjQz/ODhhNTVhYzMyYTZj/MDZiYTQ0ZjI1MmJm/YjE3MGRiYS9nbHV0/ZW5mcmVlb25hc2hv/ZXN0cmluZy5jb20v",
+          "time": "50:00",
+          "prep_time": "45:00",
+          "cook_time": "05:00",
+          "ingredients": "2 cups all purpose gluten free flour blend ((I like Better Batter here; click through for details) plus more for dusting), 1 teaspoon xanthan gum (omit if your blend already contains it), 5 tablespoons Expandex modified tapioca starch ( (or replace with an equal amount of tapioca starch) (See Recipe Notes)), 1/2 teaspoon kosher salt, 2  eggs (at room temperature, beaten), 2  egg yolks (at room temperature, beaten), 1 tablespoon extra virgin olive oil, 1/3 cup warm water (plus more, as necessary)",
+          "instructions": [
+            {
+              "text": "In the bowl of a food processor fitted with the steel blade, place the flour, xanthan gum, Expandex (or tapioca starch), salt, olive oil, eggs and egg yolks, and pulse until combined.",
+              "name": "In the bowl of a food processor fitted with the steel blade, place the flour, xanthan gum, Expandex (or tapioca starch), salt, olive oil, eggs and egg yolks, and pulse until combined.",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/#wprm-recipe-44935-step-0-0",
+              "image": []
+            },
+            {
+              "text": "Add 1/3 cup water to the mixture in the food processor, and process until the dough is moistened.",
+              "name": "Add 1/3 cup water to the mixture in the food processor, and process until the dough is moistened.",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/#wprm-recipe-44935-step-0-1",
+              "image": []
+            },
+            {
+              "text": "Turn on the food processor on low speed, remove the hopper and add more water very slowly until the dough clumps to one side of the food processor.",
+              "name": "Turn on the food processor on low speed, remove the hopper and add more water very slowly until the dough clumps to one side of the food processor.",
+              "url": "https://glutenfreeonashoestring.com/gluten-free-pasta-recipe/#wprm-recipe-44935-step-0-2",
+              "image": []
+            }
+          ],
+          "servings": 1,
+          "publisher": "Nicole Hunn",
+          "rating": {
+            "ratingValue": 5.0,
+            "bestRating": 5.0,
+            "reviewCount": 148,
+            "is_tripadvisor": false
+          },
+          "recipeCategory": "Dinner,Dough",
+          "recipeCuisine": "Italian",
+          "video": {
+            "duration": "01:17",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/PqP7eMmAeSAKS5xt7URuLRXMQnnaIJcszcI4h3zlyuA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YXZpbmUtcmVzLmNs/b3VkaW5hcnkuY29t/L2ltYWdlL3VwbG9h/ZC9zLS10aHo2Vmg3/Si0tL2NfbGltaXQs/Zl9hdXRvLGZsX2xv/c3N5LGhfMTA4MCxx/X2F1dG8sd18xOTIw/L3YxNDc5MDU4MDE0/L2czZG11M25iem5t/cXl3aW5kcTJlLmpw/Zw",
+              "original": "https://mediavine-res.cloudinary.com/image/upload/s--thz6Vh7J--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1479058014/g3dmu3nbznmqywindq2e.jpg"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Gluten free recipes that really work for everything from bread, pasta and cakes to DIY flour blends, and appetizers. It's all here! ... Making fresh gluten free pasta at home is a labor of love, but it's a simple process with the right guidance. Find out how! Jump to Recipe · Learn how to make fresh homemade gluten free pasta with the simplest gf pantry ingredients, without a pasta maker or any special equipment (unless you want to use it!). Serve it with all your favorite pasta dishes!",
+          "The first time I shared a recipe for homemade gluten free pasta here on the blog was in 2009. I was concerned that I was creating unrealistic expectations for my children.  · It was one of the first times that my son made the connection between scratch cooking and, well, cooking not-from-scratch. He was 5 at the time. My kids see me boiling store-bought dried pasta all the time. No biggie. But when they first saw me make fresh pasta, my son started thinking.",
+          "You cook this pasta for only a couple of minutes, until it's al dente. Do I have to use Expandex modified tapioca starch to make this pasta? No! Although Expandex is modified tapioca starch and it is not the same as “regular” tapioca starch, in this homemade gluten free pasta recipe, they can be used interchangeably.",
+          "You must add the additional tapioca starch (or Expandex) called for in the recipe. All good quality, well balanced all purpose gluten free flour blends contain tapioca starch as an ingredient. This recipe requires more than the usual amount of tapioca starch in your well-balanced blend. Do I need a food processor to make homemade gluten free pasta?"
+        ]
+      },
+      {
+        "title": "Homemade 3-Ingredient Gluten Free Pasta - The Loopy Whisk",
+        "url": "https://theloopywhisk.com/2018/02/23/homemade-3-ingredient-gluten-free-pasta-recipe/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A simple and reliable 3-ingredient <strong>homemade</strong> <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> <strong>recipe</strong>. Once you’ve tasted this <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> from scratch, you’ll never go back to the store-bought stuff. The <strong>recipe</strong> <strong>makes</strong> 4 x 2 1/2 oz (70 g) nests of <strong>gluten</strong> <strong>free</strong> tagliatelle, which should feed 2 - 4 people, depending ...",
+        "page_age": "2018-02-23T22:14:13",
+        "profile": {
+          "name": "The Loopy Whisk",
+          "url": "https://theloopywhisk.com/2018/02/23/homemade-3-ingredient-gluten-free-pasta-recipe/",
+          "long_name": "theloopywhisk.com",
+          "img": "https://imgs.search.brave.com/ZVwWZQOxmYEqoI7mapCdiHXyaPnmD8rUSXS9K8s8Dkk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2JkYmU4ZmY4/YmM4Njg2NDhmY2Y1/NzRlNWI5ZjNmMWFm/N2E1YjIwOWYyYzY0/ZWE0Yjk4ZjVlNjQ5/MTM0OTM2ZC90aGVs/b29weXdoaXNrLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "theloopywhisk.com",
+          "hostname": "theloopywhisk.com",
+          "favicon": "https://imgs.search.brave.com/ZVwWZQOxmYEqoI7mapCdiHXyaPnmD8rUSXS9K8s8Dkk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2JkYmU4ZmY4/YmM4Njg2NDhmY2Y1/NzRlNWI5ZjNmMWFm/N2E1YjIwOWYyYzY0/ZWE0Yjk4ZjVlNjQ5/MTM0OTM2ZC90aGVs/b29weXdoaXNrLmNv/bS8",
+          "path": "  › home  › how to make homemade gluten free pasta"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/-GM4vLuY9xqFxNyl0qi8b7XlpImj7fkGHGKhbQ0O-lc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly90aGVs/b29weXdoaXNrLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wMi9HbHV0ZW4t/RnJlZS1QYXN0YV82/NjNweC1mZWF0dXJl/ZC1ORVcxLmpwZw",
+          "original": "https://theloopywhisk.com/wp-content/uploads/2018/02/Gluten-Free-Pasta_663px-featured-NEW1.jpg",
+          "logo": false
+        },
+        "age": "February 23, 2018",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Kat"
+            }
+          ],
+          "date": "Feb 23, 2018",
+          "publisher": {
+            "type": "organization",
+            "name": "The Loopy Whisk",
+            "url": "https://theloopywhisk.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/0lyl7UV9p5w2kEUM8SZlWN55e740irJGfapsOozEkRg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly90aGVs/b29weXdoaXNrLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8xMC9jcm9wcGVk/LXRoZWxvb3B5d2hp/c2staWNvbi0wMy5w/bmc",
+              "original": "https://theloopywhisk.com/wp-content/uploads/2021/10/cropped-theloopywhisk-icon-03.png"
+            }
+          }
+        },
+        "recipe": {
+          "title": "Homemade Gluten Free Pasta (Gluten & Dairy Free)",
+          "description": "A simple and reliable 3-ingredient homemade gluten free pasta recipe. Once you’ve tasted this gluten free pasta from scratch, you’ll never go back to the store-bought stuff.The recipe makes 4 x 2 1/2 oz (70 g) nests of gluten free tagliatelle, which should feed 2 - 4 people, depending on how hungry they are.The process described below focuses on using a pasta machine to make your gluten free pasta – but if you don&#x27;t have one, you can easily replicate the process with a rolling pin and a bit of elbow grease.NOTE: Have a look at the step-by-step pictures in the post for more details! I also go m",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/-GM4vLuY9xqFxNyl0qi8b7XlpImj7fkGHGKhbQ0O-lc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly90aGVs/b29weXdoaXNrLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wMi9HbHV0ZW4t/RnJlZS1QYXN0YV82/NjNweC1mZWF0dXJl/ZC1ORVcxLmpwZw",
+            "original": "https://theloopywhisk.com/wp-content/uploads/2018/02/Gluten-Free-Pasta_663px-featured-NEW1.jpg"
+          },
+          "url": "https://theloopywhisk.com/2018/02/23/homemade-3-ingredient-gluten-free-pasta-recipe/",
+          "domain": "theloopywhisk.com",
+          "favicon": "https://imgs.search.brave.com/ZVwWZQOxmYEqoI7mapCdiHXyaPnmD8rUSXS9K8s8Dkk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2JkYmU4ZmY4/YmM4Njg2NDhmY2Y1/NzRlNWI5ZjNmMWFm/N2E1YjIwOWYyYzY0/ZWE0Yjk4ZjVlNjQ5/MTM0OTM2ZC90aGVs/b29weXdoaXNrLmNv/bS8",
+          "time": "35:00",
+          "prep_time": "30:00",
+          "cook_time": "05:00",
+          "ingredients": "1 2/3 cups (200 g) gluten free flour, plus extra for kneading + dusting ((Note 1)), 1 tsp xanthan gum, 3  medium eggs ((Note 2))",
+          "instructions": [
+            {
+              "text": "In a bowl, mix together the gluten free flour and xanthan gum until evenly distributed. ",
+              "name": "In a bowl, mix together the gluten free flour and xanthan gum until evenly distributed. ",
+              "url": "https://theloopywhisk.com/2018/02/23/homemade-3-ingredient-gluten-free-pasta-recipe/#wprm-recipe-3057-step-0-0",
+              "image": []
+            },
+            {
+              "text": "Make a well in the middle of the flour + xanthan mixture and crack in the eggs. Scramble the eggs slightly and start mixing in the flour + xanthan mixture. Eventually, you will end up with a slightly sticky pasta dough.If the dough doesn't come together in a ball and feels crumbly or dry (this can happen if you use a different gluten free flour blend from the one recommended in the recipe), you can add another egg at this point. If, on the other hand, the dough feels too wet or soft, you can add a small amount of additional flour.",
+              "name": "Make a well in the middle of the flour + xanthan mixture and crack in the eggs. Scramble the eggs slightly and start mixing in the flour + xanthan mixture. Eventually, you will end up with a slightly sticky pasta dough.If the dough doesn't come together in a ball and feels crumbly or dry (this can happen if you use a different gluten free flour blend from the one recommended in the recipe), you can add another egg at this point. If, on the other hand, the dough feels too wet or soft, you can add a small amount of additional flour.",
+              "url": "https://theloopywhisk.com/2018/02/23/homemade-3-ingredient-gluten-free-pasta-recipe/#wprm-recipe-3057-step-0-1",
+              "image": []
+            },
+            {
+              "text": "Turn the pasta dough onto a generously floured surface and knead it for 2 - 3 minutes, until you get a smooth ball of pasta dough.Because this is a gluten free pasta dough, there’s no gluten to stretch and “activate”, but kneading ensures a smooth dough with no flour clumps.",
+              "name": "Turn the pasta dough onto a generously floured surface and knead it for 2 - 3 minutes, until you get a smooth ball of pasta dough.Because this is a gluten free pasta dough, there’s no gluten to stretch and “activate”, but kneading ensures a smooth dough with no flour clumps.",
+              "url": "https://theloopywhisk.com/2018/02/23/homemade-3-ingredient-gluten-free-pasta-recipe/#wprm-recipe-3057-step-0-2",
+              "image": []
+            }
+          ],
+          "servings": 4,
+          "publisher": "Kat",
+          "rating": {
+            "ratingValue": 5.0,
+            "bestRating": 5.0,
+            "reviewCount": 68,
+            "is_tripadvisor": false
+          },
+          "recipeCategory": "Lunch or dinner",
+          "recipeCuisine": "Gluten Free"
+        },
+        "extra_snippets": [
+          "A simple and reliable 3-ingredient homemade gluten free pasta recipe. Once you’ve tasted this gluten free pasta from scratch, you’ll never go back to the store-bought stuff. The recipe makes 4 x 2 1/2 oz (70 g) nests of gluten free tagliatelle, which should feed 2 - 4 people, depending on how hungry they are.",
+          "A simple and reliable 3-ingredient homemade gluten free pasta recipe. Once you’ve tasted this gluten free pasta made from scratch, you’ll never go back to the store-bought stuff. Perfect for a variety of gluten free lunch or dinner recipes!",
+          "So last weekend, I decided to tackle the mystery that is gluten free pasta. And as I browsed recipe after recipe, I wasn’t impressed. 7 ingredients or more, mixing your own gluten free flour blend… no thank you. I don’t want to have to buy rice, maize, potato, arrowroot and whateverelse flour and mix them together to make my own blend.",
+          "The amount of ingredients in the recipe below makes 4 “nests” of tagliatelle-like gluten free pasta, so we’ll cut the dough into four evenly sized pieces. If you want to be extra precise, feel free to weigh the pieces to get them to the same weight."
+        ]
+      },
+      {
+        "title": "Easy Homemade Gluten Free Pasta Recipe",
+        "url": "https://www.bobsredmill.com/recipes/how-to-make/pasta-gluten-free/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "At Bob&#x27;s Red Mill, we know that you can&#x27;t rush quality. That&#x27;s why we manufacture our products using time-honored techniques, like grinding whole grains at cool temperatures with a traditional stone mill. This production &#x27;secret&#x27; allows us to seal in the freshness and bring you wholesome, quality ...",
+        "page_age": "2019-05-14T00:00:00",
+        "profile": {
+          "name": "Bobsredmill",
+          "url": "https://www.bobsredmill.com/recipes/how-to-make/pasta-gluten-free/",
+          "long_name": "bobsredmill.com",
+          "img": "https://imgs.search.brave.com/Ic_VCxGyjHF16vskTB2gZPswAwkU8i2lonD-xkjIYhA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU5NTM3NzA2/NWUwOGFkNTBhNzkx/MTIzOTRkOTcxZmY2/NmMwZTNmMzY2YmEw/YmEyNjY0YmE3M2Fi/MTUzNGY5YS93d3cu/Ym9ic3JlZG1pbGwu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bobsredmill.com",
+          "hostname": "www.bobsredmill.com",
+          "favicon": "https://imgs.search.brave.com/Ic_VCxGyjHF16vskTB2gZPswAwkU8i2lonD-xkjIYhA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU5NTM3NzA2/NWUwOGFkNTBhNzkx/MTIzOTRkOTcxZmY2/NmMwZTNmMzY2YmEw/YmEyNjY0YmE3M2Fi/MTUzNGY5YS93d3cu/Ym9ic3JlZG1pbGwu/Y29tLw",
+          "path": "› recipes  › how-to-make  › pasta-gluten-free"
+        },
+        "age": "May 14, 2019",
+        "extra_snippets": [
+          "At Bob's Red Mill, we know that you can't rush quality. That's why we manufacture our products using time-honored techniques, like grinding whole grains at cool temperatures with a traditional stone mill. This production 'secret' allows us to seal in the freshness and bring you wholesome, quality foods, just as nature intended."
+        ]
+      },
+      {
+        "title": "Gluten-Free Pasta Recipe | King Arthur Baking",
+        "url": "https://www.kingarthurbaking.com/recipes/gluten-free-pasta-recipe",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "To cook the pasta: <strong>Boil 4 quarts water with 1 tablespoon salt.</strong> Add pasta and cook for 2 to 4 minutes, until the pasta is still slightly firm. Fresh pasta cooks very quickly, so keep an eye on it. Drain and toss with a bit of sauce or oil.",
+        "page_age": "2015-08-05T00:00:00",
+        "profile": {
+          "name": "King Arthur Baking",
+          "url": "https://www.kingarthurbaking.com/recipes/gluten-free-pasta-recipe",
+          "long_name": "kingarthurbaking.com",
+          "img": "https://imgs.search.brave.com/b2AoNk9X3rdrACDixG6BR_ntNR2k4azM3STyXeCvqQo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VhZTQyMWRj/MGExZGE2MzMzN2Y2/M2RiNTg4YmFiYWM2/MmI0MDI0ZGQzMzQ3/YTc2MGMwYjY1NDVm/M2Q5YTU0ZC93d3cu/a2luZ2FydGh1cmJh/a2luZy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "kingarthurbaking.com",
+          "hostname": "www.kingarthurbaking.com",
+          "favicon": "https://imgs.search.brave.com/b2AoNk9X3rdrACDixG6BR_ntNR2k4azM3STyXeCvqQo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VhZTQyMWRj/MGExZGE2MzMzN2Y2/M2RiNTg4YmFiYWM2/MmI0MDI0ZGQzMzQ3/YTc2MGMwYjY1NDVm/M2Q5YTU0ZC93d3cu/a2luZ2FydGh1cmJh/a2luZy5jb20v",
+          "path": "› recipes  › gluten-free-pasta-recipe"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/FABmQP2F6rxUr2NjSnaVlBfMVpiJAVgj_-JCLJpcnYA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/a2luZ2FydGh1cmJh/a2luZy5jb20vc2l0/ZXMvZGVmYXVsdC9m/aWxlcy8yMDIwLTA1/L2dsdXRlbi1mcmVl/LXBhc3RhLmpwZw",
+          "original": "https://www.kingarthurbaking.com/sites/default/files/2020-05/gluten-free-pasta.jpg",
+          "logo": false
+        },
+        "age": "August 5, 2015",
+        "recipe": {
+          "title": "Gluten-Free Pasta",
+          "description": "Whether you want to cut and layer these noodles in a lasagna, <strong>make</strong> a filled ravioli, or cut out fun shapes for your kids, you&#x27;ll love the way this <strong>pasta</strong> cooks to al dente perfection in just under 5 minutes. Amaze yourself with the ease of throwing this dough together and <strong>making</strong> your favorite <strong>pasta</strong> creation anytime.",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/FABmQP2F6rxUr2NjSnaVlBfMVpiJAVgj_-JCLJpcnYA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/a2luZ2FydGh1cmJh/a2luZy5jb20vc2l0/ZXMvZGVmYXVsdC9m/aWxlcy8yMDIwLTA1/L2dsdXRlbi1mcmVl/LXBhc3RhLmpwZw",
+            "original": "https://www.kingarthurbaking.com/sites/default/files/2020-05/gluten-free-pasta.jpg"
+          },
+          "url": "https://www.kingarthurbaking.com/recipes/gluten-free-pasta-recipe",
+          "domain": "kingarthurbaking.com",
+          "favicon": "https://imgs.search.brave.com/b2AoNk9X3rdrACDixG6BR_ntNR2k4azM3STyXeCvqQo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VhZTQyMWRj/MGExZGE2MzMzN2Y2/M2RiNTg4YmFiYWM2/MmI0MDI0ZGQzMzQ3/YTc2MGMwYjY1NDVm/M2Q5YTU0ZC93d3cu/a2luZ2FydGh1cmJh/a2luZy5jb20v",
+          "time": "22:00",
+          "prep_time": "20:00",
+          "cook_time": "04:00",
+          "ingredients": "1 1/4 cups (184g) King Arthur Gluten-Free All-Purpose Flour, 2 teaspoons xanthan gum, 4 large egg yolks, 1 large egg, 2 to 4 tablespoons (43g to 71g) water",
+          "instructions": [
+            {
+              "text": "Place the flour blend and xanthan gum in a food processor, bread machine, or bowl., Add the egg yolks and egg and mix, then knead, adding only enough water to form a smooth dough., Form the dough into a rectangle about 1\" thick, wrap well, and let rest at room temperature for 30 minutes., After 30 minutes, flour both sides of the dough. Using a rolling pin, roll the dough to the desired thickness, keeping both sides of the dough well floured. Cut it into shapes, tossing with flour to prevent sticking., To cook the pasta: Boil 4 quarts water with 1 tablespoon salt. Add pasta and cook for 2 to 4 minutes, until the pasta is still slightly firm. Fresh pasta cooks very quickly, so keep an eye on it. Drain and toss with a bit of sauce or oil.",
+              "image": []
+            }
+          ],
+          "servings": 4,
+          "publisher": "King Arthur Baking",
+          "rating": {
+            "ratingValue": 4.6,
+            "bestRating": 5.0,
+            "reviewCount": 31,
+            "is_tripadvisor": false
+          }
+        },
+        "extra_snippets": [
+          "For thinly rolled pasta, we recommend going with the shorter cooking time. If you roll pasta more thickly, the longer time is preferred. Be aware: some of your baking ingredients can be a hidden source of gluten. Learn more at our blog post: For gluten-free baking, think beyond just flour.",
+          "Whether you want to cut and layer these noodles in a lasagna, make a filled ravioli, or cut out fun shapes for your kids, you'll love the way this pasta cooks to al dente perfection in just under 5 minutes. Amaze yourself with the ease of throwing this dough together and making your favorite pasta creation anytime.",
+          "To cook the pasta: Boil 4 quarts water with 1 tablespoon salt. Add pasta and cook for 2 to 4 minutes, until the pasta is still slightly firm. Fresh pasta cooks very quickly, so keep an eye on it. Drain and toss with a bit of sauce or oil."
+        ]
+      },
+      {
+        "title": "Best Homemade Gluten Free Pasta Recipe - How to Make Gluten Free Pasta",
+        "url": "https://www.delish.com/cooking/recipe-ideas/a55824/best-gluten-free-pasta-recipe/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "You can <strong>make</strong> amazing <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> from scratch, and it&#x27;s not even hard! Below, check out our FAQs, then go forward and <strong>make</strong> the greatest GF <strong>pasta</strong> of all time. ... We&#x27;re partial to Cup4Cup, but feel <strong>free</strong> to go with your favorite. Whatever it is, just <strong>makes</strong> sure it&#x27;s a complete flour substitute. (That means that you can sub it in for normal flour in any given <strong>recipe</strong> ...",
+        "page_age": "2018-11-21T19:46:00",
+        "profile": {
+          "name": "Delish",
+          "url": "https://www.delish.com/cooking/recipe-ideas/a55824/best-gluten-free-pasta-recipe/",
+          "long_name": "delish.com",
+          "img": "https://imgs.search.brave.com/ZdRW5gLbzld7Z1X9U1gVHXKP2NyB8MVsmBH_kq0QI38/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTE1ODhlZGY2/ZDkwOGNjYzVmNGIx/NjRjZmI5N2RkYzQ3/ZTk3YTk5NzRkNjc0/YjJkZGMwZjg5NDdl/MzBjZDdmMC93d3cu/ZGVsaXNoLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "delish.com",
+          "hostname": "www.delish.com",
+          "favicon": "https://imgs.search.brave.com/ZdRW5gLbzld7Z1X9U1gVHXKP2NyB8MVsmBH_kq0QI38/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTE1ODhlZGY2/ZDkwOGNjYzVmNGIx/NjRjZmI5N2RkYzQ3/ZTk3YTk5NzRkNjc0/YjJkZGMwZjg5NDdl/MzBjZDdmMC93d3cu/ZGVsaXNoLmNvbS8",
+          "path": "  › meals & cooking  › recipe headquarters  › best-ever gluten-free pasta"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/_eekDtFD_Lmr6qWorpYk-OHeNkErIeaHniD_QrJaXa0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9kZWxp/c2gtZ2x1dGVuLWZy/ZWUtcGFzdGEtMDg1/LTE1NDI4MjkxNDQu/anBnP2Nyb3A9MC42/Njh4dzoxLjAweGg7/MC4wODk0eHcsMCZy/ZXNpemU9MTIwMDoq",
+          "original": "https://hips.hearstapps.com/hmg-prod/images/delish-gluten-free-pasta-085-1542829144.jpg?crop=0.668xw:1.00xh;0.0894xw,0&resize=1200:*",
+          "logo": false
+        },
+        "age": "November 21, 2018",
+        "video": {
+          "duration": "03:01",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/0Oo7TI9dF03KEpR9DOTeS7M8WigzvaQGY9YTHXp6-zk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9kZWxp/c2gtZ2x1dGVuLWZy/ZWUtcGllLWNydXN0/LWhvcml6b250YWwt/MS0xNTM5ODgxNTkz/LmpwZz9jcm9wPTAu/OTA1eHc6MC43NjR4/aDswLjA2NDF4dyww/LjE2MXho",
+            "original": "https://hips.hearstapps.com/hmg-prod/images/delish-gluten-free-pie-crust-horizontal-1-1539881593.jpg?crop=0.905xw:0.764xh;0.0641xw,0.161xh"
+          }
+        },
+        "recipe": {
+          "title": "Best-Ever Gluten-Free Pasta",
+          "description": "This delicious <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> from Delish.com will <strong>gluten</strong>-<strong>free</strong> dieters SO happy.",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/_eekDtFD_Lmr6qWorpYk-OHeNkErIeaHniD_QrJaXa0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9kZWxp/c2gtZ2x1dGVuLWZy/ZWUtcGFzdGEtMDg1/LTE1NDI4MjkxNDQu/anBnP2Nyb3A9MC42/Njh4dzoxLjAweGg7/MC4wODk0eHcsMCZy/ZXNpemU9MTIwMDoq",
+            "original": "https://hips.hearstapps.com/hmg-prod/images/delish-gluten-free-pasta-085-1542829144.jpg?crop=0.668xw:1.00xh;0.0894xw,0&resize=1200:*"
+          },
+          "url": "https://www.delish.com/cooking/recipe-ideas/a55824/best-gluten-free-pasta-recipe/",
+          "domain": "delish.com",
+          "favicon": "https://imgs.search.brave.com/ZdRW5gLbzld7Z1X9U1gVHXKP2NyB8MVsmBH_kq0QI38/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTE1ODhlZGY2/ZDkwOGNjYzVmNGIx/NjRjZmI5N2RkYzQ3/ZTk3YTk5NzRkNjc0/YjJkZGMwZjg5NDdl/MzBjZDdmMC93d3cu/ZGVsaXNoLmNvbS8",
+          "time": "30:00",
+          "prep_time": "30:00",
+          "cook_time": "00:00",
+          "ingredients": "2 1/3 c. gluten-free flour, such as Cup4Cup, 2 tsp. xanthan gum, 1 tsp. kosher salt, 5 large eggs",
+          "instructions": [
+            {
+              "text": "In a large bowl, whisk together gluten-free flour, xanthan gum, and salt. ",
+              "image": []
+            },
+            {
+              "text": "Make a large well in the center of your flour mixture and add eggs. Using a fork, beat eggs until mixed, then slowly integrate flour into eggs until no dry flour is left and a ball of dough has formed. (You may have to switch from a fork to your hands near the end of the mixing process.)",
+              "image": []
+            },
+            {
+              "text": "Turn dough out onto a lightly floured surface and knead until smooth, 2 to 3 minutes.",
+              "image": []
+            },
+            {
+              "text": "Cut dough into quarters and wrap all but one in plastic wrap. On a lightly floured surface, roll uncovered dough into a long rectangle about 1/4” thick. Set pasta maker to widest setting and pass the rolled out dough through 2 times. Fold the short ends of the dough to meet in the center of the rectangle, then fold in half so that the dough is in quarters. Roll out again to the dough is 1/4” thick, then pass through pasta maker 2 more times.",
+              "image": []
+            },
+            {
+              "text": "Adjust pasta maker to be 1 degree more narrow and repeat process. Continue rolling, folding, and adjusting until desired thickness is reached. Dough should be slightly translucent.",
+              "image": []
+            },
+            {
+              "text": "Place rolled out dough onto a lightly floured surface and dust with more flour. Repeat process with remaining dough quarters. ",
+              "image": []
+            },
+            {
+              "text": "Adjust pasta maker to desired width of noodles and feed dough through machine. Divide noodles into equally sized portions and curl into nests. Place on a parchment lined baking sheet and cover with a clean kitchen towel until ready to cook.",
+              "image": []
+            },
+            {
+              "text": "To cook: bring a large pot of salted water to a boil and add pasta. Boil, stirring gently with a wooden spoon, until tender, 2 to 3 minutes. ",
+              "image": []
+            },
+            {
+              "text": "Drain and serve with your favorite pasta sauce.",
+              "image": []
+            }
+          ],
+          "servings": 8,
+          "calories": 1395,
+          "publisher": "Lena Abraham",
+          "rating": {
+            "ratingValue": 4.2,
+            "bestRating": 5.0,
+            "reviewCount": 14,
+            "is_tripadvisor": false
+          },
+          "recipeCategory": "gluten-free,low-carb,dinner",
+          "recipeCuisine": "American,Italian",
+          "video": {
+            "duration": "03:01",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/0Oo7TI9dF03KEpR9DOTeS7M8WigzvaQGY9YTHXp6-zk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9kZWxp/c2gtZ2x1dGVuLWZy/ZWUtcGllLWNydXN0/LWhvcml6b250YWwt/MS0xNTM5ODgxNTkz/LmpwZz9jcm9wPTAu/OTA1eHc6MC43NjR4/aDswLjA2NDF4dyww/LjE2MXho",
+              "original": "https://hips.hearstapps.com/hmg-prod/images/delish-gluten-free-pie-crust-horizontal-1-1539881593.jpg?crop=0.905xw:0.764xh;0.0641xw,0.161xh"
+            }
+          }
+        },
+        "extra_snippets": [
+          "You can make amazing gluten-free pasta from scratch, and it's not even hard! Below, check out our FAQs, then go forward and make the greatest GF pasta of all time. ... We're partial to Cup4Cup, but feel free to go with your favorite. Whatever it is, just makes sure it's a complete flour substitute. (That means that you can sub it in for normal flour in any given recipe without adjusting any of the ingredients.)",
+          "Xanthan gum plays a crucial role in this, and many other, gluten-free recipes. Made by mixing fermented sugars, it's used as a stabilizer in many foods. In this case, it subs in for gluten, making your pasta dough flexible and elastic instead of dry and crumbly.",
+          "This delicious gluten-free pasta from Delish.com will gluten-free dieters SO happy.",
+          "Yes, it's TRUE! You can make amazing gluten-free pasta from scratch, and it's not even hard! Below, check out our FAQs, then go forward and make the greatest GF pasta of all time."
+        ]
+      },
+      {
+        "title": "Easy Handmade Gluten-Free Pasta Recipe (3 Ingredients)",
+        "url": "https://www.glutenfreepalate.com/homemade-gluten-free-pasta/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Did you <strong>make</strong> <strong>this</strong> <strong>homemade</strong> <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> <strong>recipe</strong>? Let us know how it went in the comments below.",
+        "page_age": "2023-07-12T00:00:00",
+        "profile": {
+          "name": "Wendy Stoltz",
+          "url": "https://www.glutenfreepalate.com/homemade-gluten-free-pasta/",
+          "long_name": "glutenfreepalate.com",
+          "img": "https://imgs.search.brave.com/VkBx7QOnlkH5Brw0aLEs8Cm2GbjZm8T54zidD4LUJgo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGYxNDBiOTgx/ZGM5NzBiMmYwMGMy/MDUyMTE1ZWExYzU4/MDkwNzA0NTFhMWQ3/NjA2YjlkOTM2Nzdh/NjY3ZTk3OC93d3cu/Z2x1dGVuZnJlZXBh/bGF0ZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "glutenfreepalate.com",
+          "hostname": "www.glutenfreepalate.com",
+          "favicon": "https://imgs.search.brave.com/VkBx7QOnlkH5Brw0aLEs8Cm2GbjZm8T54zidD4LUJgo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGYxNDBiOTgx/ZGM5NzBiMmYwMGMy/MDUyMTE1ZWExYzU4/MDkwNzA0NTFhMWQ3/NjA2YjlkOTM2Nzdh/NjY3ZTk3OC93d3cu/Z2x1dGVuZnJlZXBh/bGF0ZS5jb20v",
+          "path": "› homemade-gluten-free-pasta"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6Y8c38fx5eG-Cw6vW8GkPe9abr0EMUlCuHQUnatNf_M/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Z2x1dGVuZnJlZXBh/bGF0ZS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMDgv/RFNDMDE0NDktbWlu/LXNjYWxlZC03MjB4/NzIwLmpwZw",
+          "original": "https://www.glutenfreepalate.com/wp-content/uploads/2022/08/DSC01449-min-scaled-720x720.jpg",
+          "logo": false
+        },
+        "age": "July 12, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Wendy Stoltz",
+              "url": "https://www.glutenfreepalate.com/author/wendy/",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/IxX_MhB_WyK3OTpHYY1Dw2-gVSEspSr3-3HQ_6do9uo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Z2x1dGVuZnJlZXBh/bGF0ZS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMDkv/Q29weS1vZi1nZnAt/cGljcy5wbmc",
+                "original": "https://www.glutenfreepalate.com/wp-content/uploads/2022/09/Copy-of-gfp-pics.png"
+              }
+            },
+            {
+              "type": "person",
+              "name": "Gusti Ayu Wahyuni Mertawati",
+              "url": "https://www.glutenfreepalate.com/author/gusti-ayu-wahyuni-mertawati/",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/jXvB58fH3lK099eanVG7PuaWV84ysEnLQsTnoXJ1VsI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Z2x1dGVuZnJlZXBh/bGF0ZS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjMvMDIv/R3VzdGktQXl1LVdh/aHl1bmktTWVydGF3/YXRpLS5wbmc",
+                "original": "https://www.glutenfreepalate.com/wp-content/uploads/2023/02/Gusti-Ayu-Wahyuni-Mertawati-.png"
+              }
+            }
+          ],
+          "date": "Aug 08, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Wendy Stoltz",
+            "url": "https://www.glutenfreepalate.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/IxX_MhB_WyK3OTpHYY1Dw2-gVSEspSr3-3HQ_6do9uo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Z2x1dGVuZnJlZXBh/bGF0ZS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMDkv/Q29weS1vZi1nZnAt/cGljcy5wbmc",
+              "original": "https://www.glutenfreepalate.com/wp-content/uploads/2022/09/Copy-of-gfp-pics.png"
+            }
+          }
+        },
+        "recipe": {
+          "title": "Easy Homemade Gluten-Free Pasta Recipe",
+          "description": "Get your 3 ingredients ready for this super easy <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> <strong>recipe</strong>. You don’t even need a <strong>pasta</strong> machine and your <strong>gluten</strong>-<strong>free</strong> noodles will be ready in just under 20 minutes. Once you’ve tried fresh <strong>pasta</strong>, you’ll never buy store-bought again!",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/6Y8c38fx5eG-Cw6vW8GkPe9abr0EMUlCuHQUnatNf_M/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Z2x1dGVuZnJlZXBh/bGF0ZS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMDgv/RFNDMDE0NDktbWlu/LXNjYWxlZC03MjB4/NzIwLmpwZw",
+            "original": "https://www.glutenfreepalate.com/wp-content/uploads/2022/08/DSC01449-min-scaled-720x720.jpg"
+          },
+          "url": "https://www.glutenfreepalate.com/homemade-gluten-free-pasta/",
+          "domain": "glutenfreepalate.com",
+          "favicon": "https://imgs.search.brave.com/VkBx7QOnlkH5Brw0aLEs8Cm2GbjZm8T54zidD4LUJgo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGYxNDBiOTgx/ZGM5NzBiMmYwMGMy/MDUyMTE1ZWExYzU4/MDkwNzA0NTFhMWQ3/NjA2YjlkOTM2Nzdh/NjY3ZTk3OC93d3cu/Z2x1dGVuZnJlZXBh/bGF0ZS5jb20v",
+          "time": "15:00",
+          "prep_time": "10:00",
+          "cook_time": "05:00",
+          "ingredients": "1 ½ cups all-purpose gluten-free flour, 2 teaspoons xanthan gum (only if your flour doesn't contain it), 3 large eggs",
+          "instructions": [
+            {
+              "text": "In a large bowl mix the flour with the xanthan gum, if using.",
+              "name": "In a large bowl mix the flour with...",
+              "url": "https://www.glutenfreepalate.com/homemade-gluten-free-pasta/#mv_create_447_1",
+              "image": []
+            },
+            {
+              "text": "Make a well in the middle of the flour and add the eggs. Mix well using a fork until all the ingredients are combined and you have a slightly sticky pasta dough. If the dough feels too dry you can add one more egg or a couple of tablespoons of water until you reach the desired consistency. If the dough is too wet add a little bit more gluten-free flour.",
+              "name": "Make a well in the middle of the...",
+              "url": "https://www.glutenfreepalate.com/homemade-gluten-free-pasta/#mv_create_447_2",
+              "image": []
+            },
+            {
+              "text": "Knead the dough on a floured surface for 2-3 minutes until you get a smooth ball of dough. There’s no gluten to be formed so you don’t need to knead the dough for too long, but the kneading ensures that you break apart lumps of flour if any.",
+              "name": "Knead the dough on a floured surface for...",
+              "url": "https://www.glutenfreepalate.com/homemade-gluten-free-pasta/#mv_create_447_3",
+              "image": []
+            },
+            {
+              "text": "Then cut the dough into quarters and roll it out one at a time with a rolling pin. Roll it out into a loose rectangular shape that should be as long as a piece of spaghetti.",
+              "name": "Then cut the dough into quarters and roll...",
+              "url": "https://www.glutenfreepalate.com/homemade-gluten-free-pasta/#mv_create_447_4",
+              "image": []
+            },
+            {
+              "text": "Then fold it up starting with one of the shorter ends and then slice the dough according to how thick you want your pasta to be. And once you unroll it you have your pasta strands. Toss the pasta in some flour and shape them into nests. You can let the pasta dry, or you can cook it straight away in boiling salted water for 4-8 minutes.",
+              "name": "Then fold it up starting with one of...",
+              "url": "https://www.glutenfreepalate.com/homemade-gluten-free-pasta/#mv_create_447_5",
+              "image": []
+            },
+            {
+              "text": "Toss your pasta in your favorite gluten-free pasta sauce and serve.",
+              "name": "Toss your pasta in your favorite gluten-free pasta...",
+              "url": "https://www.glutenfreepalate.com/homemade-gluten-free-pasta/#mv_create_447_6",
+              "image": []
+            }
+          ],
+          "servings": 4,
+          "calories": 54,
+          "publisher": "Gluten-Free Palate",
+          "rating": {
+            "ratingValue": 4.7,
+            "bestRating": 5.0,
+            "reviewCount": 23,
+            "is_tripadvisor": false
+          },
+          "recipeCategory": "Main Dishes",
+          "recipeCuisine": "Italian"
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Wendy Stoltz",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Get your 3 ingredients ready for this easy gluten-free pasta recipe. You don’t even need a pasta machine! Your pasta will be ready in just under 20 minutes.",
+          "This gluten-free pasta recipe is both gluten-free and nut-free. And no, you don't need a pasta machine, but if you have one, you can use it. My food processor has a pasta maker; check if yours does too, or get your fork ready, and let's go!",
+          "This gluten-free pasta recipe is so fun to make. It is relatively quick and easy. It requires hands-on time, but you will be rewarded with fresh pasta. Once you take your bite into your fresh pasta, there is no turning back. Not only is it the excitement of making your pasta, but the taste is just so good.",
+          "Gluten-Free Lasagna - This lasagna comprises wide, flat sheets of pasta layered with sauces, cheese, and other ingredients like meats or vegetables. You can use the same pasta from this recipe to make these flat sheets and use this quick and easy gluten-free lasagna recipe."
+        ]
+      },
+      {
+        "title": "Gluten-Free Fresh Pasta Recipe",
+        "url": "https://www.seriouseats.com/gluten-free-fresh-pasta-recipe",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Homemade</strong> <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> is often gummy, gritty, and disappointing. Not this version. Made with brown rice flour, tapioca starch, and xanthan gum, it results in beautiful, tender noodles once cooked.",
+        "page_age": "2020-06-02T00:00:00",
+        "profile": {
+          "name": "Serious Eats",
+          "url": "https://www.seriouseats.com/gluten-free-fresh-pasta-recipe",
+          "long_name": "seriouseats.com",
+          "img": "https://imgs.search.brave.com/6EEIisc1bQ2_itRIzq1mjx_1AKoYPa2a8Zj8inGOxpg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY0MjEwNDJi/N2IzMWY2NjQwYzg4/NWQ0NGQyNWNhMDFj/ZGFlNzhlYjVhYTdm/Y2NkN2Y5YmU3NTVj/YmYzZTlmMy93d3cu/c2VyaW91c2VhdHMu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "seriouseats.com",
+          "hostname": "www.seriouseats.com",
+          "favicon": "https://imgs.search.brave.com/6EEIisc1bQ2_itRIzq1mjx_1AKoYPa2a8Zj8inGOxpg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY0MjEwNDJi/N2IzMWY2NjQwYzg4/NWQ0NGQyNWNhMDFj/ZGFlNzhlYjVhYTdm/Y2NkN2Y5YmU3NTVj/YmYzZTlmMy93d3cu/c2VyaW91c2VhdHMu/Y29tLw",
+          "path": "› gluten-free-fresh-pasta-recipe"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6gmZzdNKoKx-glOlj4k7eSJqC_PUYtmBt5mpG-rEpo0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2VyaW91c2VhdHMu/Y29tL3RobWIvVDQw/emJ2SUtLelVubVU2/RWJuZ3hINGY5a0Nz/PS8xNTAweDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCkv/Z2x1dGVuLWZyZWUt/ZnJlc2gtcGFzdGEt/cmVjaXBlLUhFUk8t/MDExM2Q4ZGY0M2Yw/NGM5YWI3MmNlYzYx/MTg4YWZmMDIuSlBH",
+          "original": "https://www.seriouseats.com/thmb/T40zbvIKKzUnmU6EbngxH4f9kCs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-HERO-0113d8df43f04c9ab72cec61188aff02.JPG",
+          "logo": false
+        },
+        "age": "June 2, 2020",
+        "recipe": {
+          "title": "Gluten-Free Fresh Pasta Recipe",
+          "description": "<strong>Homemade</strong> <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> is often gummy, gritty, and disappointing. Not this version. Made with brown rice flour, tapioca starch, and xanthan gum, it results in beautiful, tender noodles once cooked.",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/6gmZzdNKoKx-glOlj4k7eSJqC_PUYtmBt5mpG-rEpo0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2VyaW91c2VhdHMu/Y29tL3RobWIvVDQw/emJ2SUtLelVubVU2/RWJuZ3hINGY5a0Nz/PS8xNTAweDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCkv/Z2x1dGVuLWZyZWUt/ZnJlc2gtcGFzdGEt/cmVjaXBlLUhFUk8t/MDExM2Q4ZGY0M2Yw/NGM5YWI3MmNlYzYx/MTg4YWZmMDIuSlBH",
+            "original": "https://www.seriouseats.com/thmb/T40zbvIKKzUnmU6EbngxH4f9kCs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-HERO-0113d8df43f04c9ab72cec61188aff02.JPG"
+          },
+          "url": "https://www.seriouseats.com/gluten-free-fresh-pasta-recipe",
+          "domain": "seriouseats.com",
+          "favicon": "https://imgs.search.brave.com/6EEIisc1bQ2_itRIzq1mjx_1AKoYPa2a8Zj8inGOxpg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY0MjEwNDJi/N2IzMWY2NjQwYzg4/NWQ0NGQyNWNhMDFj/ZGFlNzhlYjVhYTdm/Y2NkN2Y5YmU3NTVj/YmYzZTlmMy93d3cu/c2VyaW91c2VhdHMu/Y29tLw",
+          "time": "40:00",
+          "ingredients": "1 1/2 cups (7 1/2 ounces) brown rice flour, plus more for dusting, 1/2 cup (2 ounces) tapioca starch, 1 teaspoon xanthan gum, 4 large eggs, Kosher salt",
+          "instructions": [
+            {
+              "text": "In a large bowl, whisk together brown rice flour, tapioca starch, and xanthan gum. Add eggs. Switch to a wooden spoon and stir until a dough forms. Generously dust your counter with brown rice flour. Turn dough out onto counter and knead a few times until fairly smooth.",
+              "image": [
+                "https://www.seriouseats.com/thmb/A-PsFk1TBWebTHAaO_zz18GL3_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step1-ba1cedfcd9d9492398f81b05c835c745.jpg"
+              ]
+            },
+            {
+              "text": "Divide dough into 4 equal pieces and work with 1 piece at a time, keeping the rest covered. Press the dough to flatten it slightly. Using a pasta machine set at the widest setting, run the dough through 2 times. Continue rolling dough through successively narrower settings until you reach the second-to-last setting.",
+              "image": [
+                "https://www.seriouseats.com/thmb/K0T07CgcZbUTR7X9JxPu2iFvKfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step2-5c552a44ec7b48cc9379ad4a7189d4bf.jpg"
+              ]
+            },
+            {
+              "text": "Cut dough sheet in half horizontally and pass each through the fettuccine cutter. (The spaghetti setting is too thin for this gluten-free pasta.) Dust pasta with brown rice flour and place on a rimmed baking sheet. Repeat with remaining dough pieces.",
+              "image": [
+                "https://www.seriouseats.com/thmb/8nOZQpFg4NcbQZZSAren3y_VBNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step3-cad8a79452514acf89f0369cbeda3ca4.JPG"
+              ]
+            },
+            {
+              "text": "Bring a pot of salted water to a boil. Cook pasta until tender, about 5 minutes. Serve immediately with your choice of sauce.",
+              "image": [
+                "https://www.seriouseats.com/thmb/jFduZONZCNIRgjqbTwHpgLt-VnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step4-e7b36f38d6da4437ae19ccbf177d77bc.JPG"
+              ]
+            }
+          ],
+          "servings": 4,
+          "calories": 318,
+          "rating": {
+            "ratingValue": 4.3,
+            "bestRating": 5.0,
+            "reviewCount": 7,
+            "is_tripadvisor": false
+          },
+          "recipeCategory": "Pasta",
+          "recipeCuisine": "Italian"
+        },
+        "extra_snippets": [
+          "When I'm in a mood like that, the thing I crave, more than anything, is a bowl of homemade pasta—it's just what I need to feel centered and calm. But being gluten-free, that's become a bit more difficult. Thing is, I've tried making fresh gluten-free pasta before and I've never really loved it. My previous attempts produced pasta that was far too gummy or gritty. Yet I wanted to try again. Part of me wonders if this yearning was a bit of self-sabotage, a desire to make something I thought would flop.",
+          "Part of me wonders if this yearning was a bit of self-sabotage, a desire to make something I thought would flop. Another part of me thinks it was hope. Instead of putting together a complex flour blend, I simply scooped some brown-rice flour and added a little tapioca starch and xanthan gum to it. After whisking them together, I added two eggs and stirred everything together with a wooden spoon. It was by far the simplest gluten-free pasta recipe I'd ever attempted.",
+          "They had plumped up nicely during cooking, but didn't look bloated and weren't falling apart at the edges, two issues I'd dealt with before when testing gluten-free pasta recipes. I sautéed a little garlic in a lot of butter, grated some Parmesan, and finished the pasta with a little lemon zest. I couldn't believe it: This fresh gluten-free pasta worked. Over the next two weeks, I continued making pasta. I ran it through my pasta maker.",
+          "Adding more egg than is traditional for wheat-based pasta creates a gluten-free dough that's tender and elastic, not gummy or gritty. Rolling the pasta dough only to the second-thinnest setting on the pasta machine—and avoiding the spaghetti cutter—help prevent problems that frequently plague homemade gluten-free pastas."
+        ]
+      },
+      {
+        "title": "Gluten-Free Fresh Pasta at Home? You Can Do That | Epicurious",
+        "url": "https://www.epicurious.com/expert-advice/gluten-free-fresh-pasta-at-home-you-can-do-that-article",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A blend of chickpea and store-bought GF flour <strong>makes</strong> <strong>for</strong> an easy <strong>homemade</strong> dough with surprising chew.",
+        "page_age": "2021-09-28T10:00:00",
+        "profile": {
+          "name": "Epicurious",
+          "url": "https://www.epicurious.com/expert-advice/gluten-free-fresh-pasta-at-home-you-can-do-that-article",
+          "long_name": "epicurious.com",
+          "img": "https://imgs.search.brave.com/27oA4BeNeQ_C5bXuSW2NnuLhf9K0LryAVqJGVem7QCM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzI4NTNlMzlk/OTM5ZjZhN2M3OWIw/MzIzZGJlYjNhYzEz/OTE2ZTA3Y2E5YTU1/NmY1N2MzYmJiNGVm/Mjk0YzZiYy93d3cu/ZXBpY3VyaW91cy5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "epicurious.com",
+          "hostname": "www.epicurious.com",
+          "favicon": "https://imgs.search.brave.com/27oA4BeNeQ_C5bXuSW2NnuLhf9K0LryAVqJGVem7QCM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzI4NTNlMzlk/OTM5ZjZhN2M3OWIw/MzIzZGJlYjNhYzEz/OTE2ZTA3Y2E5YTU1/NmY1N2MzYmJiNGVm/Mjk0YzZiYy93d3cu/ZXBpY3VyaW91cy5j/b20v",
+          "path": "  › expert advice  › pasta  › gluten-free fresh pasta at home? you can do that"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/G1d21SnVv_Wh72nMjFuuGnA70Ppv0AHzlNCTPIU7J68/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMuZXBpY3VyaW91/cy5jb20vcGhvdG9z/LzYxNDM1ODgxYmZi/NDBhYzMwNTcwNjRm/YS8xNjo5L3dfNjA2/NSxoXzM0MTIsY19s/aW1pdC9HbHV0ZW5G/cmVlUGFzdGFfSEVS/T18wOTEzMjFfMjA5/MzUuanBn",
+          "original": "https://assets.epicurious.com/photos/61435881bfb40ac3057064fa/16:9/w_6065,h_3412,c_limit/GlutenFreePasta_HERO_091321_20935.jpg",
+          "logo": false
+        },
+        "age": "September 28, 2021",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Kendra Vaculin",
+              "url": "https://www.epicurious.com/contributors/kendra-vaculin"
+            }
+          ],
+          "date": "Sep 28, 2021",
+          "publisher": {
+            "type": "organization",
+            "name": "Epicurious",
+            "url": "https://www.epicurious.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/WfwOlRIS3XsU68m4KLRYSRI3rHDRgU2qikH9vPhoDr8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZXBpY3VyaW91cy5j/b20vdmVyc28vc3Rh/dGljL2VwaWN1cmlv/dXMvYXNzZXRzL2xv/Z28tc2VvLnBuZw",
+              "original": "https://www.epicurious.com/verso/static/epicurious/assets/logo-seo.png"
+            }
+          },
+          "isAccessibleForFree": true
+        },
+        "extra_snippets": [
+          "It wasn’t without a little sneakiness, then, that I decided to develop a recipe for fresh gluten-free pasta. From a consumer perspective, fresh pasta seems to be the last GF frontier, and in all my grocery trips and online searches, I’d never seen one with a chickpea base before. Could I make a version good enough to replace my favorite wheat-based recipe, and potentially get chickpea pasta back in the household rotation in the process?",
+          "From a consumer perspective, fresh pasta seems to be the last GF frontier, and in all my grocery trips and online searches, I’d never seen one with a chickpea base before. Could I make a version good enough to replace my favorite wheat-based recipe, and potentially get chickpea pasta back in the household rotation in the process? With some tweaking to account for what we’d lose without the gluten, I resolved to find out.",
+          "And so long as you source a gluten-free flour with xanthan gum in the ingredients list, it can be ready to go in as little as one hour (though a longer rest time gives the dough more time to hydrate and makes it a little easier to roll out). Just be warned: The added chickpea flour makes the finished dough extra yellow in its raw state, which can give away its key ingredient. If, hypothetically, you’re hoping to trick someone into thinking this recipe is regular pasta, don’t let them see it until it’s all sauced and plated—a meal they’ll inevitably devour, none the wiser about what went into the noodles.",
+          "The simple dough easily becomes hand-cut noodles, stuffed pastas, or machine-rolled sheets. Photo by Joseph De Leo, Food Styling by Micah Marie Morton · It wasn’t without a little sneakiness, then, that I decided to develop a recipe for fresh gluten-free pasta."
+        ]
+      },
+      {
+        "title": "30 Gluten Free Pasta Recipes that are Actually Good for You - EA Stewart",
+        "url": "https://www.eastewart.com/recipes-and-nutrition/gluten-free-pasta-recipes-healthy/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Eat your <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> &amp; be healthy too! These 30 <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> <strong>recipes</strong> are as tasty as their <strong>gluten</strong> filled versions, or even better!",
+        "page_age": "2020-10-25T05:57:51",
+        "profile": {
+          "name": "Eastewart",
+          "url": "https://www.eastewart.com/recipes-and-nutrition/gluten-free-pasta-recipes-healthy/",
+          "long_name": "eastewart.com",
+          "img": "https://imgs.search.brave.com/r-rcYBmfDa8FyeIlW3jKCqTcszDQrI5JuXzE5oVYZfs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjM4MGNmNzgx/MDVmMmM5NjM0MGJi/ZjRhOWM3Mzk2YWEw/YjI1MTJmNGI2ZTcy/ZGFhZTczOTYwNDQ5/MWU5MzI5OC93d3cu/ZWFzdGV3YXJ0LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "eastewart.com",
+          "hostname": "www.eastewart.com",
+          "favicon": "https://imgs.search.brave.com/r-rcYBmfDa8FyeIlW3jKCqTcszDQrI5JuXzE5oVYZfs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjM4MGNmNzgx/MDVmMmM5NjM0MGJi/ZjRhOWM3Mzk2YWEw/YjI1MTJmNGI2ZTcy/ZGFhZTczOTYwNDQ5/MWU5MzI5OC93d3cu/ZWFzdGV3YXJ0LmNv/bS8",
+          "path": "  › home  › the spicy rd blog  › recipes  › 30 gluten free pasta recipes that are actually good for you"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/cOh275_s2GYnmnv4aw47nKG3iwZJJsfXeAJKppVG1vY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZWFzdGV3YXJ0LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8xMC9HbHV0ZW4t/RnJlZS1QYXN0YS1p/bi1hLWJvd2wuanBn",
+          "original": "https://www.eastewart.com/wp-content/uploads/2020/10/Gluten-Free-Pasta-in-a-bowl.jpg",
+          "logo": false
+        },
+        "age": "October 25, 2020",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "EA Stewart"
+            }
+          ],
+          "date": "Oct 25, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "EA Stewart",
+            "url": "https://www.eastewart.com/"
+          }
+        },
+        "extra_snippets": [
+          "Roasted Red Pepper Pasta with Goat Cheese, Mushrooms and Spinach is a gluten-free vegetarian pasta tossed in a creamy homemade roasted red pepper sauce! ... Here, creamy avocado and iron-rich tahini come together to make a delicious, super-simple, dish! This avocado tahini pasta is great for a quick dinner, make-ahead lunch, or a side.",
+          "There’s something delicious for everyone, including vegan and vegetarian gluten free pasta recipes, grain free pasta recipes, cold pasta salad recipes, and vegetable “zoodle” pasta recipes. Grab a fork and dig in! This baked enchilada pasta is an easy and delicious twist on traditional enchiladas. It’s vegetarian and gluten free, and hands on time is only 20 minutes~perfect for a busy weeknight dinner! ... Roasted Red Pepper Pasta with Goat Cheese, Mushrooms and Spinach is a gluten-free vegetarian pasta tossed in a creamy homemade roasted red pepper sauce!",
+          "This Jamaican rasta pasta recipe is a one pan vegan Caribbean style pasta dish with a medley of bell peppers, seasoned with the infamous jerk marinade and cooked down in a creamy coconut sauce. ... Tip! Cooked and cooled pasta is a good source of microbiome friendly resistant starch-good for gut health! This Lemony Kale Pasta Salad with Pistachio Nuts is super simple to make, and packed with flavor. Make it with your pasta of choice ~ gluten free, grain free, or legume based for a nutritious boost of protein and fiber.",
+          "Make it with your pasta of choice ~ gluten free, grain free, or legume based for a nutritious boost of protein and fiber. So delicious! ... This Mediterranean Vegan Cold Pasta Salad is a creamy, colorful plant based pasta recipe. Swap out your typical pasta salad recipe for this healthy, roasted vegetable pasta salad."
+        ]
+      },
+      {
+        "title": "How to Make: Gluten-Free Pasta Recipe – Pasta Evangelists",
+        "url": "https://pastaevangelists.com/blogs/blog/how-to-make-gluten-free-pasta",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We believe everyone should be able to enjoy classic Italian cooking, regardless of their dietary needs. But what about those looking to <strong>make</strong> authentic fresh <strong>pasta</strong> at home? In this article, we’ll be sharing a simple <strong>recipe</strong> <strong>for</strong> <strong>homemade</strong> <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong>. We will also answer some common questions ...",
+        "page_age": "2020-03-02T00:00:00",
+        "profile": {
+          "name": "Pasta Evangelists",
+          "url": "https://pastaevangelists.com/blogs/blog/how-to-make-gluten-free-pasta",
+          "long_name": "pastaevangelists.com",
+          "img": "https://imgs.search.brave.com/SvtMwx9AJh-KkWhj4y_ubDcMwLw3npFdP88Jzf-32D0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzA5YjQyNzhk/MWFhNTcyZTRiOTRm/NzM4MWRiMjc3MTg3/NDdiMjViNDExNjI4/ZmQzY2VlZjkyODI1/ZmI3ZTAzNy9wYXN0/YWV2YW5nZWxpc3Rz/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pastaevangelists.com",
+          "hostname": "pastaevangelists.com",
+          "favicon": "https://imgs.search.brave.com/SvtMwx9AJh-KkWhj4y_ubDcMwLw3npFdP88Jzf-32D0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzA5YjQyNzhk/MWFhNTcyZTRiOTRm/NzM4MWRiMjc3MTg3/NDdiMjViNDExNjI4/ZmQzY2VlZjkyODI1/ZmI3ZTAzNy9wYXN0/YWV2YW5nZWxpc3Rz/LmNvbS8",
+          "path": "  › blog  › how to make: gluten-free pasta recipe"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/GwCXEbqX9ubyv5-rC9lvAekD5QUHVIrVb2Gsii6_TwY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9wYXN0/YWV2YW5nZWxpc3Rz/LmNvbS9jZG4vc2hv/cC9hcnRpY2xlcy9o/b3dfdG9fbWFrZV9n/bHV0ZW5fZnJlZV9w/YXN0YV8xMDI0eDEw/MjQuanBnP3Y9MTYz/NjM4OTc4Mw",
+          "original": "https://pastaevangelists.com/cdn/shop/articles/how_to_make_gluten_free_pasta_1024x1024.jpg?v=1636389783",
+          "logo": false
+        },
+        "age": "March 2, 2020",
+        "recipe": {
+          "title": "How to Make: Gluten-Free Pasta Recipe",
+          "description": "A step-by-step guide on <strong>making</strong> fresh <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> from scratch.",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/GwCXEbqX9ubyv5-rC9lvAekD5QUHVIrVb2Gsii6_TwY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9wYXN0/YWV2YW5nZWxpc3Rz/LmNvbS9jZG4vc2hv/cC9hcnRpY2xlcy9o/b3dfdG9fbWFrZV9n/bHV0ZW5fZnJlZV9w/YXN0YV8xMDI0eDEw/MjQuanBnP3Y9MTYz/NjM4OTc4Mw",
+            "original": "https://pastaevangelists.com/cdn/shop/articles/how_to_make_gluten_free_pasta_1024x1024.jpg?v=1636389783"
+          },
+          "url": "https://pastaevangelists.com/blogs/blog/how-to-make-gluten-free-pasta",
+          "domain": "pastaevangelists.com",
+          "favicon": "https://imgs.search.brave.com/SvtMwx9AJh-KkWhj4y_ubDcMwLw3npFdP88Jzf-32D0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzA5YjQyNzhk/MWFhNTcyZTRiOTRm/NzM4MWRiMjc3MTg3/NDdiMjViNDExNjI4/ZmQzY2VlZjkyODI1/ZmI3ZTAzNy9wYXN0/YWV2YW5nZWxpc3Rz/LmNvbS8",
+          "time": "47:00",
+          "prep_time": "45:00",
+          "cook_time": "02:00",
+          "ingredients": "200g gluten-free flour (rice flour and cornflour are both dependable and readily available), 100ml water or 2 large eggs (use water for pasta bianca or white pasta), 2 tsp extra virgin olive oil, 2 tbsp xanthan gum (only if your flour doesn’t already contain it)",
+          "instructions": [
+            {
+              "text": "Mix together your gluten-free flour and xanthan gum. You can use a food processor for this if you have one.",
+              "image": []
+            },
+            {
+              "text": "Make a mound with your flour. Slowly mix in the water or eggs with the extra virgin olive oil with a fork. Keep mixing until you have a rough dough.",
+              "image": []
+            },
+            {
+              "text": "Roll your dough onto a lightly floured surface and knead for 15 minutes, until smooth.",
+              "image": []
+            }
+          ],
+          "servings": 4,
+          "publisher": "Emma Wynne",
+          "recipeCategory": "Main course",
+          "recipeCuisine": "Italian"
+        },
+        "extra_snippets": [
+          "We believe everyone should be able to enjoy classic Italian cooking, regardless of their dietary needs. But what about those looking to make authentic fresh pasta at home? In this article, we’ll be sharing a simple recipe for homemade gluten-free pasta. We will also answer some common questions on how best to make and enjoy gluten-free fresh pasta.",
+          "Therefore, people on a gluten-free diet may find Italian food somewhat tricky to navigate. Italy offers such an abundance of unforgettable meals, that it feels almost sacrilegious to limit anyone’s options! We believe everyone should be able to enjoy classic Italian cooking, regardless of their dietary needs. But what about those looking to make authentic fresh pasta at home? In this article, we’ll be sharing a simple recipe for homemade gluten-free pasta.",
+          "Are you on a gluten-free diet, but still want to try making fresh pasta? Our expert Italian chefs have shared a simple recipe for delicious gluten-free pasta.",
+          "In this article, we’ll be sharing a simple recipe for homemade gluten-free pasta. We will also answer some common questions on how best to make and enjoy gluten-free fresh pasta. Serves: 3-4 Preparing Time: 30-45 mins Cooking Time: 2 mins Calories: 258 calories per serving · 200g gluten-free flour (rice flour and cornflour are both dependable and readily available) 100ml water or 2 large eggs (use water for pasta bianca or white pasta)"
+        ]
+      },
+      {
+        "title": "3 Ingredient Homemade Gluten-Free Pasta (No Machine) Recipe",
+        "url": "https://www.biggerbolderbaking.com/gluten-free-pasta-homemade/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "If you love pasta but want to be Gluten-Free, my 3-Ingredient Homemade Pasta recipe will be PERFECT for any occasion! ... <strong>In a large bowl combine the almond flour and tapioca starch, making sure there are no lumps in the almond flour.</strong> Make a well in the center of the bowl and add in the eggs ...",
+        "page_age": "2019-05-05T15:00:18",
+        "profile": {
+          "name": "Bigger Bolder Baking",
+          "url": "https://www.biggerbolderbaking.com/gluten-free-pasta-homemade/",
+          "long_name": "biggerbolderbaking.com",
+          "img": "https://imgs.search.brave.com/Jo3FZKcIY5ht97cxPm2prtvDLPqJpQPVTv8NsQgYEl8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgyMDk3NDIz/YTVmZGFjY2UxOGI4/MjRmODU4ZTRmZjAw/YmIwOGFlYWU4Njdl/MTEyOGQxYTliN2Yx/YTk5NTE1Yi93d3cu/YmlnZ2VyYm9sZGVy/YmFraW5nLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "biggerbolderbaking.com",
+          "hostname": "www.biggerbolderbaking.com",
+          "favicon": "https://imgs.search.brave.com/Jo3FZKcIY5ht97cxPm2prtvDLPqJpQPVTv8NsQgYEl8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgyMDk3NDIz/YTVmZGFjY2UxOGI4/MjRmODU4ZTRmZjAw/YmIwOGFlYWU4Njdl/MTEyOGQxYTliN2Yx/YTk5NTE1Yi93d3cu/YmlnZ2VyYm9sZGVy/YmFraW5nLmNvbS8",
+          "path": "  › home  › breads & doughs  › 3 ingredient homemade gluten-free pasta (no machine)"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5qcYr3ilaaIKVNKPrRaaBvktQWZURx_3RYaNegLYf5I/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YmlnZ2VyYm9sZGVy/YmFraW5nLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOS8w/Mi9HbHV0ZW4tRnJl/ZS1QYXN0YS1IZXJv/LmpwZw",
+          "original": "https://www.biggerbolderbaking.com/wp-content/uploads/2019/02/Gluten-Free-Pasta-Hero.jpg",
+          "logo": false
+        },
+        "age": "May 5, 2019",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Olivia Crouppen"
+            }
+          ],
+          "date": "May 05, 2019",
+          "publisher": {
+            "type": "organization",
+            "name": "Bigger Bolder Baking",
+            "url": "https://www.biggerbolderbaking.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/zz_n0JEkABBOp7o3x1XUR7MeR5WRPmZwpKql5MQ3A78/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LmJp/Z2dlcmJvbGRlcmJh/a2luZy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMTEv/Z2JiYi1sb2dvLnBu/Zz9maXQ9MTEwMiUy/QzE2OSZzc2w9MQ",
+              "original": "https://i0.wp.com/www.biggerbolderbaking.com/wp-content/uploads/2019/11/gbbb-logo.png?fit=1102%2C169&ssl=1"
+            }
+          }
+        },
+        "recipe": {
+          "title": "3 Ingredient Gluten-Free Pasta Recipe (No Machine)",
+          "description": "If you love <strong>pasta</strong> but want to be <strong>Gluten</strong>-<strong>Free</strong>, my 3-Ingredient <strong>Homemade</strong> <strong>Pasta</strong> <strong>recipe</strong> will be PERFECT for any occasion!",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/5qcYr3ilaaIKVNKPrRaaBvktQWZURx_3RYaNegLYf5I/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/YmlnZ2VyYm9sZGVy/YmFraW5nLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOS8w/Mi9HbHV0ZW4tRnJl/ZS1QYXN0YS1IZXJv/LmpwZw",
+            "original": "https://www.biggerbolderbaking.com/wp-content/uploads/2019/02/Gluten-Free-Pasta-Hero.jpg"
+          },
+          "url": "https://www.biggerbolderbaking.com/gluten-free-pasta-homemade/",
+          "domain": "biggerbolderbaking.com",
+          "favicon": "https://imgs.search.brave.com/Jo3FZKcIY5ht97cxPm2prtvDLPqJpQPVTv8NsQgYEl8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgyMDk3NDIz/YTVmZGFjY2UxOGI4/MjRmODU4ZTRmZjAw/YmIwOGFlYWU4Njdl/MTEyOGQxYTliN2Yx/YTk5NTE1Yi93d3cu/YmlnZ2VyYm9sZGVy/YmFraW5nLmNvbS8",
+          "time": "28:00",
+          "prep_time": "25:00",
+          "cook_time": "03:00",
+          "ingredients": "1 1/2 cups (6oz/172g) blanched almond flour, 1 1/2 cup (6oz/172g) tapioca starch, 2  eggs + 2 egg yolks",
+          "instructions": [
+            {
+              "text": "In a large bowl combine the almond flour and tapioca starch, making sure there are no lumps in the almond flour.",
+              "name": "In a large bowl combine the almond flour and tapioca starch, making sure there are no lumps in the almond flour.",
+              "url": "https://www.biggerbolderbaking.com/gluten-free-pasta-homemade/#wprm-recipe-26678-step-0-0",
+              "image": []
+            },
+            {
+              "text": "Make a well in the center of the bowl and add in the eggs and egg yolks.",
+              "name": "Make a well in the center of the bowl and add in the eggs and egg yolks.",
+              "url": "https://www.biggerbolderbaking.com/gluten-free-pasta-homemade/#wprm-recipe-26678-step-0-1",
+              "image": []
+            },
+            {
+              "text": "Using a fork begin to whisk the eggs into the dry ingredients. ",
+              "name": "Using a fork begin to whisk the eggs into the dry ingredients. ",
+              "url": "https://www.biggerbolderbaking.com/gluten-free-pasta-homemade/#wprm-recipe-26678-step-0-2",
+              "image": []
+            },
+            {
+              "text": "At first, the mixture may seem dry but keep mixing. Once mostly combined and crumbly, begin to bring the dough together with your hands, kneading for about 3-5 minutes until you have a smooth dough. It may seem a bit crumbly at this stage but will get wetter after it rests. ",
+              "name": "At first, the mixture may seem dry but keep mixing. Once mostly combined and crumbly, begin to bring the dough together with your hands, kneading for about 3-5 minutes until you have a smooth dough. It may seem a bit crumbly at this stage but will get wetter after it rests. ",
+              "url": "https://www.biggerbolderbaking.com/gluten-free-pasta-homemade/#wprm-recipe-26678-step-0-3",
+              "image": []
+            },
+            {
+              "text": "Cut the dough into 4 equal parts then cover with a damp tea towel to rest for about 15 minutes.",
+              "name": "Cut the dough into 4 equal parts then cover with a damp tea towel to rest for about 15 minutes.",
+              "url": "https://www.biggerbolderbaking.com/gluten-free-pasta-homemade/#wprm-recipe-26678-step-0-4",
+              "image": []
+            },
+            {
+              "text": "Dust a large work surface and a rolling pin with tapioca starch. Once the dough has rested, take a piece of dough and roll it out gently until it is between 1/4 and 1/8 of an inch thick. Think thinner the better as it will puff up once cooked so factor that in. ",
+              "name": "Dust a large work surface and a rolling pin with tapioca starch. Once the dough has rested, take a piece of dough and roll it out gently until it is between 1/4 and 1/8 of an inch thick. Think thinner the better as it will puff up once cooked so factor that in. ",
+              "url": "https://www.biggerbolderbaking.com/gluten-free-pasta-homemade/#wprm-recipe-26678-step-0-5",
+              "image": []
+            },
+            {
+              "text": "Using a sharp knife or a pizza cutter cut the dough into thin even strips, or whatever thickness you desire. Carefully lift the strips up and gently separate. I found it easier to work with shorter strips (around 6 inches long).",
+              "name": "Using a sharp knife or a pizza cutter cut the dough into thin even strips, or whatever thickness you desire. Carefully lift the strips up and gently separate. I found it easier to work with shorter strips (around 6 inches long).",
+              "url": "https://www.biggerbolderbaking.com/gluten-free-pasta-homemade/#wprm-recipe-26678-step-0-6",
+              "image": []
+            }
+          ],
+          "servings": 6,
+          "publisher": "Olivia Crouppen",
+          "rating": {
+            "ratingValue": 4.7,
+            "bestRating": 5.0,
+            "reviewCount": 96,
+            "is_tripadvisor": false
+          },
+          "recipeCategory": "Dinner",
+          "recipeCuisine": "Italian"
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Bigger Bolder Baking",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "If you love pasta but want to be Gluten-Free, my 3-Ingredient Homemade Pasta recipe will be PERFECT for any occasion! ... In a large bowl combine the almond flour and tapioca starch, making sure there are no lumps in the almond flour. Make a well in the center of the bowl and add in the eggs and egg yolks.",
+          "If you cannot find Tapioca starch you can swap it out for arrowroot starch 1:1. These alternative flours take the place of gluten in this recipe and add elasticity to the dough which is super important for rolling out the pasta with ease. Additionally, if you would like to make the pasta even lower in carbohydrates, you can use 1 1/2 cup of almond flour, 3/4 cup tapioca starch, and 3/4 cup arrowroot starch.",
+          "I plan to use the pasta machine for this dough. I plan to make extra & store it in the fridge so we can eat it twice a week. How long would you estimate it lasts in the fridge & would the noodle strands stick & end up like a messy pile? Last time I made noodles, it wasn’t gluten free, a nightmare when I wanted to store excess in the fridge. Thank you for your awesome recipes & much appreciated intricate details oc the steps, etc.",
+          "I am so pleased that I stumbled across this recipe – it will be in the regular rotation of dinner items from now on. Thank you for making my first foray into pasta making such a delicious joy!!! ... Clarification please: To make this lower carbs..use both together..3/4 c tapioca starch and 3/4 cup arrowroot? Correct? ... I have just been searching for gluten free and xanthan gum free pasta, I cannot purchase Almond flour here, Although I wonder if making own Almond flour could work, Or do you have another flour substitute , i.e Buckwheat flour, Yucca flour, and or millet flour, plus tapioca starch, or potato starch, and making a good mixture that will hold together."
+        ]
+      },
+      {
+        "title": "How to Make Gluten Free Pasta from Scratch",
+        "url": "https://pastaevangelists.com/blogs/blog/how-to-make-gluten-free-pasta-from-scratch",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We believe everyone should be able to enjoy classic Italian cooking, regardless of their dietary needs. But what about those looking to <strong>make</strong> authentic fresh <strong>pasta</strong> at home? In this article, we’ll be sharing a simple <strong>recipe</strong> <strong>for</strong> <strong>homemade</strong> <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong>. We will also answer some common questions ...",
+        "page_age": "2020-03-02T00:00:00",
+        "profile": {
+          "name": "Pasta Evangelists",
+          "url": "https://pastaevangelists.com/blogs/blog/how-to-make-gluten-free-pasta-from-scratch",
+          "long_name": "pastaevangelists.com",
+          "img": "https://imgs.search.brave.com/SvtMwx9AJh-KkWhj4y_ubDcMwLw3npFdP88Jzf-32D0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzA5YjQyNzhk/MWFhNTcyZTRiOTRm/NzM4MWRiMjc3MTg3/NDdiMjViNDExNjI4/ZmQzY2VlZjkyODI1/ZmI3ZTAzNy9wYXN0/YWV2YW5nZWxpc3Rz/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pastaevangelists.com",
+          "hostname": "pastaevangelists.com",
+          "favicon": "https://imgs.search.brave.com/SvtMwx9AJh-KkWhj4y_ubDcMwLw3npFdP88Jzf-32D0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzA5YjQyNzhk/MWFhNTcyZTRiOTRm/NzM4MWRiMjc3MTg3/NDdiMjViNDExNjI4/ZmQzY2VlZjkyODI1/ZmI3ZTAzNy9wYXN0/YWV2YW5nZWxpc3Rz/LmNvbS8",
+          "path": "  › blog  › how to make: gluten-free pasta recipe"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/GwCXEbqX9ubyv5-rC9lvAekD5QUHVIrVb2Gsii6_TwY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9wYXN0/YWV2YW5nZWxpc3Rz/LmNvbS9jZG4vc2hv/cC9hcnRpY2xlcy9o/b3dfdG9fbWFrZV9n/bHV0ZW5fZnJlZV9w/YXN0YV8xMDI0eDEw/MjQuanBnP3Y9MTYz/NjM4OTc4Mw",
+          "original": "https://pastaevangelists.com/cdn/shop/articles/how_to_make_gluten_free_pasta_1024x1024.jpg?v=1636389783",
+          "logo": false
+        },
+        "age": "March 2, 2020",
+        "recipe": {
+          "title": "How to Make: Gluten-Free Pasta Recipe",
+          "description": "A step-by-step guide on <strong>making</strong> fresh <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> from scratch.",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/GwCXEbqX9ubyv5-rC9lvAekD5QUHVIrVb2Gsii6_TwY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9wYXN0/YWV2YW5nZWxpc3Rz/LmNvbS9jZG4vc2hv/cC9hcnRpY2xlcy9o/b3dfdG9fbWFrZV9n/bHV0ZW5fZnJlZV9w/YXN0YV8xMDI0eDEw/MjQuanBnP3Y9MTYz/NjM4OTc4Mw",
+            "original": "https://pastaevangelists.com/cdn/shop/articles/how_to_make_gluten_free_pasta_1024x1024.jpg?v=1636389783"
+          },
+          "url": "https://pastaevangelists.com/blogs/blog/how-to-make-gluten-free-pasta-from-scratch",
+          "domain": "pastaevangelists.com",
+          "favicon": "https://imgs.search.brave.com/SvtMwx9AJh-KkWhj4y_ubDcMwLw3npFdP88Jzf-32D0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzA5YjQyNzhk/MWFhNTcyZTRiOTRm/NzM4MWRiMjc3MTg3/NDdiMjViNDExNjI4/ZmQzY2VlZjkyODI1/ZmI3ZTAzNy9wYXN0/YWV2YW5nZWxpc3Rz/LmNvbS8",
+          "time": "47:00",
+          "prep_time": "45:00",
+          "cook_time": "02:00",
+          "ingredients": "200g gluten-free flour (rice flour and cornflour are both dependable and readily available), 100ml water or 2 large eggs (use water for pasta bianca or white pasta), 2 tsp extra virgin olive oil, 2 tbsp xanthan gum (only if your flour doesn’t already contain it)",
+          "instructions": [
+            {
+              "text": "Mix together your gluten-free flour and xanthan gum. You can use a food processor for this if you have one.",
+              "image": []
+            },
+            {
+              "text": "Make a mound with your flour. Slowly mix in the water or eggs with the extra virgin olive oil with a fork. Keep mixing until you have a rough dough.",
+              "image": []
+            },
+            {
+              "text": "Roll your dough onto a lightly floured surface and knead for 15 minutes, until smooth.",
+              "image": []
+            }
+          ],
+          "servings": 4,
+          "publisher": "Emma Wynne",
+          "recipeCategory": "Main course",
+          "recipeCuisine": "Italian"
+        },
+        "extra_snippets": [
+          "We believe everyone should be able to enjoy classic Italian cooking, regardless of their dietary needs. But what about those looking to make authentic fresh pasta at home? In this article, we’ll be sharing a simple recipe for homemade gluten-free pasta. We will also answer some common questions on how best to make and enjoy gluten-free fresh pasta.",
+          "Therefore, people on a gluten-free diet may find Italian food somewhat tricky to navigate. Italy offers such an abundance of unforgettable meals, that it feels almost sacrilegious to limit anyone’s options! We believe everyone should be able to enjoy classic Italian cooking, regardless of their dietary needs. But what about those looking to make authentic fresh pasta at home? In this article, we’ll be sharing a simple recipe for homemade gluten-free pasta.",
+          "Are you on a gluten-free diet, but still want to try making fresh pasta? Our expert Italian chefs have shared a simple recipe for delicious gluten-free pasta.",
+          "In this article, we’ll be sharing a simple recipe for homemade gluten-free pasta. We will also answer some common questions on how best to make and enjoy gluten-free fresh pasta. Serves: 3-4 Preparing Time: 30-45 mins Cooking Time: 2 mins Calories: 258 calories per serving · 200g gluten-free flour (rice flour and cornflour are both dependable and readily available) 100ml water or 2 large eggs (use water for pasta bianca or white pasta)"
+        ]
+      },
+      {
+        "title": "Easy Gluten Free Pasta (Grain-Free!) - Minimalist Baker Recipes",
+        "url": "https://minimalistbaker.com/easy-gluten-free-pasta-grain-free/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In fact a large number of Italian <strong>pasta</strong> makers Barilla etc do not. Only flour, semolina, salt and water. It works beautiful even for ravioli. ... <strong>Recipe</strong> is great but I don’t eat eggs. Can I use egg substitute? Thank you Margaret ... Hi Margaret, We haven’t tested it with any egg alternatives. Our best guess would be either a vegan egg (the store-bought version), our <strong>homemade</strong> vegan scrambled “egg,” or maybe aquafaba. Let us know if you try anything! ... <strong>Gluten</strong> ...",
+        "page_age": "2020-05-07T19:40:08",
+        "profile": {
+          "name": "Minimalist Baker",
+          "url": "https://minimalistbaker.com/easy-gluten-free-pasta-grain-free/",
+          "long_name": "minimalistbaker.com",
+          "img": "https://imgs.search.brave.com/2-QDuj8iFef9ado4sTZQXuIlLdunUq6Yd0l6mx43V4E/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTU4OTFiM2E1/NWVhN2U5OWQ4MWU4/NmMyNjA2NTNhYTQ0/NDI0ZmRiNjY5ODlk/NGViMjgzN2UwMmUw/NTI2OTFjYS9taW5p/bWFsaXN0YmFrZXIu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "minimalistbaker.com",
+          "hostname": "minimalistbaker.com",
+          "favicon": "https://imgs.search.brave.com/2-QDuj8iFef9ado4sTZQXuIlLdunUq6Yd0l6mx43V4E/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTU4OTFiM2E1/NWVhN2U5OWQ4MWU4/NmMyNjA2NTNhYTQ0/NDI0ZmRiNjY5ODlk/NGViMjgzN2UwMmUw/NTI2OTFjYS9taW5p/bWFsaXN0YmFrZXIu/Y29tLw",
+          "path": "  › home  › easy gluten free pasta (grain-free!)"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/hZQIwS15JYqGKC4YFdMjs5ci5YPzp5R3SIRJwAJk9QQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9taW5p/bWFsaXN0YmFrZXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIwLzAyL0VBU1kt/R2x1dGVuLUZyZWUt/UGFzdGEtUmVjaXBl/LTQtaW5ncmVkaWVu/dHMtbm8ta25lYWQt/bm8tcmVzdC1QRVJG/RUNUTFktdGVuZGVy/LWFuZC12ZXJzYXRp/bGUtcmVjaXBlLXBh/c3RhLW1pbmltYWxp/c3RiYWtlci1nbHV0/ZW5mcmVlLTI5Lmpw/Zw",
+          "original": "https://minimalistbaker.com/wp-content/uploads/2020/02/EASY-Gluten-Free-Pasta-Recipe-4-ingredients-no-knead-no-rest-PERFECTLY-tender-and-versatile-recipe-pasta-minimalistbaker-glutenfree-29.jpg",
+          "logo": false
+        },
+        "age": "May 7, 2020",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Dana @ Minimalist Baker"
+            }
+          ],
+          "date": "May 06, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "Minimalist Baker",
+            "url": "https://minimalistbaker.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/2x-xt1SF1jlD_E-uTzcahSID1qMFBiUJoxW4Kgh3_tE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9taW5p/bWFsaXN0YmFrZXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE1LzA0L2xvZ29A/MngucG5n",
+              "original": "https://minimalistbaker.com/wp-content/uploads/2015/04/logo@2x.png"
+            }
+          }
+        },
+        "recipe": {
+          "title": "Easy Gluten Free Pasta (Grain-Free!)",
+          "description": "Tender, easy-to-<strong>make</strong> <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> made with 4 simple ingredients! Made in the food processor, no kneading or resting required. Just delicious <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> in 30 minutes or less!",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/_MB7EBNfg9rCLUG2Y_-FN7g0cpoV8dAyvsonEm6cexo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9taW5p/bWFsaXN0YmFrZXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIwLzAyL0dsdXRl/bi1GcmVlLVBhc3Rh/LVNRVUFSRS5qcGc",
+            "original": "https://minimalistbaker.com/wp-content/uploads/2020/02/Gluten-Free-Pasta-SQUARE.jpg"
+          },
+          "url": "https://minimalistbaker.com/easy-gluten-free-pasta-grain-free/",
+          "domain": "minimalistbaker.com",
+          "favicon": "https://imgs.search.brave.com/2-QDuj8iFef9ado4sTZQXuIlLdunUq6Yd0l6mx43V4E/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTU4OTFiM2E1/NWVhN2U5OWQ4MWU4/NmMyNjA2NTNhYTQ0/NDI0ZmRiNjY5ODlk/NGViMjgzN2UwMmUw/NTI2OTFjYS9taW5p/bWFsaXN0YmFrZXIu/Y29tLw",
+          "time": "30:00",
+          "prep_time": "23:00",
+          "cook_time": "07:00",
+          "ingredients": "1 cup almond flour, 1 cup tapioca starch, 1/4 tsp sea salt, 1 large egg ((preferably free-range, organic whenever possible)), 4 large egg yolks ((preferably free-range, organic whenever possible)), Gluten-Free All Purpose Flour ((for dusting the board)), Easy Vegan Pesto, Easy Vegan Bolognese  (or Chickpea Bolognese), Red pepper flakes, Vegan Parmesan Cheese",
+          "instructions": [
+            {
+              "text": "To a food processor, add almond flour, tapioca starch, and sea salt and pulse to combine. Add egg and egg yolks and pulse until a doughy texture forms (see photo). If still tacky and it sticks to your hands, add a bit more almond flour and tapioca starch a little at a time until it's more of a moldable dough.",
+              "name": "To a food processor, add almond flour, tapioca starch, and sea salt and pulse to combine. Add egg and egg yolks and pulse until a doughy texture forms (see photo). If still tacky and it sticks to your hands, add a bit more almond flour and tapioca starch a little at a time until it's more of a moldable dough.",
+              "url": "https://minimalistbaker.com/easy-gluten-free-pasta-grain-free/#wprm-recipe-53690-step-0-0",
+              "image": []
+            },
+            {
+              "text": "Sprinkle a rolling pin and a cutting board or clean, flat surface with a little gluten free flour (tapioca used in excess can make the pasta too sticky). Divide the dough mixture into two even pieces and set one aside, covered. Transfer the other half to the floured surface and use a rolling pin to roll out dough into a very thin layer (as thin as possible without breaking), adding more tapioca starch or gluten free flour as needed to prevent sticking.",
+              "name": "Sprinkle a rolling pin and a cutting board or clean, flat surface with a little gluten free flour (tapioca used in excess can make the pasta too sticky). Divide the dough mixture into two even pieces and set one aside, covered. Transfer the other half to the floured surface and use a rolling pin to roll out dough into a very thin layer (as thin as possible without breaking), adding more tapioca starch or gluten free flour as needed to prevent sticking.",
+              "url": "https://minimalistbaker.com/easy-gluten-free-pasta-grain-free/#wprm-recipe-53690-step-0-1",
+              "image": []
+            },
+            {
+              "text": "Use a pizza cutter or sharp knife to cut pasta into roughly 1/2-inch-wide strips (or other desired shape — just cut as evenly as possible to ensure even cooking). Dust cut pasta with more tapioca starch or gluten free flour to prevent sticking. Then carefully set aside and repeat this process with second half of pasta dough.",
+              "name": "Use a pizza cutter or sharp knife to cut pasta into roughly 1/2-inch-wide strips (or other desired shape — just cut as evenly as possible to ensure even cooking). Dust cut pasta with more tapioca starch or gluten free flour to prevent sticking. Then carefully set aside and repeat this process with second half of pasta dough.",
+              "url": "https://minimalistbaker.com/easy-gluten-free-pasta-grain-free/#wprm-recipe-53690-step-0-2",
+              "image": []
+            },
+            {
+              "text": "In the meantime, bring a large pot of water to a boil. Salt the water well, then add pasta and cook for 5-7 minutes, or until al dente. Drain and serve with desired sauce. We found our Vegan Pesto to be a lovely addition. Garnish with red pepper flakes and/or vegan parmesan cheese to elevate the pasta even more.",
+              "name": "In the meantime, bring a large pot of water to a boil. Salt the water well, then add pasta and cook for 5-7 minutes, or until al dente. Drain and serve with desired sauce. We found our Vegan Pesto to be a lovely addition. Garnish with red pepper flakes and/or vegan parmesan cheese to elevate the pasta even more.",
+              "url": "https://minimalistbaker.com/easy-gluten-free-pasta-grain-free/#wprm-recipe-53690-step-0-3",
+              "image": []
+            },
+            {
+              "text": "STORAGE: Store leftover cooked pasta in the refrigerator for up to 2-3 days. Reheat in the microwave or in a saucepan with desired sauce (though best when fresh). Uncooked, unrolled pasta dough can be stored tightly sealed in the refrigerator for up to 3-4 days.",
+              "name": "STORAGE: Store leftover cooked pasta in the refrigerator for up to 2-3 days. Reheat in the microwave or in a saucepan with desired sauce (though best when fresh). Uncooked, unrolled pasta dough can be stored tightly sealed in the refrigerator for up to 3-4 days.",
+              "url": "https://minimalistbaker.com/easy-gluten-free-pasta-grain-free/#wprm-recipe-53690-step-0-4",
+              "image": []
+            },
+            {
+              "text": "FREEZING: If freezing, we recommend either freezing the unrolled ball of dough then thawing before rolling out and boiling, or rolling out, cutting into desired shapes, dusting with tapioca starch or gluten free flour to prevent sticking, and letting air-dry for 30 minutes to 1 hour, then freezing in a sealed container for up to 1 month. Add to boiling water and cook as directed until al dente.",
+              "name": "FREEZING: If freezing, we recommend either freezing the unrolled ball of dough then thawing before rolling out and boiling, or rolling out, cutting into desired shapes, dusting with tapioca starch or gluten free flour to prevent sticking, and letting air-dry for 30 minutes to 1 hour, then freezing in a sealed container for up to 1 month. Add to boiling water and cook as directed until al dente.",
+              "url": "https://minimalistbaker.com/easy-gluten-free-pasta-grain-free/#wprm-recipe-53690-step-0-5",
+              "image": []
+            }
+          ],
+          "servings": 4,
+          "calories": 332,
+          "publisher": "Minimalist Baker",
+          "rating": {
+            "ratingValue": 4.8,
+            "bestRating": 5.0,
+            "reviewCount": 40,
+            "is_tripadvisor": false
+          },
+          "recipeCategory": "Entrée",
+          "recipeCuisine": "Dairy-Free,Gluten-Free,Grain-Free"
+        },
+        "extra_snippets": [
+          "In fact a large number of Italian pasta makers Barilla etc do not. Only flour, semolina, salt and water. It works beautiful even for ravioli. ... Recipe is great but I don’t eat eggs. Can I use egg substitute? Thank you Margaret ... Hi Margaret, We haven’t tested it with any egg alternatives. Our best guess would be either a vegan egg (the store-bought version), our homemade vegan scrambled “egg,” or maybe aquafaba. Let us know if you try anything! ... Gluten free is entirely different to making regular pasta, so the eggs are definitely needed for binding!",
+          "Tender, easy-to-make gluten free pasta made with 4 simple ingredients! Made in the food processor and ready in 30 minutes or less!",
+          "Inspired by pasta night without the gluten, and having such tough luck with affordable (and actually good) store-bought options, we set out to make our own. Spoiler alert: major success! This 4-ingredient, 30 minute version is perfect for gluten free pasta night! Fresh pasta has been enthusiastically enjoyed in Italy for thousands of years. But who actually invented it? The answer is debated! You can learn more about the history of pasta here. Making homemade gluten free pasta is surprisingly easy!",
+          "Making homemade gluten free pasta is surprisingly easy! It starts with adding the following to a food processor: ... The leftover egg whites can be used to make omelets and frittatas, as a binder for macaroons (similar to using aquafaba), and so much more!"
+        ]
+      },
+      {
+        "title": "How to Make Fresh Gluten-Free Pasta",
+        "url": "https://glutenfreebaking.com/how-to-make-fresh-gluten-free-pasta/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It&#x27;s easy to <strong>make</strong> fresh <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong>. You only need 4 ingredients and 25 minutes.",
+        "page_age": "2015-08-11T18:27:37",
+        "profile": {
+          "name": "Gluten-Free Baking",
+          "url": "https://glutenfreebaking.com/how-to-make-fresh-gluten-free-pasta/",
+          "long_name": "glutenfreebaking.com",
+          "img": "https://imgs.search.brave.com/I25iu38aPCGEuxsPKLh7teARgH-v-ikjbsYtqwQalRs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NkZDhlYzYz/NGY5ZThlYjQxZjNl/ZTA0YzllOTljODk2/NzFhZjIxODI5NTEx/Y2M3YzdhOGQzY2Qy/Mjg0N2M3ZS9nbHV0/ZW5mcmVlYmFraW5n/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "glutenfreebaking.com",
+          "hostname": "glutenfreebaking.com",
+          "favicon": "https://imgs.search.brave.com/I25iu38aPCGEuxsPKLh7teARgH-v-ikjbsYtqwQalRs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NkZDhlYzYz/NGY5ZThlYjQxZjNl/ZTA0YzllOTljODk2/NzFhZjIxODI5NTEx/Y2M3YzdhOGQzY2Qy/Mjg0N2M3ZS9nbHV0/ZW5mcmVlYmFraW5n/LmNvbS8",
+          "path": "  › home  › pasta  › how to make fresh gluten-free pasta"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/zMJgltqYN-Cog8UVABHiF8mnJhJMWGZHR5TbLkbCoAM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9nbHV0/ZW5mcmVlYmFraW5n/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNS8wOC9HbHV0/ZW4tRnJlZS1GcmVz/aC1QYXN0YV9QbGF0/ZS0yLmpwZw",
+          "original": "https://glutenfreebaking.com/wp-content/uploads/2015/08/Gluten-Free-Fresh-Pasta_Plate-2.jpg",
+          "logo": false
+        },
+        "age": "August 11, 2015",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Elizabeth"
+            }
+          ],
+          "date": "Aug 11, 2015",
+          "publisher": {
+            "type": "organization",
+            "name": "Gluten Free Baking",
+            "url": "https://glutenfreebaking.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/Kem57Tp_16UJf86R5GNbtK4FRAk_ApHEiR8NIU-Y0YE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9nbHV0/ZW5mcmVlYmFraW5n/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOC8wNy9HbHV0/ZW4tRnJlZS1CYWtp/bmctTG9nby00LnBu/Zw",
+              "original": "https://glutenfreebaking.com/wp-content/uploads/2018/07/Gluten-Free-Baking-Logo-4.png"
+            }
+          }
+        },
+        "recipe": {
+          "title": "Fresh Gluten-Free Pasta",
+          "description": "",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/zMJgltqYN-Cog8UVABHiF8mnJhJMWGZHR5TbLkbCoAM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9nbHV0/ZW5mcmVlYmFraW5n/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNS8wOC9HbHV0/ZW4tRnJlZS1GcmVz/aC1QYXN0YV9QbGF0/ZS0yLmpwZw",
+            "original": "https://glutenfreebaking.com/wp-content/uploads/2015/08/Gluten-Free-Fresh-Pasta_Plate-2.jpg"
+          },
+          "url": "https://glutenfreebaking.com/how-to-make-fresh-gluten-free-pasta/",
+          "domain": "glutenfreebaking.com",
+          "favicon": "https://imgs.search.brave.com/I25iu38aPCGEuxsPKLh7teARgH-v-ikjbsYtqwQalRs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NkZDhlYzYz/NGY5ZThlYjQxZjNl/ZTA0YzllOTljODk2/NzFhZjIxODI5NTEx/Y2M3YzdhOGQzY2Qy/Mjg0N2M3ZS9nbHV0/ZW5mcmVlYmFraW5n/LmNvbS8",
+          "time": "25:00",
+          "prep_time": "20:00",
+          "cook_time": "05:00",
+          "ingredients": "1 1/2 cups brown rice flour, plus more for dusting ((7 1/2 ounces; 212 grams)), 1/2 cup tapioca starch ((2 ounces; 56 grams)), 1 teaspoon xanthan gum, 4 large eggs ((about 7 ounces; 200 grams out of shell))",
+          "instructions": [
+            {
+              "text": "In large bowl, whisk together brown rice flour, tapioca starch, and xanthan gum. Add eggs. Switch to a wooden spoon and stir until a dough forms. Generously dust your counter with brown rice flour. Turn dough out onto counter and knead a few times until fairly smooth.",
+              "name": "In large bowl, whisk together brown rice flour, tapioca starch, and xanthan gum. Add eggs. Switch to a wooden spoon and stir until a dough forms. Generously dust your counter with brown rice flour. Turn dough out onto counter and knead a few times until fairly smooth.",
+              "url": "https://glutenfreebaking.com/how-to-make-fresh-gluten-free-pasta/#wprm-recipe-3985-step-0-0",
+              "image": []
+            },
+            {
+              "text": "Divide dough into four equal pieces and work with 1 piece at a time, keeping the rest covered. Press the dough to flatten it slightly. Using a pasta machine set at the widest setting, run the dough through 2 times. Continue rolling dough through successively narrower settings until you reach the second-to-last setting.",
+              "name": "Divide dough into four equal pieces and work with 1 piece at a time, keeping the rest covered. Press the dough to flatten it slightly. Using a pasta machine set at the widest setting, run the dough through 2 times. Continue rolling dough through successively narrower settings until you reach the second-to-last setting.",
+              "url": "https://glutenfreebaking.com/how-to-make-fresh-gluten-free-pasta/#wprm-recipe-3985-step-0-1",
+              "image": []
+            },
+            {
+              "text": "Cut dough sheet in half horizontally and pass each through the fettuccine cutter. (The spaghetti setting is too thin for this gluten-free pasta.) Dust pasta with brown rice flour and place on a rimmed baking sheet. Repeat with remaining dough pieces.",
+              "name": "Cut dough sheet in half horizontally and pass each through the fettuccine cutter. (The spaghetti setting is too thin for this gluten-free pasta.) Dust pasta with brown rice flour and place on a rimmed baking sheet. Repeat with remaining dough pieces.",
+              "url": "https://glutenfreebaking.com/how-to-make-fresh-gluten-free-pasta/#wprm-recipe-3985-step-0-2",
+              "image": []
+            },
+            {
+              "text": "Bring a pot of salted water to a boil. Cook half the batch of pasta until tender, about 5 minutes. Toss with sauce. Repeat with remaining pasta. Serve immediately.",
+              "name": "Bring a pot of salted water to a boil. Cook half the batch of pasta until tender, about 5 minutes. Toss with sauce. Repeat with remaining pasta. Serve immediately.",
+              "url": "https://glutenfreebaking.com/how-to-make-fresh-gluten-free-pasta/#wprm-recipe-3985-step-0-3",
+              "image": []
+            }
+          ],
+          "servings": 4,
+          "publisher": "GlutenFreeBaking.com",
+          "rating": {
+            "ratingValue": 5.0,
+            "bestRating": 5.0,
+            "reviewCount": 3,
+            "is_tripadvisor": false
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Gluten Free Baking",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Repeat with remaining pasta. Serve immediately. ... I’m new to the world of gluten free foods after discovering my children have sensitivities to gluten and dairy. They also tested positive for sensitivity to tapioca, which I’m seeing a lot in GF recipes. Is there a good substitute for tapioca flour?? Thanks- your recipes look delicious, I want to try them all! ... Homemade pasta is the best!",
+          "Homemade pasta is the best! Thank you for this recipe. I was wondering if a person might use 1 egg and a 6 (?) egg whites instead of the 4 whole eggs. We are trying to cut our cholesterol!",
+          "After whisking them together, I added two eggs and stirred everything together with a wooden spoon. It was by far the simplest fresh gluten-free pasta recipe I’d ever attempted. The dough looked so beautiful that I couldn’t help but smile. I rolled it out and cut it into fat ribbons.",
+          "After a quick boil in salted water, I strained the noodles. They had plumped up nicely during cooking, but didn’t look bloated and weren’t falling apart at the edges, two issues I’d dealt with before when testing gluten-free pasta recipes. Inspired by Penny’s video, I sautéed a little garlic in a lot of butter, grated some Parmesan, and finished the pasta with a little lemon zest."
+        ]
+      },
+      {
+        "title": "Homemade Gluten Free Pasta – healthyGFfamily.com",
+        "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This is my son&#x27;s <strong>recipe</strong> <strong>for</strong> fresh, <strong>homemade</strong> <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> and it is unreal! ... This post may contain affiliate links. Please read our Disclaimer. If you’re looking for my son’s Simple Marinara Sauce, click here. If you’re looking <strong>for</strong> <strong>Homemade</strong> <strong>Gluten</strong>-<strong>Free</strong> <strong>Pasta</strong>, you’re in the right place! If you follow my Instagram stories, you’ve seen my son <strong>make</strong> ...",
+        "page_age": "2019-03-11T00:07:53",
+        "profile": {
+          "name": "Healthygffamily",
+          "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/",
+          "long_name": "healthygffamily.com",
+          "img": "https://imgs.search.brave.com/mp3bV2xisIyZpkKONwVkssaQEMsI_SoyfHWeOIgr9zU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhmZWI3NDdj/OWZiYWJmYmJmMjRj/YTY3OTk3MjFmMTU3/NTNlMGE4NWVlZTkx/M2MzZTU0ZDFjNzJh/NTRkM2M4My93d3cu/aGVhbHRoeWdmZmFt/aWx5LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthygffamily.com",
+          "hostname": "www.healthygffamily.com",
+          "favicon": "https://imgs.search.brave.com/mp3bV2xisIyZpkKONwVkssaQEMsI_SoyfHWeOIgr9zU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhmZWI3NDdj/OWZiYWJmYmJmMjRj/YTY3OTk3MjFmMTU3/NTNlMGE4NWVlZTkx/M2MzZTU0ZDFjNzJh/NTRkM2M4My93d3cu/aGVhbHRoeWdmZmFt/aWx5LmNvbS8",
+          "path": "› recipe  › homemade-gluten-free-pasta"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5qXVASxQ1DUFv7yL4n-l9yuZ6PdZAyh2Z49e9A3VKHA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGVhbHRoeWdmZmFt/aWx5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8wMy9F/RTA3NkEyNy1CNkU2/LTQwOEMtQjgxMy1B/NjRDOEVFODc2NkIt/MzAweDMwMC0xLmpw/Zw",
+          "original": "https://www.healthygffamily.com/wp-content/uploads/2019/03/EE076A27-B6E6-408C-B813-A64C8EE8766B-300x300-1.jpg",
+          "logo": false
+        },
+        "age": "March 11, 2019",
+        "recipe": {
+          "title": "gluten free pasta",
+          "description": "With just 2 ingredients, this <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> is unreal! Tender texture that holds together well and amazing flavor. Prep time includes letting dough rest 30 minutes.",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/5qXVASxQ1DUFv7yL4n-l9yuZ6PdZAyh2Z49e9A3VKHA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGVhbHRoeWdmZmFt/aWx5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8wMy9F/RTA3NkEyNy1CNkU2/LTQwOEMtQjgxMy1B/NjRDOEVFODc2NkIt/MzAweDMwMC0xLmpw/Zw",
+            "original": "https://www.healthygffamily.com/wp-content/uploads/2019/03/EE076A27-B6E6-408C-B813-A64C8EE8766B-300x300-1.jpg"
+          },
+          "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/",
+          "domain": "healthygffamily.com",
+          "favicon": "https://imgs.search.brave.com/mp3bV2xisIyZpkKONwVkssaQEMsI_SoyfHWeOIgr9zU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhmZWI3NDdj/OWZiYWJmYmJmMjRj/YTY3OTk3MjFmMTU3/NTNlMGE4NWVlZTkx/M2MzZTU0ZDFjNzJh/NTRkM2M4My93d3cu/aGVhbHRoeWdmZmFt/aWx5LmNvbS8",
+          "time": "01:24:00",
+          "prep_time": "01:20:00",
+          "cook_time": "04:00",
+          "ingredients": "2 1/2 cups all purpose gluten free flour with xanthan gum, 4  eggs, 2  egg yolks, Pasta machine: we use the Marcato Atlas 150 (with 9 settings)",
+          "instructions": [
+            {
+              "text": "On a pastry mat, add flour and create a volcano shape with the flour on outside and empty center.",
+              "name": "On a pastry mat, add flour and create a volcano shape with the flour on outside and empty center.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-0",
+              "image": []
+            },
+            {
+              "text": "Crack eggs directly into the center and whisk. Then slowly whisk flour into the egg mixture until it starting to form a dough.",
+              "name": "Crack eggs directly into the center and whisk. Then slowly whisk flour into the egg mixture until it starting to form a dough.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-1",
+              "image": []
+            },
+            {
+              "text": "Using your hands knead dough for 10 minutes, dough will be stiff. There may be leftover flour. The texture you're aiming for a little gummy, a little stiff, but not sticky (you do not want it sticking to hands, or it won't go through the machine)",
+              "name": "Using your hands knead dough for 10 minutes, dough will be stiff. There may be leftover flour. The texture you're aiming for a little gummy, a little stiff, but not sticky (you do not want it sticking to hands, or it won't go through the machine)",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-2",
+              "image": []
+            },
+            {
+              "text": "Form dough into a ball, wrap in plastic wrap and let it rest for 30 minutes.",
+              "name": "Form dough into a ball, wrap in plastic wrap and let it rest for 30 minutes.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-3",
+              "image": []
+            },
+            {
+              "text": "Cut the dough into 4 pieces. Keep 3 pieces wrapped in plastic so they don't dry out and one piece at a time, roll to 1/8 of an inch thick.",
+              "name": "Cut the dough into 4 pieces. Keep 3 pieces wrapped in plastic so they don't dry out and one piece at a time, roll to 1/8 of an inch thick.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-4",
+              "image": []
+            },
+            {
+              "text": "Using a pasta machine (we use the Marcato Atlas 150, with 9 settings), starting at the lowest setting (0) roll it through the machine 1-2 times, then raise the setting to 1, roll it through the machine 1-2 times, raise to 2, and roll once, raise 3 an roll once. At this point the dough will be quite long and the edges will not be \"clean\".",
+              "name": "Using a pasta machine (we use the Marcato Atlas 150, with 9 settings), starting at the lowest setting (0) roll it through the machine 1-2 times, then raise the setting to 1, roll it through the machine 1-2 times, raise to 2, and roll once, raise 3 an roll once. At this point the dough will be quite long and the edges will not be \"clean\".",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-5",
+              "image": []
+            },
+            {
+              "text": "Fold dough into thirds and using a rolling pin, roll again to about the 1/8 an inch. This helps smooth out the pasta and squares the edges.",
+              "name": "Fold dough into thirds and using a rolling pin, roll again to about the 1/8 an inch. This helps smooth out the pasta and squares the edges.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-6",
+              "image": []
+            },
+            {
+              "text": "Put through the pasta machine on lowest the setting -- it should go through lowest setting with some ease. If not, roll it thinner.",
+              "name": "Put through the pasta machine on lowest the setting -- it should go through lowest setting with some ease. If not, roll it thinner.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-7",
+              "image": []
+            },
+            {
+              "text": "Repeat as above, working lowest to highest, rolling dough through the machine once at each setting until about setting 5. NOTE: When rolling the dough through the machine, do not let the edges touch the end of the machine.",
+              "name": "Repeat as above, working lowest to highest, rolling dough through the machine once at each setting until about setting 5. NOTE: When rolling the dough through the machine, do not let the edges touch the end of the machine.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-8",
+              "image": []
+            },
+            {
+              "text": "It's thin enough when you can see your fingers through it. For us, it's thin enough at setting 5, for another machine it may be different.",
+              "name": "It's thin enough when you can see your fingers through it. For us, it's thin enough at setting 5, for another machine it may be different.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-9",
+              "image": []
+            },
+            {
+              "text": "Cut it to the length you want",
+              "name": "Cut it to the length you want",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-10",
+              "image": []
+            },
+            {
+              "text": "Put it through the pasta machine to cut it into the shape you want -- we use the fettuccine attachment.",
+              "name": "Put it through the pasta machine to cut it into the shape you want -- we use the fettuccine attachment.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-11",
+              "image": []
+            },
+            {
+              "text": "Then gently toss shaped pasta together with a little flour so it doesn't stick together.",
+              "name": "Then gently toss shaped pasta together with a little flour so it doesn't stick together.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-12",
+              "image": []
+            },
+            {
+              "text": "Can be cooked fresh or dry overnight and cook it dried.",
+              "name": "Can be cooked fresh or dry overnight and cook it dried.",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-13",
+              "image": []
+            },
+            {
+              "text": "For fresh cook 2-3 minutes, or until al dente (tender but firm)",
+              "name": "For fresh cook 2-3 minutes, or until al dente (tender but firm)",
+              "url": "https://www.healthygffamily.com/recipe/homemade-gluten-free-pasta/#wprm-recipe-17230-step-0-14",
+              "image": []
+            }
+          ],
+          "servings": 2,
+          "publisher": "Healthy Gluten-free Family",
+          "rating": {
+            "ratingValue": 3.5,
+            "bestRating": 5.0,
+            "reviewCount": 2,
+            "is_tripadvisor": false
+          },
+          "recipeCategory": "Dinner,Pasta",
+          "recipeCuisine": "Gluten-Free,Vegetarian"
+        },
+        "extra_snippets": [
+          "This is my son's recipe for fresh, homemade gluten-free pasta and it is unreal! ... This post may contain affiliate links. Please read our Disclaimer. If you’re looking for my son’s Simple Marinara Sauce, click here. If you’re looking for Homemade Gluten-Free Pasta, you’re in the right place! If you follow my Instagram stories, you’ve seen my son make fresh, homemade gluten free pasta many times.",
+          "We made it twice that week and today we are finally sharing the recipe! One caveat: there may be a learning curve in making homemade pasta. You start to get a feel for what the right texture and dough thickness is. So give it a try, play with it and let me know how it goes. Here are some tips and photos you can refer to as you make your own. First, there are only two ingredients! Eggs and Gluten-Free Flour (with xanthan gum).",
+          "I really miss making soup with Rheames frozen egg noodles and wonder if this recipe would work for that style. ... Great question! You should be able to make pasta of any thickness with this dough. Let me know if you try ... Hi! My name is Karen, and I’m the mom in our Healthy Gluten-Free Family.",
+          "It’s shown here with my son’s homemade Simple San Marzano Marinara Sauce. Hope you have fun making this pasta and love it as much as we do! Scroll down for the recipe and leave a comment if you try. ... With just 2 ingredients, this gluten-free pasta is unreal!"
+        ]
+      },
+      {
+        "title": "Fresh Gluten-Free Pasta Recipe | Epicurious",
+        "url": "https://www.epicurious.com/recipes/food/views/fresh-gluten-free-pasta-362249",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "When we first started <strong>making</strong> <strong>pasta</strong>, ... <strong>with</strong> <strong>gluten</strong>-<strong>free</strong> flours, without much success. It took us about fifteen different <strong>recipes</strong> and wranglings with flour combinations before we figured out the right ratio of flours to liquids. Now, at least once a week, when we want a quick meal, we pull out flours and <strong>make</strong> <strong>homemade</strong> <strong>pasta</strong>...",
+        "page_age": "2010-10-28T04:00:00",
+        "profile": {
+          "name": "Epicurious",
+          "url": "https://www.epicurious.com/recipes/food/views/fresh-gluten-free-pasta-362249",
+          "long_name": "epicurious.com",
+          "img": "https://imgs.search.brave.com/27oA4BeNeQ_C5bXuSW2NnuLhf9K0LryAVqJGVem7QCM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzI4NTNlMzlk/OTM5ZjZhN2M3OWIw/MzIzZGJlYjNhYzEz/OTE2ZTA3Y2E5YTU1/NmY1N2MzYmJiNGVm/Mjk0YzZiYy93d3cu/ZXBpY3VyaW91cy5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "epicurious.com",
+          "hostname": "www.epicurious.com",
+          "favicon": "https://imgs.search.brave.com/27oA4BeNeQ_C5bXuSW2NnuLhf9K0LryAVqJGVem7QCM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzI4NTNlMzlk/OTM5ZjZhN2M3OWIw/MzIzZGJlYjNhYzEz/OTE2ZTA3Y2E5YTU1/NmY1N2MzYmJiNGVm/Mjk0YzZiYy93d3cu/ZXBpY3VyaW91cy5j/b20v",
+          "path": "› recipes  › food  › views  › fresh-gluten-free-pasta-362249"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/usJIcExH20PE1N3rb3vSi-un4IFbbnZa52eQVgZ5xTM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMuZXBpY3VyaW91/cy5jb20vcGhvdG9z/LzU0YjMwZDUwNDYw/YjQ0MjMzNjNlOGU2/My9tYXN0ZXIvd18y/MDAwLGhfMjAwMCxj/X2xpbWl0LzM2MjI0/OV9nbHV0ZW4tZnJl/ZS1wYXN0YV8xeDEu/anBn",
+          "original": "https://assets.epicurious.com/photos/54b30d50460b4423363e8e63/master/w_2000,h_2000,c_limit/362249_gluten-free-pasta_1x1.jpg",
+          "logo": false
+        },
+        "age": "October 28, 2010",
+        "recipe": {
+          "title": "Fresh Gluten-Free Pasta",
+          "description": "When you find out you cannot eat gluten, one of the first foods you worry about living without is pasta. There&#x27;s a certain mourning involved, imagining a trip to Italy without a mound of fresh fettuccine.  \n\nGuess what? The Italians make great gluten-free pasta, since many of their citizens have celiac sprue. You can buy a package of gluten-free pasta at the farmacia and take it to the best restaurant in town, where they will make the pasta of the day for you.  \n\nWhen we first started making pasta, we tried our favorite gluten pasta recipes with gluten-free flours, without much success. It too",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/usJIcExH20PE1N3rb3vSi-un4IFbbnZa52eQVgZ5xTM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMuZXBpY3VyaW91/cy5jb20vcGhvdG9z/LzU0YjMwZDUwNDYw/YjQ0MjMzNjNlOGU2/My9tYXN0ZXIvd18y/MDAwLGhfMjAwMCxj/X2xpbWl0LzM2MjI0/OV9nbHV0ZW4tZnJl/ZS1wYXN0YV8xeDEu/anBn",
+            "original": "https://assets.epicurious.com/photos/54b30d50460b4423363e8e63/master/w_2000,h_2000,c_limit/362249_gluten-free-pasta_1x1.jpg"
+          },
+          "url": "https://www.epicurious.com/recipes/food/views/fresh-gluten-free-pasta-362249",
+          "domain": "epicurious.com",
+          "favicon": "https://imgs.search.brave.com/27oA4BeNeQ_C5bXuSW2NnuLhf9K0LryAVqJGVem7QCM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzI4NTNlMzlk/OTM5ZjZhN2M3OWIw/MzIzZGJlYjNhYzEz/OTE2ZTA3Y2E5YTU1/NmY1N2MzYmJiNGVm/Mjk0YzZiYy93d3cu/ZXBpY3VyaW91cy5j/b20v",
+          "ingredients": "2/3 cup (70g/2.5oz) corn flour, 1/2 cup (70g/2.5oz) quinoa flour, 1/2 cup (60g/2.125oz) potato starch, 2 teaspoons xanthan gum, 1 teaspoon guar gum, 1 teaspoon fine sea salt, 2 large eggs, 4 egg yolks from large eggs",
+          "instructions": [
+            {
+              "text": "Sift the corn flour, quinoa flour, and potato starch into a large bowl. Add the xanthan gum, guar gum, and salt and stir. Sift the entire mixture into the bowl of a stand mixer.",
+              "image": []
+            },
+            {
+              "text": "Put the eggs and egg yolks into the bowl of dry ingredients. Run the stand mixer on medium speed with a paddle attachment until the dough feels fully formed, about 3 minutes. The final dough should feel firm yet still pliable, a little like playdough.",
+              "image": []
+            },
+            {
+              "text": "If you are using a pasta machine, cut the ball of dough into quarters and roll out each piece of dough to about a 1/2-inch thickness. We like to roll out each piece between 2 pieces of parchment paper. Lightly flour both sides of the dough with a bit more potato starch. Run the dough through the machine, increasing the setting each time, until the dough is paper-thin and long. If the pasta sheet starts to break, it is thin enough.",
+              "image": []
+            },
+            {
+              "text": "If you are making the dough by hand, we suggest you cut the ball of dough into 8 pieces, and then cut each of those pieces in half, so they are about the size of golf balls. Roll out each piece of dough as thin as you possibly can.",
+              "image": []
+            },
+            {
+              "text": "For fettuccine, use the fettuccine setting on the pasta machine. If you are cutting the dough by hand, you want ribbons of pasta, about 1/4-inch wide. For spaghetti, use the spaghetti setting on the pasta machine. If you are cutting the dough by hand, you want thin strings of pasta.",
+              "image": []
+            },
+            {
+              "text": "For ravioli, cut the rolled-out pasta into 2-inch-square pieces. Dollop the filling in the middle of a square of pasta. Brush the edges of the pasta with an egg wash. Place another pasta square on top and press down, crimping the edges. (Having a ravioli cutter on hand helps with this process.)",
+              "image": []
+            },
+            {
+              "text": "For lasagna, leave the pasta in long sheets.",
+              "image": []
+            },
+            {
+              "text": "To cook the pasta, bring a large pot of salted water to a boil. Put the pasta shape of your choice into the boiling water. When the pasta rises to the surface, take a little piece and taste it. You should be able to bite into it without it falling apart. (With gluten-free pasta, it's a fine line. One moment it's al dente, and the next it's one big ball of mush, so watch the pot.) Cooking times will vary for the different shapes. Fettuccine generally takes 4 to 5 minutes, spaghetti 3 to 4 minutes. Ravioli takes a little longer, about 5 to 6 minutes. The cooking times will differ in each kitchen, depending on how thin you were able to roll out the dough. Let your taste be the judge.",
+              "image": []
+            }
+          ],
+          "servings": 4,
+          "rating": {
+            "ratingValue": 4.6,
+            "bestRating": 5.0,
+            "reviewCount": 26,
+            "is_tripadvisor": false
+          }
+        },
+        "extra_snippets": [
+          "When you find out you cannot eat gluten, one of the first foods you worry about living without is pasta. There's a certain mourning involved, imagining a trip to Italy without a mound of fresh fettuccine. Guess what? The Italians make great gluten-free pasta, since many of their citizens have celiac sprue.",
+          "When we first started making pasta, we tried our favorite gluten pasta recipes with gluten-free flours, without much success. It took us about fifteen different recipes and wranglings with flour combinations before we figured out the right ratio of flours to liquids. Now, at least once a week, when we want a quick meal, we pull out flours and make homemade pasta.",
+          "You can buy a package of gluten-free pasta at the farmacia and take it to the best restaurant in town, where they will make the pasta of the day for you. When we first started making pasta, we tried our favorite gluten pasta recipes with gluten-free flours, without much success.",
+          "Guess what? The Italians make great gluten-free pasta, since many of their citizens have celiac sprue. You can buy a package of gluten-free pasta at the farmacia and take it to the best restaurant in town, where they will make the pasta of the day for you."
+        ]
+      },
+      {
+        "title": "Gluten Free Pasta | Pasta Recipes | Jamie Oliver",
+        "url": "https://www.jamieoliver.com/recipes/pasta-recipes/gluten-free-pasta-dough/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Learn how to <strong>make</strong> <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> with this simple <strong>recipe</strong> from Jamie Oliver; impress your friends and family and <strong>make</strong> a delicious meal all in one.",
+        "page_age": "2015-09-16T21:29:35",
+        "profile": {
+          "name": "Jamie Oliver",
+          "url": "https://www.jamieoliver.com/recipes/pasta-recipes/gluten-free-pasta-dough/",
+          "long_name": "jamieoliver.com",
+          "img": "https://imgs.search.brave.com/5o5nIIbKqUunbWEZHdATlwbTK2Qa5OJa5OGR3NRSjw4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmIzMGNlZmNk/NDdmMDA3NjUzYzc1/N2ZmYzdhNzM2MWEy/NTUwNDNlZTY1YWFm/ZmNlZTNlMWY1NGRj/OTIwMTM2OC93d3cu/amFtaWVvbGl2ZXIu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "jamieoliver.com",
+          "hostname": "www.jamieoliver.com",
+          "favicon": "https://imgs.search.brave.com/5o5nIIbKqUunbWEZHdATlwbTK2Qa5OJa5OGR3NRSjw4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmIzMGNlZmNk/NDdmMDA3NjUzYzc1/N2ZmYzdhNzM2MWEy/NTUwNDNlZTY1YWFm/ZmNlZTNlMWY1NGRj/OTIwMTM2OC93d3cu/amFtaWVvbGl2ZXIu/Y29tLw",
+          "path": "› recipes  › pasta-recipes  › gluten-free-pasta-dough"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/XuvqEkxIhDUUyiOiCqNtrTdXyGQ_6oLinTqYzP-3BdQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWcu/amFtaWVvbGl2ZXIu/Y29tL2phbWllb2xp/dmVyL3JlY2lwZS1k/YXRhYmFzZS9vbGRJ/bWFnZXMvbGFyZ2Uv/MTExNl8yXzE0Mzc5/OTY4NjcuanBnP3Ry/PXctODAwLGgtODAw",
+          "original": "https://img.jamieoliver.com/jamieoliver/recipe-database/oldImages/large/1116_2_1437996867.jpg?tr=w-800,h-800",
+          "logo": false
+        },
+        "age": "September 16, 2015",
+        "recipe": {
+          "title": "Gluten-free pasta dough",
+          "description": "Once you’ve mastered this simple dough <strong>recipe</strong>, use it in all your favourite <strong>pasta</strong> <strong>recipes</strong>.",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/XuvqEkxIhDUUyiOiCqNtrTdXyGQ_6oLinTqYzP-3BdQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWcu/amFtaWVvbGl2ZXIu/Y29tL2phbWllb2xp/dmVyL3JlY2lwZS1k/YXRhYmFzZS9vbGRJ/bWFnZXMvbGFyZ2Uv/MTExNl8yXzE0Mzc5/OTY4NjcuanBnP3Ry/PXctODAwLGgtODAw",
+            "original": "https://img.jamieoliver.com/jamieoliver/recipe-database/oldImages/large/1116_2_1437996867.jpg?tr=w-800,h-800"
+          },
+          "url": "https://www.jamieoliver.com/recipes/pasta-recipes/gluten-free-pasta-dough/",
+          "domain": "jamieoliver.com",
+          "favicon": "https://imgs.search.brave.com/5o5nIIbKqUunbWEZHdATlwbTK2Qa5OJa5OGR3NRSjw4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmIzMGNlZmNk/NDdmMDA3NjUzYzc1/N2ZmYzdhNzM2MWEy/NTUwNDNlZTY1YWFm/ZmNlZTNlMWY1NGRj/OTIwMTM2OC93d3cu/amFtaWVvbGl2ZXIu/Y29tLw",
+          "time": "45:00",
+          "ingredients": "150 g gluten-free rice flour plus extra for dusting, 50 g potato starch, 1 tablespoon corn flour, 2 tablespoons xanthan gum, ¼ teaspoon fine sea salt, 3 large free-range eggs, 1 tablespoon extra virgin olive oil",
+          "instructions": [
+            {
+              "text": "<ol class=\"recipeSteps\"><li>Place the ingredients in a food processor and blitz to a rough dough. Tip out onto a flour-dusted surface and knead for 3 to 5 minutes, or until smooth. </li><li>Cut the dough into four pieces, then carefully press a portion out flat with your fingertips and start to roll it out using a pasta machine. Start at the widest setting and roll the dough through it, lightly dusting with the rice flour if it sticks. Roll the pasta through the widest setting a second time, then click the machine down a setting and roll the dough through again. </li><li>Now, start clicking the settings down, rolling the pasta through each setting twice – gluten-free pasta isn’t as elastic as standard pasta, so make sure you avoid using the two narrowest settings, otherwise it may rip. Once you have a thin sheet of pasta (about 2mm thick), set aside on a flour-dusted surface and cover with a damp tea towel to avoid it drying out, then continue with the remaining dough.</li><li>Now’s the time to transform your dough into whichever variety of pasta you like. If you want to make tagliatelle, roll the pasta through the tagliatelle setting on your pasta machine, or use a sharp knife to slice the pasta sheets lengthways into long strips (roughly 7mm thick), placing on a flour-dusted tray as you go. To cook, place in a pan of boiling salted water for around 3 minutes, or until al dente, then serve how you like it.</li></ol>",
+              "image": []
+            }
+          ],
+          "servings": 4,
+          "calories": 273,
+          "publisher": "Jamie Oliver",
+          "recipeCategory": "Mains",
+          "recipeCuisine": "italian"
+        },
+        "extra_snippets": [
+          "Now, start clicking the settings down, rolling the pasta through each setting twice – gluten-free pasta isn’t as elastic as standard pasta, so make sure you avoid using the two narrowest settings, otherwise it may rip. Once you have a thin sheet of pasta (about 2mm thick), set aside on a flour-dusted surface and cover with a damp tea towel to avoid it drying out, then continue with the remaining dough.",
+          "If you want to make tagliatelle, roll the pasta through the tagliatelle setting on your pasta machine, or use a sharp knife to slice the pasta sheets lengthways into long strips (roughly 7mm thick), placing on a flour-dusted tray as you go. To cook, place in a pan of boiling salted water for around 3 minutes, or until al dente, then serve how you like it.",
+          "Cut the dough into four pieces, then carefully press a portion out flat with your fingertips and start to roll it out using a pasta machine. Start at the widest setting and roll the dough through it, lightly dusting with the rice flour if it sticks. Roll the pasta through the widest setting a second time, then click the machine down a setting and roll the dough through again."
+        ]
+      },
+      {
+        "title": "Gluten-Free Fresh Pasta Recipe | Serious Eats",
+        "url": "https://www.seriouseats.com/recipes/2014/05/gluten-free-fresh-pasta-recipe.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Homemade</strong> <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> is often gummy, gritty, and disappointing. Not this version. Made with brown rice flour, tapioca starch, and xanthan gum, it results in beautiful, tender noodles once cooked.",
+        "page_age": "2014-05-15T00:00:00",
+        "profile": {
+          "name": "Serious Eats",
+          "url": "https://www.seriouseats.com/recipes/2014/05/gluten-free-fresh-pasta-recipe.html",
+          "long_name": "seriouseats.com",
+          "img": "https://imgs.search.brave.com/6EEIisc1bQ2_itRIzq1mjx_1AKoYPa2a8Zj8inGOxpg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY0MjEwNDJi/N2IzMWY2NjQwYzg4/NWQ0NGQyNWNhMDFj/ZGFlNzhlYjVhYTdm/Y2NkN2Y5YmU3NTVj/YmYzZTlmMy93d3cu/c2VyaW91c2VhdHMu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "seriouseats.com",
+          "hostname": "www.seriouseats.com",
+          "favicon": "https://imgs.search.brave.com/6EEIisc1bQ2_itRIzq1mjx_1AKoYPa2a8Zj8inGOxpg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY0MjEwNDJi/N2IzMWY2NjQwYzg4/NWQ0NGQyNWNhMDFj/ZGFlNzhlYjVhYTdm/Y2NkN2Y5YmU3NTVj/YmYzZTlmMy93d3cu/c2VyaW91c2VhdHMu/Y29tLw",
+          "path": "› recipes  › 2014  › 05  › gluten-free-fresh-pasta-recipe.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6gmZzdNKoKx-glOlj4k7eSJqC_PUYtmBt5mpG-rEpo0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2VyaW91c2VhdHMu/Y29tL3RobWIvVDQw/emJ2SUtLelVubVU2/RWJuZ3hINGY5a0Nz/PS8xNTAweDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCkv/Z2x1dGVuLWZyZWUt/ZnJlc2gtcGFzdGEt/cmVjaXBlLUhFUk8t/MDExM2Q4ZGY0M2Yw/NGM5YWI3MmNlYzYx/MTg4YWZmMDIuSlBH",
+          "original": "https://www.seriouseats.com/thmb/T40zbvIKKzUnmU6EbngxH4f9kCs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-HERO-0113d8df43f04c9ab72cec61188aff02.JPG",
+          "logo": false
+        },
+        "age": "May 15, 2014",
+        "recipe": {
+          "title": "Gluten-Free Fresh Pasta Recipe",
+          "description": "<strong>Homemade</strong> <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> is often gummy, gritty, and disappointing. Not this version. Made with brown rice flour, tapioca starch, and xanthan gum, it results in beautiful, tender noodles once cooked.",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/6gmZzdNKoKx-glOlj4k7eSJqC_PUYtmBt5mpG-rEpo0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2VyaW91c2VhdHMu/Y29tL3RobWIvVDQw/emJ2SUtLelVubVU2/RWJuZ3hINGY5a0Nz/PS8xNTAweDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCkv/Z2x1dGVuLWZyZWUt/ZnJlc2gtcGFzdGEt/cmVjaXBlLUhFUk8t/MDExM2Q4ZGY0M2Yw/NGM5YWI3MmNlYzYx/MTg4YWZmMDIuSlBH",
+            "original": "https://www.seriouseats.com/thmb/T40zbvIKKzUnmU6EbngxH4f9kCs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-HERO-0113d8df43f04c9ab72cec61188aff02.JPG"
+          },
+          "url": "https://www.seriouseats.com/recipes/2014/05/gluten-free-fresh-pasta-recipe.html",
+          "domain": "seriouseats.com",
+          "favicon": "https://imgs.search.brave.com/6EEIisc1bQ2_itRIzq1mjx_1AKoYPa2a8Zj8inGOxpg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY0MjEwNDJi/N2IzMWY2NjQwYzg4/NWQ0NGQyNWNhMDFj/ZGFlNzhlYjVhYTdm/Y2NkN2Y5YmU3NTVj/YmYzZTlmMy93d3cu/c2VyaW91c2VhdHMu/Y29tLw",
+          "time": "40:00",
+          "ingredients": "1 1/2 cups (7 1/2 ounces) brown rice flour, plus more for dusting, 1/2 cup (2 ounces) tapioca starch, 1 teaspoon xanthan gum, 4 large eggs, Kosher salt",
+          "instructions": [
+            {
+              "text": "In a large bowl, whisk together brown rice flour, tapioca starch, and xanthan gum. Add eggs. Switch to a wooden spoon and stir until a dough forms. Generously dust your counter with brown rice flour. Turn dough out onto counter and knead a few times until fairly smooth.",
+              "image": [
+                "https://www.seriouseats.com/thmb/A-PsFk1TBWebTHAaO_zz18GL3_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step1-ba1cedfcd9d9492398f81b05c835c745.jpg"
+              ]
+            },
+            {
+              "text": "Divide dough into 4 equal pieces and work with 1 piece at a time, keeping the rest covered. Press the dough to flatten it slightly. Using a pasta machine set at the widest setting, run the dough through 2 times. Continue rolling dough through successively narrower settings until you reach the second-to-last setting.",
+              "image": [
+                "https://www.seriouseats.com/thmb/K0T07CgcZbUTR7X9JxPu2iFvKfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step2-5c552a44ec7b48cc9379ad4a7189d4bf.jpg"
+              ]
+            },
+            {
+              "text": "Cut dough sheet in half horizontally and pass each through the fettuccine cutter. (The spaghetti setting is too thin for this gluten-free pasta.) Dust pasta with brown rice flour and place on a rimmed baking sheet. Repeat with remaining dough pieces.",
+              "image": [
+                "https://www.seriouseats.com/thmb/8nOZQpFg4NcbQZZSAren3y_VBNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step3-cad8a79452514acf89f0369cbeda3ca4.JPG"
+              ]
+            },
+            {
+              "text": "Bring a pot of salted water to a boil. Cook pasta until tender, about 5 minutes. Serve immediately with your choice of sauce.",
+              "image": [
+                "https://www.seriouseats.com/thmb/jFduZONZCNIRgjqbTwHpgLt-VnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step4-e7b36f38d6da4437ae19ccbf177d77bc.JPG"
+              ]
+            }
+          ],
+          "servings": 4,
+          "calories": 318,
+          "rating": {
+            "ratingValue": 4.3,
+            "bestRating": 5.0,
+            "reviewCount": 7,
+            "is_tripadvisor": false
+          },
+          "recipeCategory": "Pasta",
+          "recipeCuisine": "Italian"
+        },
+        "extra_snippets": [
+          "When I'm in a mood like that, the thing I crave, more than anything, is a bowl of homemade pasta—it's just what I need to feel centered and calm. But being gluten-free, that's become a bit more difficult. Thing is, I've tried making fresh gluten-free pasta before and I've never really loved it. My previous attempts produced pasta that was far too gummy or gritty. Yet I wanted to try again. Part of me wonders if this yearning was a bit of self-sabotage, a desire to make something I thought would flop.",
+          "Part of me wonders if this yearning was a bit of self-sabotage, a desire to make something I thought would flop. Another part of me thinks it was hope. Instead of putting together a complex flour blend, I simply scooped some brown-rice flour and added a little tapioca starch and xanthan gum to it. After whisking them together, I added two eggs and stirred everything together with a wooden spoon. It was by far the simplest gluten-free pasta recipe I'd ever attempted.",
+          "They had plumped up nicely during cooking, but didn't look bloated and weren't falling apart at the edges, two issues I'd dealt with before when testing gluten-free pasta recipes. I sautéed a little garlic in a lot of butter, grated some Parmesan, and finished the pasta with a little lemon zest. I couldn't believe it: This fresh gluten-free pasta worked. Over the next two weeks, I continued making pasta. I ran it through my pasta maker.",
+          "Adding more egg than is traditional for wheat-based pasta creates a gluten-free dough that's tender and elastic, not gummy or gritty. Rolling the pasta dough only to the second-thinnest setting on the pasta machine—and avoiding the spaghetti cutter—help prevent problems that frequently plague homemade gluten-free pastas."
+        ]
+      },
+      {
+        "title": "How to Make Gluten-Free Fresh Pasta | Serious Eats",
+        "url": "https://www.seriouseats.com/2014/05/gluten-free-fresh-pasta.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Homemade</strong> <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> is often gummy, gritty, and disappointing. Not this version. Made with brown rice flour, tapioca starch, and xanthan gum, it results in beautiful, tender noodles once cooked.",
+        "page_age": "2014-05-15T00:00:00",
+        "profile": {
+          "name": "Serious Eats",
+          "url": "https://www.seriouseats.com/2014/05/gluten-free-fresh-pasta.html",
+          "long_name": "seriouseats.com",
+          "img": "https://imgs.search.brave.com/6EEIisc1bQ2_itRIzq1mjx_1AKoYPa2a8Zj8inGOxpg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY0MjEwNDJi/N2IzMWY2NjQwYzg4/NWQ0NGQyNWNhMDFj/ZGFlNzhlYjVhYTdm/Y2NkN2Y5YmU3NTVj/YmYzZTlmMy93d3cu/c2VyaW91c2VhdHMu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "seriouseats.com",
+          "hostname": "www.seriouseats.com",
+          "favicon": "https://imgs.search.brave.com/6EEIisc1bQ2_itRIzq1mjx_1AKoYPa2a8Zj8inGOxpg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY0MjEwNDJi/N2IzMWY2NjQwYzg4/NWQ0NGQyNWNhMDFj/ZGFlNzhlYjVhYTdm/Y2NkN2Y5YmU3NTVj/YmYzZTlmMy93d3cu/c2VyaW91c2VhdHMu/Y29tLw",
+          "path": "› 2014  › 05  › gluten-free-fresh-pasta.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6gmZzdNKoKx-glOlj4k7eSJqC_PUYtmBt5mpG-rEpo0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2VyaW91c2VhdHMu/Y29tL3RobWIvVDQw/emJ2SUtLelVubVU2/RWJuZ3hINGY5a0Nz/PS8xNTAweDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCkv/Z2x1dGVuLWZyZWUt/ZnJlc2gtcGFzdGEt/cmVjaXBlLUhFUk8t/MDExM2Q4ZGY0M2Yw/NGM5YWI3MmNlYzYx/MTg4YWZmMDIuSlBH",
+          "original": "https://www.seriouseats.com/thmb/T40zbvIKKzUnmU6EbngxH4f9kCs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-HERO-0113d8df43f04c9ab72cec61188aff02.JPG",
+          "logo": false
+        },
+        "age": "May 15, 2014",
+        "recipe": {
+          "title": "Gluten-Free Fresh Pasta Recipe",
+          "description": "<strong>Homemade</strong> <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> is often gummy, gritty, and disappointing. Not this version. Made with brown rice flour, tapioca starch, and xanthan gum, it results in beautiful, tender noodles once cooked.",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/6gmZzdNKoKx-glOlj4k7eSJqC_PUYtmBt5mpG-rEpo0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2VyaW91c2VhdHMu/Y29tL3RobWIvVDQw/emJ2SUtLelVubVU2/RWJuZ3hINGY5a0Nz/PS8xNTAweDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCkv/Z2x1dGVuLWZyZWUt/ZnJlc2gtcGFzdGEt/cmVjaXBlLUhFUk8t/MDExM2Q4ZGY0M2Yw/NGM5YWI3MmNlYzYx/MTg4YWZmMDIuSlBH",
+            "original": "https://www.seriouseats.com/thmb/T40zbvIKKzUnmU6EbngxH4f9kCs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-HERO-0113d8df43f04c9ab72cec61188aff02.JPG"
+          },
+          "url": "https://www.seriouseats.com/2014/05/gluten-free-fresh-pasta.html",
+          "domain": "seriouseats.com",
+          "favicon": "https://imgs.search.brave.com/6EEIisc1bQ2_itRIzq1mjx_1AKoYPa2a8Zj8inGOxpg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY0MjEwNDJi/N2IzMWY2NjQwYzg4/NWQ0NGQyNWNhMDFj/ZGFlNzhlYjVhYTdm/Y2NkN2Y5YmU3NTVj/YmYzZTlmMy93d3cu/c2VyaW91c2VhdHMu/Y29tLw",
+          "time": "40:00",
+          "ingredients": "1 1/2 cups (7 1/2 ounces) brown rice flour, plus more for dusting, 1/2 cup (2 ounces) tapioca starch, 1 teaspoon xanthan gum, 4 large eggs, Kosher salt",
+          "instructions": [
+            {
+              "text": "In a large bowl, whisk together brown rice flour, tapioca starch, and xanthan gum. Add eggs. Switch to a wooden spoon and stir until a dough forms. Generously dust your counter with brown rice flour. Turn dough out onto counter and knead a few times until fairly smooth.",
+              "image": [
+                "https://www.seriouseats.com/thmb/A-PsFk1TBWebTHAaO_zz18GL3_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step1-ba1cedfcd9d9492398f81b05c835c745.jpg"
+              ]
+            },
+            {
+              "text": "Divide dough into 4 equal pieces and work with 1 piece at a time, keeping the rest covered. Press the dough to flatten it slightly. Using a pasta machine set at the widest setting, run the dough through 2 times. Continue rolling dough through successively narrower settings until you reach the second-to-last setting.",
+              "image": [
+                "https://www.seriouseats.com/thmb/K0T07CgcZbUTR7X9JxPu2iFvKfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step2-5c552a44ec7b48cc9379ad4a7189d4bf.jpg"
+              ]
+            },
+            {
+              "text": "Cut dough sheet in half horizontally and pass each through the fettuccine cutter. (The spaghetti setting is too thin for this gluten-free pasta.) Dust pasta with brown rice flour and place on a rimmed baking sheet. Repeat with remaining dough pieces.",
+              "image": [
+                "https://www.seriouseats.com/thmb/8nOZQpFg4NcbQZZSAren3y_VBNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step3-cad8a79452514acf89f0369cbeda3ca4.JPG"
+              ]
+            },
+            {
+              "text": "Bring a pot of salted water to a boil. Cook pasta until tender, about 5 minutes. Serve immediately with your choice of sauce.",
+              "image": [
+                "https://www.seriouseats.com/thmb/jFduZONZCNIRgjqbTwHpgLt-VnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-fresh-pasta-recipe-step4-e7b36f38d6da4437ae19ccbf177d77bc.JPG"
+              ]
+            }
+          ],
+          "servings": 4,
+          "calories": 318,
+          "rating": {
+            "ratingValue": 4.3,
+            "bestRating": 5.0,
+            "reviewCount": 7,
+            "is_tripadvisor": false
+          },
+          "recipeCategory": "Pasta",
+          "recipeCuisine": "Italian"
+        },
+        "extra_snippets": [
+          "When I'm in a mood like that, the thing I crave, more than anything, is a bowl of homemade pasta—it's just what I need to feel centered and calm. But being gluten-free, that's become a bit more difficult. Thing is, I've tried making fresh gluten-free pasta before and I've never really loved it. My previous attempts produced pasta that was far too gummy or gritty. Yet I wanted to try again. Part of me wonders if this yearning was a bit of self-sabotage, a desire to make something I thought would flop.",
+          "Part of me wonders if this yearning was a bit of self-sabotage, a desire to make something I thought would flop. Another part of me thinks it was hope. Instead of putting together a complex flour blend, I simply scooped some brown-rice flour and added a little tapioca starch and xanthan gum to it. After whisking them together, I added two eggs and stirred everything together with a wooden spoon. It was by far the simplest gluten-free pasta recipe I'd ever attempted.",
+          "They had plumped up nicely during cooking, but didn't look bloated and weren't falling apart at the edges, two issues I'd dealt with before when testing gluten-free pasta recipes. I sautéed a little garlic in a lot of butter, grated some Parmesan, and finished the pasta with a little lemon zest. I couldn't believe it: This fresh gluten-free pasta worked. Over the next two weeks, I continued making pasta. I ran it through my pasta maker.",
+          "Adding more egg than is traditional for wheat-based pasta creates a gluten-free dough that's tender and elastic, not gummy or gritty. Rolling the pasta dough only to the second-thinnest setting on the pasta machine—and avoiding the spaghetti cutter—help prevent problems that frequently plague homemade gluten-free pastas."
+        ]
+      },
+      {
+        "title": "The Easiest Gluten Free Pasta Recipe Ever! - Whole Lifestyle Nutrition",
+        "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "So many people get scared by the thought of <strong>making</strong> fresh <strong>pasta</strong>. It is so easy and I have the easiest <strong>gluten</strong> <strong>free</strong> <strong>pasta</strong> <strong>recipe</strong> ever!",
+        "page_age": "2014-05-28T15:17:18",
+        "profile": {
+          "name": "Wholelifestylenutrition",
+          "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/",
+          "long_name": "wholelifestylenutrition.com",
+          "img": "https://imgs.search.brave.com/2EvLjw0cmsKLF4149Yy1Lr7f_jWA1l9fQIt9kWt7HlE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MzYmM5M2Fk/MTM4NmMxMTUyNjg2/ZmFmNmFkZGFmMzUw/MjRjZThmYzY3MzVh/MTdjMzQ2NzQzOWI3/OWJiYmU1ZS93aG9s/ZWxpZmVzdHlsZW51/dHJpdGlvbi5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "recipe",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "wholelifestylenutrition.com",
+          "hostname": "wholelifestylenutrition.com",
+          "favicon": "https://imgs.search.brave.com/2EvLjw0cmsKLF4149Yy1Lr7f_jWA1l9fQIt9kWt7HlE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MzYmM5M2Fk/MTM4NmMxMTUyNjg2/ZmFmNmFkZGFmMzUw/MjRjZThmYzY3MzVh/MTdjMzQ2NzQzOWI3/OWJiYmU1ZS93aG9s/ZWxpZmVzdHlsZW51/dHJpdGlvbi5jb20v",
+          "path": "  › the easiest gluten free pasta recipe ever!"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/WOa_Q00g7lG9N2Mdsre5GjskhYsV9AMQA_vRDtmcZks/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93aG9s/ZWxpZmVzdHlsZW51/dHJpdGlvbi5jb20v/d3AtY29udGVudC91/cGxvYWRzL0dsdXRl/bi1GcmVlLVBhc3Rh/LVJlY2lwZS1XaG9s/ZUxpZmVzdHlsZU51/dHJpdGlvbi5jb201/Xy4wMDEuanBn",
+          "original": "https://wholelifestylenutrition.com/wp-content/uploads/Gluten-Free-Pasta-Recipe-WholeLifestyleNutrition.com5_.001.jpg",
+          "logo": false
+        },
+        "age": "May 28, 2014",
+        "recipe": {
+          "title": "The Easiest Gluten Free Pasta Recipe Ever!",
+          "description": "So many people get scared by the thought of <strong>making</strong> fresh <strong>pasta</strong>. It is so easy and I have the easiest <strong>gluten</strong>-<strong>free</strong> <strong>pasta</strong> <strong>recipe</strong> ever!",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/_QK2CCEt6dQw4NYabESnKLjOmj8t37yfuaU7DAWpEgo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93aG9s/ZWxpZmVzdHlsZW51/dHJpdGlvbi5jb20v/d3AtY29udGVudC91/cGxvYWRzL0dsdXRl/bi1GcmVlLVBhc3Rh/LVJlY2lwZS1XaG9s/ZUxpZmVzdHlsZU51/dHJpdGlvbi5jb201/Xy4wMDEtMjI1eDIy/NS5qcGc",
+            "original": "https://wholelifestylenutrition.com/wp-content/uploads/Gluten-Free-Pasta-Recipe-WholeLifestyleNutrition.com5_.001-225x225.jpg"
+          },
+          "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/",
+          "domain": "wholelifestylenutrition.com",
+          "favicon": "https://imgs.search.brave.com/2EvLjw0cmsKLF4149Yy1Lr7f_jWA1l9fQIt9kWt7HlE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MzYmM5M2Fk/MTM4NmMxMTUyNjg2/ZmFmNmFkZGFmMzUw/MjRjZThmYzY3MzVh/MTdjMzQ2NzQzOWI3/OWJiYmU1ZS93aG9s/ZWxpZmVzdHlsZW51/dHJpdGlvbi5jb20v",
+          "time": "19:00",
+          "prep_time": "15:00",
+          "cook_time": "04:00",
+          "ingredients": "1 1/4 cup Now Foods Gluten Free All Purpose Flour (I have tried other brands of all purpose gluten free blends and this is hands down my favorite brand)!, 2 tbsp + more for dusting Now Foods Tapioca Flour, 2 tsp xanthan gum (this is needed to help hold the dough together), 1/4 cup water, 4 large egg yolks, 1 large egg, 1/8-1/4 tsp freshly grated nutmeg (this makes the pasta, try not to leave this out)",
+          "instructions": [
+            {
+              "text": "In a food processor, add the all purpose flour and xanthan gum and pulse several times.",
+              "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/#instruction-step-1",
+              "image": []
+            },
+            {
+              "text": "Add in egg and egg yolks and pulse until combine. Mixture will be crumbly.",
+              "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/#instruction-step-2",
+              "image": []
+            },
+            {
+              "text": "Add in water and run food processor until sticky dough forms (about 10 seconds).",
+              "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/#instruction-step-3",
+              "image": []
+            },
+            {
+              "text": "Remove dough and place onto a floured surface (use the tapioca flour to flour the hard surface).",
+              "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/#instruction-step-4",
+              "image": []
+            },
+            {
+              "text": "Knead in 2 tbsp tapioca flour or until the dough forms into a ball and is no longer sticky.",
+              "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/#instruction-step-5",
+              "image": []
+            },
+            {
+              "text": "Allow the dough to rest at room temperature for an hour. Do not skip this step. The dough will be so much easier to work with.",
+              "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/#instruction-step-6",
+              "image": []
+            },
+            {
+              "text": "Roll the dough out onto a floured surface. If it sticks, simply add more tapioca flour to the top and bottom of the dough (or both sides) as you roll it out. Roll out to 1/8″ thick or until very thin.",
+              "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/#instruction-step-7",
+              "image": []
+            },
+            {
+              "text": "Cut the dough into desired strips or shapes and place into a heavily salted pot of boiling water.",
+              "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/#instruction-step-8",
+              "image": []
+            },
+            {
+              "text": "Cook for 4 minutes or until tender. Do not overcook. Fresh pasta takes a lot less time to cook then packaged pastas.",
+              "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/#instruction-step-9",
+              "image": []
+            },
+            {
+              "text": "Drain and toss with some olive oil. Toss with favorite sauce and serve immediately.",
+              "url": "https://wholelifestylenutrition.com/recipes/easiest-gluten-free-pasta-recipe-ever/#instruction-step-10",
+              "image": []
+            }
+          ],
+          "servings": 4,
+          "publisher": "Halle Cottis",
+          "recipeCategory": "gluten-free",
+          "recipeCuisine": "italian"
+        },
+        "extra_snippets": [
+          "I promise you, you will wonder why you have waited so long to make this gluten free pasta recipe…it is that good! Enjoy!",
+          "I know so many of you might be scared to make fresh homemade pasta, but guys… it is SOOO easy! For real. When you take out the rest time, the active time preparing this pasta is under 15 minutes. The dough takes literally 1 minute to make in the food processor.",
+          "When you take out the rest time, the active time preparing this pasta is under 15 minutes. The dough takes literally 1 minute to make in the food processor. Allow the dough to rest for 1 hour at room temperature. It will be much easier to work with after it rests. When the dough is complete it should look something like this. After you allow the dough to rest for an hour (this is an important step with gluten free cooking), then you are ready to roll it out.",
+          "This is normal, reminds me of a fettuccine pasta. Now that wasn’t hard was it? Now top with your favorite sauce (mine in the picture is actually a roasted red pepper sauce) and serve immediately. I promise you, you will wonder why you have waited so long to make this gluten free pasta recipe…it is that good!"
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

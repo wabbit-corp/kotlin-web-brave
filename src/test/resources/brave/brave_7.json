@@ -1,0 +1,809 @@
+{
+  "query": {
+    "original": "Cloud-based healthcare data platforms",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "local_decision": "drop",
+    "local_locations_idx": 0,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Healthcare Data Engine | Google Cloud",
+        "url": "https://cloud.google.com/healthcare/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Healthcare</strong> <strong>Data</strong> Engine enables <strong>healthcare</strong> and life sciences leaders to generate near real-time insights from <strong>healthcare</strong> <strong>data</strong>",
+        "profile": {
+          "name": "Google",
+          "url": "https://cloud.google.com/healthcare/",
+          "long_name": "cloud.google.com",
+          "img": "https://imgs.search.brave.com/nBJfu5k7RAk6MpziuksKeACxyMazFwNA1CQemhx8KdY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTI0Mjg3MThk/OWUxNWIwNTBhZDY0/YmZlNjQ3ZjI5MmNj/NDliNjFkM2ZlZWMx/NWIwNDVmMTAwYjVl/YjQyMjY3Mi9jbG91/ZC5nb29nbGUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cloud.google.com",
+          "hostname": "cloud.google.com",
+          "favicon": "https://imgs.search.brave.com/nBJfu5k7RAk6MpziuksKeACxyMazFwNA1CQemhx8KdY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTI0Mjg3MThk/OWUxNWIwNTBhZDY0/YmZlNjQ3ZjI5MmNj/NDliNjFkM2ZlZWMx/NWIwNDVmMTAwYjVl/YjQyMjY3Mi9jbG91/ZC5nb29nbGUuY29t/Lw",
+          "path": "› healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/uDMGV0kMnfG6vQiwF-xfUQxW4G7PvTa4H3QHNV-mybs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jbG91/ZC5nb29nbGUuY29t/L19zdGF0aWMvY2xv/dWQvaW1hZ2VzL3Nv/Y2lhbC1pY29uLWdv/b2dsZS1jbG91ZC0x/MjAwLTYzMC5wbmc",
+          "original": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "Cloud Computing in Healthcare: How Its Used and 11 Examples | Built In",
+        "url": "https://builtin.com/cloud-computing/cloud-computing-in-healthcare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Used in conjunction with AI and ... a <strong>cloud</strong>-<strong>based</strong> <strong>platform</strong> which can be used for monitoring patient insights and analytics all within the <strong>cloud</strong>. Another Microsoft product, HoloLens 2, can project holographic images for the wearer, including any accessible information stored within the <strong>cloud</strong>. This allows <strong>healthcare</strong> providers access to patient <strong>data</strong> and collaborative ...",
+        "profile": {
+          "name": "Builtin",
+          "url": "https://builtin.com/cloud-computing/cloud-computing-in-healthcare",
+          "long_name": "builtin.com",
+          "img": "https://imgs.search.brave.com/LSofnT3a8dnfQERlyxKCVZrpAk3rxCR0cZu85QcezH0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzlhMWMxZWMw/MmY5NDE1NDk3NzFl/ZmNmYTg0ZTYxZWNk/MzcxNmEwYjY0MzZl/NzQ0NDlkYzNhMTgy/NzdlMmI1OS9idWls/dGluLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "builtin.com",
+          "hostname": "builtin.com",
+          "favicon": "https://imgs.search.brave.com/LSofnT3a8dnfQERlyxKCVZrpAk3rxCR0cZu85QcezH0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzlhMWMxZWMw/MmY5NDE1NDk3NzFl/ZmNmYTg0ZTYxZWNk/MzcxNmEwYjY0MzZl/NzQ0NDlkYzNhMTgy/NzdlMmI1OS9idWls/dGluLmNvbS8",
+          "path": "› cloud-computing  › cloud-computing-in-healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/D2UBMb5MsU3CNBunJKU_Kt6Bd6dgTxxgW21xZ-GbK4I/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9idWls/dGluLmNvbS9zaXRl/cy93d3cuYnVpbHRp/bi5jb20vZmlsZXMv/c3R5bGVzL29nL3B1/YmxpYy8yMDIyLTA2/L2Nsb3VkLWNvbXB1/dGluZy1oZWFsdGhj/YXJlLnBuZw",
+          "original": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-06/cloud-computing-healthcare.png",
+          "logo": false
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Mike Thomas",
+              "url": "https://builtin.com/member/mike-thomas/45"
+            }
+          ],
+          "date": "Jun 02, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Built In",
+            "url": "https://builtin.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/OAYx0hK-QDRBgWT7x9FzPk8lkOcrDYi0ul9NTUR7KAk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9idWls/dGluLmNvbS8vcHJv/ZmlsZXMvYnVpbHRp/bi9idWlsdGluLnBu/Zw",
+              "original": "https://builtin.com//profiles/builtin/builtin.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "Top 15 Health Data Platforms in 2019 | Datarade",
+        "url": "https://datarade.ai/platform-categories/health-data-platforms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Find and compare <strong>healthcare</strong> <strong>data</strong> <strong>platforms</strong>. An open list of leading marketplaces that offer and exchange health <strong>data</strong> and electronic health records (EHR&#x27;S).",
+        "profile": {
+          "name": "Datarade",
+          "url": "https://datarade.ai/platform-categories/health-data-platforms",
+          "long_name": "datarade.ai",
+          "img": "https://imgs.search.brave.com/8yO5QmpdWzAuOODvHG2LY9UKeGxbURA0hNDYwXZfE2g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmNiMjQwNmNj/Yjk2ZTgxZTQxNTlh/MjA4ZGUwMDdkODhk/ZGI2ZmE3NjhjNmFl/NTMzZjMwNThhZDIy/YTY1YzlhYS9kYXRh/cmFkZS5haS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "datarade.ai",
+          "hostname": "datarade.ai",
+          "favicon": "https://imgs.search.brave.com/8yO5QmpdWzAuOODvHG2LY9UKeGxbURA0hNDYwXZfE2g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmNiMjQwNmNj/Yjk2ZTgxZTQxNTlh/MjA4ZGUwMDdkODhk/ZGI2ZmE3NjhjNmFl/NTMzZjMwNThhZDIy/YTY1YzlhYS9kYXRh/cmFkZS5haS8",
+          "path": "  › all platforms  › health data platforms"
+        }
+      },
+      {
+        "title": "Modern Data Platforms: The Next Step in the Healthcare Cloud Journey ...",
+        "url": "https://healthtechmagazine.net/article/2023/04/modern-data-platforms-next-step-healthcare-cloud-journey",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "If an organization doesn’t have a <strong>cloud</strong> provider yet, we make recommendations <strong>based</strong> on proven, best-of-breed tools and technologies that have worked well with our customers in the past. <strong>Healthcare</strong> organizations can also take part in our modern <strong>data</strong> <strong>platform</strong> workshop, where we assess their ...",
+        "profile": {
+          "name": "Healthtechmagazine",
+          "url": "https://healthtechmagazine.net/article/2023/04/modern-data-platforms-next-step-healthcare-cloud-journey",
+          "long_name": "healthtechmagazine.net",
+          "img": "https://imgs.search.brave.com/2vP4KSMGM2CuS-SrkDJ0Oa8msmlqjTS7T3ie_xGQdPA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWU1MjM1YjRi/NjY0NjY2NTU5MzMz/NGRjYWMxMGE0NTJm/MmFkMTgxYjAzNTZh/M2ZhOTJmNjQxYWM2/MDJiZmRlZC9oZWFs/dGh0ZWNobWFnYXpp/bmUubmV0Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthtechmagazine.net",
+          "hostname": "healthtechmagazine.net",
+          "favicon": "https://imgs.search.brave.com/2vP4KSMGM2CuS-SrkDJ0Oa8msmlqjTS7T3ie_xGQdPA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWU1MjM1YjRi/NjY0NjY2NTU5MzMz/NGRjYWMxMGE0NTJm/MmFkMTgxYjAzNTZh/M2ZhOTJmNjQxYWM2/MDJiZmRlZC9oZWFs/dGh0ZWNobWFnYXpp/bmUubmV0Lw",
+          "path": "› article  › 2023  › 04  › modern-data-platforms-next-step-healthcare-cloud-journey"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AiAVvxVtjkBmkfwBZMblvCe0C-jztI6O62lcsBG0mqQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oZWFs/dGh0ZWNobWFnYXpp/bmUubmV0L3NpdGVz/L2hlYWx0aHRlY2ht/YWdhemluZS5uZXQv/ZmlsZXMvc3R5bGVz/L2Nkd19oZXJvL3B1/YmxpYy9hcnRpY2xl/cy8lNUJjZHdfdGVj/aF9zaXRlJTNBZmll/bGRfc2l0ZV9zaG9y/dG5hbWUlNUQvMjAy/MzA0L0hUUTEyM19N/RFBfSGVybzIuanBn/P2l0b2s9Y0ZBcko0/eWo",
+          "original": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202304/HTQ123_MDP_Hero2.jpg?itok=cFArJ4yj",
+          "logo": false
+        },
+        "age": "April 14, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Lee Pierce",
+              "url": "https://healthtechmagazine.net/author/lee-pierce"
+            }
+          ],
+          "date": "Apr 14, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Publisher",
+            "url": "https://healthtechmagazine.net/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/r3B-WG0GXOR5IuX6KOXQLnV5gBlGO_7vgq1fukZoi1I/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oZWFs/dGh0ZWNobWFnYXpp/bmUubmV0L3RoZW1l/cy9jZHcvaW1hZ2Vz/L2xvZ28tY2R3X2hl/YWx0aHRlY2gucG5n",
+              "original": "https://healthtechmagazine.net/themes/cdw/images/logo-cdw_healthtech.png"
+            }
+          },
+          "isAccessibleForFree": true
+        }
+      },
+      {
+        "title": "Health Data Cloud",
+        "url": "https://www.healthdatacloud.eu/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The EBRAINS HealthDataCloud is ... and computing centres. Nodes generally share a common system architecture <strong>based</strong> on the Charité VRE, enabling research consortia to manage and process <strong>data</strong> while making <strong>data</strong> discoverable and shareable on the EBRAINS Knowledge ...",
+        "profile": {
+          "name": "Healthdatacloud",
+          "url": "https://www.healthdatacloud.eu/",
+          "long_name": "healthdatacloud.eu",
+          "img": "https://imgs.search.brave.com/cExB1V8UrNJxiC087j4Up1AUxzFqFCawnsrSHKpHiec/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDQzMWNiYjBm/MmJhMWMwM2YyMzM4/NGExMzA0M2UwMDkx/Y2U2ODM2OWRmMTFh/ZjU4YjM3NGJkMmI5/NGMzZWU3Ny93d3cu/aGVhbHRoZGF0YWNs/b3VkLmV1Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthdatacloud.eu",
+          "hostname": "www.healthdatacloud.eu",
+          "favicon": "https://imgs.search.brave.com/cExB1V8UrNJxiC087j4Up1AUxzFqFCawnsrSHKpHiec/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDQzMWNiYjBm/MmJhMWMwM2YyMzM4/NGExMzA0M2UwMDkx/Y2U2ODM2OWRmMTFh/ZjU4YjM3NGJkMmI5/NGMzZWU3Ny93d3cu/aGVhbHRoZGF0YWNs/b3VkLmV1Lw",
+          "path": ""
+        }
+      },
+      {
+        "title": "Top 10 Big Data startups in Healthcare",
+        "url": "https://www.medicalstartups.org/top/bigdata/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Country: USA | Funding: $142.2M HealthVerity has created a <strong>cloud</strong> <strong>based</strong> <strong>platform</strong> that offers tools for managing, linking, distributing, licensing and purchasing patient <strong>data</strong>. Marketing to both <strong>data</strong> buyers and <strong>data</strong> providers, HealthVerity hopes to help customers gain new insight on patient health by enhancing the utility, transparency, availability and cost efficiency of traditional and emerging <strong>healthcare</strong> ...",
+        "profile": {
+          "name": "Medicalstartups",
+          "url": "https://www.medicalstartups.org/top/bigdata/",
+          "long_name": "medicalstartups.org",
+          "img": "https://imgs.search.brave.com/CiA0JMLHAOPza9CiOKuZSUQXJ3Qd7ZSQAJ1v56Tg9Sc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmYxZTdhN2Zk/N2M4MzFlODY2ZDA2/N2YyZDM3MTBkMDI2/ZDZhOTM1YzE2ODlh/NTg1NzRlNTRjYjVk/ODFmNzZjMS93d3cu/bWVkaWNhbHN0YXJ0/dXBzLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "medicalstartups.org",
+          "hostname": "www.medicalstartups.org",
+          "favicon": "https://imgs.search.brave.com/CiA0JMLHAOPza9CiOKuZSUQXJ3Qd7ZSQAJ1v56Tg9Sc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmYxZTdhN2Zk/N2M4MzFlODY2ZDA2/N2YyZDM3MTBkMDI2/ZDZhOTM1YzE2ODlh/NTg1NzRlNTRjYjVk/ODFmNzZjMS93d3cu/bWVkaWNhbHN0YXJ0/dXBzLm9yZy8",
+          "path": "› top  › bigdata"
+        }
+      },
+      {
+        "title": "Best Healthcare Analytics Software in 2019 | G2",
+        "url": "https://www.g2.com/categories/healthcare-analytics",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Augusta contains over 300 code ... <strong>data</strong> type including chemistry(compounds), imagery (fMRI etc.) , genetics, EMR systems and more. ... AvantCare is an integrated client and services information management <strong>platform</strong>. <strong>The</strong> <strong>platform</strong> facilitates client-centric business processes and at the same time, stays agile to support business objectives ... Avicenna Pathlab is a <strong>cloud</strong> <strong>based</strong> <strong>healthcare</strong> management ...",
+        "profile": {
+          "name": "G2",
+          "url": "https://www.g2.com/categories/healthcare-analytics",
+          "long_name": "g2.com",
+          "img": "https://imgs.search.brave.com/lMzRxyxV1Dwgu01_fcKZGuaFOKcCBRNQBJueEdAoBn0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkzOGZiNGFh/Yjc4MjI0ZjZhMjlh/Y2M4N2E1NzVlODhl/MjgwM2Q4ZmNkZjA3/NGVhY2QzYzFjNzE3/NmEyNmQ1OS93d3cu/ZzIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "g2.com",
+          "hostname": "www.g2.com",
+          "favicon": "https://imgs.search.brave.com/lMzRxyxV1Dwgu01_fcKZGuaFOKcCBRNQBJueEdAoBn0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjkzOGZiNGFh/Yjc4MjI0ZjZhMjlh/Y2M4N2E1NzVlODhl/MjgwM2Q4ZmNkZjA3/NGVhY2QzYzFjNzE3/NmEyNmQ1OS93d3cu/ZzIuY29tLw",
+          "path": "  › vertical industry software  › health care software  › health care operations software  › healthcare analytics software"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/68K3KH2wzWSr43TzDk8TuM8arTCT_CjYbgs5RaDt6ac/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZzIuY29tL2Fzc2V0/cy9oaWdoZXN0X3Jh/dGVkX29nLTI3OTc4/MDU5ZTI0Njg1YTE0/YTNkNTY0NDA5Mzhi/M2I1NWVjNWZlMjMy/MzlhODI0NDgyYzVm/YjZjNWM4YWU2MWIu/cG5n",
+          "original": "https://www.g2.com/assets/highest_rated_og-27978059e24685a14a3d56440938b3b55ec5fe23239a824482c5fb6c5c8ae61b.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "5 Healthcare Cloud Platforms for Your Consideration - Best Enterprise ...",
+        "url": "https://solutionsreview.com/cloud-platforms/5-healthcare-cloud-platforms-for-your-consideration/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Additionally, the <strong>platform</strong> allows organizations to make the shift to value-<strong>based</strong> care with a single view of a patient across multiple teams of <strong>healthcare</strong> professionals. Dell’s Secure <strong>Healthcare</strong> <strong>Cloud</strong> provides organizations with an environment that allows for easy HIPAA compliance, disaster ...",
+        "profile": {
+          "name": "Solutionsreview",
+          "url": "https://solutionsreview.com/cloud-platforms/5-healthcare-cloud-platforms-for-your-consideration/",
+          "long_name": "solutionsreview.com",
+          "img": "https://imgs.search.brave.com/GQsp0K9EUhnlsCXEKOFbTJbY1T2gFT9jMG8qhfLJl3I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDYzNGQ1ZDBj/MDYzMTc5YTQ3YjY1/Yjk4NjUwNjNiZmI3/OTgyOGM2Y2JjNWEy/N2QwYTU2ZGRkNGZk/ZmI2MGJmNS9zb2x1/dGlvbnNyZXZpZXcu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "solutionsreview.com",
+          "hostname": "solutionsreview.com",
+          "favicon": "https://imgs.search.brave.com/GQsp0K9EUhnlsCXEKOFbTJbY1T2gFT9jMG8qhfLJl3I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDYzNGQ1ZDBj/MDYzMTc5YTQ3YjY1/Yjk4NjUwNjNiZmI3/OTgyOGM2Y2JjNWEy/N2QwYTU2ZGRkNGZk/ZmI2MGJmNS9zb2x1/dGlvbnNyZXZpZXcu/Y29tLw",
+          "path": "  › home  › 5 healthcare cloud platforms for your consideration"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0UtrZl8jgwjOoxPshfC9-3c31_vRSsiQUSjI3DnT0Eg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zb2x1/dGlvbnNyZXZpZXcu/Y29tL2Nsb3VkLXBs/YXRmb3Jtcy9maWxl/cy8yMDE3LzA3L2hl/YWx0aGNhcmUuanBn",
+          "original": "https://solutionsreview.com/cloud-platforms/files/2017/07/healthcare.jpg",
+          "logo": false
+        },
+        "age": "July 5, 2017"
+      },
+      {
+        "title": "CLOUD Computing Services for the Healthcare Industry",
+        "url": "https://www.innovativearchitects.com/KnowledgeCenter/industry-specific/healthcare-and-cloud-computing.aspx",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A secure, private <strong>cloud</strong> environment using policy-<strong>based</strong> control of computing resources is an apt solution for <strong>cloud</strong> consumers to avoid serious vulnerabilities. However, it still requires specific requirements to only allow authorized personnel to have access to the <strong>data</strong> — either hosted internally or externally. <strong>Healthcare</strong> facilities that ultimately decide on a private, public, or hybrid <strong>cloud</strong> solution can opt for a virtualization <strong>platform</strong> ...",
+        "profile": {
+          "name": "Innovativearchitects",
+          "url": "https://www.innovativearchitects.com/KnowledgeCenter/industry-specific/healthcare-and-cloud-computing.aspx",
+          "long_name": "innovativearchitects.com",
+          "img": "https://imgs.search.brave.com/d-HHtFmSGE0o3W-DylBibyOQsS1XbOEPJaniBxQrk-s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGUwNzZjYTQz/MmJhYWEyNzFlZmE5/ZjgxZmEzYjI3NzA5/MTJiZmZjYzkzY2Ni/Mjc1NDI1ODczZTkw/NDJkZjAyNy93d3cu/aW5ub3ZhdGl2ZWFy/Y2hpdGVjdHMuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "innovativearchitects.com",
+          "hostname": "www.innovativearchitects.com",
+          "favicon": "https://imgs.search.brave.com/d-HHtFmSGE0o3W-DylBibyOQsS1XbOEPJaniBxQrk-s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGUwNzZjYTQz/MmJhYWEyNzFlZmE5/ZjgxZmEzYjI3NzA5/MTJiZmZjYzkzY2Ni/Mjc1NDI1ODczZTkw/NDJkZjAyNy93d3cu/aW5ub3ZhdGl2ZWFy/Y2hpdGVjdHMuY29t/Lw",
+          "path": "› KnowledgeCenter  › industry-specific  › healthcare-and-cloud-computing.aspx"
+        },
+        "location": {
+          "title": "Innovative Architects",
+          "url": "http://local.innovativearchitects.com/duluth-ga/",
+          "is_source_local": false,
+          "is_source_both": false,
+          "description": "",
+          "family_friendly": true,
+          "type": "location_result",
+          "provider_url": "https://www.innovativearchitects.com/KnowledgeCenter/industry-specific/healthcare-and-cloud-computing.aspx",
+          "zoom_level": 7,
+          "postal_address": {
+            "type": "PostalAddress",
+            "country": "USA",
+            "postalCode": "30096",
+            "streetAddress": "3122 Hill St.",
+            "addressRegion": "GA",
+            "addressLocality": "Duluth",
+            "displayAddress": "3122 Hill St., 30096, Duluth"
+          },
+          "contact": {
+            "telephone": "(770) 623-5734"
+          },
+          "profiles": [
+            {
+              "type": "external",
+              "name": "innovativearchitects.com",
+              "url": "https://www.innovativearchitects.com/KnowledgeCenter/industry-specific/healthcare-and-cloud-computing.aspx",
+              "img": "https://imgs.search.brave.com/d-HHtFmSGE0o3W-DylBibyOQsS1XbOEPJaniBxQrk-s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGUwNzZjYTQz/MmJhYWEyNzFlZmE5/ZjgxZmEzYjI3NzA5/MTJiZmZjYzkzY2Ni/Mjc1NDI1ODczZTkw/NDJkZjAyNy93d3cu/aW5ub3ZhdGl2ZWFy/Y2hpdGVjdHMuY29t/Lw"
+            }
+          ],
+          "categories": []
+        }
+      },
+      {
+        "title": "Understanding HIPAA-Compliant Cloud Options for Health IT",
+        "url": "https://hitinfrastructure.com/features/understanding-hipaa-compliant-cloud-options-for-health-it",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Healthcare</strong> organizations are becoming more and more comfortable with adopting <strong>cloud</strong> solutions for various parts of their IT infrastructures, leading to accelerated adoption of <strong>cloud</strong>-<strong>based</strong> big <strong>data</strong> analytics in <strong>healthcare</strong>.",
+        "profile": {
+          "name": "Hitinfrastructure",
+          "url": "https://hitinfrastructure.com/features/understanding-hipaa-compliant-cloud-options-for-health-it",
+          "long_name": "hitinfrastructure.com",
+          "img": "https://imgs.search.brave.com/MQluo67kZn1drCSneDtLMAd22dtsLWJOgq4kxbha9P8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmFjZGNkYWRm/ZWMyMjI4YmIxYTI4/ODIzOWI1YjFkN2Ni/NmJjYzg3NWI5ODhj/YTRjZWE0ODRkMTZh/Yzk2NDkzMy9oaXRp/bmZyYXN0cnVjdHVy/ZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hitinfrastructure.com",
+          "hostname": "hitinfrastructure.com",
+          "favicon": "https://imgs.search.brave.com/MQluo67kZn1drCSneDtLMAd22dtsLWJOgq4kxbha9P8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmFjZGNkYWRm/ZWMyMjI4YmIxYTI4/ODIzOWI1YjFkN2Ni/NmJjYzg3NWI5ODhj/YTRjZWE0ODRkMTZh/Yzk2NDkzMy9oaXRp/bmZyYXN0cnVjdHVy/ZS5jb20v",
+          "path": "› features  › understanding-hipaa-compliant-cloud-options-for-health-it"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/_Ta2n4Ex6DAFBs1jCmLApxBGYaC_Z6UR8V7Dr9TL9Z8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXRp/bmZyYXN0cnVjdHVy/ZS5jb20vaW1hZ2Vz/L3NpdGUvZmVhdHVy/ZXMvVGhpbmtzdG9j/a1Bob3Rvcy00OTkx/NzUxOTEuanBn",
+          "original": "https://hitinfrastructure.com/images/site/features/ThinkstockPhotos-499175191.jpg",
+          "logo": false
+        },
+        "age": "November 29, 2016"
+      },
+      {
+        "title": "Building The World’s Largest Healthcare Data Platform",
+        "url": "https://www.forbes.com/sites/bernardmarr/2023/03/23/building-the-worlds-largest-healthcare-data-platform/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The UK&#x27;s NHS is building a federated <strong>data</strong> <strong>platform</strong> to centralize <strong>healthcare</strong> <strong>data</strong>, improve decision-making, and incorporate AI and analytics for diagnosis and personalized medicine. Here we look at where they are and some of their challenges.",
+        "profile": {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/sites/bernardmarr/2023/03/23/building-the-worlds-largest-healthcare-data-platform/",
+          "long_name": "forbes.com",
+          "img": "https://imgs.search.brave.com/2YUF4i_97ZK_dBBUV_uuLn6S00dzPoQEiMSm4pZAsuo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "forbes.com",
+          "hostname": "www.forbes.com",
+          "favicon": "https://imgs.search.brave.com/2YUF4i_97ZK_dBBUV_uuLn6S00dzPoQEiMSm4pZAsuo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+          "path": "› sites  › bernardmarr  › 2023  › 03  › 23  › building-the-worlds-largest-healthcare-data-platform"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nA5c3vJOLVRHn71_AEnam4Xa916dVDmgeWKfQLo3RmA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZWlvLmZvcmJlcy5j/b20vc3BlY2lhbHMt/aW1hZ2VzL2ltYWdl/c2VydmUvNjQxYmZk/NTZhNGMzMGMyNTUy/ZjA3ZjcwLzB4MC5q/cGc_Zm9ybWF0PWpw/ZyZ3aWR0aD0xMjAw",
+          "original": "https://imageio.forbes.com/specials-images/imageserve/641bfd56a4c30c2552f07f70/0x0.jpg?format=jpg&width=1200",
+          "logo": false
+        },
+        "age": "March 23, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Bernard Marr",
+              "url": "https://www.forbes.com/sites/bernardmarr/"
+            }
+          ],
+          "date": "Mar 23, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Forbes",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/Zcd2Zgf5LlAmBLE2lXDCbs0PHu7vaQm3Sd4ffK7Naps/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZWlvLmZvcmJlcy5j/b20vaS1mb3JiZXNp/bWcvbWVkaWEvYW1w/L2ltYWdlcy9mb3Ji/ZXMtbG9nby1kYXJr/LnBuZz9mb3JtYXQ9/cG5nJmhlaWdodD0z/MiZ3aWR0aD0xMjYm/Zml0PWJvdW5kcw",
+              "original": "https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=32&width=126&fit=bounds"
+            }
+          },
+          "isAccessibleForFree": false
+        }
+      },
+      {
+        "title": "Healthcare Data Platform: Build Your Own Versus Vendor",
+        "url": "https://www.healthcatalyst.com/learn/white-papers/healthcare-data-platform-build-your-own-versus-vendor",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Healthcare</strong> organizations that build their own <strong>data</strong> and analytics <strong>platforms</strong> most often build these solutions on <strong>cloud</strong>-<strong>based</strong>, open database management systems (e.g., IBM, Oracle, Epic, homegrown Microsoft SQL server, and more). These technology vendors, however, are only starting points—health ...",
+        "profile": {
+          "name": "Healthcatalyst",
+          "url": "https://www.healthcatalyst.com/learn/white-papers/healthcare-data-platform-build-your-own-versus-vendor",
+          "long_name": "healthcatalyst.com",
+          "img": "https://imgs.search.brave.com/nprNImQWM8F-z9TV82-ZEeOEt01BENocMBuidQTadu8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDU2YTQxNjk4/NzVjNjFiMWJiMDcy/ODY2OTFkNzkyOWRi/YTFkZWZjZWJkZmE4/ODlhOTJiNzkwZjJh/NTY5Yzg1Ny93d3cu/aGVhbHRoY2F0YWx5/c3QuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthcatalyst.com",
+          "hostname": "www.healthcatalyst.com",
+          "favicon": "https://imgs.search.brave.com/nprNImQWM8F-z9TV82-ZEeOEt01BENocMBuidQTadu8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDU2YTQxNjk4/NzVjNjFiMWJiMDcy/ODY2OTFkNzkyOWRi/YTFkZWZjZWJkZmE4/ODlhOTJiNzkwZjJh/NTY5Yzg1Ny93d3cu/aGVhbHRoY2F0YWx5/c3QuY29tLw",
+          "path": "› learn  › white-papers  › healthcare-data-platform-build-your-own-versus-vendor"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/h7ssUD-XFzViExnNN07EUjh0PymL__O4_UDwux-PONU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGVhbHRoY2F0YWx5/c3QuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzEyL0ZU/RXMtYW5kLUV4cGVy/dGlzZS0xMDI0eDY0/MC5wbmc",
+          "original": "https://www.healthcatalyst.com/wp-content/uploads/2021/12/FTEs-and-Expertise-1024x640.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "Health Cloud powered by unified patient data | Innovaccer",
+        "url": "https://innovaccer.com/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Accelerate your digital transformation with the Innovaccer Health <strong>Cloud</strong> to activate <strong>data</strong> and create a 360° view of the patient that enables whole-person care.",
+        "profile": {
+          "name": "Innovaccer",
+          "url": "https://innovaccer.com/",
+          "long_name": "innovaccer.com",
+          "img": "https://imgs.search.brave.com/7BkeeXFt-pKk4Mk0FV3865o6yQXRCKiZPo2BQTYgTuE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjkxNzMwZDQ3/MTAzODNmMDc3NWYz/MjMxZTE2YWY4YWI2/ZmFiOTkwMDViNjAy/NWQ3NDI5MmZkNzYz/YmU2ZWQ4Yy9pbm5v/dmFjY2VyLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "innovaccer.com",
+          "hostname": "innovaccer.com",
+          "favicon": "https://imgs.search.brave.com/7BkeeXFt-pKk4Mk0FV3865o6yQXRCKiZPo2BQTYgTuE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjkxNzMwZDQ3/MTAzODNmMDc3NWYz/MjMxZTE2YWY4YWI2/ZmFiOTkwMDViNjAy/NWQ3NDI5MmZkNzYz/YmU2ZWQ4Yy9pbm5v/dmFjY2VyLmNvbS8",
+          "path": ""
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/PndmxOoX7JIdHE6YZvyYm0fPEc28g2NWNKIB7_WrFRM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL3N0YWdp/bmctaW5jcm93ZC8v/anBnL0hvbWUgUGFn/ZS8xNjU1ODgwNjM5/MDk5L2ZpbGUuanBn",
+          "original": "https://storage.googleapis.com/staging-incrowd//jpg/Home Page/1655880639099/file.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Healthcare Analytics | Watson Health",
+        "url": "https://www.ibm.com/topics/healthcare-analytics",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Learn about popular topics in technology from IBM experts.",
+        "profile": {
+          "name": "Ibm",
+          "url": "https://www.ibm.com/topics/healthcare-analytics",
+          "long_name": "ibm.com",
+          "img": "https://imgs.search.brave.com/VRWv6lt9zEoYheNmiQVOnpl1Nc8Wi54w7If_i7F893w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI0MWQyYmEy/MTNmNWVkODQ2ODFj/ZjYxMjk4YjI3NmY5/Yjk5M2E0YjhjNWZi/OGUyODMzNzllOTQx/M2I4ZDc2My93d3cu/aWJtLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ibm.com",
+          "hostname": "www.ibm.com",
+          "favicon": "https://imgs.search.brave.com/VRWv6lt9zEoYheNmiQVOnpl1Nc8Wi54w7If_i7F893w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI0MWQyYmEy/MTNmNWVkODQ2ODFj/ZjYxMjk4YjI3NmY5/Yjk5M2E0YjhjNWZi/OGUyODMzNzllOTQx/M2I4ZDc2My93d3cu/aWJtLmNvbS8",
+          "path": "› topics  › healthcare-analytics"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/7qRUQTyw7RRnWjPY5mPUV_Q8vPW3ENpNfnDBRkejlpQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aWJtLmNvbS9jb250/ZW50L2RhbS9jb25u/ZWN0ZWRhc3NldHMt/YWRvYmUtY21zL3dv/cmxkd2lkZS1jb250/ZW50L2NkcC9jZi91/bC9nLzdhLzk3L2Rl/dmVsb3Blci1sZWFk/c3BhY2UuanBnL19q/Y3JfY29udGVudC9y/ZW5kaXRpb25zL2Nx/NWRhbS5tZWRpdW0u/MTU4NC4xNTg0Lmpw/ZWc",
+          "original": "https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/cdp/cf/ul/g/7a/97/developer-leadspace.jpg/_jcr_content/renditions/cq5dam.medium.1584.1584.jpeg",
+          "logo": false
+        }
+      },
+      {
+        "title": "5 Amazing Benefits of a Healthcare Data Platform",
+        "url": "https://skypointcloud.com/blog/benefits-of-a-healthcare-data-platform/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A <strong>healthcare</strong> <strong>data</strong> <strong>platform</strong> improves the patient experience and securely shares <strong>data</strong>. Here are five benefits worth knowing.",
+        "profile": {
+          "name": "Skypointcloud",
+          "url": "https://skypointcloud.com/blog/benefits-of-a-healthcare-data-platform/",
+          "long_name": "skypointcloud.com",
+          "img": "https://imgs.search.brave.com/3iBKYB_M5WazuvSqQKIqA-NGo9Tmny-7YNNEMEbbs5I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTE2NTcyYTFk/MGQxNDM4ZDE2MDFh/ZTE0Y2Q4NjgxMDY0/NWIwZGVlYjk3ZmY4/ZmYzZTZiZGU1YWRm/MGFlYmJhNC9za3lw/b2ludGNsb3VkLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "skypointcloud.com",
+          "hostname": "skypointcloud.com",
+          "favicon": "https://imgs.search.brave.com/3iBKYB_M5WazuvSqQKIqA-NGo9Tmny-7YNNEMEbbs5I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTE2NTcyYTFk/MGQxNDM4ZDE2MDFh/ZTE0Y2Q4NjgxMDY0/NWIwZGVlYjk3ZmY4/ZmYzZTZiZGU1YWRm/MGFlYmJhNC9za3lw/b2ludGNsb3VkLmNv/bS8",
+          "path": "  › home  › 5 amazing benefits of a healthcare data platform"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/UdTE7JzKS_g2m6gaYcOZT2CGQSTVCpBPIINOLYsFIng/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9za3lw/b2ludGNsb3VkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wMy9oZWFsdGhj/YXJlLWRhdGEtcGxh/dGZvcm0tYmVuZWZp/dHMuanBlZw",
+          "original": "https://skypointcloud.com/wp-content/uploads/2021/03/healthcare-data-platform-benefits.jpeg",
+          "logo": false
+        },
+        "age": "March 10, 2021",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Joelle Poe"
+            }
+          ],
+          "date": "Mar 10, 2021",
+          "publisher": {
+            "type": "organization",
+            "name": "SkyPoint Cloud",
+            "url": "https://skypointcloud.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/pOkepZAjguXN5NlfW_Pmy6ko2dYvApn67UYUgxKVqdQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9za3lw/b2ludGNsb3VkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wMi9Ta3lwb2lu/dC1DbG91ZC1Ib3Jp/em9udGFsLnBuZw",
+              "original": "https://skypointcloud.com/wp-content/uploads/2019/02/Skypoint-Cloud-Horizontal.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "#1 Healthcare Data & Analytics Platform for Value-Based Care",
+        "url": "https://innovaccer.com/data-activation-platform",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "With our <strong>healthcare</strong> <strong>data</strong> <strong>platform</strong>, providers can make <strong>data</strong>-driven decisions and improve patient outcomes to accelerate innovation and digital transformation",
+        "profile": {
+          "name": "Innovaccer",
+          "url": "https://innovaccer.com/data-activation-platform",
+          "long_name": "innovaccer.com",
+          "img": "https://imgs.search.brave.com/7BkeeXFt-pKk4Mk0FV3865o6yQXRCKiZPo2BQTYgTuE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjkxNzMwZDQ3/MTAzODNmMDc3NWYz/MjMxZTE2YWY4YWI2/ZmFiOTkwMDViNjAy/NWQ3NDI5MmZkNzYz/YmU2ZWQ4Yy9pbm5v/dmFjY2VyLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "innovaccer.com",
+          "hostname": "innovaccer.com",
+          "favicon": "https://imgs.search.brave.com/7BkeeXFt-pKk4Mk0FV3865o6yQXRCKiZPo2BQTYgTuE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjkxNzMwZDQ3/MTAzODNmMDc3NWYz/MjMxZTE2YWY4YWI2/ZmFiOTkwMDViNjAy/NWQ3NDI5MmZkNzYz/YmU2ZWQ4Yy9pbm5v/dmFjY2VyLmNvbS8",
+          "path": "› data-activation-platform"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/l1Sf4WA-WtErL4fhLK6pd7GnxbnCX-i0xeINo_iPn2w/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL3N0YWdp/bmctaW5jcm93ZC8v/anBnL0RBUC8xNjU1/ODgwNzgzNzU0L2Zp/bGUuanBn",
+          "original": "https://storage.googleapis.com/staging-incrowd//jpg/DAP/1655880783754/file.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Fujitsu launches new cloud-based health data platform | Healthcare ...",
+        "url": "https://www.healthcareitnews.com/news/asia/fujitsu-launches-new-cloud-based-health-data-platform",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It seeks to support and accelerate the development of personalised <strong>healthcare</strong> and drug discovery.",
+        "profile": {
+          "name": "Healthcareitnews",
+          "url": "https://www.healthcareitnews.com/news/asia/fujitsu-launches-new-cloud-based-health-data-platform",
+          "long_name": "healthcareitnews.com",
+          "img": "https://imgs.search.brave.com/ACye1fJ8DLpmKxMdt_2mC-ZugbqeDrG3HWkNqASx7dE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI3ZGU2OGE0/YWEyYTBhNzQ3NGNk/ODZjMWIxY2NiMmUz/MmE4YzE4YmEyNjhl/NjA4YmNmN2VkOTNi/NGRmZTY3YS93d3cu/aGVhbHRoY2FyZWl0/bmV3cy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthcareitnews.com",
+          "hostname": "www.healthcareitnews.com",
+          "favicon": "https://imgs.search.brave.com/ACye1fJ8DLpmKxMdt_2mC-ZugbqeDrG3HWkNqASx7dE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI3ZGU2OGE0/YWEyYTBhNzQ3NGNk/ODZjMWIxY2NiMmUz/MmE4YzE4YmEyNjhl/NjA4YmNmN2VkOTNi/NGRmZTY3YS93d3cu/aGVhbHRoY2FyZWl0/bmV3cy5jb20v",
+          "path": "› news  › asia  › fujitsu-launches-new-cloud-based-health-data-platform"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/GFilXzVNn9IdtRb6ChTAiKpYhHt4e3ANSLBbXBkbeTk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGVhbHRoY2FyZWl0/bmV3cy5jb20vc2l0/ZXMvaGl0bi9maWxl/cy8yMDIzMDMyOC0w/MWFfdGNtMTAwLTcx/OTQwNzBfdGNtMTAw/LTI3NTAyMzYtMzIu/cG5n",
+          "original": "https://www.healthcareitnews.com/sites/hitn/files/20230328-01a_tcm100-7194070_tcm100-2750236-32.png",
+          "logo": false
+        },
+        "age": "March 29, 2023"
+      },
+      {
+        "title": "8 Benefits and Risks of Cloud Computing in Healthcare",
+        "url": "https://solutionsreview.com/cloud-platforms/8-benefits-and-risks-of-cloud-computing-in-healthcare/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "All <strong>cloud</strong>-<strong>based</strong> health solutions must comply with the Health Insurance Portability and Accountability Act (HIPAA). This includes security measures, but also extends to protocols for patient privacy, enforcement of laws, and breach notification procedures. The tenants of HIPAA need to be understood by both the <strong>healthcare</strong> <strong>and</strong> <strong>cloud</strong> providers in order to ensure HIPAA compliance. Despite all odds, <strong>cloud</strong> <strong>platforms</strong> ...",
+        "profile": {
+          "name": "Solutionsreview",
+          "url": "https://solutionsreview.com/cloud-platforms/8-benefits-and-risks-of-cloud-computing-in-healthcare/",
+          "long_name": "solutionsreview.com",
+          "img": "https://imgs.search.brave.com/GQsp0K9EUhnlsCXEKOFbTJbY1T2gFT9jMG8qhfLJl3I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDYzNGQ1ZDBj/MDYzMTc5YTQ3YjY1/Yjk4NjUwNjNiZmI3/OTgyOGM2Y2JjNWEy/N2QwYTU2ZGRkNGZk/ZmI2MGJmNS9zb2x1/dGlvbnNyZXZpZXcu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "solutionsreview.com",
+          "hostname": "solutionsreview.com",
+          "favicon": "https://imgs.search.brave.com/GQsp0K9EUhnlsCXEKOFbTJbY1T2gFT9jMG8qhfLJl3I/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDYzNGQ1ZDBj/MDYzMTc5YTQ3YjY1/Yjk4NjUwNjNiZmI3/OTgyOGM2Y2JjNWEy/N2QwYTU2ZGRkNGZk/ZmI2MGJmNS9zb2x1/dGlvbnNyZXZpZXcu/Y29tLw",
+          "path": "  › home  › 8 benefits and risks of cloud computing in healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/VZF_RkZ-z-qbK6y2yEl1r_cmAu7rGZS6Rfej8VGxntM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zb2x1/dGlvbnNyZXZpZXcu/Y29tL2Nsb3VkLXBs/YXRmb3Jtcy9maWxl/cy8yMDE5LzAxL0Jl/bmVmaXRzLWFuZC1S/aXNrcy1vZi1DbG91/ZC1Db21wdXRpbmct/aW4tSGVhbHRoY2Fy/ZS5qcGc",
+          "original": "https://solutionsreview.com/cloud-platforms/files/2019/01/Benefits-and-Risks-of-Cloud-Computing-in-Healthcare.jpg",
+          "logo": false
+        },
+        "age": "January 22, 2019"
+      },
+      {
+        "title": "Top Cloud Computing Trends in Healthcare for 2019 | Synoptek",
+        "url": "https://synoptek.com/insights/it-blogs/healthcare-cloud-computing-trends-for-2019/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The <strong>data</strong> set is gigantic — more than 100 terabytes — and the analysis happens aboard a secure <strong>cloud</strong>-<strong>based</strong> <strong>platform</strong> through Amazon Web Services. “By using AWS, we can store source files securely and cost-effectively with significant durability and accessibility,” one of the researchers said. “We wouldn’t be able to conduct our research without it.” · The case illustrates several reasons the <strong>healthcare</strong> ...",
+        "profile": {
+          "name": "Synoptek",
+          "url": "https://synoptek.com/insights/it-blogs/healthcare-cloud-computing-trends-for-2019/",
+          "long_name": "synoptek.com",
+          "img": "https://imgs.search.brave.com/pZ4IelnWtCc4IXBAW4uMZ_RHFisC43KxbYKWJ8JA04s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTM5OWNiOTRh/ZmYyMGY0MmE3MmRi/NGIwMmVlN2QzM2Fl/Yzk2NTcwODMxOWFk/YzY2NGJiOGY0ZDk2/YTQ5ZWEwOC9zeW5v/cHRlay5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "synoptek.com",
+          "hostname": "synoptek.com",
+          "favicon": "https://imgs.search.brave.com/pZ4IelnWtCc4IXBAW4uMZ_RHFisC43KxbYKWJ8JA04s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTM5OWNiOTRh/ZmYyMGY0MmE3MmRi/NGIwMmVlN2QzM2Fl/Yzk2NTcwODMxOWFk/YzY2NGJiOGY0ZDk2/YTQ5ZWEwOC9zeW5v/cHRlay5jb20v",
+          "path": "  › home  › insights  › blog  › top cloud computing trends in healthcare for 2019"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/3UnzVAbFyRGFSyJDnt-fR_y3YtwK6R8uVWrYWi2ZxXI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zeW5v/cHRla21hcmsuYi1j/ZG4ubmV0L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzA2L2Rl/ZmF1bHQtZmVhdHVy/ZWQtYmFubmVyLmpw/Zw",
+          "original": "https://synoptekmark.b-cdn.net/wp-content/uploads/2020/06/default-featured-banner.jpg",
+          "logo": false
+        },
+        "age": "January 22, 2019"
+      },
+      {
+        "title": "Microsoft Cloud for Healthcare | Microsoft",
+        "url": "https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Enhance patient engagement, empower health team collaboration, and improve clinical and operational insights with Microsoft <strong>Cloud</strong> <strong>for</strong> <strong>Healthcare</strong> and Nuance.",
+        "profile": {
+          "name": "Microsoft",
+          "url": "https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare",
+          "long_name": "microsoft.com",
+          "img": "https://imgs.search.brave.com/vH0TO8GxRS_LpZUpRQCB4vuhi0r90r18FApkfMNBLpc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTM5NmUzZTBm/Y2I4YTEzZDI1Mzll/NmM2MmU4NzlhMGVh/NjdjMmQwZjQ0OTMx/MGRhYTVkNjk1MDNi/M2VkYThkZC93d3cu/bWljcm9zb2Z0LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "microsoft.com",
+          "hostname": "www.microsoft.com",
+          "favicon": "https://imgs.search.brave.com/vH0TO8GxRS_LpZUpRQCB4vuhi0r90r18FApkfMNBLpc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTM5NmUzZTBm/Y2I4YTEzZDI1Mzll/NmM2MmU4NzlhMGVh/NjdjMmQwZjQ0OTMx/MGRhYTVkNjk1MDNi/M2VkYThkZC93d3cu/bWljcm9zb2Z0LmNv/bS8",
+          "path": "› en-us  › industry  › health  › microsoft-cloud-for-healthcare"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/XtrkYsBtv3p8uGEV57BbsEdgWQ89ExhYxLhsjSvmjio/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4t/ZHlubWVkaWEtMS5t/aWNyb3NvZnQuY29t/L2lzL2ltYWdlL21p/Y3Jvc29mdGNvcnAv/Z2xkbi1EZXYtQ1At/TVMtTG9nbw",
+          "original": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Dev-CP-MS-Logo",
+          "logo": false
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

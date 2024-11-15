@@ -1,0 +1,1099 @@
+{
+  "query": {
+    "original": "Best fiction books 2023 reviews",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "local_decision": "drop",
+    "local_locations_idx": 0,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=HBnQjOcPCy0",
+        "title": "Best Books of 2023 so far! || Quarterly Favorites & Recommendations ...",
+        "description": "Hey Booktube, here are the best books I've read this last quarter! Still trying to find new favorites while accomplishing my other challenges. What are the b...",
+        "age": "July 13, 2023",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/9IxIfspToENQoOQvVUxk8nsMjOvlvDinNKHJV_ettPs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9I/Qm5Rak9jUEN5MC9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=qnOm_GDlyB8",
+        "title": "The 10 Best Books of 2023 (so far) - YouTube",
+        "description": "Here are the best books I've read in 2023 so far and why this fiction is so memorable. And please let me know about the favourite books you've read lately! C...",
+        "age": "June 29, 2023",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/QOyfr3ZUQmBnD-R7ccVZ8lcU2ZCZV0aDVeuCmjSHC7c/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9x/bk9tX0dEbHlCOC9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=QKYsG4vJDoI",
+        "title": "10 Best Books of 2023 (so far...) - YouTube",
+        "description": "Now that we're halfway through the year, here are my top ten books of 2023 so far!*****Support me on Patreon: https://www.patreon.com/booksandbaoVisit my web",
+        "age": "July 2, 2023",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/K6yGjXUcdG_fU9A91cakvuB6ncvvtIQJJJJrdgShPA0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9R/S1lzRzR2SkRvSS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Best 2023 Fiction Books to Read - Delineate Your Dwelling",
+        "url": "https://www.delineateyourdwelling.com/best-2023-fiction-books-to-read/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Check out the <strong>Best</strong> <strong>2023</strong> <strong>Fiction</strong> <strong>Books</strong> to Read and see my quick <strong>reviews</strong> of each of them. I love reading a wide variety of <strong>books</strong>.",
+        "profile": {
+          "name": "Delineateyourdwelling",
+          "url": "https://www.delineateyourdwelling.com/best-2023-fiction-books-to-read/",
+          "long_name": "delineateyourdwelling.com",
+          "img": "https://imgs.search.brave.com/utzfHqC_Jdbw0LZFGgIpEwDvwkA0UPCl5zVbKOrpYjs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmZiNmRkM2Zk/NDUxNzllNDFlNDM3/YTg0MzU0YmVjNzcy/MjI1NWNkZDYxZjk5/ZDZkODhiODNkNDI5/NjliNTE3YS93d3cu/ZGVsaW5lYXRleW91/cmR3ZWxsaW5nLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "delineateyourdwelling.com",
+          "hostname": "www.delineateyourdwelling.com",
+          "favicon": "https://imgs.search.brave.com/utzfHqC_Jdbw0LZFGgIpEwDvwkA0UPCl5zVbKOrpYjs/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmZiNmRkM2Zk/NDUxNzllNDFlNDM3/YTg0MzU0YmVjNzcy/MjI1NWNkZDYxZjk5/ZDZkODhiODNkNDI5/NjliNTE3YS93d3cu/ZGVsaW5lYXRleW91/cmR3ZWxsaW5nLmNv/bS8",
+          "path": "  › home  › best 2023 fiction books to read"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/sRPPY1lcWG8z7wvGuItKzMc37l2tT3GZfQDqIvtLXLo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZGVsaW5lYXRleW91/cmR3ZWxsaW5nLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMS0y/MDIzLUZpY3Rpb24t/Qm9va3MuanBn",
+          "original": "https://www.delineateyourdwelling.com/wp-content/uploads/1-2023-Fiction-Books.jpg",
+          "logo": false
+        },
+        "age": "6 days ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "delineateyourdwelling"
+            }
+          ],
+          "date": "Sep 09, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Delineate Your Dwelling",
+            "url": "https://www.delineateyourdwelling.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/Xi8A7tW4YYC3moOLy9I5eqk45RCcO2IUz7B9-iEqW9M/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZGVsaW5lYXRleW91/cmR3ZWxsaW5nLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvRFlE/LWxvZ28tc20tU1FV/QVJFLmpwZw",
+              "original": "https://www.delineateyourdwelling.com/wp-content/uploads/DYD-logo-sm-SQUARE.jpg"
+            }
+          }
+        }
+      },
+      {
+        "title": "The Best Books We’ve Read in 2023 So Far | The New Yorker",
+        "url": "https://www.newyorker.com/best-books-2023",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Reviews</strong> of notable new <strong>fiction</strong>, nonfiction, and poetry.",
+        "profile": {
+          "name": "Newyorker",
+          "url": "https://www.newyorker.com/best-books-2023",
+          "long_name": "newyorker.com",
+          "img": "https://imgs.search.brave.com/0ZQUfMUcOvcEIXG_9fbVC50CExFAG50yobicEknaAr4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Q1NGM2MWZk/MTdhOTRjYzJlOWNj/NzM5Mjc5MmQ2ZTFl/N2MxOTg2NDYxYjI5/NjZkNjdmNTViMDY0/OTExMDI0ZS93d3cu/bmV3eW9ya2VyLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newyorker.com",
+          "hostname": "www.newyorker.com",
+          "favicon": "https://imgs.search.brave.com/0ZQUfMUcOvcEIXG_9fbVC50CExFAG50yobicEknaAr4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Q1NGM2MWZk/MTdhOTRjYzJlOWNj/NzM5Mjc5MmQ2ZTFl/N2MxOTg2NDYxYjI5/NjZkNjdmNTViMDY0/OTExMDI0ZS93d3cu/bmV3eW9ya2VyLmNv/bS8",
+          "path": "  › books  › the best books we read this week"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/C1gstcQrLR8gxkWRMHiYyxk9A6PzsFPozfq1sAv00Nw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS5uZXd5b3JrZXIu/Y29tL3Bob3Rvcy82/M2M3MjE2Mzc0ZjNl/OTJjNWMxNmJlZjcv/MTY6OS93Xzk5MSxo/XzU1NyxjX2xpbWl0/L2Jlc3Rib29rcy1o/ZWFkZXItMjAyMy1t/b2JpbGUucG5n",
+          "original": "https://media.newyorker.com/photos/63c7216374f3e92c5c16bef7/16:9/w_991,h_557,c_limit/bestbooks-header-2023-mobile.png",
+          "logo": false
+        },
+        "age": "1 week ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "The New Yorker",
+              "url": "https://www.newyorker.com/contributors/the-new-yorker"
+            }
+          ],
+          "date": "Jan 25, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "The New Yorker",
+            "url": "https://www.newyorker.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/gpwGzbbIVW1RUDPHA2m9kQ4zJogAidlcf7pUNgltOJ4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/bmV3eW9ya2VyLmNv/bS92ZXJzby9zdGF0/aWMvdGhlLW5ldy15/b3JrZXIvYXNzZXRz/L3NvY2lhbC1pbWFn/ZS1odWIuanBn",
+              "original": "https://www.newyorker.com/verso/static/the-new-yorker/assets/social-image-hub.jpg"
+            }
+          },
+          "isAccessibleForFree": true
+        }
+      },
+      {
+        "title": "The Best—and Most Anticipated—Books of 2023 (So Far) | Vogue",
+        "url": "https://www.vogue.com/article/best-books-2023",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The year <strong>2023</strong> may have only just begun, but the editors at Vogue have been busy making their way through the most exciting <strong>books</strong> on the near horizon.",
+        "profile": {
+          "name": "Vogue",
+          "url": "https://www.vogue.com/article/best-books-2023",
+          "long_name": "vogue.com",
+          "img": "https://imgs.search.brave.com/nssYOA432Z5xHAi9rRWOjH5WgOMkOwUd4NYezHb98wo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODhiNTBiMWYy/OGNhNzIxM2VmMTgx/ZDYzOTU2NmI0ZGY2/NTJhYmI4MzA2YjI5/MGNiNmExZmMwNTEz/NDQxMmI2Yy93d3cu/dm9ndWUuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "vogue.com",
+          "hostname": "www.vogue.com",
+          "favicon": "https://imgs.search.brave.com/nssYOA432Z5xHAi9rRWOjH5WgOMkOwUd4NYezHb98wo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODhiNTBiMWYy/OGNhNzIxM2VmMTgx/ZDYzOTU2NmI0ZGY2/NTJhYmI4MzA2YjI5/MGNiNmExZmMwNTEz/NDQxMmI2Yy93d3cu/dm9ndWUuY29tLw",
+          "path": "  › culture  › the best—and most anticipated—books of 2023 (so far)"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ae7Ob8WU60lwA0qrBXVIqdc0dh4Ol__DT7vYoN6OLTM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMudm9ndWUuY29t/L3Bob3Rvcy82M2Jj/NzNhZjNiOGM4NDE0/NTJkZWFlY2EvMTY6/OS93XzE4MjQsaF8x/MDI2LGNfbGltaXQv/MDAtc3RvcnklMjAo/MSkuanBn",
+          "original": "https://assets.vogue.com/photos/63bc73af3b8c841452deaeca/16:9/w_1824,h_1026,c_limit/00-story%20(1).jpg",
+          "logo": false
+        },
+        "age": "August 29, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Chloe Schama",
+              "url": "https://www.vogue.com/contributor/chloe-schama"
+            },
+            {
+              "type": "person",
+              "name": "Taylor Antrim",
+              "url": "https://www.vogue.com/contributor/taylor-antrim"
+            },
+            {
+              "type": "person",
+              "name": "Elise Taylor",
+              "url": "https://www.vogue.com/contributor/elise-taylor"
+            },
+            {
+              "type": "person",
+              "name": "Lisa Wong Macabasco",
+              "url": "https://www.vogue.com/contributor/lisa-wong-macabasco"
+            },
+            {
+              "type": "person",
+              "name": "Liam Hess",
+              "url": "https://www.vogue.com/contributor/liam-hess"
+            }
+          ],
+          "date": "Jan 09, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Vogue",
+            "url": "https://www.vogue.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/eI8-ojBGq76lvmMFMh5NqaUfGKY5RFZ0WJIEFyAwaSY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/dm9ndWUuY29tL3Zl/cnNvL3N0YXRpYy92/b2d1ZS9hc3NldHMv/bG9nby1zZW8ucG5n",
+              "original": "https://www.vogue.com/verso/static/vogue/assets/logo-seo.png"
+            }
+          },
+          "isAccessibleForFree": true
+        }
+      },
+      {
+        "title": "The Best Books to Read in 2023 - The New York Times",
+        "url": "https://www.nytimes.com/article/best-books.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Finding a <strong>book</strong> you’ll love can be daunting. Let us help.",
+        "profile": {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/article/best-books.html",
+          "long_name": "The New York Times",
+          "img": "https://imgs.search.brave.com/QojRukNhANGMB07cpjolIw83smuIdLYOtKfWBt5_-5s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "nytimes.com",
+          "hostname": "www.nytimes.com",
+          "favicon": "https://imgs.search.brave.com/QojRukNhANGMB07cpjolIw83smuIdLYOtKfWBt5_-5s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+          "path": "› article  › best-books.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/UwXv37zH3BQT88TU5eRomKczXXE7cHnpJOi6_kmJwzw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDIz/LzA5LzIxL2Jvb2tz/L3Jldmlldy8wMFdo/YXRUb1JlYWROb3ct/RkFMTDAxLzAwV2hh/dFRvUmVhZE5vdy1G/QUxMMDEtdmlkZW9T/aXh0ZWVuQnlOaW5l/SnVtYm8xNjAwLmpw/Zw",
+          "original": "https://static01.nyt.com/images/2023/09/21/books/review/00WhatToReadNow-FALL01/00WhatToReadNow-FALL01-videoSixteenByNineJumbo1600.jpg",
+          "logo": false
+        },
+        "age": "1 week ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "The New York Times Books Staff",
+              "url": "https://www.nytimes.com/by/the-new-york-times-books-staff"
+            }
+          ],
+          "date": "Sep 23, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "The New York Times"
+          },
+          "isAccessibleForFree": false
+        }
+      },
+      {
+        "title": "Best Books of 2023 (629 books)",
+        "url": "https://www.goodreads.com/list/show/183940.Best_Books_of_2023",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "629 <strong>books</strong> based on 848 votes: Fourth Wing by Rebecca Yarros, Happy Place by Emily Henry, Yellowface by R.F. Kuang, The Stolen Heir by Holly Black, Love, ...",
+        "profile": {
+          "name": "Goodreads",
+          "url": "https://www.goodreads.com/list/show/183940.Best_Books_of_2023",
+          "long_name": "goodreads.com",
+          "img": "https://imgs.search.brave.com/3AhhL7k0w3fAz7QrBn5KRSCMOGzEO5eVo4jJhIfH74A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWQ0YzMxZDAz/NmNkYTYzMWE2Mjlm/M2IzNzk5OTZlZTIz/YjczZjRmZTQxYzU0/YjQ5YmYyNDM2NTlk/ZWFiZjFlMi93d3cu/Z29vZHJlYWRzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "book",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "goodreads.com",
+          "hostname": "www.goodreads.com",
+          "favicon": "https://imgs.search.brave.com/3AhhL7k0w3fAz7QrBn5KRSCMOGzEO5eVo4jJhIfH74A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWQ0YzMxZDAz/NmNkYTYzMWE2Mjlm/M2IzNzk5OTZlZTIz/YjczZjRmZTQxYzU0/YjQ5YmYyNDM2NTlk/ZWFiZjFlMi93d3cu/Z29vZHJlYWRzLmNv/bS8",
+          "path": "› list  › show  › 183940.Best_Books_of_2023"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/JARAS2IAbF1gwMgHa80BJWaQL07-7pvuHYHfswaaA-U/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLmdy/LWFzc2V0cy5jb20v/aW1hZ2VzL1MvY29t/cHJlc3NlZC5waG90/by5nb29kcmVhZHMu/Y29tL2Jvb2tzLzE2/Nzc3ODY2MjNpLzYy/MzYxMDgxLl9TWTc1/Xy5qcGc",
+          "original": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677786623i/62361081._SY75_.jpg"
+        },
+        "age": "June 12, 2023",
+        "book": {
+          "title": "The True Love Experiment",
+          "author": [
+            {
+              "type": "person",
+              "name": "Christina Lauren",
+              "url": "https://www.goodreads.com/author/show/6556689.Christina_Lauren"
+            }
+          ]
+        }
+      },
+      {
+        "title": "The Best Books of 2023 So Far | Time",
+        "url": "https://time.com/6282158/best-books-2023-so-far/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "From a mysterious novel to a probing biography, these are the <strong>best</strong> <strong>books</strong> <strong>of</strong> <strong>2023</strong> so far. ... These are independent <strong>reviews</strong> of the products mentioned, but TIME receives a commission when purchases are made through affiliate links at no additional cost to the purchaser.",
+        "profile": {
+          "name": "Time",
+          "url": "https://time.com/6282158/best-books-2023-so-far/",
+          "long_name": "time.com",
+          "img": "https://imgs.search.brave.com/5chnyJtHSyebwu5mfHOjwBFhU2DfUNTh8NbY94nBcLg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWRkMzU3NTQy/ZTI0OTAwYTdmOWY0/MzAyZTRmZTcyOGY3/OTcyMGM2OGNjYThk/YjRiZDUxN2NmYmYz/MmY0MzcxZi90aW1l/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "time.com",
+          "hostname": "time.com",
+          "favicon": "https://imgs.search.brave.com/5chnyJtHSyebwu5mfHOjwBFhU2DfUNTh8NbY94nBcLg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWRkMzU3NTQy/ZTI0OTAwYTdmOWY0/MzAyZTRmZTcyOGY3/OTcyMGM2OGNjYThk/YjRiZDUxN2NmYmYz/MmY0MzcxZi90aW1l/LmNvbS8",
+          "path": "  › entertainment  › books"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/fhKNKV6JvhPQaa0BmQqLQemS-FEsnoc6kkTTO68vWjo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hcGku/dGltZS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjMvMDUv/YmVzdC1ib29rcy1v/Zi10aGUteWVhci0y/MDIzLmpwZw",
+          "original": "https://api.time.com/wp-content/uploads/2023/05/best-books-of-the-year-2023.jpg",
+          "logo": false
+        },
+        "age": "May 26, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Annabel Gutterman"
+            }
+          ],
+          "date": "May 25, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Time",
+            "url": "https://time.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/CPPpj26XCAHrzJcVDsF_BvqdcXNYrFXR0-AmDwRthvU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly90aW1l/LmNvbS9pbWcvbG9n/by5wbmc",
+              "original": "https://time.com/img/logo.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The Best Books We’ve Read in 2023 So Far – Chicago Review of Books",
+        "url": "https://chireviewofbooks.com/2023/07/26/the-best-books-weve-read-in-2023-so-far/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Its flash <strong>fictions</strong> portraying various cities and settings recall Calvino’s Invisible Cities, but the exquisite language of these vignettes resembles that of the <strong>best</strong> poetry, and belongs wholly to Raffel. — Victor Ladis Schultz, Chicago <strong>Review</strong> <strong>of</strong> <strong>Books</strong> Daily Editor",
+        "profile": {
+          "name": "Chireviewofbooks",
+          "url": "https://chireviewofbooks.com/2023/07/26/the-best-books-weve-read-in-2023-so-far/",
+          "long_name": "chireviewofbooks.com",
+          "img": "https://imgs.search.brave.com/qexg2REyIL2mawAJIgoqcTNhmWciYbLWQtMvjyp5piQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjZiOWUxZmNh/YzdkOGYwMDQ1YzVl/ODFkOGMwNzE4NDA4/YmRhYzliYWE2YmM3/ZWUxYmRiZTljYzUx/N2M0NGE1ZS9jaGly/ZXZpZXdvZmJvb2tz/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "chireviewofbooks.com",
+          "hostname": "chireviewofbooks.com",
+          "favicon": "https://imgs.search.brave.com/qexg2REyIL2mawAJIgoqcTNhmWciYbLWQtMvjyp5piQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjZiOWUxZmNh/YzdkOGYwMDQ1YzVl/ODFkOGMwNzE4NDA4/YmRhYzliYWE2YmM3/ZWUxYmRiZTljYzUx/N2M0NGE1ZS9jaGly/ZXZpZXdvZmJvb2tz/LmNvbS8",
+          "path": "› 2023  › 07  › 26  › the-best-books-weve-read-in-2023-so-far"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ZCKCJ0COH7nvBD1NPoDhcqUtTDTj96yKjP_pTkJr7lY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vY2hpcmV2/aWV3b2Zib29rcy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDcvTWlkWWVh/ckJlc3RvZl8xOTIw/eDY3NS5qcGc_Zml0/PTEyMDAlMkM0MjIm/IzAzODtzc2w9MQ",
+          "original": "https://i0.wp.com/chireviewofbooks.com/wp-content/uploads/2023/07/MidYearBestof_1920x675.jpg?fit=1200%2C422&#038;ssl=1",
+          "logo": false
+        },
+        "age": "July 26, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Editorial Staff"
+            }
+          ],
+          "date": "Jul 26, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Chicago Review of Books",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/V3B2A645T6i1IhEw8EWTXJeJokQO58hXvcyoPHIz4pc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jaGly/ZXZpZXdvZmJvb2tz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMS9DUkJf/TG9nb19GdWxsQ29s/b3IucG5n",
+              "original": "https://chireviewofbooks.com/wp-content/uploads/2021/01/CRB_Logo_FullColor.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The Best Books of 2023 (So Far): This Year’s Must-Reads",
+        "url": "https://www.vulture.com/article/best-books-of-2023.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Debut authors, searing nonfiction, inspiring memoirs, and a novel in verse — these are the <strong>best</strong> <strong>books</strong> <strong>of</strong> <strong>2023</strong>. The list includes ‘Couplets,’ ‘Maame,’ ‘Affinities: On Art and Fascination,’ ‘Holding Pattern,’ ‘The Wager,’ and a new Chuck Tingle.",
+        "profile": {
+          "name": "Vulture",
+          "url": "https://www.vulture.com/article/best-books-of-2023.html",
+          "long_name": "vulture.com",
+          "img": "https://imgs.search.brave.com/pYQPzc0Pmy_sRsXFihLfO9NYihdssX2Cmzj2gvvyXaM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2NWJhYjUw/OWJjMjEwYzMzMGEy/ZmFkMjgyOThmMmM5/ZDA0YTE4MjkyNjY4/YTRkYzJmZjcyNThm/YWJhNWRhMS93d3cu/dnVsdHVyZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "vulture.com",
+          "hostname": "www.vulture.com",
+          "favicon": "https://imgs.search.brave.com/pYQPzc0Pmy_sRsXFihLfO9NYihdssX2Cmzj2gvvyXaM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2NWJhYjUw/OWJjMjEwYzMzMGEy/ZmFkMjgyOThmMmM5/ZDA0YTE4MjkyNjY4/YTRkYzJmZjcyNThm/YWJhNWRhMS93d3cu/dnVsdHVyZS5jb20v",
+          "path": "› article  › best-books-of-2023.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/PMzfwvztUHG27Ua45bn_vvxUaDkAVHsNT2caWFUH_NM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9weXhp/cy5ueW1hZy5jb20v/djEvaW1ncy8wZmMv/MzJkL2E3ZjA5NmM4/N2RhOGRiMjM3YTE0/ODkzMjc2MDY2YmU1/MmItYmVzdC1vZi10/aGUteWVhci1zby1m/YXItMjAyMy1ib29r/cy4xeC5yc29jaWFs/LncxMjAwLmpwZw",
+          "original": "https://pyxis.nymag.com/v1/imgs/0fc/32d/a7f096c87da8db237a14893276066be52b-best-of-the-year-so-far-2023-books.1x.rsocial.w1200.jpg",
+          "logo": false
+        },
+        "age": "3 weeks ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Emma Alpern",
+              "url": "http://www.vulture.com/author/emma-alpern"
+            },
+            {
+              "type": "person",
+              "name": "Isle McElroy",
+              "url": "http://www.vulture.com/author/isle-mcelroy"
+            },
+            {
+              "type": "person",
+              "name": "Mary Retta",
+              "url": "http://www.vulture.com/author/mary-retta"
+            }
+          ],
+          "publisher": {
+            "type": "organization",
+            "name": "Vulture",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/zvGQGJr3xlXEhCVv7YOwU1smU0EgkuwM9gvhoFLNNzU/rs:fit:200:200:1/g:ce/aHR0cDovL3d3dy52/dWx0dXJlLmNvbS9t/ZWRpYS9zaXRlcy92/dWx0dXJlL2xvZ28u/dzYwMC5oNjAucG5n",
+              "original": "http://www.vulture.com/media/sites/vulture/logo.w600.h60.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The best fiction books of 2023 & all time - Pan Macmillan",
+        "url": "https://www.panmacmillan.com/blogs/fiction/best-fiction-books",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Here we share the <strong>best</strong> new <strong>fiction</strong> <strong>of</strong> <strong>2023</strong>, look back at the <strong>best</strong> <strong>fiction</strong> <strong>books</strong> of 2022 and share some of the <strong>best</strong> novels of all time.",
+        "profile": {
+          "name": "Panmacmillan",
+          "url": "https://www.panmacmillan.com/blogs/fiction/best-fiction-books",
+          "long_name": "panmacmillan.com",
+          "img": "https://imgs.search.brave.com/uSPlr_3DvWVgY6OqIQgT6_ZTOvkstyXmMUzZ4m9BzCk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmJmYzc3ZDli/NzliNWMxNGJlYTc0/YmRmNTUwYjAxZTZj/NzkzYmNlMWZmYmEx/NGU1MWU0OTE2MTYw/MmYzNTU3MC93d3cu/cGFubWFjbWlsbGFu/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "panmacmillan.com",
+          "hostname": "www.panmacmillan.com",
+          "favicon": "https://imgs.search.brave.com/uSPlr_3DvWVgY6OqIQgT6_ZTOvkstyXmMUzZ4m9BzCk/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmJmYzc3ZDli/NzliNWMxNGJlYTc0/YmRmNTUwYjAxZTZj/NzkzYmNlMWZmYmEx/NGU1MWU0OTE2MTYw/MmYzNTU3MC93d3cu/cGFubWFjbWlsbGFu/LmNvbS8",
+          "path": "  › home  › authors & illustrators"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/yaLXxGjL9AKwhWTI3QiwsNVf2snf87bU77kaunvqAZc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby9w/YW5tYWMvdHI6Zi1h/dXRvLHctNzQwLHBy/LXRydWUvL2JjZDAy/ZjcyLWI1MGMtMDE3/OS04YjRiLTVlNDRm/NTM0MGJkNC81ZGIw/ZDU2MC0yNzU5LTQy/MDEtYmUwZC00ODk4/MjI0ZDU0ZmUvQmVz/dC1maWN0aW9uLWJv/b2tzLmpwZw",
+          "original": "https://ik.imagekit.io/panmac/tr:f-auto,w-740,pr-true//bcd02f72-b50c-0179-8b4b-5e44f5340bd4/5db0d560-2759-4201-be0d-4898224d54fe/Best-fiction-books.jpg",
+          "logo": false
+        },
+        "age": "1 week ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Pan Macmillan"
+            }
+          ],
+          "date": "Sep 22, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Pan Macmillan",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/KoiU5ZKP-wfdSL3dLVOVdLcSEm4OuGLaMyUNiJcRkRM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGFubWFjbWls/bGFuLmNvbS9nZW5l/cmFsL1Bhbk1hY0xv/Z29XaGl0ZS5wbmc",
+              "original": "https://images.panmacmillan.com/general/PanMacLogoWhite.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "25 Best Fiction Books of 2023 (So Far) — The Best New Book Releases",
+        "url": "https://www.rd.com/list/best-fiction-books/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Whether it’s your favorite author’s new release or a new writer’s debut, great <strong>fiction</strong> <strong>books</strong> make the perfect escape from ordinary life. That’s why we’ve rounded up a list of the <strong>best</strong> new <strong>book</strong> releases (or soon-to-be releases) in <strong>2023</strong>. This handpicked selection spans the gamut of ...",
+        "profile": {
+          "name": "Rd",
+          "url": "https://www.rd.com/list/best-fiction-books/",
+          "long_name": "rd.com",
+          "img": "https://imgs.search.brave.com/e2sqxK7VF-MJQmuIyFWfo_nSK93vF58ftpfFf1vgmdY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFiOTNlNGVm/N2M2YmM0ZjEzNTMx/NGJiNTlkYzEwZWFl/NWM2ODdiZTY1MjRm/MzBjMzBmNjg5Njgx/ZGQ5ZmNkOC93d3cu/cmQuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "rd.com",
+          "hostname": "www.rd.com",
+          "favicon": "https://imgs.search.brave.com/e2sqxK7VF-MJQmuIyFWfo_nSK93vF58ftpfFf1vgmdY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFiOTNlNGVm/N2M2YmM0ZjEzNTMx/NGJiNTlkYzEwZWFl/NWM2ODdiZTY1MjRm/MzBjMzBmNjg5Njgx/ZGQ5ZmNkOC93d3cu/cmQuY29tLw",
+          "path": "  › arts & entertainment  › books  › best books & must-reads"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/o678vH8LW-mufSD2sDDnM0T0n5MChLw-2R479k1AtaQ/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmQuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIyLzAzL2Jl/c3QtYm9va3Mtb2Yt/MjAyMy1zby1mYXIt/b3BlbmVyLnBuZw",
+          "original": "https://www.rd.com/wp-content/uploads/2022/03/best-books-of-2023-so-far-opener.png",
+          "logo": false
+        },
+        "age": "July 28, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Leandra Beabout"
+            }
+          ],
+          "date": "Mar 07, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Reader's Digest",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/NdQd3Z_Ons56lwAfJx9GnveY4cERNX_Gu15MWMmNnCU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmQuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE4LzEwL3Jk/LWhlYWRlci1sb2dv/LWdtYS5wbmc",
+              "original": "https://www.rd.com/wp-content/uploads/2018/10/rd-header-logo-gma.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "Best fiction books of summer 2023 | What to read now",
+        "url": "https://www.harpersbazaar.com/uk/culture/entertainment/g42244281/best-new-fiction-books-2023/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "From authors such as Emma Cline, Rebecca Kuang and Yomi Adegoke, we round up the top 10 novels released this year to read this summer.",
+        "profile": {
+          "name": "Harpersbazaar",
+          "url": "https://www.harpersbazaar.com/uk/culture/entertainment/g42244281/best-new-fiction-books-2023/",
+          "long_name": "harpersbazaar.com",
+          "img": "https://imgs.search.brave.com/9tipcqSx4RWmE8BWQ8n01ftOeMZ128WGNkDC9xbhMwE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2EzZDc4MDE2/YmUyODU1M2Q4YTgy/ZWE2OWJiNzI3MjJj/NjFhY2QxYzFlZGY3/N2Q1MzA3MjRkYmUw/NjM4M2Y4MS93d3cu/aGFycGVyc2JhemFh/ci5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "harpersbazaar.com",
+          "hostname": "www.harpersbazaar.com",
+          "favicon": "https://imgs.search.brave.com/9tipcqSx4RWmE8BWQ8n01ftOeMZ128WGNkDC9xbhMwE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2EzZDc4MDE2/YmUyODU1M2Q4YTgy/ZWE2OWJiNzI3MjJj/NjFhY2QxYzFlZGY3/N2Q1MzA3MjRkYmUw/NjM4M2Y4MS93d3cu/aGFycGVyc2JhemFh/ci5jb20v",
+          "path": "  › culture  › entertainment  › the 10 best fiction books to read this summer"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/canZyzCGJqILm9X_344Eo3-StNeGQ-PgOx0xl1SrGzE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9iZXN0/LW5ldy1maWN0aW9u/LWJvb2tzLTY0YTU1/MmUzZWZkMzkuanBn/P2Nyb3A9MC40OTJ4/dzowLjk4NHhoOzAu/MTI1eHcsMC4wMDMy/MXhoJnJlc2l6ZT0x/MjAwOio",
+          "original": "https://hips.hearstapps.com/hmg-prod/images/best-new-fiction-books-64a552e3efd39.jpg?crop=0.492xw:0.984xh;0.125xw,0.00321xh&resize=1200:*",
+          "logo": false
+        },
+        "age": "July 7, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Clara Strunck",
+              "url": "https://www.harpersbazaar.com/uk/author/264523/clara-strunck/",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/n5088G-gow7wqoKPWe6AmZRdSz14EytXPpgLuYhCIa0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL3JvdmVyL3By/b2ZpbGVfcGhvdG9z/L2M2ZDczN2ZiLWU1/ZDQtNDdiNi1hZDlj/LTk2MjBmZThlZmE5/OV8xNjc4NzE1NzE5/LmZpbGU",
+                "original": "https://hips.hearstapps.com/rover/profile_photos/c6d737fb-e5d4-47b6-ad9c-9620fe8efa99_1678715719.file"
+              }
+            }
+          ],
+          "date": "Dec 26, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "Harper's BAZAAR",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/zExI2AQFNiQqtuHbSiNRT8IYEFvpLbGvdAjU50vHsI4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aGFycGVyc2JhemFh/ci5jb20vdWsvX2Fz/c2V0cy9kZXNpZ24t/dG9rZW5zL2hhcnBl/cnNiYXphYXIvc3Rh/dGljL2ltYWdlcy9s/b2dvcy9sb2dvLWpz/b25sZC4zZjU5M2Jk/LnBuZw",
+              "original": "https://www.harpersbazaar.com/uk/_assets/design-tokens/harpersbazaar/static/images/logos/logo-jsonld.3f593bd.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "The Best Books of 2023 (So Far) | Barnes & Noble®",
+        "url": "https://www.barnesandnoble.com/h/best-books-of-the-year-so-far",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Whether you want to add them to ... shop our list of the <strong>best</strong> <strong>books</strong> <strong>in</strong> <strong>2023</strong> to find trending titles that everyone&#x27;s talking about and <strong>books</strong> that we think you absolutely must read. Stay up to date on what&#x27;s popular with the <strong>best</strong> <strong>fiction</strong> &amp; non-<strong>fiction</strong> <strong>books</strong> of the year so far ...",
+        "profile": {
+          "name": "Barnesandnoble",
+          "url": "https://www.barnesandnoble.com/h/best-books-of-the-year-so-far",
+          "long_name": "barnesandnoble.com",
+          "img": "https://imgs.search.brave.com/hWEKwFtJQS7dppExFb7QLRCbxyxDq2An6-jMyokYQSM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzU4ZjViYTUx/N2MyMmM3ZWRmYzQ1/NjVlZGI0ZjgxZmQw/YzdhMzA2OGQ2YjJk/MWQ4Yzk1MzI1ZGQ5/NGY0NWI2My93d3cu/YmFybmVzYW5kbm9i/bGUuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "barnesandnoble.com",
+          "hostname": "www.barnesandnoble.com",
+          "favicon": "https://imgs.search.brave.com/hWEKwFtJQS7dppExFb7QLRCbxyxDq2An6-jMyokYQSM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzU4ZjViYTUx/N2MyMmM3ZWRmYzQ1/NjVlZGI0ZjgxZmQw/YzdhMzA2OGQ2YjJk/MWQ4Yzk1MzI1ZGQ5/NGY0NWI2My93d3cu/YmFybmVzYW5kbm9i/bGUuY29tLw",
+          "path": "› h  › best-books-of-the-year-so-far"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/v4TXHKVSvycLYz-qguS9KfG4tOOWbabChD-KUGxuvbY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9kaXNw/YXRjaC5iYXJuZXNh/bmRub2JsZS5jb20v/Y29udGVudC9kYW0v/Y2NyL3NvY2lhbC9C/Tl9mYWNlYm9va18x/MjAweDYzMC5qcGc",
+          "original": "https://dispatch.barnesandnoble.com/content/dam/ccr/social/BN_facebook_1200x630.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "r/booksuggestions on Reddit: Best fiction books you've read that ...",
+        "url": "https://www.reddit.com/r/booksuggestions/comments/1553fjk/best_fiction_books_youve_read_that_were_published/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "I&#x27;ve sort of been following releases less this year, and not too sure what has come out recently that has been pulling people in. Are there any…",
+        "profile": {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/booksuggestions/comments/1553fjk/best_fiction_books_youve_read_that_were_published/",
+          "long_name": "reddit.com",
+          "img": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "  › r/booksuggestions  › best fiction books you've read that were published in 2023 so far"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0Uws9Xair0pH-I24v67ryQNS-DH6a6I5j6ziUvKsgfg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmVkZGl0c3RhdGlj/LmNvbS9pY29uLnBu/Zw",
+          "original": "https://www.redditstatic.com/icon.png",
+          "logo": false
+        },
+        "age": "July 20, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "perpetualmotionmachi",
+              "url": "https://www.reddit.com/user/perpetualmotionmachi/"
+            }
+          ],
+          "date": "Jul 20, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Reddit",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/axK82n8DGOv8Y6FUUFSZTA0xm5zEmDGfzL9oR3h-T1A/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmVkZGl0c3RhdGlj/LmNvbS9td2ViMngv/ZmF2aWNvbi82NHg2/NC5wbmc",
+              "original": "https://www.redditstatic.com/mweb2x/favicon/64x64.png"
+            }
+          }
+        }
+      },
+      {
+        "title": "r/printSF on Reddit: Halfway through 2023, what are your favorite ...",
+        "url": "https://www.reddit.com/r/printSF/comments/14ynron/halfway_through_2023_what_are_your_favorite_books/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "70 votes, 181 comments. New <strong>books</strong> or otherwise, just thinking back over the last six months and looking to share recommendations. Personally, I’ve…",
+        "profile": {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/printSF/comments/14ynron/halfway_through_2023_what_are_your_favorite_books/",
+          "long_name": "reddit.com",
+          "img": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "  › r/printsf  › halfway through 2023, what are your favorite books you’ve read so far this year?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/QjuWFJQso0Q_S5sV04X_NKS3B50j9D_lSGcEbzOROtE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zaGFy/ZS5yZWRkLml0L3By/ZXZpZXcvcG9zdC8x/NHlucm9u",
+          "original": "https://share.redd.it/preview/post/14ynron",
+          "logo": false
+        },
+        "age": "July 13, 2023",
+        "qa": {
+          "question": "Halfway through 2023, what are your favorite books you’ve read so far this year?",
+          "answer": {
+            "text": "I finally read Project Hail Mary this spring and it was just so delightful. I’m pregnant and due to have baby any day now- I’m planning to bring it to the hospital with me to read as a comfort measure during labor. Simple prose, engaging story, wholesome af- should be perfect.",
+            "author": "marmosetohmarmoset",
+            "upvoteCount": 35
+          }
+        }
+      },
+      {
+        "title": "The 20 best books of 2023 so far, according to Amazon's book editors",
+        "url": "https://www.aboutamazon.com/news/books-and-authors/amazon-best-books-2023",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "&#x27;Hello Beautiful&#x27;, &#x27;All the Sinners Bleed&#x27;, and &#x27;Generations&#x27; top the list, which is curated by Amazon&#x27;s in-house <strong>book</strong> lovers, the Amazon <strong>Books</strong> Editors.",
+        "profile": {
+          "name": "Aboutamazon",
+          "url": "https://www.aboutamazon.com/news/books-and-authors/amazon-best-books-2023",
+          "long_name": "aboutamazon.com",
+          "img": "https://imgs.search.brave.com/O-mYYJhhvkekHxFABDrYc-rI5d3JwtomcZUzyTHMB94/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2IyMWFlOWYx/YjUwYmNmNGM2MmUz/YTkzZjk1MWQ1ZGM0/NGUwYzA3YWM0NzAz/YzNjMzdlNGJmZGIx/MzhhNGZiMC93d3cu/YWJvdXRhbWF6b24u/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "aboutamazon.com",
+          "hostname": "www.aboutamazon.com",
+          "favicon": "https://imgs.search.brave.com/O-mYYJhhvkekHxFABDrYc-rI5d3JwtomcZUzyTHMB94/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2IyMWFlOWYx/YjUwYmNmNGM2MmUz/YTkzZjk1MWQ1ZGM0/NGUwYzA3YWM0NzAz/YzNjMzdlNGJmZGIx/MzhhNGZiMC93d3cu/YWJvdXRhbWF6b24u/Y29tLw",
+          "path": "› news  › books-and-authors  › amazon-best-books-2023"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/DbXw-hxqBFBSxbxsyJwLXe1_IjaJXi6UmAm149l2EA4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMuYWJvdXRhbWF6/b24uY29tL2RpbXM0/L2RlZmF1bHQvYjk0/OWMxOC8yMTQ3NDgz/NjQ3L3N0cmlwL2Zh/bHNlL2Nyb3AvMTky/MHgxMDgwKzArMC9y/ZXNpemUvMTQ4Nng4/MzYhL3F1YWxpdHkv/OTAvP3VybD1odHRw/cyUzQSUyRiUyRmFt/YXpvbi1ibG9ncy1i/cmlnaHRzcG90LnMz/LmFtYXpvbmF3cy5j/b20lMkYzMiUyRjM0/JTJGN2RjYTUzOGI0/YzE2YWQ3YWUwMWVm/OGY3MDQ2YiUyRmJl/c3QtYm9va3MtaGVy/by0yLmpwZw",
+          "original": "https://assets.aboutamazon.com/dims4/default/b949c18/2147483647/strip/false/crop/1920x1080+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F32%2F34%2F7dca538b4c16ad7ae01ef8f7046b%2Fbest-books-hero-2.jpg",
+          "logo": false
+        },
+        "age": "July 14, 2023",
+        "article": {
+          "author": [],
+          "publisher": {
+            "type": "organization",
+            "name": "US About Amazon",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/FHvCKdE2Fmo7OVFSncOPW86hBRwig036ymM7S9lpFdY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hbWF6/b24tYmxvZ3MtYnJp/Z2h0c3BvdC1sb3dl/ci5zMy5hbWF6b25h/d3MuY29tL2Fib3V0/LzAwLzkyLzAyNjBh/YWI0NGVlOGEyZmFl/YWZkZTE4ZWUxZGEv/YW1hem9uLWxvZ28t/aW52ZXJzZS5zdmc.svg",
+              "original": "https://amazon-blogs-brightspot-lower.s3.amazonaws.com/about/00/92/0260aab44ee8a2faeafde18ee1da/amazon-logo-inverse.svg"
+            }
+          }
+        }
+      },
+      {
+        "title": "Romance, Thrillers, Oprah’s Book Club Picks Top 2023 List Of ...",
+        "url": "https://www.forbes.com/sites/maryroeloffs/2023/07/03/romance-thrillers-oprahs-book-club-picks-top-2023-list-of-bestselling-fiction/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Two thrillers, two heart-wrenching reads and a standalone romance are among the bestselling new releases in <strong>2023</strong> so far as <strong>fiction</strong> sales help to keep print <strong>book</strong> sales steady with last year after a first quarter decline in nonfiction, fantasy and juvenile <strong>fiction</strong>.",
+        "profile": {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2023/07/03/romance-thrillers-oprahs-book-club-picks-top-2023-list-of-bestselling-fiction/",
+          "long_name": "forbes.com",
+          "img": "https://imgs.search.brave.com/2YUF4i_97ZK_dBBUV_uuLn6S00dzPoQEiMSm4pZAsuo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "forbes.com",
+          "hostname": "www.forbes.com",
+          "favicon": "https://imgs.search.brave.com/2YUF4i_97ZK_dBBUV_uuLn6S00dzPoQEiMSm4pZAsuo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+          "path": "› sites  › maryroeloffs  › 2023  › 07  › 03  › romance-thrillers-oprahs-book-club-picks-top-2023-list-of-bestselling-fiction"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/HvWviL_bfg_7Lt_K4yA5DJ2R5NseahknABm9diT9V-U/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZWlvLmZvcmJlcy5j/b20vc3BlY2lhbHMt/aW1hZ2VzL2ltYWdl/c2VydmUvNjQ5YjNk/YjlkOTJkZWJkMzRm/YzUzOTNlLzB4MC5q/cGc_Zm9ybWF0PWpw/ZyZjcm9wPTM2MDAs/MjAyNSx4MCx5MCxz/YWZlJndpZHRoPTEy/MDA",
+          "original": "https://imageio.forbes.com/specials-images/imageserve/649b3db9d92debd34fc5393e/0x0.jpg?format=jpg&crop=3600,2025,x0,y0,safe&width=1200",
+          "logo": false
+        },
+        "age": "July 6, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Mary Whitfill Roeloffs",
+              "url": "https://www.forbes.com/sites/maryroeloffs/"
+            }
+          ],
+          "date": "Jul 03, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Forbes",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/Zcd2Zgf5LlAmBLE2lXDCbs0PHu7vaQm3Sd4ffK7Naps/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZWlvLmZvcmJlcy5j/b20vaS1mb3JiZXNp/bWcvbWVkaWEvYW1w/L2ltYWdlcy9mb3Ji/ZXMtbG9nby1kYXJr/LnBuZz9mb3JtYXQ9/cG5nJmhlaWdodD0z/MiZ3aWR0aD0xMjYm/Zml0PWJvdW5kcw",
+              "original": "https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&height=32&width=126&fit=bounds"
+            }
+          },
+          "isAccessibleForFree": false
+        }
+      },
+      {
+        "title": "45 Best New Books to Read 2023: Most Anticipated Reads",
+        "url": "https://www.today.com/popculture/best-new-books-2023-t272941",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Read on for a list of 45 of the <strong>best</strong> new <strong>books</strong> coming out in <strong>2023</strong>, from romances to literary <strong>fiction</strong> to memoirs and beyond.",
+        "profile": {
+          "name": "Today",
+          "url": "https://www.today.com/popculture/best-new-books-2023-t272941",
+          "long_name": "today.com",
+          "img": "https://imgs.search.brave.com/QnbJ_fP_OO1qBNQWSVTvvgMVFCcZ0F3xWo9lCLX2GWo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTI3MDdlNDkz/ODk2MzA3ZWVmOGNk/MTRkNDk0YzBkN2Uw/OTkyNTU2MjRkZjQ2/ZmI1YWM5YjA4NGYx/YjgzMDE1NS93d3cu/dG9kYXkuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "today.com",
+          "hostname": "www.today.com",
+          "favicon": "https://imgs.search.brave.com/QnbJ_fP_OO1qBNQWSVTvvgMVFCcZ0F3xWo9lCLX2GWo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTI3MDdlNDkz/ODk2MzA3ZWVmOGNk/MTRkNDk0YzBkN2Uw/OTkyNTU2MjRkZjQ2/ZmI1YWM5YjA4NGYx/YjgzMDE1NS93d3cu/dG9kYXkuY29tLw",
+          "path": "› popculture  › best-new-books-2023-t272941"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nBV5eR5p3EDAXNO3mg6BMNDD0-WmdzVHD0fTh7qqqRc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9maXQtMTUwMHcs/Zl9hdXRvLHFfYXV0/bzpiZXN0L25ld3Nj/bXMvMjAyMl80OC8x/OTQzNTIwL21vc3Qt/YW50aWNpcGF0ZWQt/Ym9va3MtMjAyMy11/c2UtMngxLWpwLTIy/MTEyNy5qcGc",
+          "original": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2022_48/1943520/most-anticipated-books-2023-use-2x1-jp-221127.jpg",
+          "logo": false
+        },
+        "age": "March 14, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Lupita Aquino"
+            },
+            {
+              "type": "person",
+              "name": "Elena Nicolaou",
+              "url": "https://www.today.com/author/elena-nicolaou-tdpn248457"
+            }
+          ],
+          "date": "Dec 05, 2022",
+          "publisher": {
+            "type": "organization",
+            "name": "TODAY",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/QgJgdK16CNKeWA6A1gnP5DEJ1x15ypbURU98z19b5PY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/djE2NTcyMjM4Njcv/cm9ja2Ntcy8yMDIy/LTA3L1RPREFZLVB1/Ymxpc2hlci1Mb2dv/LTgyMjZjYS5zdmc.svg",
+              "original": "https://media-cldnry.s-nbcnews.com/image/upload/v1657223867/rockcms/2022-07/TODAY-Publisher-Logo-8226ca.svg"
+            }
+          }
+        }
+      },
+      {
+        "title": "The Best Books of 2023 (So Far)",
+        "url": "https://www.esquire.com/entertainment/books/g42622809/best-books-2023/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Our favorite <strong>books</strong> of the season delve into everything from prisons to utopias, slashers to ghost stories, American dreaming to American failures.",
+        "profile": {
+          "name": "Esquire",
+          "url": "https://www.esquire.com/entertainment/books/g42622809/best-books-2023/",
+          "long_name": "esquire.com",
+          "img": "https://imgs.search.brave.com/Jnp1tr73JZvdI5cweHxjC7Ku790E2t8o0R7Zy2EBcsY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNjI2ZjJk/ZjExMjBlMThjYmMx/ODRiZjkwMWRmMTUy/YTNlZWIxZmRmMjBi/MDBmZjMyOTk2YTRk/YmU2M2IyZS93d3cu/ZXNxdWlyZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "esquire.com",
+          "hostname": "www.esquire.com",
+          "favicon": "https://imgs.search.brave.com/Jnp1tr73JZvdI5cweHxjC7Ku790E2t8o0R7Zy2EBcsY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNjI2ZjJk/ZjExMjBlMThjYmMx/ODRiZjkwMWRmMTUy/YTNlZWIxZmRmMjBi/MDBmZjMyOTk2YTRk/YmU2M2IyZS93d3cu/ZXNxdWlyZS5jb20v",
+          "path": "› entertainment  › books  › g42622809  › best-books-2023"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0uc6Sk6gMhhBJlG4Hnq9n5oo35L5D2YqKeMQIQivcYc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9iZXN0/Ym9va3MtMTY3NDUw/OTY3MS5qcGc_Y3Jv/cD0wLjUwMnh3OjEu/MDB4aDswLjI0OHh3/LDAmcmVzaXplPTEy/MDA6Kg",
+          "original": "https://hips.hearstapps.com/hmg-prod/images/bestbooks-1674509671.jpg?crop=0.502xw:1.00xh;0.248xw,0&resize=1200:*",
+          "logo": false
+        },
+        "age": "May 8, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Adrienne Westenfeld",
+              "url": "https://www.esquire.com/author/2392/adrienne-westenfeld/",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/ndxOsOp-wynU8OLKnJ7SCBvSQAf0jLNk_zvgi9qbhIg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL3JvdmVyL3By/b2ZpbGVfcGhvdG9z/Lzc0ODc5MDA0LWVj/NzQtNGE0Ny04YTNj/LTRlZjg1NjExMjRk/Zl8xNjYxMzUzMDI4/LmZpbGU",
+                "original": "https://hips.hearstapps.com/rover/profile_photos/74879004-ec74-4a47-8a3c-4ef8561124df_1661353028.file"
+              }
+            }
+          ],
+          "date": "Feb 01, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Esquire",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/SWE_dnD3MEYW9-tQQBNZlRPJMcPWl5TwLZyhvA3bVOo/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/ZXNxdWlyZS5jb20v/X2Fzc2V0cy9kZXNp/Z24tdG9rZW5zL2Vz/cXVpcmUvc3RhdGlj/L2ltYWdlcy9sb2dv/cy9sb2dvLWpzb25s/ZC5mNDcxNjAxLnBu/Zw",
+              "original": "https://www.esquire.com/_assets/design-tokens/esquire/static/images/logos/logo-jsonld.f471601.png"
+            }
+          },
+          "isAccessibleForFree": false
+        }
+      },
+      {
+        "title": "2023’s best books (so far)",
+        "url": "https://www.vox.com/culture/23778258/2023-best-books-first-half-year-guest-emma-cline-kelly-link-wager-david-grann-big-swiss-jen-beagin",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "From shipwrecks to hijackings to ... are the <strong>best</strong> <strong>books</strong> of the first half of <strong>2023</strong>. By Constance Grady@constancegrady Jul 1, <strong>2023</strong>, 8:00am EDT · If you buy something from a Vox link, Vox Media may earn a commission. See our ethics statement. ... Constance Grady is a senior correspondent on the Culture team for Vox, where since 2016 she has covered <strong>books</strong>, publishing, gender, celebrity analysis, and theater. The year is half over now. We’ve seen the swell of austere literary <strong>fiction</strong> in February, ...",
+        "profile": {
+          "name": "Vox",
+          "url": "https://www.vox.com/culture/23778258/2023-best-books-first-half-year-guest-emma-cline-kelly-link-wager-david-grann-big-swiss-jen-beagin",
+          "long_name": "vox.com",
+          "img": "https://imgs.search.brave.com/00CCDuxiJ46xVfcDHlcRQAdqET3u9w3lwO0qfnwn4oU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWQ5NDdmZTIz/OTkwZjhlNzNhY2Ni/YjQ1NTMxMjA0ZjFm/ODkxNGEzYWM2ZDZi/YjNjOWUzMGUwMmZh/Yjg2N2JhNC93d3cu/dm94LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "vox.com",
+          "hostname": "www.vox.com",
+          "favicon": "https://imgs.search.brave.com/00CCDuxiJ46xVfcDHlcRQAdqET3u9w3lwO0qfnwn4oU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWQ5NDdmZTIz/OTkwZjhlNzNhY2Ni/YjQ1NTMxMjA0ZjFm/ODkxNGEzYWM2ZDZi/YjNjOWUzMGUwMmZh/Yjg2N2JhNC93d3cu/dm94LmNvbS8",
+          "path": "› culture  › 23778258  › 2023-best-books-first-half-year-guest-emma-cline-kelly-link-wager-david-grann-big-swiss-jen-beagin"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/fNWbzMXwvD7e_4EVvIKzjACVUZpti_UeFKGQ122VZ3s/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/dm94LWNkbi5jb20v/dGh1bWJvci9JdU0x/RUJwSlh3MlJ2SUxS/ZWNvUV80Y3Q4Wlk9/LzE0MDB4MTQwMC9m/aWx0ZXJzOmZvcm1h/dChqcGVnKS9jZG4u/dm94LWNkbi5jb20v/dXBsb2Fkcy9jaG9y/dXNfYXNzZXQvZmls/ZS8yNDc2MTcwNi9W/b3hfQmVzdEJvb2tz/U29GYXJfUGFpZ2VW/aWNrZXJzLmpwZw",
+          "original": "https://cdn.vox-cdn.com/thumbor/IuM1EBpJXw2RvILRecoQ_4ct8ZY=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24761706/Vox_BestBooksSoFar_PaigeVickers.jpg",
+          "logo": false
+        },
+        "age": "July 3, 2023",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Constance Grady"
+            }
+          ],
+          "date": "Jul 01, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Vox",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/RdOSNs55bLbZKeCxEd-EZjIw25icUX_VL9GVMnhPcco/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/dm94LWNkbi5jb20v/dXBsb2Fkcy9jaG9y/dXNfYXNzZXQvZmls/ZS8xMzY2ODU0OC9n/b29nbGVfYW1wLjAu/cG5n",
+              "original": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png"
+            }
+          }
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}
