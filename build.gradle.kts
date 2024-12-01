@@ -32,8 +32,6 @@ publishing {
 }
 
 dependencies {
-    implementation("com.github.wabbit-corp:kotlin-web-common:1.0.0")
-
     testImplementation(kotlin("test"))
 
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:1.7.2")
