@@ -32,16 +32,16 @@ publishing {
 dependencies {
     testImplementation(kotlin("test"))
 
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:1.7.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:1.8.0")
 
-    implementation("io.ktor:ktor-serialization-kotlinx-json:2.3.12")
-    implementation("io.ktor:ktor-client-core:2.3.12")
-    implementation("io.ktor:ktor-client-cio:2.3.12")
-    implementation("io.ktor:ktor-client-content-negotiation:2.3.12")
-    implementation("io.ktor:ktor-client-serialization:2.3.12")
-    implementation("io.ktor:ktor-client-auth:2.3.12")
+    implementation("io.ktor:ktor-serialization-kotlinx-json:2.3.13")
+    implementation("io.ktor:ktor-client-core:2.3.13")
+    implementation("io.ktor:ktor-client-cio:2.3.13")
+    implementation("io.ktor:ktor-client-content-negotiation:2.3.13")
+    implementation("io.ktor:ktor-client-serialization:2.3.13")
+    implementation("io.ktor:ktor-client-auth:2.3.13")
     implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.6.1")
-    implementation("org.jsoup:jsoup:1.15.3")
+    implementation("org.jsoup:jsoup:1.18.3")
 }
 
 java {
