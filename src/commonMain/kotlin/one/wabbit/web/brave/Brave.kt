@@ -1,11 +1,18 @@
+@file:OptIn(kotlinx.serialization.ExperimentalSerializationApi::class)
+
 package one.wabbit.web.brave
 
 import io.ktor.client.HttpClient
+import io.ktor.client.plugins.HttpTimeout
+import io.ktor.client.plugins.expectSuccess
+import io.ktor.client.plugins.pluginOrNull
+import io.ktor.client.request.accept
 import io.ktor.client.request.get
 import io.ktor.client.request.header
+import io.ktor.client.request.parameter
 import io.ktor.client.statement.bodyAsText
-import java.io.File
-import java.net.URLEncoder
+import io.ktor.http.ContentType
+import io.ktor.http.isSuccess
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
@@ -28,27 +35,25 @@ import kotlinx.serialization.json.contentOrNull
 import kotlinx.serialization.json.decodeFromJsonElement
 import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
+import one.wabbit.web.common.Etiquette
+import one.wabbit.web.common.RetryAction
+import one.wabbit.web.common.RetryPolicy
+import one.wabbit.web.common.Schedule
+import one.wabbit.web.common.Timeouts
+import one.wabbit.web.common.applyEtiquette
+import one.wabbit.web.common.applyTimeouts
+import one.wabbit.web.common.runWithRetry
+import one.wabbit.web.common.safeBodyPrefix
+import kotlin.coroutines.cancellation.CancellationException
+import kotlin.jvm.JvmInline
+import kotlin.time.Duration
+import kotlin.time.Duration.Companion.milliseconds
+import kotlin.time.Duration.Companion.seconds
+import kotlin.time.TimeSource
 
 @Serializable @JsonClassDiscriminator("type") sealed class SearchResponse
 
-@Serializable(TestClass.Serializer::class)
-@JvmInline
-value class TestClass(val __this_field_doesnt_exist: String) {
-    class Serializer : KSerializer<TestClass> {
-        override val descriptor: SerialDescriptor
-            get() = PrimitiveSerialDescriptor("TestClass", PrimitiveKind.STRING)
-
-        override fun deserialize(decoder: Decoder): TestClass {
-            val element = decoder.decodeSerializableValue(JsonElement.serializer())
-            System.err.println("UNKNOWN_JSON: $element")
-            TODO()
-        }
-
-        override fun serialize(encoder: Encoder, value: TestClass) = TODO()
-    }
-}
-
-typealias UNKNOWN_JSON = TestClass
+typealias UNKNOWN_JSON = JsonElement
 
 // # WebSearchApiResponse
 // Top level response model for successful Web Search API requests. The response will include the
@@ -256,12 +261,13 @@ typealias Language = UNKNOWN_JSON
 //
 // FIELD	TYPE	DESCRIPTION
 // type	"search"	A type identifying web search results. The value is always search.
-// results	list [ SearchResult ]	A list of search results.
+// results	list [ Result ]	A list of search results, which may include non-web result variants such
+// as location results.
 // family_friendly	bool	Whether the results are family friendly.
 @Serializable
 data class Search(
     @SerialName("type") val type: String,
-    @SerialName("results") val results: List<SearchResult>,
+    @SerialName("results") val results: List<Result>,
     @SerialName("family_friendly") val familyFriendly: Boolean,
 )
 
@@ -1307,110 +1313,186 @@ data class Videos(
     @SerialName("mutated_by_goggles") val mutatedByGoggles: Boolean,
 )
 
-private fun saveBraveSearchResponse(request: String) {
-    val root: File
-    if (File("./lib-web-brave").exists()) {
-        root = File("./lib-web-brave")
-    } else if (File(".").absoluteFile.canonicalFile.name == "lib-web-brave") {
-        root = File(".")
-    } else {
-        throw IllegalStateException("Could not find root directory")
+sealed class BraveError(message: String, cause: Throwable? = null) : Exception(message, cause) {
+    class Http(val url: String, val status: Int, val bodySample: String?, cause: Throwable? = null) :
+        BraveError(
+            buildString {
+                append("HTTP ")
+                append(status)
+                append(" from ")
+                append(url)
+                if (!bodySample.isNullOrBlank()) {
+                    append(", body sample: ")
+                    append(bodySample.take(256))
+                }
+            },
+            cause,
+        )
+
+    class Network(val url: String, cause: Throwable) :
+        BraveError("Network failure talking to $url: ${cause::class.simpleName ?: "Throwable"}: ${cause.message}", cause)
+
+    class Decode(val url: String, val bodySample: String, cause: Throwable) :
+        BraveError("Failed to decode Brave response from $url", cause)
+}
+
+typealias BraveRetryPolicy = RetryPolicy<BraveError>
+
+interface BraveApi {
+    data class SearchTrace(
+        val query: String,
+        val url: String,
+        val duration: Duration,
+        val status: Int? = null,
+        val responseBody: String? = null,
+        val error: BraveError? = null,
+    )
+
+    data class Config(
+        val baseUrl: String = "https://api.search.brave.com/res/v1/web/search",
+        val subscriptionToken: String,
+        val extraSnippets: Boolean = true,
+        val etiquette: Etiquette = Etiquette("one.wabbit.brave/1.0"),
+        val timeouts: Timeouts = Timeouts(),
+        val onSearchTrace: ((SearchTrace) -> kotlin.Unit)? = null,
+        val retryPolicy: BraveRetryPolicy? = defaultBraveRetryPolicy(),
+    ) {
+        init {
+            require(baseUrl.isNotBlank()) { "baseUrl must not be blank" }
+            require(subscriptionToken.isNotBlank()) { "subscriptionToken must not be blank" }
+        }
     }
 
-    // Save file into app-marketscape/src/test/resources/brave_N.json
-    // where N is the next available number
-    val files = File(root, "src/test/resources/brave").listFiles().map { it.name }.toSet()
+    val config: Config
 
-    // println("Files: $files")
+    suspend fun search(query: String): SearchResponse
 
-    var num = 1
-    while (true) {
-        val testName = "brave_$num.json"
-        if (testName in files) {
-            num += 1
-            continue
+    companion object {
+        fun defaultBraveRetryPolicy(): BraveRetryPolicy {
+            val schedule =
+                Schedule.retries(
+                    maxRetries = 3,
+                    baseDelay = 200.milliseconds,
+                    maxDelay = 5.seconds,
+                    jitterFactor = 0.2,
+                )
+
+            return RetryPolicy(schedule) { error, _ ->
+                when (error) {
+                    is BraveError.Network -> RetryAction.Retry()
+                    is BraveError.Http ->
+                        if (error.status in 500..599 || error.status == 429) {
+                            RetryAction.Retry()
+                        } else {
+                            RetryAction.Stop
+                        }
+                    is BraveError.Decode -> RetryAction.Stop
+                }
+            }
         }
-
-        File(root, "src/test/resources/brave/$testName").writeText(request)
-        break
     }
 }
 
-// class BraveCache(val connection: Connection, val ttl: Duration = Duration.ofDays(1)) {
-//    init {
-//        connection.createStatement().execute(
-//            """
-//            CREATE TABLE IF NOT EXISTS brave_request (
-//                digest TEXT NOT NULL, -- SHA-256 of the inputs
-//                index INT NOT NULL,   -- 0-based index of the request
-//                created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
-//
-//                query_params TEXT NOT NULL,       -- JSON (input)
-//                header_params TEXT NOT NULL,      -- JSON (input)
-//                response TEXT NOT NULL            -- JSON
-//                PRIMARY KEY (digest, index)
-//            )
-//            """.trimIndent()
-//        )
-//    }
-//
-//    data class Cached(
-//        val digest: String,
-//        val queryParams: Map<String, String>,
-//        val headerParams: Map<String, String>,
-//        val response: String,
-//    )
-//
-//    @OptIn(ExperimentalStdlibApi::class)
-//    fun get(queryParams: Map<String, String>, headerParams: Map<String, String>): String? {
-//        val digest = MessageDigest.getInstance("SHA-256")
-//        digest.update(queryParams.toString().toByteArray())
-//        digest.update(0x00.toByte())
-//        digest.update(headerParams.toString().toByteArray())
-//
-//        val digestHex = digest.digest().toHexString()
-//
-//        val stmt = connection.prepareStatement(
-//            """
-//            SELECT response FROM brave_request
-//            WHERE digest = ? AND created_at > ?
-//            ORDER BY created_at DESC
-//            LIMIT 1
-//            """.trimIndent()
-//        )
-//        stmt.setString(1, digestHex)
-//        stmt.setTimestamp(2, Timestamp.from(Instant.now().minus(ttl)))
-//        val rs = stmt.executeQuery()
-//        if (!rs.next()) {
-//            return null
-//        }
-//        return rs.getString("response")
-//    }
-// }
+class KtorBraveApi(
+    private val httpClient: HttpClient,
+    override val config: BraveApi.Config,
+    private val json: Json = Json { ignoreUnknownKeys = true },
+) : BraveApi {
+    init {
+        check(runCatching { httpClient.pluginOrNull(HttpTimeout) }.getOrNull() != null) {
+            "HttpTimeout plugin must be installed on the provided HttpClient for per-request timeouts to work."
+        }
+    }
+
+    override suspend fun search(query: String): SearchResponse {
+        require(query.isNotBlank()) { "query must not be blank" }
+
+        val policy = config.retryPolicy
+        return if (policy == null) {
+            searchOnce(query)
+        } else {
+            runWithRetry(policy) {
+                searchOnce(query)
+            }
+        }
+    }
+
+    private suspend fun searchOnce(query: String): SearchResponse {
+        val started = TimeSource.Monotonic.markNow()
+        val response =
+            try {
+                httpClient.get(config.baseUrl) {
+                    expectSuccess = false
+                    parameter("q", query)
+                    if (config.extraSnippets) {
+                        parameter("extra_snippets", "true")
+                    }
+                    accept(ContentType.Application.Json)
+                    applyEtiquette(config.etiquette)
+                    applyTimeouts(config.timeouts)
+                    header("X-Subscription-Token", config.subscriptionToken)
+                }
+            } catch (t: Throwable) {
+                if (t is CancellationException) throw t
+                val error = BraveError.Network(config.baseUrl, t)
+                config.onSearchTrace?.invoke(
+                    BraveApi.SearchTrace(
+                        query = query,
+                        url = config.baseUrl,
+                        duration = started.elapsedNow(),
+                        error = error,
+                    ),
+                )
+                throw error
+            }
+
+        val body = response.bodyAsText()
+        val duration = started.elapsedNow()
+        return try {
+            json.decodeFromString<SearchResponse>(body).also {
+                config.onSearchTrace?.invoke(
+                    BraveApi.SearchTrace(
+                        query = query,
+                        url = config.baseUrl,
+                        duration = duration,
+                        status = response.status.value,
+                        responseBody = body,
+                    ),
+                )
+            }
+        } catch (t: Throwable) {
+            val error =
+                if (!response.status.isSuccess()) {
+                    BraveError.Http(
+                        config.baseUrl,
+                        response.status.value,
+                        runCatching { response.safeBodyPrefix(2048) }.getOrDefault(body.take(2048)),
+                        t,
+                    )
+                } else {
+                    BraveError.Decode(config.baseUrl, body.take(2048), t)
+                }
+            config.onSearchTrace?.invoke(
+                BraveApi.SearchTrace(
+                    query = query,
+                    config.baseUrl,
+                    duration,
+                    status = response.status.value,
+                    responseBody = body,
+                    error = error,
+                ),
+            )
+            throw error
+        }
+    }
+}
 
 suspend fun braveSearch(
     httpClient: HttpClient,
     query: String,
     subscriptionToken: String,
-): SearchResponse {
-    // https://api.search.brave.com/res/v1/web/search
-    // https://api.search.brave.com/res/v1/web/search?q=hello
-    // curl -s --compressed "https://api.search.brave.com/res/v1/web/search?q=brave+search" -H
-    // "Accept:
-    //      application/json" -H "Accept-Encoding: gzip" -H "X-Subscription-Token: <YOUR_API_KEY>"
-
-    // Use proper URL encoding
-    val query =
-        "https://api.search.brave.com/res/v1/web/search?extra_snippets=true&q=${URLEncoder.encode(query, "UTF-8")}"
-
-    val response =
-        httpClient.get(query) {
-            header("Accept", "application/json")
-            // header("Accept-Encoding", "gzip")
-            header("X-Subscription-Token", subscriptionToken)
-        }
-
-    val body = response.bodyAsText()
-    // saveBraveSearchResponse(body)
-    return Json.decodeFromString<SearchResponse>(body)
-}
+): SearchResponse =
+    KtorBraveApi(
+        httpClient = httpClient,
+        config = BraveApi.Config(subscriptionToken = subscriptionToken),
+    ).search(query)
