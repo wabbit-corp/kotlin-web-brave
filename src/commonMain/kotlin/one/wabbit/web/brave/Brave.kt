@@ -42,8 +42,8 @@ import one.wabbit.web.common.Schedule
 import one.wabbit.web.common.Timeouts
 import one.wabbit.web.common.applyEtiquette
 import one.wabbit.web.common.applyTimeouts
+import one.wabbit.web.common.consumeRawBodyPrefixUtf8OrNull
 import one.wabbit.web.common.runWithRetry
-import one.wabbit.web.common.safeBodyPrefix
 import kotlin.coroutines.cancellation.CancellationException
 import kotlin.jvm.JvmInline
 import kotlin.time.Duration
@@ -1466,7 +1466,7 @@ class KtorBraveApi(
                     BraveError.Http(
                         config.baseUrl,
                         response.status.value,
-                        runCatching { response.safeBodyPrefix(2048) }.getOrDefault(body.take(2048)),
+                        response.consumeRawBodyPrefixUtf8OrNull(2048) ?: body.take(2048),
                         t,
                     )
                 } else {
